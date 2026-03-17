@@ -84,3 +84,7 @@ At the well, Kenian sees a beautiful woman calling herself the Lady of the Shrin
 - **(482)** — The knights kill a goat-eyed hag and defeat a druid and ambushers within the hidden passage complex. *(Source: [[Session 011 - The Hag of the Passage and the Lady of the Well]])*
 - **(482)** — Merlin is found imprisoned; a red sorceress is captured; undead knights are encountered. *(Source: [[Session 011 - The Hag of the Passage and the Lady of the Well]])*
 - **(482)** — Liam bargains with the Lady of the Well for fame and takes a chest of rubies, owing a future return. *(Source: [[Session 011 - The Hag of the Passage and the Lady of the Well]])*
+
+---
+
+**Next:** [[Session 012 - The Burning of Dunkerton and the Peace of Summerland]]

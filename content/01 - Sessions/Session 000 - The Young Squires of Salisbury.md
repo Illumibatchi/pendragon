@@ -8,7 +8,7 @@ characters:
   - [[Gregory]]
   - [[Millicent]]
   - [[Drustin]]
-  - [[Astrius]]
+  - [[Asstrius]]
   - [[Liam]]
   - [[Count Roderick of Salisbury]]
 places:
@@ -36,7 +36,7 @@ The campaign opens in the **Uther Period**, with several young squires serving t
 - [[Gregory]] — Robert’s character; massive Saxon squire (strength, pride, reckless courage)
 - [[Millicent]] — Jessica’s character; determined, honorable squire (valor, tradition)
 - [[Drustin]] — Kevin’s character; energetic, eager young warrior
-- [[Astrius]] — Patrick’s character; thoughtful, pragmatic, cautious but skilled
+- [[Asstrius]] — Patrick’s character; thoughtful, pragmatic, cautious but skilled
 - [[Liam]] — Steve’s character; prudent, dutiful, logistics-minded
 - [[Count Roderick of Salisbury]] — liege lord
 
@@ -54,3 +54,7 @@ The campaign opens in the **Uther Period**, with several young squires serving t
 
 ## Timeline entries to add
 - **(480)** — A group of young squires of Salisbury are assembled and ride patrol near Woodhouse. *(Source: [[Session 000 - The Young Squires of Salisbury]])*
+
+---
+
+**Next:** [[Session 001 - Wolves Are About]]

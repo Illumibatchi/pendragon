@@ -9,7 +9,7 @@ characters:
   - [[Millicent]]
   - [[Drustin]]
   - [[Liam]]
-  - [[Astrius]]
+  - [[Asstrius]]
   - [[Sir Geraint]]
   - [[Uther Pendragon]]
   - [[Count Roderick of Salisbury]]
@@ -64,3 +64,7 @@ When Marius later sees Rhianneth sitting provocatively on Asterius’s lap, he d
 ## Timeline entries to add
 - **(483)** — Easter Court at Sarum; Lucius (age 4) is knighted and made Duke of Saxon Shore with a regent. *(Source: [[Session 014 - Easter Court at Sarum and the Duel of Sir Marius]])*
 - **(483)** — Asterius duels and beheads Sir Marius of Caerwent; Lady Rhianneth’s involvement remains suspicious. *(Source: [[Session 014 - Easter Court at Sarum and the Duel of Sir Marius]])*
+
+---
+
+**Next:** [[Session 015 - The Road to York and the Ambush in Sherwood]]

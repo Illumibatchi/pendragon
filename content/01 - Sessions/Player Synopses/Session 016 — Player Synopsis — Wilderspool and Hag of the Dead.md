@@ -36,9 +36,9 @@ Traps are set throughout:
 - Millicent clears the trap and critically hits the hag.
 - Ælflaed teleports into combat and is knocked unconscious.
 - Geraint is struck badly but stays mounted.
-- Astrius is critically wounded.
+- Asstrius is critically wounded.
 
 The hag collapses and dies from strain; Millicent cuts off her head.
 
 ## Aftermath: the infants
-In the clearing, they find a cradle with **three babies** and a mortar/pestle used to grind brains. Asterius and Ælflaed need chirurgery.
+In the clearing, they find a cradle with **three babies** and a mortar/pestle used to grind brains. Asstrius and Ælflaed need chirurgery.

@@ -81,3 +81,7 @@ The companions realize their oath‑compelling mission has carried them into a r
 - **(482)** — Ordered to compel oaths at Wells; the town is found empty and the abbot reveals a forced-muster demand sparked flight into the marsh. *(Source: [[Session 010 - The Silent Town of Wells and the Ogre of the Marsh]])*
 - **(482)** — Horses vanish; the enschild fights and kills a Cu‑Sith, then slays an ogre in its cave. *(Source: [[Session 010 - The Silent Town of Wells and the Ogre of the Marsh]])*
 - **(482)** — A hidden passage points south toward Glastonbury and Ynys Wydrin (Tor), hinting at a strategic supernatural “gate.” *(Source: [[Session 010 - The Silent Town of Wells and the Ogre of the Marsh]])*
+
+---
+
+**Next:** [[Session 011 - The Hag of the Passage and the Lady of the Well]]

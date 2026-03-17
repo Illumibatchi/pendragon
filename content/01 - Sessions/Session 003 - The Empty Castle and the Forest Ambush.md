@@ -7,7 +7,7 @@ location: "Silchester Castle → Purdue Forest (Logres)"
 characters:
   - [[Millicent]]
   - [[Drustin]]
-  - [[Astrius]]
+  - [[Asstrius]]
   - [[Liam]]
   - [[Noah]]
   - [[Beonred (Beon)]]
@@ -74,7 +74,7 @@ The next morning the party continues east toward [[Winchbank]], traveling throug
 ## Battle Notes (as of session end)
 - [[Noah]] delivers a devastating mounted spear strike, dropping a Saxon.
 - [[Beonred (Beon)]] attempts a mounted charge, fumbles, impales his spear in a tree, and is thrown from his horse.
-- [[Astrius]] charges but fails to land a solid blow.
+- [[Asstrius]] charges but fails to land a solid blow.
 - [[Millicent]] fights fiercely, is struck hard, knocked from her horse, and wounded.
 - [[Liam]] wounds a Saxon after calling on his sense of honor.
 - [[Sir Jerem]] kills one Saxon and forces another to consider surrender.
@@ -91,3 +91,7 @@ The next morning the party continues east toward [[Winchbank]], traveling throug
 - **(480)** — Silchester Castle is found nearly empty; the duke has marched south due to Saxon activity near Hampshire. *(Source: [[Session 003 - The Empty Castle and the Forest Ambush]])*
 - **(480)** — A mysterious white-cloaked woman is admitted to Silchester Castle with deference; rumors connect such figures to the Ladies of the Lake. *(Source: [[Session 003 - The Empty Castle and the Forest Ambush]])*
 - **(480)** — The delegation is ambushed in Purdue Forest by Saxon carls and huscarls; battle begins. *(Source: [[Session 003 - The Empty Castle and the Forest Ambush]])*
+
+---
+
+**Next:** [[Session 004 - The Lady’s Secret and the Feast at Winchbank]]

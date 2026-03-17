@@ -8,7 +8,7 @@ characters:
   - [[Gregory]]
   - [[Millicent]]
   - [[Drustin]]
-  - [[Astrius]]
+  - [[Asstrius]]
   - [[Liam]]
   - [[Count Roderick of Salisbury]]
 places:
@@ -51,3 +51,7 @@ While on patrol near [[Woodhouse]], the squires and their knights discover a wag
 ## Timeline entries to add
 - **(480)** — A wagon massacre near Woodhouse prompts a warning to Vagon: “Wolves are about.” The investigating knights fail to return. *(Source: [[Session 001 - Wolves Are About]])*
 - **(480)** — The squires pass a burning village with no people present. *(Source: [[Session 001 - Wolves Are About]])*
+
+---
+
+**Next:** [[Session 002 - Wolves, Hillmen, and the Ogre’s Trail]]

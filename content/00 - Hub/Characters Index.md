@@ -3,7 +3,7 @@
 ## Player Knights / PCs (active)
 - [[Millicent]] (Jessica) — battlefield leader; courtly “unaware” streak; famed for decisive rescues.
 - [[Drustin]] (Kevin) — eager and tradition-minded; prone to melancholy; tied to St. Crispin relic story.
-- [[Astrius]] (Patrik) — thoughtful/pragmatic; suffered madness episodes; currently a key “stability vs passion” arc.
+- [[Asstrius]] (Patrik) — thoughtful/pragmatic; suffered madness episodes; currently a key “stability vs passion” arc.
 - [[Liam]] (Steve) — dutiful/logistics; ends up in the center of multiple supernatural bargains/spotlights.
 - [[Sir Geraint]] (BrotherRidge) — joined Session 12; sole survivor of Caradoc’s Dunkerton conroi; sworn to Roderick.
 
@@ -14,7 +14,7 @@
 -  Pashcent
 
 ## Player-controlled “loaner” knights
-- [[Sir Kenian]] — knight commander; **player-run by Patrick** when Astrius was out (madness).
+- [[Sir Kenian]] — knight commander; **player-run by Patrick** when Asstrius was out (madness).
 
 ---
 

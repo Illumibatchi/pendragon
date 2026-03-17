@@ -1,10 +1,9 @@
-
 ## Where we left off (end of Session 016)
 The company has parleyed at [[Eboracum (York)]] with [[Eosa “the Giant” Horsason]] and entered the Wilderspool thread. You are on the road **east toward [[Wilderspool]]** after confronting a trap-filled clearing and killing the [[Hag of the Dead (Wilderspool)]].
 
 Immediate fallout:
 - **Three infants** were found at the hag’s clearing (context unresolved until Session 17).
-- [[Astrius]] and [[Ælflaed]] are critically wounded and need skilled treatment.
+- [[Asstrius]] and [[Ælflaed]] are critically wounded and need skilled treatment.
 - Drustin’s horse [[Brass (Drustin’s horse)]] was killed by a trap.
 - You are **hired by Eosa** to investigate Wilderspool (**5 gold now + 5 on return**).
 - [[King Brodin of Malahaut]] has ridden south to confront [[Uther Pendragon]] after being offended by the York surrender offer.
@@ -26,6 +25,6 @@ Immediate fallout:
 
 ## Next session goals (player-facing)
 - Reach and **investigate [[Wilderspool]]** (the well / hanging-knight horror context).
-- Get **chirurgery** / treatment for [[Astrius]] and [[Ælflaed]].
+- Get **chirurgery** / treatment for [[Asstrius]] and [[Ælflaed]].
 - Decide what you’re doing about the **three infants** (carry them? leave them? hand them to someone?).
 - Decide whether to report back to [[Eosa “the Giant” Horsason]] immediately, or continue deeper first.

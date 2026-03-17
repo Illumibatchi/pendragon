@@ -8,7 +8,7 @@ player_synopsis: "[[Session 007 — Player Synopsis — Nightly Business]]"
 characters:
   - [[Millicent]]
   - [[Drustin]]
-  - [[Astrius]]
+  - [[Asstrius]]
   - [[Liam]]
   - [[Beonred (Beon)]]
   - [[High King (unknown name)]]
@@ -44,7 +44,7 @@ The [[Shield of St. Crispin]] must be returned to the shrine near [[Downton]]. [
 
 ## The Knightly Vigil
 Before knighthood, each squire undertakes the traditional vigil:
-- [[Astrius]] stays awake, but experiences no revelation.
+- [[Asstrius]] stays awake, but experiences no revelation.
 - [[Beonred (Beon)]] ignores the vigil, celebrates, and drinks heavily.
 - Drustin attempts the vigil but sleeps through most of it.
 - Liam, inspired by the angel, spends the night in prayer.
@@ -53,7 +53,7 @@ Before knighthood, each squire undertakes the traditional vigil:
 ## The Dubbing of Knights
 At sunrise, the High King stands with the runed sword **Excalibur**. One by one, he administers the oaths, dubs the squires, and commands them to mount new warhorses.
 - Millicent, Drustin, and Liam manage the traditional leap.
-- Injured Astrius struggles.
+- Injured Asstrius struggles.
 - Still-inebriated Beon falls into the dirt.
 
 Millicent notices her new charger is snow-white—a rare noble coloring—and names her **Kingsgift**.
@@ -71,7 +71,7 @@ A victory feast celebrates the knighting.
   - Liam recommends the match.
   - Drustin agrees but warns Ellen may be too independent/headstrong.
   - Beon concurs.
-  - Astrius offers a praising poem; Roderick seems slightly uneasy.
+  - Asstrius offers a praising poem; Roderick seems slightly uneasy.
 
 The High King delivers a long political speech hinting at future retaliation against Ireland. The feast becomes a whirl of courtly encounters—dancing, mercy-talk, rivalries, flirtation, and mishaps.
 
@@ -82,3 +82,7 @@ Millicent receives a mysterious gift: fine barding for Kingsgift bearing her coa
 - **(481)** — The Shield of St. Crispin is returned at Downton; an angel reclaims it. *(Source: [[Session 007 - The Vigil and the Knights of the High King]])*
 - **(481)** — The High King knights the squires and grants them household positions. *(Source: [[Session 007 - The Vigil and the Knights of the High King]])*
 - **(481)** — The High King takes wardship of Lady Ellen after the Baron of Winchbank’s death. *(Source: [[Session 007 - The Vigil and the Knights of the High King]])*
+
+---
+
+**Next:** [[Session 008 - The Giant King of Deira and the Fairy Road]]

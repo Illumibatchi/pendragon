@@ -8,7 +8,7 @@ player_synopsis: "[[Session 009 — Player Synopsis — Bedegraine]]"
 characters:
   - [[Millicent]]
   - [[Drustin]]
-  - [[Astrius]]
+  - [[Asstrius]]
   - [[Liam]]
   - [[Beonred (Beon)]]
   - [[Count Roderick of Salisbury]]
@@ -57,7 +57,7 @@ Millicent realizes the significance of the earlier encounter with [[Eosa “the 
 ### Battle of Bedegraine
 Bedegraine sallies forth to offer battle as Uther predicted.
 
-Under Millicent’s command, the conroi first strikes [[Cambrian Archers]], maneuvering to deny an opening volley and smashing the formation. The resistance is light, though [[Astrius]] is unhorsed by a later scattered volley.
+Under Millicent’s command, the conroi first strikes [[Cambrian Archers]], maneuvering to deny an opening volley and smashing the formation. The resistance is light, though [[Asstrius]] is unhorsed by a later scattered volley.
 
 After a brief pause for treatment (Asterius patched successfully; Drustin tended imperfectly), they face [[Malahaut]]’s knights in a more honorable contest. One foe humiliates himself by planting his lance and pole-vaulting onto the ground. The Malahaut knights fight with discipline and chivalry—no doubling or striking unhorsed men. The fighting lasts three rounds; Asterius is unhorsed again and more seriously wounded. Millicent scoops him up after the final charge and carries him back to the medical tents. The Malahaut knights are defeated.
 
@@ -78,3 +78,7 @@ A new muster is called at Sarum: Uther is to be made King of Logres. Immediately
 - **(481)** — Bedegraine is destroyed; Uther executes the king brutally and installs a new count. *(Source: [[Session 009 - The Death of Aurelius and the Fall of Bedegraine]])*
 - **(481)** — Asterius disappears after being wounded and treated. *(Source: [[Session 009 - The Death of Aurelius and the Fall of Bedegraine]])*
 - **(481)** — Lady Llylla (“Shisha”) is investigated at Warwick; Uther prepares to invade Summerland. *(Source: [[Session 009 - The Death of Aurelius and the Fall of Bedegraine]])*
+
+---
+
+**Next:** [[Session 010 - The Silent Town of Wells and the Ogre of the Marsh]]

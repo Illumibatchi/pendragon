@@ -8,7 +8,7 @@ player_synopsis: "[[Session 006 - Player Synopsis]]"
 characters:
   - [[Millicent]]
   - [[Drustin]]
-  - [[Astrius]]
+  - [[Asstrius]]
   - [[Liam]]
   - [[Beonred (Beon)]]
   - [[Sir Jerem]]
@@ -70,7 +70,7 @@ A [[Wyvern (Downton)]] appears overhead, seizes the High King, lifts him, and dr
 
 In the chaos, [[Drustin]] and [[Liam]] attempt to lift the king onto a horse but both fall from their mounts. [[Pedivere]] secures the king onto his own horse and rides him away, with Millicent supporting the retreat.
 
-Elsewhere, [[Astrius]] is badly injured and carried away by his horse; his spear is also damaged. Drustin’s spear breaks; he passes the Shield of St. Crispin to Liam, and the relic saves Liam from an otherwise certain death.
+Elsewhere, [[Asstrius]] is badly injured and carried away by his horse; his spear is also damaged. Drustin’s spear breaks; he passes the Shield of St. Crispin to Liam, and the relic saves Liam from an otherwise certain death.
 
 ### The fall of the wyvern
 The conroi and allies stab the wyvern repeatedly. Despite being near death, Beon lands the final blow when it has only a breath of life remaining. Pascent’s group breaks and flees.
@@ -88,7 +88,7 @@ In the aftermath, Liam mounts the fallen wyvern and displays the silver shield a
 - Beon unhorsed; rescued; treated
 - Wyvern attacks the High King; Pascent closes
 - Charge to rescue; Drustin/Liam fall; Pedivere saves the king
-- Astrius injured; spears break; shield passed to Liam
+- Asstrius injured; spears break; shield passed to Liam
 - Beon finishes the wyvern; Irish morale breaks
 
 ## Consequences & New Facts
@@ -102,3 +102,7 @@ In the aftermath, Liam mounts the fallen wyvern and displays the silver shield a
 - **(481)** — The squires reach the Sarum siege, seek the relief army near Downton, and recover the [[Shield of St. Crispin]]. *(Source: [[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern]])*
 - **(481)** — Millicent leads the conroi to rout kerns; Beon is unhorsed and rescued. *(Source: [[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern]])*
 - **(481)** — A wyvern attacks the High King; Pedivere saves him; Beon kills the wyvern; Pascent retreats. *(Source: [[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern]])*
+
+---
+
+**Next:** [[Session 007 - The Vigil and the Knights of the High King]]

@@ -7,7 +7,7 @@ location: "Winchbank → road to Salisbury (near Figsbury)"
 characters:
   - [[Millicent]]
   - [[Drustin]]
-  - [[Astrius]]
+  - [[Asstrius]]
   - [[Liam]]
   - [[Noah]]
   - [[Beonred (Beon)]]
@@ -52,7 +52,7 @@ A small dragon with butterfly-like wings—no larger than a small dog—erupts f
 - [[Drustin]] helps pin its dangerous tail
 - [[Millicent]] attempts to muzzle it with a cup
 - [[Beonred (Beon)]] stands ready with a bench to defend the baron
-- [[Astrius]] and [[Liam]] try to identify the creature
+- [[Asstrius]] and [[Liam]] try to identify the creature
 
 Liam recalls the creature is a **fairy dragon**, tied to the fairy realms—possessing a poisonous tail stinger and a strange mind-affecting breath. The squires hold it long enough for [[Sir Jerem]] to deliver the killing blow.
 
@@ -114,3 +114,7 @@ As the squires charge, the Irish spot them and hurl javelins. Horses panic; ride
 - **(480)** — The squires perform a ritual burial with offerings (including a cow sacrifice and Liam’s silver dagger) to appease the fair folk. *(Source: [[Session 005 - The Fairy Dragon and the Ogre’s Return]])*
 - **(480)** — News: Irish under Vortigern’s heir march on Salisbury; the Baron seeks knighthood to ride to war. *(Source: [[Session 005 - The Fairy Dragon and the Ogre’s Return]])*
 - **(480)** — Near Figsbury, the squires spot Irish warriors, kerns, and a towering ogre; Noah is killed in the opening clash. *(Source: [[Session 005 - The Fairy Dragon and the Ogre’s Return]])*
+
+---
+
+**Next:** [[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern]]

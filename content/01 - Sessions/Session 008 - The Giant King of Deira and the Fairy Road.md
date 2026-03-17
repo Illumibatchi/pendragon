@@ -8,7 +8,7 @@ player_synopsis: "[[Session 008 — Player Synopsis — Giant King of Deira]]"
 characters:
   - [[Millicent]]
   - [[Drustin]]
-  - [[Astrius]]
+  - [[Asstrius]]
   - [[Liam]]
   - [[Beonred (Beon)]]
   - [[High King (unknown name)]]
@@ -89,3 +89,7 @@ The hunt drags on for two months with little progress. As winter snow falls, the
 - **(481)** — The knights defeat Eosa “the Giant” and accept a torque as ransom, allowing the Deira Saxons to withdraw. *(Source: [[Session 008 - The Giant King of Deira and the Fairy Road]])*
 - **(481)** — The party discovers a faerie “rabbit road” and leaves offerings before retreating. *(Source: [[Session 008 - The Giant King of Deira and the Fairy Road]])*
 - **(481)** — Winter lodging at Caer Bannog; rumors of the Wyvern of Idris. *(Source: [[Session 008 - The Giant King of Deira and the Fairy Road]])*
+
+---
+
+**Next:** [[Session 009 - The Death of Aurelius and the Fall of Bedegraine]]

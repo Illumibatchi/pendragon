@@ -75,3 +75,7 @@ Liam remains furious Uther has not yet paid the ransom owed to King Eosa, and by
 - **(482)** — Dunkerton is burned; a giant slaughters Caradoc’s conroi; Sir Geraint survives. *(Source: [[Session 012 - The Burning of Dunkerton and the Peace of Summerland]])*
 - **(482)** — 13 children from Shepton appear with the knights’ missing horses; the red sorceress swaps places with Brother Maynard and escapes. *(Source: [[Session 012 - The Burning of Dunkerton and the Peace of Summerland]])*
 - **(482)** — Uther signs peace with Cadwy, making him Count of Somerset; Lady Ellen is promised to Count Roderick. *(Source: [[Session 012 - The Burning of Dunkerton and the Peace of Summerland]])*
+
+---
+
+**Next:** [[Session 013 - The Assassin’s Winter and the Escort of Lady Ellen]]

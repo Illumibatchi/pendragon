@@ -14,7 +14,7 @@ tags:
 # Lady Rachel of Carbonog
 
 ## Notes
-A lady-in-waiting at Winchbank known for her healing skill. Uses partly pagan methods (chants, mistletoe, boiled ox urine preparation) but successfully stabilizes [[Astrius]] after the Purdue Forest ambush.
+A lady-in-waiting at Winchbank known for her healing skill. Uses partly pagan methods (chants, mistletoe, boiled ox urine preparation) but successfully stabilizes [[Asstrius]] after the Purdue Forest ambush.
 
 ## Timeline
-- **(480)** — Saves Astrius from death and stabilizes his wounds. *(Source: [[Session 004 - The Lady’s Secret and the Feast at Winchbank]])*
+- **(480)** — Saves Asstrius from death and stabilizes his wounds. *(Source: [[Session 004 - The Lady’s Secret and the Feast at Winchbank]])*

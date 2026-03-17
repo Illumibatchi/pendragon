@@ -14,7 +14,7 @@ tags:
 # Sir Kenian
 
 ## Notes
-Temporarily **player-controlled by Patrick** while Asstrius was unavailable (madness).
+Temporarily **player-controlled by Patrick** while Assterius was unavailable (madness).
 
 
 Knight Commander placed in command of the PCs’ conroi (within his enschild) for the Wells expedition. Prefers to keep armor off when possible but dons it after hearing the forest is unnaturally silent.

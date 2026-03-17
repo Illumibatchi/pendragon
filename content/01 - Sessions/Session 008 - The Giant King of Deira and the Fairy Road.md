@@ -8,10 +8,10 @@ player_synopsis: "[[Session 008 — Player Synopsis — Giant King of Deira]]"
 characters:
   - [[Millicent]]
   - [[Drustin]]
-  - [[Asstrius]]
+  - [[Assterius]]
   - [[Liam]]
   - [[Beonred (Beon)]]
-  - [[High King (unknown name)]]
+  - [[Aurelius]]
   - [[Merlin]]
   - [[Eosa “the Giant” Horsason]]
   - [[Rori of Newark]]
@@ -82,7 +82,7 @@ The companions resume searching for the escaped wyvern, gathering increasingly s
 Deep in the woods they hear distant singing and find a perfect ring of trees enclosing tiny hanging houses and miniature stables with rabbit droppings—suggesting fairies who use rabbits as mounts. Asterius offers ten denarii; Liam and Millicent leave food; the group retreats without provoking whatever lives there.
 
 ## Winter in Caer Bannog
-The hunt drags on for two months with little progress. As winter snow falls, the knights reach [[Caer Bannog]] and are welcomed by [[Lady Rachel of Carbonog]] and [[Sir Ector]]. Locals speak of a creature called the **Wyvern of Idris**. The knights remain in Caer Bannog until spring.
+The hunt drags on for two months with little progress. As winter snow falls, the knights reach [[Caer Bannog]] and are welcomed by [[Lady Rachel of Carbonog]] and [[Sir Ector]]. Locals speak of a creature called the **[[Wyvern of Idris]]** (possibly the same as [[Wyvern (escaped)]]). The knights remain in Caer Bannog until spring.
 
 ## Timeline entries to add
 - **(481)** — Court assigns three missions (Lindsey, Rosalyn, wyvern). *(Source: [[Session 008 - The Giant King of Deira and the Fairy Road]])*

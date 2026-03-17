@@ -7,7 +7,7 @@ location: "Winchbank Castle (Winchbank)"
 characters:
   - [[Millicent]]
   - [[Drustin]]
-  - [[Asstrius]]
+  - [[Assterius]]
   - [[Liam]]
   - [[Noah]]
   - [[Beonred (Beon)]]
@@ -38,7 +38,7 @@ tags:
 ## Summary
 After the Purdue Forest ambush, Sir Jerem’s delegation reaches [[Winchbank Castle]], seat of the [[Baron of Winchbank]], to continue the investigation of [[Lady Ellen of Winchbank]] as a potential bride for Count Roderick. Winchbank is the opposite of Silchester: fully staffed, well-defended, and quick to welcome the party.
 
-Their injured companion [[Asstrius]] is treated by [[Lady Rachel of Carbonog]], a lady-in-waiting renowned for healing. Her methods are partly pagan—chants, mistletoe, and a foul-smelling preparation of boiled ox urine—but they save Asstrius and stabilize his wounds.
+Their injured companion [[Assterius]] is treated by [[Lady Rachel of Carbonog]], a lady-in-waiting renowned for healing. Her methods are partly pagan—chants, mistletoe, and a foul-smelling preparation of boiled ox urine—but they save Assterius and stabilize his wounds.
 
 ### Investigating Lady Ellen
 The squires gather information across the castle and town. They learn Ellen is fourteen and the sole surviving heir: her three brothers died (accident/war/illness), her mother died when Ellen was young, and she was largely raised by the household. Townsfolk speak warmly of her generosity (including giving gifts to mothers on St. Crispin’s Day), yet rumors persist that she behaves unconventionally: riding her own horse, ignoring some courtly expectations, and spending significant time riding in the woods.
@@ -61,7 +61,7 @@ Beneath the music and celebration, the central question sharpens: **what should 
 
 ## Scene / Beat Log
 - Arrive at Winchbank Castle; welcomed; castle fully staffed
-- Asstrius treated by Lady Rachel of Carbonog; stabilized
+- Assterius treated by Lady Rachel of Carbonog; stabilized
 - Investigate Lady Ellen’s background, reputation, and rumors
 - Receive 16 denarii each (ransom share); carousing/bribes for intel
 - Rumor: knights from Silchester recently arrived
@@ -78,7 +78,7 @@ Beneath the music and celebration, the central question sharpens: **what should 
 - The report to Count Roderick could shape Ellen’s future role (conventional noble vs hidden warrior)
 
 ## Timeline entries to add
-- **(480)** — The delegation reaches Winchbank; Asstrius is saved by Rachel of Carbonog’s unorthodox healing. *(Source: [[Session 004 - The Lady’s Secret and the Feast at Winchbank]])*
+- **(480)** — The delegation reaches Winchbank; Assterius is saved by Rachel of Carbonog’s unorthodox healing. *(Source: [[Session 004 - The Lady’s Secret and the Feast at Winchbank]])*
 - **(480)** — The squires learn Lady Ellen is sole heir and widely liked, but unconventional. *(Source: [[Session 004 - The Lady’s Secret and the Feast at Winchbank]])*
 - **(480)** — Liam jousts; the victorious opponent is revealed to be Lady Ellen in disguise, raising a dilemma about what to report. *(Source: [[Session 004 - The Lady’s Secret and the Feast at Winchbank]])*
 - **(480)** — The baron hosts a feast at Winchbank; the squires navigate courtly opportunities while debating how to describe Ellen to Salisbury. *(Source: [[Session 004 - The Lady’s Secret and the Feast at Winchbank]])*

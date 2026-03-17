@@ -9,7 +9,7 @@ characters:
   - [[Millicent]]
   - [[Drustin]]
   - [[Liam]]
-  - [[Asstrius]]
+  - [[Assterius]]
   - [[Sir Geraint]]
   - [[Uther Pendragon]]
   - [[Count Roderick of Salisbury]]

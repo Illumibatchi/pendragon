@@ -5,7 +5,7 @@ first_seen_session: 0
 first_seen_year: 480
 allegiance: Salisbury
 relations:
-  - "Liege to: [[Gregory]], [[Millicent]], [[Drustin]], [[Asstrius]], [[Liam]] (as squires/household)"
+  - "Liege to: [[Gregory]], [[Millicent]], [[Drustin]], [[Assterius]], [[Liam]] (as squires/household)"
 tags:
   - character
   - npc

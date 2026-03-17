@@ -1,15 +1,19 @@
 ---
 type: character
-kind: NPC (knight)
+kind: PC (knight)
+player: Alan
 first_seen_session: 6
 first_seen_year: 481
 tags:
   - character
-  - npc
+  - pc
   - war
 ---
 
 # Pedivere
+
+## Quick facts
+- **Role:** Alan’s replacement knight after [[Noah]]’s death.
 
 ## Notes
 Acts decisively during the Battle of Downton: secures the High King onto his horse and rides him out of danger after the wyvern drops the king.

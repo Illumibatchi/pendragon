@@ -8,10 +8,10 @@ player_synopsis: "[[Session 007 — Player Synopsis — Nightly Business]]"
 characters:
   - [[Millicent]]
   - [[Drustin]]
-  - [[Asstrius]]
+  - [[Assterius]]
   - [[Liam]]
   - [[Beonred (Beon)]]
-  - [[High King (unknown name)]]
+  - [[Aurelius]]
   - [[Count Roderick of Salisbury]]
   - [[Lady Ellen of Winchbank]]
   - [[Sir Madoc]]
@@ -37,14 +37,14 @@ tags:
 - [[Session 007 — Player Notes Addendum — Feast Highlights]]
 
 ## Summary
-In the aftermath of the great battle near [[Sarum]], the armies of Britain regroup. The wyvern, gravely wounded, escapes the battlefield; with the Irish broken and [[Pascent]] driven back, Sarum’s siege is lifted. In recognition of the squires’ bravery—especially rescuing the High King and slaying the wyvern—the [[High King (unknown name)]] promises them knighthood.
+In the aftermath of the great battle near [[Sarum]], the armies of Britain regroup. The wyvern, gravely wounded, escapes the battlefield; with the Irish broken and [[Pascent]] driven back, Sarum’s siege is lifted. In recognition of the squires’ bravery—especially rescuing the High King and slaying the wyvern—the [[Aurelius]] promises them knighthood.
 
 ## The Return of the Holy Shield
 The [[Shield of St. Crispin]] must be returned to the shrine near [[Downton]]. [[Millicent]], [[Drustin]], and [[Liam]] return the relic—whereupon an angel appears and reclaims it. Those who witness the miracle feel their devotion to God deepen, though its meaning remains mysterious.
 
 ## The Knightly Vigil
 Before knighthood, each squire undertakes the traditional vigil:
-- [[Asstrius]] stays awake, but experiences no revelation.
+- [[Assterius]] stays awake, but experiences no revelation.
 - [[Beonred (Beon)]] ignores the vigil, celebrates, and drinks heavily.
 - Drustin attempts the vigil but sleeps through most of it.
 - Liam, inspired by the angel, spends the night in prayer.
@@ -53,7 +53,7 @@ Before knighthood, each squire undertakes the traditional vigil:
 ## The Dubbing of Knights
 At sunrise, the High King stands with the runed sword **Excalibur**. One by one, he administers the oaths, dubs the squires, and commands them to mount new warhorses.
 - Millicent, Drustin, and Liam manage the traditional leap.
-- Injured Asstrius struggles.
+- Injured Assterius struggles.
 - Still-inebriated Beon falls into the dirt.
 
 Millicent notices her new charger is snow-white—a rare noble coloring—and names her **Kingsgift**.
@@ -71,7 +71,7 @@ A victory feast celebrates the knighting.
   - Liam recommends the match.
   - Drustin agrees but warns Ellen may be too independent/headstrong.
   - Beon concurs.
-  - Asstrius offers a praising poem; Roderick seems slightly uneasy.
+  - Assterius offers a praising poem; Roderick seems slightly uneasy.
 
 The High King delivers a long political speech hinting at future retaliation against Ireland. The feast becomes a whirl of courtly encounters—dancing, mercy-talk, rivalries, flirtation, and mishaps.
 

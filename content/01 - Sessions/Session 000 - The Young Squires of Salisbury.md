@@ -8,7 +8,7 @@ characters:
   - [[Gregory]]
   - [[Millicent]]
   - [[Drustin]]
-  - [[Asstrius]]
+  - [[Assterius]]
   - [[Liam]]
   - [[Count Roderick of Salisbury]]
 places:
@@ -36,7 +36,7 @@ The campaign opens in the **Uther Period**, with several young squires serving t
 - [[Gregory]] — Robert’s character; massive Saxon squire (strength, pride, reckless courage)
 - [[Millicent]] — Jessica’s character; determined, honorable squire (valor, tradition)
 - [[Drustin]] — Kevin’s character; energetic, eager young warrior
-- [[Asstrius]] — Patrick’s character; thoughtful, pragmatic, cautious but skilled
+- [[Assterius]] — Patrick’s character; thoughtful, pragmatic, cautious but skilled
 - [[Liam]] — Steve’s character; prudent, dutiful, logistics-minded
 - [[Count Roderick of Salisbury]] — liege lord
 

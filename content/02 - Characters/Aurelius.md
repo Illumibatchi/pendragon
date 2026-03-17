@@ -1,19 +1,24 @@
 ---
 type: character
-kind: NPC (high-status)
-first_seen_session: 7
+kind: NPC (sovereign)
+aliases:
+  - Aurelius Ambrosius
+  - High King Aurelius Ambrosius
+first_seen_session: 6
 first_seen_year: 481
 tags:
   - character
   - npc
+  - war
   - politics
 ---
 
-# Aurelius
+# Aurelius Ambrosius
 
 ## Notes
-High King Aurelius Ambrosius (per later campaign events). Previously noted at a victory feast making a mental note when Drustin talked about Lady Ellen.
+High King of Britain prior to [[Uther Pendragon]]’s accession.
 
 ## Timeline
-- **(481)** — Noted at the victory feast; attention drawn by discussion of Lady Ellen. *(Source: [[Session 007 — Player Synopsis — Nightly Business]])*
+- **(481)** — Leads the relief army against the Irish siege lines around [[Sarum]]. During the Battle of Downton, a [[Wyvern (Downton)]] seizes and drops him; he survives when [[Pedivere]] rides him out of danger. *(Source: [[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern]])*
+- **(481)** — Noted at the victory feast; attention drawn by discussion of [[Lady Ellen of Winchbank]]. *(Source: [[Session 007 — Player Synopsis — Nightly Business]])*
 - **(481)** — Betrayed and killed by Bedegraine while returning from Lindsey. *(Source: [[Session 009 - The Death of Aurelius and the Fall of Bedegraine]])*

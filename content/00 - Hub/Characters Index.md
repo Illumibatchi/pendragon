@@ -3,18 +3,20 @@
 ## Player Knights / PCs (active)
 - [[Millicent]] (Jessica) — battlefield leader; courtly “unaware” streak; famed for decisive rescues.
 - [[Drustin]] (Kevin) — eager and tradition-minded; prone to melancholy; tied to St. Crispin relic story.
-- [[Asstrius]] (Patrik) — thoughtful/pragmatic; suffered madness episodes; currently a key “stability vs passion” arc.
+- [[Assterius]] (Patrik) — thoughtful/pragmatic; suffered madness episodes; currently a key “stability vs passion” arc.
 - [[Liam]] (Steve) — dutiful/logistics; ends up in the center of multiple supernatural bargains/spotlights.
 - [[Sir Geraint]] (BrotherRidge) — joined Session 12; sole survivor of Caradoc’s Dunkerton conroi; sworn to Roderick.
 
-## Player Knights / PCs (retired — players quit)
+## Former Player Knights / PCs (dead/retired)
 - [[Gregory]] (Robert) — massive Saxon squire; heroic death in the Forest of Gloom.
 - [[Beonred (Beon)]] (Robert) — Gregory’s younger brother; notable deeds include wyvern kill; now retired.
-- [[Noah]] (Alan) — squire; killed in the early Irish/ogre fighting.
--  Pashcent
+- [[Noah]] (Alan) — squire; killed in the early Irish/ogre fighting. *(Player Alan now plays [[Pedivere]].)*
+
+## Player Knights / PCs (active — replacements / new PCs)
+- [[Pedivere]] (Alan) — Alan’s replacement knight after Noah’s death; first appears in the Downton battle.
 
 ## Player-controlled “loaner” knights
-- [[Sir Kenian]] — knight commander; **player-run by Patrick** when Asstrius was out (madness).
+- [[Sir Kenian]] — knight commander; **player-run by Patrick** when Assterius was out (madness).
 
 ---
 

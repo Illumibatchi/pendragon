@@ -8,14 +8,14 @@ player_synopsis: "[[Session 006 - Player Synopsis]]"
 characters:
   - [[Millicent]]
   - [[Drustin]]
-  - [[Asstrius]]
+  - [[Assterius]]
   - [[Liam]]
   - [[Beonred (Beon)]]
   - [[Sir Jerem]]
   - [[Baron of Winchbank]]
   - [[Pascent]]
   - [[Pedivere]]
-  - [[High King (unknown name)]]
+  - [[Aurelius]]
   - [[Duke Ulfius of Silchester]]
 places:
   - [[Sarum]]
@@ -48,7 +48,7 @@ tags:
 Riding toward [[Sarum]], the squires find Salisbury’s situation dire: an Irish host surrounds the city, commanded by [[Pascent]] (Vortigern’s son). Before committing to the warfront, they escort their wounded commander [[Sir Jerem]] to [[Duplain]] for proper treatment.
 
 ### Scouting the siege
-The squires reconnoiter the Irish siege lines around Sarum. Realizing they can’t break the siege alone, they seek the approaching relief armies of the [[High King (unknown name)]] and [[Duke Ulfius of Silchester]]. Their search takes them to [[Clausentum]], where locals report the High King’s army crossed the [[River Test]] earlier that morning.
+The squires reconnoiter the Irish siege lines around Sarum. Realizing they can’t break the siege alone, they seek the approaching relief armies of the [[Aurelius]] and [[Duke Ulfius of Silchester]]. Their search takes them to [[Clausentum]], where locals report the High King’s army crossed the [[River Test]] earlier that morning.
 
 After resting, the squires ride toward the relief force and eventually locate the combined armies near [[Downton]] (after accidentally circling the host).
 
@@ -70,7 +70,7 @@ A [[Wyvern (Downton)]] appears overhead, seizes the High King, lifts him, and dr
 
 In the chaos, [[Drustin]] and [[Liam]] attempt to lift the king onto a horse but both fall from their mounts. [[Pedivere]] secures the king onto his own horse and rides him away, with Millicent supporting the retreat.
 
-Elsewhere, [[Asstrius]] is badly injured and carried away by his horse; his spear is also damaged. Drustin’s spear breaks; he passes the Shield of St. Crispin to Liam, and the relic saves Liam from an otherwise certain death.
+Elsewhere, [[Assterius]] is badly injured and carried away by his horse; his spear is also damaged. Drustin’s spear breaks; he passes the Shield of St. Crispin to Liam, and the relic saves Liam from an otherwise certain death.
 
 ### The fall of the wyvern
 The conroi and allies stab the wyvern repeatedly. Despite being near death, Beon lands the final blow when it has only a breath of life remaining. Pascent’s group breaks and flees.
@@ -88,7 +88,7 @@ In the aftermath, Liam mounts the fallen wyvern and displays the silver shield a
 - Beon unhorsed; rescued; treated
 - Wyvern attacks the High King; Pascent closes
 - Charge to rescue; Drustin/Liam fall; Pedivere saves the king
-- Asstrius injured; spears break; shield passed to Liam
+- Assterius injured; spears break; shield passed to Liam
 - Beon finishes the wyvern; Irish morale breaks
 
 ## Consequences & New Facts

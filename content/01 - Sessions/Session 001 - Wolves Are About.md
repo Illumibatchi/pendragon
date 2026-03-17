@@ -8,7 +8,7 @@ characters:
   - [[Gregory]]
   - [[Millicent]]
   - [[Drustin]]
-  - [[Asstrius]]
+  - [[Assterius]]
   - [[Liam]]
   - [[Count Roderick of Salisbury]]
 places:

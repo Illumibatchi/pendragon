@@ -13,7 +13,7 @@
 - Silchester Castle is found nearly empty; the duke has marched south with levies due to Saxon activity near [[Hampshire]]. *(Source: [[Session 003 - The Empty Castle and the Forest Ambush]])*
 - A mysterious figure, [[The Woman in White (Silchester)]], enters the castle and is treated with deference by guards; rumors connect such figures to the [[Ladies of the Lake (rumor)]]. *(Source: [[Session 003 - The Empty Castle and the Forest Ambush]])*
 - On the road east toward Winchbank, the delegation is ambushed in [[Purdue Forest]] by [[Saxon Warriors (Purdue Forest)]]. *(Source: [[Session 003 - The Empty Castle and the Forest Ambush]])*
-- The delegation reaches [[Winchbank Castle]]; [[Lady Rachel of Carbonog]] stabilizes Asstrius with unorthodox healing. *(Source: [[Session 004 - The Lady’s Secret and the Feast at Winchbank]])*
+- The delegation reaches [[Winchbank Castle]]; [[Lady Rachel of Carbonog]] stabilizes Assterius with unorthodox healing. *(Source: [[Session 004 - The Lady’s Secret and the Feast at Winchbank]])*
 - The squires learn more of [[Lady Ellen of Winchbank]]’s reputation (generous, but unconventional) and discover she secretly jousts in disguise. *(Source: [[Session 004 - The Lady’s Secret and the Feast at Winchbank]])*
 - At a Winchbank feast, [[Sir Blaine]]’s “gift” becomes a [[Fairy Dragon (Winchbank)]] attack; [[Sir Jerem]] kills it after the squires restrain it. *(Source: [[Session 005 - The Fairy Dragon and the Ogre’s Return]])*
 - Sir Blaine claims the egg came from [[Lady Niev]] (woman in white). The baron dismisses Silchester knights. *(Source: [[Session 005 - The Fairy Dragon and the Ogre’s Return]])*
@@ -23,11 +23,11 @@
 
 ## 481
 - The Irish siege of [[Sarum]] is engaged by the High King’s relief host near [[Downton]]. The squires recover the [[Shield of St. Crispin]] and fight in Millicent’s conroi. *(Source: [[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern]])*
-- A [[Wyvern (Downton)]] seizes and drops the [[High King (unknown name)]]. [[Pedivere]] rescues him; Beon kills the wyvern; [[Pascent]] retreats. *(Source: [[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern]])*
+- A [[Wyvern (Downton)]] seizes and drops the [[Aurelius]]. [[Pedivere]] rescues him; Beon kills the wyvern; [[Pascent]] retreats. *(Source: [[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern]])*
 - The Shield of St. Crispin is returned at Downton; an angel reclaims it. The squires are knighted by the High King and appointed household knights. *(Source: [[Session 007 - The Vigil and the Knights of the High King]])*
 - The Baron of Winchbank is confirmed dead; the High King takes wardship of [[Lady Ellen of Winchbank]]. *(Source: [[Session 007 - The Vigil and the Knights of the High King]])*
-- Court assigns three missions (Lindsey coordination, Rosalyn investigation, wyvern hunt). The knights defeat [[Eosa “the Giant” Horsason]] and accept ransom; later they discover a faerie rabbit-road and winter at [[Caer Bannog]] amid rumors of the Wyvern of Idris. *(Source: [[Session 008 - The Giant King of Deira and the Fairy Road]])*
-- High King [[Aurelius]] is betrayed and killed; [[Uther Pendragon]] musters at [[Leicester]] and destroys [[Bedegraine]]. [[Asstrius]] later vanishes; the knights investigate [[Lady Llylla (Shisha)]] and Uther prepares a Summerland invasion. *(Source: [[Session 009 - The Death of Aurelius and the Fall of Bedegraine]])*
+- Court assigns three missions (Lindsey coordination, Rosalyn investigation, wyvern hunt). The knights defeat [[Eosa “the Giant” Horsason]] and accept ransom; later they discover a faerie rabbit-road and winter at [[Caer Bannog]] amid rumors of the [[Wyvern of Idris]]. *(Source: [[Session 008 - The Giant King of Deira and the Fairy Road]])*
+- High King [[Aurelius]] is betrayed and killed; [[Uther Pendragon]] musters at [[Leicester]] and destroys [[Bedegraine]]. [[Assterius]] later vanishes; the knights investigate [[Lady Llylla (Shisha)]] and Uther prepares a Summerland invasion. *(Source: [[Session 009 - The Death of Aurelius and the Fall of Bedegraine]])*
 
 ## 482
 - The knights are ordered from Sarum to compel oaths at [[Wells]], find the town deserted, and uncover a forced‑muster incident. Horses vanish into the marsh; they slay a [[Cu‑Sith (Wells)]] and an [[Ogre (Wells Marsh)]], and discover a passage pointing toward [[Glastonbury]] / [[Tor of Glastonbury (Ynys Wydrin)]]. *(Source: [[Session 010 - The Silent Town of Wells and the Ogre of the Marsh]])*

@@ -7,7 +7,7 @@ location: "Winchbank → road to Salisbury (near Figsbury)"
 characters:
   - [[Millicent]]
   - [[Drustin]]
-  - [[Asstrius]]
+  - [[Assterius]]
   - [[Liam]]
   - [[Noah]]
   - [[Beonred (Beon)]]
@@ -52,7 +52,7 @@ A small dragon with butterfly-like wings—no larger than a small dog—erupts f
 - [[Drustin]] helps pin its dangerous tail
 - [[Millicent]] attempts to muzzle it with a cup
 - [[Beonred (Beon)]] stands ready with a bench to defend the baron
-- [[Asstrius]] and [[Liam]] try to identify the creature
+- [[Assterius]] and [[Liam]] try to identify the creature
 
 Liam recalls the creature is a **fairy dragon**, tied to the fairy realms—possessing a poisonous tail stinger and a strange mind-affecting breath. The squires hold it long enough for [[Sir Jerem]] to deliver the killing blow.
 

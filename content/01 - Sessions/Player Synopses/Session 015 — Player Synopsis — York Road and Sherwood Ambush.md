@@ -39,7 +39,7 @@ Millicent spots a blue-robed bard/chronicler: [[Drimant]] (trained by Ladies of 
 In Sherwood, Lady Triamors is found bound backwards on a donkey with an apple in her mouth; she screams “AMBUSH!”
 
 Saxons attack: 4 huscarls + a stunning Saxon princess [[Ælflaed]].
-- Millicent and Asstrius are briefly bewitched by Ælflaed’s beauty.
+- Millicent and Assterius are briefly bewitched by Ælflaed’s beauty.
 - Drimant vanishes and reappears behind Ælflaed, bopping her unconscious with a sprig while chanting.
 - Millicent is nearly killed by a huscarl; Madoc rushes to defend her.
 - Geraint decapitates the offending huscarl.

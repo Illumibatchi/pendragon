@@ -9,7 +9,7 @@ characters:
   - [[Millicent]]
   - [[Drustin]]
   - [[Liam]]
-  - [[Asstrius]]
+  - [[Assterius]]
   - [[Sir Geraint]]
   - [[Sir Madoc]]
   - [[Uther Pendragon]]
@@ -73,7 +73,7 @@ When Liam recounts his bargain with the Lady of the Well, Drimant is horrified a
 ### Sherwood ambush
 In [[Sherwood Forest]], they find [[Lady Triamors]] bound backward on a terrified donkey, an apple forced into her mouth. When freed, she screams “Ambush!” as Saxon huscarls charge.
 
-Among the attackers is [[Ælflaed]], a stunning Saxon warrior whose beauty has a bewitching effect—briefly disorienting Millicent and Asstrius. Drimant vanishes and reappears behind Ælflaed, knocking her unconscious with a simple branch while chanting.
+Among the attackers is [[Ælflaed]], a stunning Saxon warrior whose beauty has a bewitching effect—briefly disorienting Millicent and Assterius. Drimant vanishes and reappears behind Ælflaed, knocking her unconscious with a simple branch while chanting.
 
 Millicent is nearly killed by a huscarl blow; Madoc rushes to defend her. The company prevails; one huscarl surrenders.
 

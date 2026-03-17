@@ -9,7 +9,7 @@ characters:
   - [[Millicent]]
   - [[Drustin]]
   - [[Liam]]
-  - [[Asstrius]]
+  - [[Assterius]]
   - [[Sir Geraint]]
   - [[Sir Madoc]]
   - [[Drimant]]
@@ -58,10 +58,10 @@ Heading east toward Wilderspool, the company finds a sequence of grotesque warni
 At the center, an old woman rummages through corpses and calmly states she intends to eat their brains. Millicent orders the charge.
 
 ### The hag’s clearing
-The hag has prepared traps throughout the clearing. Drustin’s horse Brass is killed by a hidden trap. Millicent fights through and lands a powerful blow; Asstrius and Liam close in. Ælflaed uses her magical slippers to teleport into combat but is knocked unconscious. The hag fights viciously, critically wounding Asstrius and injuring others, but collapses and dies from strain. Millicent severs her head.
+The hag has prepared traps throughout the clearing. Drustin’s horse Brass is killed by a hidden trap. Millicent fights through and lands a powerful blow; Assterius and Liam close in. Ælflaed uses her magical slippers to teleport into combat but is knocked unconscious. The hag fights viciously, critically wounding Assterius and injuring others, but collapses and dies from strain. Millicent severs her head.
 
 ### Aftermath: the infants
-In the clearing, the knights discover a cradle containing **three infants** and a mortar/pestle where the hag had been grinding brains from the dead. Asstrius and Ælflaed are badly wounded and require skilled treatment.
+In the clearing, the knights discover a cradle containing **three infants** and a mortar/pestle where the hag had been grinding brains from the dead. Assterius and Ælflaed are badly wounded and require skilled treatment.
 
 ## Timeline entries to add
 - **(484)** — Parley at York: Eosa hires the knights to investigate Wilderspool; Brodin rides south to confront Uther. *(Source: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]])*

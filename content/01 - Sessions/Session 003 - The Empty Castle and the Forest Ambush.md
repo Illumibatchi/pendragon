@@ -7,7 +7,7 @@ location: "Silchester Castle → Purdue Forest (Logres)"
 characters:
   - [[Millicent]]
   - [[Drustin]]
-  - [[Asstrius]]
+  - [[Assterius]]
   - [[Liam]]
   - [[Noah]]
   - [[Beonred (Beon)]]
@@ -74,7 +74,7 @@ The next morning the party continues east toward [[Winchbank]], traveling throug
 ## Battle Notes (as of session end)
 - [[Noah]] delivers a devastating mounted spear strike, dropping a Saxon.
 - [[Beonred (Beon)]] attempts a mounted charge, fumbles, impales his spear in a tree, and is thrown from his horse.
-- [[Asstrius]] charges but fails to land a solid blow.
+- [[Assterius]] charges but fails to land a solid blow.
 - [[Millicent]] fights fiercely, is struck hard, knocked from her horse, and wounded.
 - [[Liam]] wounds a Saxon after calling on his sense of honor.
 - [[Sir Jerem]] kills one Saxon and forces another to consider surrender.

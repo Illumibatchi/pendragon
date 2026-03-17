@@ -8,7 +8,7 @@ player_synopsis: "[[Session 009 — Player Synopsis — Bedegraine]]"
 characters:
   - [[Millicent]]
   - [[Drustin]]
-  - [[Asstrius]]
+  - [[Assterius]]
   - [[Liam]]
   - [[Beonred (Beon)]]
   - [[Count Roderick of Salisbury]]
@@ -41,7 +41,7 @@ tags:
 - [[Session 009 — Player Synopsis — Bedegraine]]
 
 ## Summary
-As winter begins to break, the companions remain in [[Caer Bannog]] debating whether to pursue the Wyvern of Idris overland or by boat. A letter from [[Count Roderick of Salisbury]] asks them to divert through [[Warwick]] to report on [[Lady Llylla (Shisha)]], another possible marriage prospect. After weeks, the company abandons the wyvern hunt for the time being and heads toward Warwick.
+As winter begins to break, the companions remain in [[Caer Bannog]] debating whether to pursue the [[Wyvern of Idris]] overland or by boat. A letter from [[Count Roderick of Salisbury]] asks them to divert through [[Warwick]] to report on [[Lady Llylla (Shisha)]], another possible marriage prospect. After weeks, the company abandons the wyvern hunt for the time being and heads toward Warwick.
 
 ### The death of the High King
 On the road they learn devastating news: **High King [[Aurelius]] Ambrosius has been betrayed and killed by [[Bedegraine]]** while returning from Lindsey. In response, [[Uther Pendragon]] calls loyal knights to [[Leicester]] to muster for war. With Aurelius gone, the realm’s unity is shaken; Logres passes to the next Pendragon, but the High Kingship itself is elective, leaving a political and spiritual wound.
@@ -57,7 +57,7 @@ Millicent realizes the significance of the earlier encounter with [[Eosa “the 
 ### Battle of Bedegraine
 Bedegraine sallies forth to offer battle as Uther predicted.
 
-Under Millicent’s command, the conroi first strikes [[Cambrian Archers]], maneuvering to deny an opening volley and smashing the formation. The resistance is light, though [[Asstrius]] is unhorsed by a later scattered volley.
+Under Millicent’s command, the conroi first strikes [[Cambrian Archers]], maneuvering to deny an opening volley and smashing the formation. The resistance is light, though [[Assterius]] is unhorsed by a later scattered volley.
 
 After a brief pause for treatment (Asterius patched successfully; Drustin tended imperfectly), they face [[Malahaut]]’s knights in a more honorable contest. One foe humiliates himself by planting his lance and pole-vaulting onto the ground. The Malahaut knights fight with discipline and chivalry—no doubling or striking unhorsed men. The fighting lasts three rounds; Asterius is unhorsed again and more seriously wounded. Millicent scoops him up after the final charge and carries him back to the medical tents. The Malahaut knights are defeated.
 

@@ -8,7 +8,7 @@ characters:
   - [[Gregory]]
   - [[Millicent]]
   - [[Drustin]]
-  - [[Asstrius]]
+  - [[Assterius]]
   - [[Liam]]
   - [[Castellan of Vagon]]
 places:
@@ -42,7 +42,7 @@ Near Woodhouse they find the original ambush site: wolf tracks, blood, and signs
 
 Deeper in the forest, the squires are ambushed by hillmen who hurl weighted darts before closing with knives and shields. The fight is brutal: [[Gregory]] is grievously wounded but makes a final reckless strike—killing an enemy—before dying of his wounds. The squires prevail.
 
-Scouting ahead, [[Liam]] and [[Asstrius]] find a cannibal camp: butchered human bodies, piles of horse meat, and a cauldron boiling with human remains. They recover their knights’ equipment and shields, confirming the knights’ deaths. Enormous footprints lead away from the camp—too large for any man—revealing an [[Ogre (Forest of Gloom)]] has been feeding there, with the hillmen possibly allied to or serving it.
+Scouting ahead, [[Liam]] and [[Assterius]] find a cannibal camp: butchered human bodies, piles of horse meat, and a cauldron boiling with human remains. They recover their knights’ equipment and shields, confirming the knights’ deaths. Enormous footprints lead away from the camp—too large for any man—revealing an [[Ogre (Forest of Gloom)]] has been feeding there, with the hillmen possibly allied to or serving it.
 
 The surviving squires gather Gregory’s body, the wounded [[Drustin]], and recovered gear and return to [[Woodhouse]] to report. Word spreads that an ogre lurks in the Forest of Gloom. Separately, news arrives that [[Irish Invaders]] have invaded Britain under the son of the deposed High King Vortigern. The squires spend the rest of the year recovering from wounds while armies march west without them; Gregory’s death brings honor and glory to his house, and **his younger brother will soon take up his place**.
 

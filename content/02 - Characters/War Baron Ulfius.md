@@ -15,4 +15,7 @@ tags:
 # War Baron Ulfius
 
 ## Notes
-Present at the Bedegraine siege lines under Uther’s host.
+Present at the Bedegraine siege lines under Uther's host.
+
+## Timeline
+- **(481)** — Present at the siege of Bedegraine as part of Uther's host. *(Source: [[Session 009 - The Death of Aurelius and the Fall of Bedegraine]])*

@@ -13,4 +13,7 @@ tags:
 # Duke Erof of Cornwall
 
 ## Notes
-Attends Easter court at Sarum during preparations for Ellen’s marriage and Uther’s consolidation.
+Attends Easter court at Sarum during preparations for Ellen's marriage and Uther's consolidation.
+
+## Timeline
+- **(483)** — Marches north separately from Uther's main host; his loyalty remains under suspicion. *(Source: [[Session 015 - The Road to York and the Ambush in Sherwood]])*

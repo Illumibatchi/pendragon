@@ -17,7 +17,7 @@ tags:
 # Lady of the Well
 
 ## Notes
-A beautiful woman seen in the flooded shrine’s well. Offers bargains based on desire.
+A beautiful woman encountered at the flooded shrine’s well, calling herself the **Lady of the Shrine**. Offers bargains based on desire.
 - Kenian asks for his horse; she says she does not have it.
 - Liam asks for fame and success; she agrees in exchange for a future return of what was granted (one day before his death).
 

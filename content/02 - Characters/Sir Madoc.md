@@ -19,3 +19,6 @@ Legitimized bastard son of Uther Pendragon; potentially significant in successio
 - **(481)** — At the victory feast, chokes on walnuts; Millicent saves him (Heimlich), and he proclaims her his saviour. *(Source: [[Session 007 — Player Synopsis — Nightly Business]])*
 - **(482)** — Gravely injured by a manticore; Millicent and Brother Maynard bring him back to safety. *(Source: [[Session 011 - The Hag of the Passage and the Lady of the Well]])*
 - **(482)** — Recovering at Woodhouse from the manticore sting. *(Source: [[Session 012 - The Burning of Dunkerton and the Peace of Summerland]])*
+- **(483)** — Easter Court at Sarum; Lady Rhianneth forces her attentions on him in the gardens and kisses him. *(Source: [[Session 014 - Easter Court at Sarum and the Duel of Sir Marius]])*
+- **(484)** — Joins Millicent's conroi to learn warfare; during the Sherwood ambush, rushes to defend Millicent when she is nearly killed by a huscarl. *(Source: [[Session 015 - The Road to York and the Ambush in Sherwood]])*
+- **(484)** — Continues with the company to York for parley and east toward Wilderspool to investigate the Well. *(Source: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]])*

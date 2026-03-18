@@ -18,3 +18,6 @@ A lady-in-waiting at Winchbank known for her healing skill. Uses partly pagan me
 
 ## Timeline
 - **(480)** — Saves Assterius from death and stabilizes his wounds. *(Source: [[Session 004 - The Lady’s Secret and the Feast at Winchbank]])*
+- **(480)** — Advised squires on appeasing the fair folk after fairy dragon slaying; ritual burial with offerings performed. *(Source: [[Session 005 - The Fairy Dragon and the Ogre’s Return]])*
+- **(481)** — Welcomed knights to Caer Bannog for winter lodging with her brother Sir Ector. *(Source: [[Session 008 - The Giant King of Deira and the Fairy Road]])*
+- **(483)** — At Easter court, exchanged stories with Sir Geraint; formerly served as lady-in-waiting for Lady Ellen. *(Source: [[Session 014 - Easter Court at Sarum and the Duel of Sir Marius]])*

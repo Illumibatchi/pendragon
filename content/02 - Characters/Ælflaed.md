@@ -19,4 +19,5 @@ A stunningly beautiful Saxon warrior (described as a Saxon princess) encountered
 
 ## Timeline
 - **(484)** — Appears in Sherwood ambush; knocked unconscious by Drimant. *(Source: [[Session 015 - The Road to York and the Ambush in Sherwood]])*
-- **(484)** — Reveals Wilderspool sacrifice mission; later knocked unconscious in the hag clearing and requires chirurgery. *(Source: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]])*
+- **(484)** — Captive on the road to York; reveals her Wilderspool sacrifice mission and uses magical slippers to teleport into combat. *(Source: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]]).* 
+- **(484)** — Knocked unconscious in the hag clearing and requires chirurgery. *(Source: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]])*

@@ -36,7 +36,7 @@
 
 ## 483
 - Winter: an assassin targets Count Roderick; Millicent is grievously wounded. Spring: the conroi retrieves Lady Ellen from Londinium and fights false-flag ambushers (Deiran shields overpainted) and an ogre on the road. *(Source: [[Session 013 - The Assassin’s Winter and the Escort of Lady Ellen]])*
-- Easter Court at Sarum: Lucius (age 4) is knighted and made Duke of Saxon Shore; Asterius decapitates Sir Marius of Caerwent in a duel. *(Source: [[Session 014 - Easter Court at Sarum and the Duel of Sir Marius]])*
+- Easter Court at Sarum: Lucius (age 4) is knighted and made Duke of Saxon Shore; [[Assterius]] decapitates [[Sir Marius of Caerwent]] in a duel. *(Source: [[Session 014 - Easter Court at Sarum and the Duel of Sir Marius]])*
 
 ## 484
 - York falls to Saxons; Malahaut appeals to Uther; Madoc joins the conroi. On the road north, the company is ambushed in Sherwood (Ælflaed + huscarls); Millicent is nearly killed and Drimant intervenes; Lincoln is found under siege by Angles. *(Source: [[Session 015 - The Road to York and the Ambush in Sherwood]])*

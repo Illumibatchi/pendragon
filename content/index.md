@@ -24,6 +24,9 @@ A record of events, characters, and places within the campaign.
 ## The Chronicle
 - [[00 - Hub/Sessions Index|Session Logs]]
 
+## Player Map
+[[00 - Hub/Player Map.jpg]]
+
 ---
 
 ## Notes

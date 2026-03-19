@@ -10,8 +10,6 @@ tags:
   - religion
 ---
 
-# Archbishop Dubricus
-
 ## Notes
 Archbishop and head of British Christendom. Advises Drustin that melancholy may stem from worldly attachment; encourages marriage and introduces Lady Triamors.
 

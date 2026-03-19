@@ -9,8 +9,6 @@ tags:
   - session
 ---
 
-# Session 010 — Player Synopsis — Wells
-
 > Linked chronicle page: [[Session 010 - The Silent Town of Wells and the Ogre of the Marsh]]
 
 ## Orders from Sarum

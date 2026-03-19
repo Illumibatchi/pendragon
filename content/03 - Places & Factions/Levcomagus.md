@@ -6,7 +6,5 @@ tags:
   - place
 ---
 
-# Levcomagus
-
 ## Notes
 An estate/holding in the lands of Silchester. [[Sir Blaine]] is noted as steward of Levcomagus.

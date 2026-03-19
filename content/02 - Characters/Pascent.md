@@ -11,8 +11,6 @@ tags:
   - war
 ---
 
-# Pascent
-
 ## Notes
 Commander associated with the Irish host besieging Sarum; described as the son of the deposed High King Vortigern.
 

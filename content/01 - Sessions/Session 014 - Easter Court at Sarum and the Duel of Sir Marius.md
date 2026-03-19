@@ -33,8 +33,6 @@ tags:
   - uther-period
 ---
 
-# Session 014 — Easter Court at Sarum and the Duel of Sir Marius
-
 **In-game year:** 483
 
 

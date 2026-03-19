@@ -1,4 +1,3 @@
-# Places & Factions Index
 
 > Curated index of locations and groups seen so far. Items include short blurbs and the session numbers they matter in.
 
@@ -64,7 +63,8 @@
 - [[Somerset]] — Cadwy made Count of Somerset in treaty. *([[Session 012 - The Burning of Dunkerton and the Peace of Summerland|S12]])*
 
 ## Wilderspool thread
-- [[Wilderspool]] — Sacred well region east of York; hanging knights + hag clearing. *([[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead|S16]])*
+- [[Wilderspool]] — Sacred well region east of York; hanging knights + hag clearing; serpent-marked surgeons. *([[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead|S16]], [[Session 017 - The Wyrd Pool of Wilderspool|S17]])*
+- [[Wyrd Pool]] — Taboo-ridden sacred pool in the hills northwest of Wilderspool; serpent rite site; taboo kills horses. *([[Session 017 - The Wyrd Pool of Wilderspool|S17]])*
 
 ---
 

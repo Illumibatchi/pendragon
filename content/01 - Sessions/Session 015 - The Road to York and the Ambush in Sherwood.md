@@ -43,8 +43,6 @@ tags:
   - uther-period
 ---
 
-# Session 015 — The Road to York and the Ambush in Sherwood
-
 **In-game year:** 484
 
 

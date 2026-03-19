@@ -12,8 +12,6 @@ tags:
   - session
 ---
 
-# Session 007 — Player Notes Addendum — Feast Highlights
-
 Millicent is seated above the salt — the rest below the salt.
 
 M attempts dancing.

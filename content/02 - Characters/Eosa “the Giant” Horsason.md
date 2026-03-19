@@ -14,8 +14,6 @@ tags:
   - war
 ---
 
-# Eosa “the Giant” Horsason
-
 ## Notes
 A giant Saxon king (size compared to a horse) encountered in the Lincoln Forest near Newark. Defeated and shown mercy; withdraws after paying ransom.
 

@@ -6,7 +6,5 @@ tags:
   - place
 ---
 
-# Gloucester
-
 ## Notes
 Large trade town where sightings help confirm the wyvern’s movement toward surrounding forests.

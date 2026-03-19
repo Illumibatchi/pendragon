@@ -6,7 +6,5 @@ tags:
   - place
 ---
 
-# Caerwent
-
 ## Notes
 Associated with Sir Marius (Knight Commander) and Lady Rhianneth.

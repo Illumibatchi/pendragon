@@ -10,8 +10,6 @@ tags:
   - npc
 ---
 
-# Sir Madoc
-
 ## Notes
 Legitimized bastard son of Uther Pendragon; potentially significant in succession politics.
 
@@ -22,3 +20,4 @@ Legitimized bastard son of Uther Pendragon; potentially significant in successio
 - **(483)** — Easter Court at Sarum; Lady Rhianneth forces her attentions on him in the gardens and kisses him. *(Source: [[Session 014 - Easter Court at Sarum and the Duel of Sir Marius]])*
 - **(484)** — Joins Millicent's conroi to learn warfare; during the Sherwood ambush, rushes to defend Millicent when she is nearly killed by a huscarl. *(Source: [[Session 015 - The Road to York and the Ambush in Sherwood]])*
 - **(484)** — Continues with the company to York for parley and east toward Wilderspool to investigate the Well. *(Source: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]])*
+- **(484)** — Abducted from Wilderspool and used in a serpent rite at the Wyrd Pool; his throat is cut and he is cast into the waters, but Millicent hauls him free and he survives—dazed and unresponsive afterward. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*

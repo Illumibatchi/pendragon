@@ -42,8 +42,6 @@ tags:
   - uther-period
 ---
 
-# Session 008 — The Giant King of Deira and the Fairy Road
-
 **In-game year:** 481
 
 

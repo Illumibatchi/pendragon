@@ -10,7 +10,6 @@ tags:
   - pc
 ---
 
-# Millicent
 
 ## Quick facts
 - **Description:** A determined, honorable squire seeking to prove her valor and uphold the traditions of knighthood.
@@ -22,3 +21,5 @@ tags:
 - **(483)** — Intercepts an assassin targeting Count Roderick; grievously wounded and loses a great tooth. *(Source: [[Session 013 - The Assassin’s Winter and the Escort of Lady Ellen]])*
 - **(483)** — Leads the escort to retrieve Lady Ellen from Londinium; keeps a suspicious Deiran-painted shield as evidence. *(Source: [[Session 013 - The Assassin’s Winter and the Escort of Lady Ellen]])*
 - **(484)** — Leads the northern march toward York; nearly killed in the Sherwood ambush; recovers after Drimant’s chant. *(Source: [[Session 015 - The Road to York and the Ambush in Sherwood]])*
+- **(484)** — Orders the three brain-fed infants spared and carried into Wilderspool to be placed in proper care. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
+- **(484)** — Beheads the red-haired priestess at the Wyrd Pool and hauls Madoc from the waters, staunching his wound. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*

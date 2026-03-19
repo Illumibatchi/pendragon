@@ -13,8 +13,6 @@ tags:
   - fae
 ---
 
-# Lady Niev
-
 ## Notes
 Named as the mysterious woman in white who sold Sir Blaine a fairy dragon egg, claiming it would bring fortune to the Baron of Winchbank’s house.
 

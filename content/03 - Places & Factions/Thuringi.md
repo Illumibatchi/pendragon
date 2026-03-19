@@ -7,7 +7,5 @@ tags:
   - war
 ---
 
-# Thuringi
-
 ## Notes
 Enemies of the Saxons (per Ælflaed’s account). Said to serve Hunnic overlords further east.

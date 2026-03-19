@@ -8,8 +8,6 @@ tags:
   - war
 ---
 
-# Wyvern (Downton)
-
 ## Notes
 A wyvern that attacks during the Battle of Downton: it seizes the High King, lifts him into the air, and drops him. It is stabbed repeatedly and finally slain—reportedly by [[Beonred (Beon)]] while near death.
 

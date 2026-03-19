@@ -7,7 +7,5 @@ tags:
   - war
 ---
 
-# Eboracum (York)
-
 ## Notes
 Major northern city (York) reported fallen to Saxons last autumn. Envoys from Malahaut appeal to Uther for aid.

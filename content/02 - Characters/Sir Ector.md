@@ -10,8 +10,6 @@ tags:
   - npc
 ---
 
-# Sir Ector
-
 ## Notes
 Brother of [[Lady Rachel of Carbonog]]. During the feast, he asks the drunken Beon to entertain Rachel while he is called away.
 

@@ -9,7 +9,5 @@ tags:
   - politics
 ---
 
-# Vortigern
-
 ## Notes
 Deposed High King referenced in the campaign: Pascent is described as his son, leading Irish forces against Salisbury.

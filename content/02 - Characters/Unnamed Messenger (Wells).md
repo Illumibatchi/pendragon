@@ -8,8 +8,6 @@ tags:
   - mystery
 ---
 
-# Unnamed Messenger (Wells)
-
 ## Notes
 A messenger claiming to act in [[Uther Pendragon]]’s name demanded the town’s boys muster at Sarum and threatened [[Lady Wells]]. The villagers killed the messenger and fled into the marsh; the body was later found at a pagan shrine, ritually strangled and bound upright.
 

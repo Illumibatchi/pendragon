@@ -33,8 +33,6 @@ tags:
   - uther-period
 ---
 
-# Session 016 — The Centurion-King, the Well of Wilderspool, and the Hag of the Dead
-
 **In-game year:** 484
 
 
@@ -62,6 +60,8 @@ The hag has prepared traps throughout the clearing. Drustin’s horse Brass is k
 
 ### Aftermath: the infants
 In the clearing, the knights discover a cradle containing **three infants** and a mortar/pestle where the hag had been grinding brains from the dead. Assterius and Ælflaed are badly wounded and require skilled treatment.
+
+**Note (retroactive):** Assterius later goes mad due to a **failed Passion roll** during/after the hag clearing battle (detail originally omitted from the session write-up).
 
 ## Timeline entries to add
 - **(484)** — Parley at York: Eosa hires the knights to investigate Wilderspool; Brodin rides south to confront Uther. *(Source: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]])*

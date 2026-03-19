@@ -7,7 +7,5 @@ tags:
   - war
 ---
 
-# Leicester
-
 ## Notes
 Muster point called by Uther after Aurelius’s death; loyal knights assemble here before marching on Bedegraine.

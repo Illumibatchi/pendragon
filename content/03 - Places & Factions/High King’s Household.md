@@ -6,7 +6,5 @@ tags:
   - politics
 ---
 
-# High King’s Household
-
 ## Notes
 The High King’s direct household knights (not just vassals). PCs are granted household knight positions after their knighting.

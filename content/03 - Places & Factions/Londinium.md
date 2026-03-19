@@ -6,7 +6,5 @@ tags:
   - place
 ---
 
-# Londinium
-
 ## Notes
 Seat/base of the High King’s household knights after the PCs’ knighting.

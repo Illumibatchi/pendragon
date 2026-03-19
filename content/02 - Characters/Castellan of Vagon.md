@@ -9,8 +9,6 @@ tags:
   - npc
 ---
 
-# Castellan of Vagon
-
 ## Notes
 Military commander of the fortress at Vagon. Receives warning from squires that "Wolves are about" and puts the settlement on alert.
 

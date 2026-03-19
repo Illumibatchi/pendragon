@@ -6,7 +6,5 @@ tags:
   - place
 ---
 
-# Silchester
-
 ## Notes
 A major fortress and polity in Logres. The castle is found nearly empty due to a levy marching south to respond to Saxon activity near [[Hampshire]].

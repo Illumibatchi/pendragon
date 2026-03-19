@@ -9,8 +9,6 @@ tags:
   - character
 ---
 
-# Brass (Drustin’s horse)
-
 ## Notes
 Drustin’s warhorse. Killed by a trap during the hag clearing fight near Wilderspool.
 

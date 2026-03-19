@@ -11,7 +11,5 @@ tags:
   - placeholder-name
 ---
 
-# Unknown name - Rachel's hedge knight brother
-
 ## Notes
 A rugged hedge knight from the mountains of Cambria; brother of [[Lady Rachel of Carbonog]].

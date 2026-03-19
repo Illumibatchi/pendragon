@@ -6,7 +6,5 @@ tags:
   - place
 ---
 
-# Bourton
-
 ## Notes
 During the wyvern hunt, someone claims to have seen a man riding a pig.

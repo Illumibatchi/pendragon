@@ -6,8 +6,6 @@ tags:
   - place
 ---
 
-# Salisbury
-
 ## Notes
 County ruled by [[Count Roderick of Salisbury]] during the Uther Period.
 

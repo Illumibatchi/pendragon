@@ -10,8 +10,6 @@ tags:
   - politics
 ---
 
-# King Cadwy of Summerland
-
 ## Notes
 Meets Uther and signs a peace treaty. Granted the title **Count of Somerset** and additional lands.
 

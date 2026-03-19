@@ -9,8 +9,6 @@ tags:
   - npc
 ---
 
-# Lady Triamors
-
 ## Notes
 Heiress of [[Lickeyend]]. Introduced to Drustin by Archbishop Dubricus as a potential match; Drustin rejects her dramatically.
 

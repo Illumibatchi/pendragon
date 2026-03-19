@@ -8,8 +8,6 @@ tags:
   - npc
 ---
 
-# Duchess of Silchester
-
 ## Notes
 Host at Silchester Castle during the duke's absence; dines with a reduced household due to the levy marching south.
 

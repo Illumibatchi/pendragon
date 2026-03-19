@@ -7,7 +7,5 @@ tags:
   - war
 ---
 
-# Enshield of Sir Kenian
-
 ## Notes
 Sir Kenian’s enschild: a formation of knights, squires, and roughly twice as many men‑at‑arms on foot (~16 in this expedition). The PCs’ conroi operates under his command for the Wells mission.

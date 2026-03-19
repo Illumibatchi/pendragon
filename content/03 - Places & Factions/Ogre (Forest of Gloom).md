@@ -7,8 +7,6 @@ tags:
   - threat
 ---
 
-# Ogre (Forest of Gloom)
-
 ## Notes
 An ogre indicated by enormous footprints leading away from the hillmen’s cannibal camp. It appears to have been feeding there; the hillmen may be allied with or serving it.
 

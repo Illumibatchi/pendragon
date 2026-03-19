@@ -36,8 +36,6 @@ tags:
   - uther-period
 ---
 
-# Session 003 — The Empty Castle and the Forest Ambush
-
 **In-game year:** 480
 
 

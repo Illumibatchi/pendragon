@@ -1,4 +1,3 @@
-# Timeline
 
 > Master timeline. Each bullet should link back to the session note that established it.
 
@@ -41,6 +40,11 @@
 ## 484
 - York falls to Saxons; Malahaut appeals to Uther; Madoc joins the conroi. On the road north, the company is ambushed in Sherwood (Ælflaed + huscarls); Millicent is nearly killed and Drimant intervenes; Lincoln is found under siege by Angles. *(Source: [[Session 015 - The Road to York and the Ambush in Sherwood]])*
 - Parley at York: Eosa hires the knights to investigate Wilderspool; Brodin rides south to confront Uther. On the road east, the knights find thirteen hanging knights and kill a brain-eating hag; three infants are discovered afterward. *(Source: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]])*
+- The company reaches [[Wilderspool]] with three brain-fed infants; serpent-marked surgeons take custody of Ælflaed, Madoc, and the infants. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
+- Ælflaed, Madoc, Drimant, and the squires vanish overnight; the trail leads northwest toward the taboo-ridden [[Wyrd Pool]]. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
+- Defying the Wyrd Pool’s purification taboo kills the company’s horses beyond the boundary. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
+- At the Wyrd Pool summit, a red-haired priestess cuts Madoc’s throat and casts him into the pool; a serpent-woman rises as the company attacks to free the captives. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
+- Millicent beheads the red-haired priestess; the serpent creature is slain (final blow from Maewyn Succat’s staff). Madoc and Ælflaed survive but remain dazed, and Liam wanders into the forest in madness. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
 
 ---
 

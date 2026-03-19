@@ -28,8 +28,6 @@ tags:
   - uther-period
 ---
 
-# Session 013 - The Assassin's Winter and the Escort of Lady Ellen
-
 **In-game year:** 483
 
 

@@ -6,7 +6,5 @@ tags:
   - place
 ---
 
-# Carbonog
-
 ## Notes
 Home/association of [[Lady Rachel of Carbonog]], a healer connected to the mountains of Cambria.

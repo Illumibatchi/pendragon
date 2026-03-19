@@ -11,8 +11,6 @@ tags:
   - war
 ---
 
-# Pedivere
-
 ## Quick facts
 - **Role:** Alan’s replacement knight after [[Noah]]’s death.
 - **Status:** Out of play (player quit; GM handwaved barely alive)

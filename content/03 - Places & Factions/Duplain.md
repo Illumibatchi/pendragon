@@ -6,7 +6,5 @@ tags:
   - place
 ---
 
-# Duplain
-
 ## Notes
 Seat/holding associated with [[Sir Jerem]] (castellan of Duplain).

@@ -7,8 +7,6 @@ tags:
   - holy
 ---
 
-# Shield of St. Crispin
-
 ## Inscription (Downton shrine)
 > *Angel ASStrelian guards the holy shield until the time the worthy come to claim it for a special deed.*  
 > *Worthy in four things: honesty, justice, spirituality, and valor.*

@@ -7,8 +7,6 @@ tags:
   - mystery
 ---
 
-# False-Flag Raiders (Deiran Shields)
-
 ## Notes
 Attackers in Purdue Forest carry shields painted with Deiran Saxon symbols, but the paint appears freshly applied over older designs. A captured prisoner’s accent sounds Silchestrian, suggesting deliberate false-flag raids.
 

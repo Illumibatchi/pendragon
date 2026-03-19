@@ -7,7 +7,5 @@ tags:
   - magic
 ---
 
-# Ælflaed’s Slippers
-
 ## Notes
 Magical slippers associated with Ælflaed, described as enabling supernatural movement (teleportation / extreme speed).

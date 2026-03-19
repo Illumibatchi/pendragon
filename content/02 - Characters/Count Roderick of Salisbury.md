@@ -11,8 +11,6 @@ tags:
   - npc
 ---
 
-# Count Roderick of Salisbury
-
 ## Role
 Count of Salisbury; liege lord whose household knights the PCs serve as squires.
 

@@ -15,8 +15,6 @@ tags:
   - mystery
 ---
 
-# Tor of Glastonbury (Ynys Wydrin)
-
 ## Notes
 A pointed hill (“tor”) near Glastonbury.
 - Pagan belief: a gateway to the shadow world where the dead reside; even mortals might pass.

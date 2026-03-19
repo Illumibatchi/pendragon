@@ -6,7 +6,5 @@ tags:
   - place
 ---
 
-# Hampshire
-
 ## Notes
 Region where Saxon activity prompts the Duke of Silchester to march south with levies. *(Mentioned in Session 3.)*

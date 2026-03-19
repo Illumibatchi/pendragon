@@ -8,8 +8,6 @@ tags:
   - npc
 ---
 
-# Alaric
-
 ## Notes
 At the victory feast, toasts the victorious dead.
 

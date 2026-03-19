@@ -8,8 +8,6 @@ tags:
   - npc
 ---
 
-# Smallberries
-
 ## Notes
 Mentioned during the Cu‑Sith fight: retrieves and presents Liam’s spear after Liam recovers from fear.
 

@@ -9,8 +9,6 @@ tags:
   - session
 ---
 
-# Session 011 — Player Synopsis — Hag and the Well
-
 > Linked chronicle page: [[Session 011 - The Hag of the Passage and the Lady of the Well]]
 
 ## Millicent returns (Madoc + white stag vision)

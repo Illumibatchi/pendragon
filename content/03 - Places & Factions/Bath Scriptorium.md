@@ -7,7 +7,5 @@ tags:
   - intelligence
 ---
 
-# Bath Scriptorium
-
 ## Notes
 Abbey scriptorium consulted for York’s fortification plans. Reveals a potential weakness: a drain where the [[River Foss]] passes through the wall.

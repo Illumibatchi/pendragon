@@ -8,7 +8,5 @@ tags:
   - war
 ---
 
-# Uther Troop Map (Spy Map)
-
 ## Notes
 A map found in a barracks-like chamber that accurately details Uther’s troop positions, implying active spying on the royal host.

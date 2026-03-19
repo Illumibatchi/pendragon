@@ -12,8 +12,6 @@ tags:
   - npc
 ---
 
-# Sir Marius of Caerwent
-
 ## Notes
 Knight Commander from Caerwent. Provoked into dueling Asterius at Sarum; beheaded in a single stroke.
 

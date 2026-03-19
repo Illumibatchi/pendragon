@@ -8,8 +8,6 @@ tags:
   - threat
 ---
 
-# Cu‑Sith (Wells)
-
 ## Notes
 A giant green faerie wolf (ox-sized) encountered near an ancient stone gateway outside Wells. Its howl spreads terror. Kills [[Sir Leo]] before being slain (final blow credited to Beon).
 

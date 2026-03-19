@@ -10,8 +10,6 @@ tags:
   - session
 ---
 
-# Session 009 — Player Synopsis — Bedegraine
-
 ## Cai’s interludes / org-chart clarifications
 Sometimes there is no clear chain of command; our particular conroi is still commanded by Dame Millicent.
 

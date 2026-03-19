@@ -14,8 +14,6 @@ tags:
   - fae
 ---
 
-# Lady of the Well
-
 ## Notes
 A beautiful woman encountered at the flooded shrine’s well, calling herself the **Lady of the Shrine**. Offers bargains based on desire.
 - Kenian asks for his horse; she says she does not have it.

@@ -8,7 +8,5 @@ tags:
   - npc
 ---
 
-# Squire Leo
-
 ## Notes
 A squire at the feast who asks Liam for advice on attaining knighthood.

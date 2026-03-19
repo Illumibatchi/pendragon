@@ -6,8 +6,6 @@ tags:
   - place
 ---
 
-# River Foss
-
 ## Overview
 One of two rivers that flow through [[Eboracum (York)]] (along with the River Ouse). The Foss runs through the city walls via a drainage system, which presents a potential strategic weakness for infiltration or assault.
 

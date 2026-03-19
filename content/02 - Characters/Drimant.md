@@ -11,8 +11,6 @@ tags:
   - mystery
 ---
 
-# Drimant
-
 ## Notes
 A blue-robed bard/chronicler trained by the Ladies of the Lake. Warns of the Black Dog omen and suggests York’s walls may be ritually strengthened. Alarmed by Liam’s Lady-of-the-Well bargain; advises rubies should be recovered/returned.
 

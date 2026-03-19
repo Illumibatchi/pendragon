@@ -7,7 +7,5 @@ tags:
   - war
 ---
 
-# Summerland
-
 ## Notes
 Region/kingdom targeted by Uther for invasion after he is made King of Logres.

@@ -12,8 +12,6 @@ tags:
   - intrigue
 ---
 
-# Lady Rhianneth
-
 ## Notes
 Much younger wife of [[Sir Marius of Caerwent]]. Displays possessive/forceful interest in [[Sir Madoc]] and appears to maneuver courtly situations to her advantage.
 

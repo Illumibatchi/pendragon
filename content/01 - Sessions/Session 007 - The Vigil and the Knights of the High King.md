@@ -27,8 +27,6 @@ tags:
   - uther-period
 ---
 
-# Session 007 — The Vigil and the Knights of the High King
-
 **In-game year:** 481
 
 

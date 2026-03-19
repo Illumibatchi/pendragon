@@ -9,8 +9,6 @@ tags:
   - npc
 ---
 
-# Baron of Winchbank
-
 ## Notes
 Father of [[Lady Ellen of Winchbank]]. Host at Winchbank Castle during the delegation’s visit.
 

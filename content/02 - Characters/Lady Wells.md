@@ -9,8 +9,6 @@ tags:
   - npc
 ---
 
-# Lady Wells
-
 ## Notes
 Local lady of Wells; threatened by a purported messenger acting in Uther’s name, contributing to the townsfolk’s violent response and flight.
 

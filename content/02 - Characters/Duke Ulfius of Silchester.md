@@ -9,8 +9,6 @@ tags:
   - war
 ---
 
-# Duke Ulfius of Silchester
-
 ## Notes
 Leader of Silchester's forces, rumored to be marching with the High King to relieve Sarum. The squires seek his combined army near Downton.
 

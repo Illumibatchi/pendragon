@@ -8,8 +8,6 @@ tags:
   - underworld
 ---
 
-# Dverga (raven-footed smiths)
-
 ## Notes
 In the hidden underworld complex encountered on the Glastonbury thread, the knights find a soot-covered smithy marked by strange tracks and a nearby hatchery area. The party suspects **dverga** — described in the campaign notes as having **raven feet**.
 

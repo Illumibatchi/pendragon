@@ -14,8 +14,6 @@ tags:
   - session
 ---
 
-# Session 000 — Template
-
 **In-game year:** 480 (location:)
 
 

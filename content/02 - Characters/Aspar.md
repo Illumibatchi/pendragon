@@ -10,7 +10,5 @@ tags:
   - lore
 ---
 
-# Aspar
-
 ## Notes
 Referenced at the feast as an **Alanic magister militum** and old family foe. Identified as the uncle of [[Squire Aspara]].

@@ -13,8 +13,6 @@ tags:
   - politics
 ---
 
-# Lucius (Duke of Saxon Shore)
-
 ## Notes
 A four-year-old child knighted by Uther at Easter court and proclaimed Duke of the Saxon Shore; governed by a regent aunt.
 

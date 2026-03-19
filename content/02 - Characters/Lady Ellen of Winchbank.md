@@ -12,8 +12,6 @@ tags:
   - npc
 ---
 
-# Lady Ellen of Winchbank
-
 ## Notes
 Sole daughter and heir of the Baron of Winchbank. Considered as a politically advantageous marriage match for [[Count Roderick of Salisbury]]. Described as unskilled in courtly matters.
 

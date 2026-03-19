@@ -22,8 +22,6 @@ tags:
   - uther-period
 ---
 
-# Session 000 — The Young Squires of Salisbury
-
 **In-game year:** 480
 
 

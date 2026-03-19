@@ -8,7 +8,5 @@ tags:
   - religion
 ---
 
-# Joseph of Arimathea
-
 ## Notes
 Christian tradition: brought the Holy Grail (containing Christ’s blood) to Britain and founded the [[Abbey of Glastonbury]] near [[Glastonbury]].

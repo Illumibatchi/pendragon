@@ -12,8 +12,6 @@ tags:
   - politics
 ---
 
-# Duke Edaris of the March
-
 ## Notes
 Hosts the knights at Lambor Castle. Father of [[Lady Rosalyn]]. Wants an answer about marriage negotiations by the end of the year.
 

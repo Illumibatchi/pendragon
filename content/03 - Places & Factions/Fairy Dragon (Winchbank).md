@@ -8,8 +8,6 @@ tags:
   - threat
 ---
 
-# Fairy Dragon (Winchbank)
-
 ## Notes
 A small, butterfly-winged dragon (dog-sized) presented as a gift at Winchbank. Identified as a faerie creature with a poisonous tail stinger and mind-affecting breath. Killed by [[Sir Jerem]] after the squires restrain it.
 

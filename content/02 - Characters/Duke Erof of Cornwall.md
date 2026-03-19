@@ -10,8 +10,6 @@ tags:
   - politics
 ---
 
-# Duke Erof of Cornwall
-
 ## Notes
 Attends Easter court at Sarum during preparations for Ellen's marriage and Uther's consolidation.
 

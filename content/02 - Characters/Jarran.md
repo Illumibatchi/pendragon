@@ -8,7 +8,5 @@ tags:
   - npc
 ---
 
-# Jarran
-
 ## Notes
 Spoken to at the feast about injuries; wounds expected to need 1–2 months of healing.

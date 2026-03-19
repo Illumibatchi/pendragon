@@ -9,8 +9,6 @@ tags:
   - mystery
 ---
 
-# The Woman in White (Silchester)
-
 ## Notes
 A mysterious woman in a white cloak seen entering Silchester Castle shortly before nightfall. Guards treat her with deference; her identity is unknown.
 

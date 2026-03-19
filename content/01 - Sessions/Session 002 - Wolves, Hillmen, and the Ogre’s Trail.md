@@ -28,8 +28,6 @@ tags:
   - uther-period
 ---
 
-# Session 002 — Wolves, Hillmen, and the Ogre’s Trail
-
 **In-game year:** 480
 
 

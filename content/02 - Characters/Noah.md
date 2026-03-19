@@ -10,8 +10,6 @@ tags:
   - pc
 ---
 
-# Noah
-
 ## Notes
 A squire in Salisbury’s household (introduced after the year gap). Suggests the white-cloaked woman may be connected to the Ladies of the Lake.
 - **Status:** Deceased (Session 5)

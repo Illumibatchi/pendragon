@@ -36,8 +36,6 @@ tags:
   - uther-period
 ---
 
-# Session 006 — The Shield of St. Crispin and the Fall of the Wyvern
-
 **In-game year:** 481
 
 

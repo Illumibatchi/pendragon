@@ -10,8 +10,6 @@ tags:
   - npc
 ---
 
-# Sir Jerem
-
 ## Notes
 Level-headed castellan of [[Duplain]]. After losses among Salisbury’s knights, the squires are reorganized under his command.
 

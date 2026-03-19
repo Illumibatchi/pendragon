@@ -7,8 +7,6 @@ tags:
   - treasure
 ---
 
-# Chest of Rubies (Liam)
-
 ## Notes
 A chest of rubies taken from the Flooded Shrine after Liam bargains with the [[Lady of the Well]] for fame and success.
 

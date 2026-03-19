@@ -6,8 +6,6 @@ tags:
   - place
 ---
 
-# Winchbank Castle
-
 ## Notes
 Seat of the Baron of Winchbank. Unlike Silchester, Winchbank is fully staffed with soldiers and servants and quickly welcomes Sir Jerem’s delegation.
 

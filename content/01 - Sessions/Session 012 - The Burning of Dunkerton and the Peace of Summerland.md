@@ -34,8 +34,6 @@ tags:
   - uther-period
 ---
 
-# Session 012 — The Burning of Dunkerton and the Peace of Summerland
-
 **In-game year:** 482
 
 

@@ -32,8 +32,6 @@ tags:
   - uther-period
 ---
 
-# Session 010 — The Silent Town of Wells and the Ogre of the Marsh
-
 **In-game year:** 482
 
 

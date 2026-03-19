@@ -8,8 +8,6 @@ tags:
   - ongoing
 ---
 
-# Wyvern (escaped)
-
 ## Notes
 The wyvern from Downton escaped the battlefield gravely wounded and remains at large. Merlin tasks the knights with finding and slaying it.
 

@@ -7,7 +7,5 @@ tags:
   - war
 ---
 
-# Huns
-
 ## Notes
 Overlords said to be served by the Thuringi (per Ælflaed’s account).

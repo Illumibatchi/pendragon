@@ -8,7 +8,5 @@ tags:
   - npc
 ---
 
-# Knight Commander Caradoc
-
 ## Notes
 Leads a conroi into Dunkerton and burns the town per Uther’s orders. His conroi is then slaughtered by a giant; only Sir Geraint survives.

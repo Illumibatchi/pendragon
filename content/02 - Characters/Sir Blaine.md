@@ -11,8 +11,6 @@ tags:
   - npc
 ---
 
-# Sir Blaine
-
 ## Notes
 Steward of [[Levcomagus]] in the lands of Duke Ulfius of Silchester. His riders are observed shadowing Sir Jerem’s delegation on the road.
 

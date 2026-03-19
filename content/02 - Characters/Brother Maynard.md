@@ -10,8 +10,6 @@ tags:
   - mystery
 ---
 
-# Brother Maynard
-
 ## Notes
 A priest who accompanies Millicent and helps her bring the gravely wounded Prince [[Sir Madoc]] to safety. During that journey, he is also present for Millicent’s sighting of [[Unknown name - Woman in White (White Stag)]].
 

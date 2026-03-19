@@ -8,8 +8,6 @@ tags:
   - npc
 ---
 
-# Squire Aspara
-
 ## Notes
 A squire present at the victory feast. Rumored “amazon” ancestry (grandmother). Later revealed (in conversation) to be **Alanic**, part of the Sarmatian confederation; speaks Greek. Her uncle is [[Aspar]].
 

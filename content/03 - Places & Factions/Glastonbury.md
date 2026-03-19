@@ -8,7 +8,5 @@ tags:
   - mystery
 ---
 
-# Glastonbury
-
 ## Notes
 Marshland region tied to major Christian and pagan legends. Near the Tor ([[Tor of Glastonbury (Ynys Wydrin)]]) and the Abbey of Glastonbury. Considered a “thin place.” Potentially strategically important if Uther seeks to secure a supernatural “gate” while campaigning against Summerland.

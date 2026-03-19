@@ -6,7 +6,5 @@ tags:
   - place
 ---
 
-# King's Road
-
 ## Notes
 A major road in/through Salisbury; the PCs join a patrol along it near [[Woodhouse]].

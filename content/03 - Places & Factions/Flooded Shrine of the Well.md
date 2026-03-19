@@ -8,8 +8,6 @@ tags:
   - mystery
 ---
 
-# Flooded Shrine of the Well
-
 ## Notes
 An ancient flooded shrine deep within the Glastonbury passage complex. Contains a central well (home to the [[Lady of the Well]]) and a pile of treasure.
 

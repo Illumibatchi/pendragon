@@ -12,8 +12,6 @@ tags:
   - politics
 ---
 
-# Baroness Pomponia
-
 ## Notes
 A baroness from Frankish lands associated with the Saxon Shore. Presents her son Lucius at Easter court; seeks political protection/allies.
 

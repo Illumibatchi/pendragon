@@ -1,5 +1,3 @@
-# Characters Index
-
 ## Player Knights / PCs (active)
 - [[Millicent]] (Jessica) - battlefield leader; courtly "unaware" streak; famed for decisive rescues.
 - [[Drustin]] (Kevin) - eager and tradition-minded; prone to melancholy; tied to St. Crispin relic story.
@@ -68,6 +66,8 @@
 
 ## Other NPCs / stubs (auto-listed)
 - [[Knight Commander Caradoc]] — burns Dunkerton; conroi slaughtered by a giant.
+- [[Madam Eva]] — mystic near Wilderspool; warns of taboos; reads Liam.
+- [[Maewyn Succat]] — Christian priest freed from a pit near Wilderspool.
 - [[Alaric]]
 - [[Aspar]]
 - [[Baron of Winchbank]]

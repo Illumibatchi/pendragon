@@ -6,7 +6,5 @@ tags:
   - war
 ---
 
-# Deira Saxons
-
 ## Notes
 Saxon group led by [[Eosa “the Giant” Horsason]]. Encountered in the Lincoln Forest near Newark.

@@ -10,8 +10,6 @@ tags:
   - npc
 ---
 
-# Sir Beefy
-
 ## Notes
 A feared/renowned foe referenced at the feast. Liam challenges him to a contest of strength and loses; Drustin is asked whether he would show mercy to him.
 

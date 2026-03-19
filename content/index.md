@@ -9,6 +9,11 @@ A record of events, characters, and places within the campaign.
 
 ---
 
+## Mysteries & Open Threads
+- [[00 - Hub/Open Threads & Mysteries|Open Threads & Mysteries]]
+
+---
+
 ## Overview
 - [[00 - Hub/Story So Far|Story So Far]]
 - [[00 - Hub/Timeline|Timeline]]
@@ -21,11 +26,13 @@ A record of events, characters, and places within the campaign.
 
 ---
 
-## The Chronicle
+## Session logs (IRL dates here)
 - [[00 - Hub/Sessions Index|Session Logs]]
 
+---
+
 ## Player Map
-[[00 - Hub/Player Map.jpg]]
+![[00 - Hub/Player Map.jpg]]
 
 ---
 

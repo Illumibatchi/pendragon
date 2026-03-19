@@ -12,8 +12,6 @@ tags:
   - mystery
 ---
 
-# Ælflaed
-
 ## Notes
 A stunningly beautiful Saxon warrior (described as a Saxon princess) encountered in the Sherwood ambush. Her beauty appears to have a bewitching effect on observers.
 
@@ -21,3 +19,4 @@ A stunningly beautiful Saxon warrior (described as a Saxon princess) encountered
 - **(484)** — Appears in Sherwood ambush; knocked unconscious by Drimant. *(Source: [[Session 015 - The Road to York and the Ambush in Sherwood]])*
 - **(484)** — Captive on the road to York; reveals her Wilderspool sacrifice mission and uses magical slippers to teleport into combat. *(Source: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]]).* 
 - **(484)** — Knocked unconscious in the hag clearing and requires chirurgery. *(Source: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]])*
+- **(484)** — Taken into Wilderspool by serpent-marked surgeons, then abducted to the Wyrd Pool rite; survives rescue but remains dazed and unresponsive afterward. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*

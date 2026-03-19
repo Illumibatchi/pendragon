@@ -9,7 +9,5 @@ tags:
   - npc
 ---
 
-# Brother Llewelyn
-
 ## Notes
 Monk encountered at Bath’s abbey; points the party toward the scriptorium’s fortification plans.

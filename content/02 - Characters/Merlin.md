@@ -9,8 +9,6 @@ tags:
   - mystery
 ---
 
-# Merlin
-
 ## Notes
 Appears in feast scenes and conversation. Drustin discusses folklore and pitches an ancient druidic order; Merlin claims he has an understanding with the house of Pendragon.
 

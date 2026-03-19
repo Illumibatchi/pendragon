@@ -11,8 +11,6 @@ tags:
   - politics
 ---
 
-# King Brodin of Malahaut
-
 ## Notes
 Brytho-Roman king of Malahaut, known as the “Centurion‑King” for wearing his grandfather’s Roman legatus armor. Courteous and disciplined. Offended by Eosa’s surrender offer; rides south to meet Uther and air grievances.
 

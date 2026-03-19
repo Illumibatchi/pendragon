@@ -6,7 +6,5 @@ tags:
   - war
 ---
 
-# Angles of Anglia
-
 ## Notes
 Angles in Anglia; target of a planned future campaign discussed during the High King’s journey to Lindsey.

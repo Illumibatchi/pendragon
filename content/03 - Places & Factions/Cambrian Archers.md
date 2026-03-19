@@ -7,7 +7,5 @@ tags:
   - war
 ---
 
-# Cambrian Archers
-
 ## Notes
 Archers encountered at the Battle of Bedegraine. Millicent’s conroi maneuvers to deny their opening volley and breaks them quickly.

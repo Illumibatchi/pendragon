@@ -10,8 +10,6 @@ tags:
   - pc
 ---
 
-# Gregory
-
 ## Quick facts
 - **Description:** A massive Saxon squire known for strength, pride, and reckless courage.
 - **Status:** Deceased (Session 2)

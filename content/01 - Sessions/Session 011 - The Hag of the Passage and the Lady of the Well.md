@@ -34,8 +34,6 @@ tags:
   - uther-period
 ---
 
-# Session 011 — The Hag of the Passage and the Lady of the Well
-
 **In-game year:** 482
 
 

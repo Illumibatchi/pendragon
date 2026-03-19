@@ -16,8 +16,6 @@ tags:
   - pc
 ---
 
-# Beonred (Beon)
-
 ## Notes
 Player: **Robert**.
 

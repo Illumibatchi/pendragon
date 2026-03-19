@@ -9,8 +9,6 @@ tags:
   - politics
 ---
 
-# Uther Pendragon
-
 ## Notes
 Referenced during the victory feast: known for lecherous ways and lacking trueborn sons; his legitimized bastard son is [[Sir Madoc]].
 

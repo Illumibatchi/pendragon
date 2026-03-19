@@ -9,8 +9,6 @@ tags:
   - npc
 ---
 
-# Rori of Newark
-
 ## Notes
 Castellan of Newark. Handsome, charming, and confident; Beonred finds him suspicious and contemptible. Provides soldiers to assist the knights in attacking Eosa’s Saxon camp.
 

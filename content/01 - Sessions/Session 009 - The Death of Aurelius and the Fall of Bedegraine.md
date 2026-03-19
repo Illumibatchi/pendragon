@@ -32,8 +32,6 @@ tags:
   - uther-period
 ---
 
-# Session 009 — The Death of Aurelius and the Fall of Bedegraine
-
 **In-game year:** 481
 
 

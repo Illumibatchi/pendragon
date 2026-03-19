@@ -7,7 +7,5 @@ tags:
   - politics
 ---
 
-# Somerset
-
 ## Notes
 Region tied to the Peace of Summerland: Uther grants King Cadwy the title **Count of Somerset** and additional lands.

@@ -6,8 +6,6 @@ tags:
   - place
 ---
 
-# Silchester Castle
-
 ## Notes
 Eerily quiet upon arrival in Session 3: stables deserted, fewer hearth fires in the town, and only a skeleton staff. The duke has marched south with the levy.
 

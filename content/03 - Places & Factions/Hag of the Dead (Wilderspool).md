@@ -8,8 +8,6 @@ tags:
   - horror
 ---
 
-# Hag of the Dead (Wilderspool)
-
 ## Notes
 An old woman found at a clearing with thirteen hanging knights. Claims she intends to eat their brains. Uses traps; fights viciously; collapses and dies from strain. Millicent severs her head.
 

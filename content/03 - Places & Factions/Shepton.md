@@ -7,7 +7,5 @@ tags:
   - mystery
 ---
 
-# Shepton
-
 ## Notes
 Origin point cited by the 13 ragged children encountered with the knights’ missing horses (“Shepton, sir!”). The children report fleeing through the marshes.

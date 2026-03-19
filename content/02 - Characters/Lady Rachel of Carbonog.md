@@ -11,8 +11,6 @@ tags:
   - npc
 ---
 
-# Lady Rachel of Carbonog
-
 ## Notes
 A lady-in-waiting at Winchbank known for her healing skill. Uses partly pagan methods (chants, mistletoe, boiled ox urine preparation) but successfully stabilizes [[Assterius]] after the Purdue Forest ambush.
 

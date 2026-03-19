@@ -12,8 +12,6 @@ tags:
   - war
 ---
 
-# War Baron Ulfius
-
 ## Notes
 Present at the Bedegraine siege lines under Uther's host.
 

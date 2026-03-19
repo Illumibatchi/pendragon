@@ -8,7 +8,5 @@ tags:
   - npc
 ---
 
-# Merdwyl
-
 ## Notes
 At the feast, asks Drustin if he would be willing to go on a quest; Drustin agrees so long as it does not violate his oaths.

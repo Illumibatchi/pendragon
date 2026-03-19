@@ -7,7 +7,5 @@ tags:
   - war
 ---
 
-# Bedegraine
-
 ## Notes
 Petty kingdom accused of betraying and killing High King Aurelius. Punished by Uther’s host; villages burned and the kingdom devastated.

@@ -11,8 +11,6 @@ tags:
   - war
 ---
 
-# Sir Kenian
-
 ## Notes
 Temporarily **player-controlled by Patrick** while Assterius was unavailable (madness).
 

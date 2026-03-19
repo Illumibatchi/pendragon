@@ -12,8 +12,6 @@ tags:
   - npc
 ---
 
-# Lady Llylla (Shisha)
-
 ## Notes
 Investigated at Warwick as a possible marriage prospect for Count Roderick.
 - Heir to three manors

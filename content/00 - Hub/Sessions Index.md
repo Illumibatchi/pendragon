@@ -1,5 +1,3 @@
-# Sessions Index
-
 |   # | Real date  | In-game year | Title                                                                | Link                                                                                   |
 | --: | ---------- | -----------: | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 |   0 | 2025-11-05 |          480 | The Young Squires of Salisbury                                       | [[Session 000 - The Young Squires of Salisbury]]                                       |
@@ -19,6 +17,7 @@
 |  14 | 2026-02-25 |          483 | Easter Court at Sarum and the Duel of Sir Marius                     | [[Session 014 - Easter Court at Sarum and the Duel of Sir Marius]]                     |
 |  15 | 2026-03-04 |          484 | The Road to York and the Ambush in Sherwood                          | [[Session 015 - The Road to York and the Ambush in Sherwood]]                          |
 |  16 | 2026-03-11 |          484 | The Centurion-King, the Well of Wilderspool, and the Hag of the Dead | [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]] |
+|  17 | 2026-03-18 |          484 | The Wyrd Pool of Wilderspool                                         | [[Session 017 - The Wyrd Pool of Wilderspool]]                                         |
 |   — |            |              | Template                                                             | [[Session 000 - Template]]                                                             |
 
 > I’ll maintain this table as we add sessions.

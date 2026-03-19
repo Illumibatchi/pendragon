@@ -10,8 +10,6 @@ tags:
   - cult
 ---
 
-# Red Sorceress (Glastonbury)
-
 ## Notes
 A beautiful sorceress associated with red cultists and undead knights in the hidden passage complex. Her gaze entrances Liam and enchants Kenian. Knocked unconscious by Aspara and captured.
 

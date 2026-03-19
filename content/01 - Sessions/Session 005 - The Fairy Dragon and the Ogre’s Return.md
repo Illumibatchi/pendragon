@@ -36,8 +36,6 @@ tags:
   - inferred
 ---
 
-# Session 005 — The Fairy Dragon and the Ogre’s Return
-
 **In-game year:** 480
 
 

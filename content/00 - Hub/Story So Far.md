@@ -1,6 +1,6 @@
-# Story So Far (Pendragon Campaign)
 
-> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 016**.
+
+> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 017**.
 
 ## Year 480 - The early days: squires of Salisbury (Sessions 000-002)
 - The campaign opens in the **Uther Period** with a group of squires serving the household knights of **[[Count Roderick of Salisbury]]**. *(See: [[Session 000 - The Young Squires of Salisbury]])*
@@ -63,3 +63,10 @@
 - The party meets [[King Brodin of Malahaut]] (Centurion-King) and parleys at York with Eosa. Eosa claims a Merlin-like Cymric man suggested taking York.
 - Eosa hires the party to investigate [[Wilderspool]] (5 gold now, 5 later). Brodin rides south to confront Uther.
 - On the road east: thirteen hanging knights and a trap-filled clearing. The party kills the [[Hag of the Dead (Wilderspool)]]. Drustin's horse [[Brass (Drustin’s horse)]] dies in a trap. Three infants are found near a mortar/pestle used to grind brains. *(See: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]] + [[Session 016 — Player Synopsis — Wilderspool and Hag of the Dead]])*
+
+## Year 484 - Wilderspool’s serpent surgeons and the Wyrd Pool rite (Session 017)
+- The company carries three brain-fed infants into [[Wilderspool]]; Drustin beheads the hag and buries the head beneath a marked stone when the corpse resists burning.
+- Wilderspool has no church and treats worship as personal choice. Ælflaed, Madoc, and the infants are entrusted to serpent-marked surgeons; that night Drustin wakes with strange marks on his neck.
+- By morning, Ælflaed, Madoc, Drimant, and the squires have vanished. The trail leads to the taboo-ridden [[Wyrd Pool]], where disobedience kills the company’s horses.
+- At the summit, cultists conduct a serpent rite: a red-haired priestess cuts Madoc’s throat and casts him into the pool as a serpent-woman rises. The company attacks to free the captives.
+- Millicent beheads the priestess; the serpent creature is slain (final blow from Maewyn Succat’s staff). Madoc and Ælflaed survive but remain dazed/unresponsive—and Liam wanders into the forest in madness after the battle. *(See: [[Session 017 - The Wyrd Pool of Wilderspool]])*

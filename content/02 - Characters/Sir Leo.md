@@ -10,8 +10,6 @@ tags:
   - war
 ---
 
-# Sir Leo
-
 ## Notes
 Knight who engages the Cu‑Sith near the stone gateway. Wounds it but is savagely mauled and killed.
 

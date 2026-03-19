@@ -7,8 +7,6 @@ tags:
   - mystery
 ---
 
-# Unknown name - Burning Village
-
 ## Notes
 Passed on the road to [[Vagon]]: a village engulfed in flames, strangely devoid of people. No survivors found.
 

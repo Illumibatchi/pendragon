@@ -28,8 +28,6 @@ tags:
   - inferred
 ---
 
-# Session 004 — The Lady’s Secret and the Feast at Winchbank
-
 **In-game year:** 480
 
 

@@ -11,8 +11,6 @@ tags:
   - npc
 ---
 
-# Lady Rosalyn
-
 ## Notes
 Daughter of the Duke of the March; evaluated as a potential marriage candidate for Count Roderick. Kind and charitable (possibly too generous). Observers note she seems more interested in Millicent than in male suitors.
 

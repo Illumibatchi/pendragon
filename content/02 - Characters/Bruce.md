@@ -10,8 +10,6 @@ tags:
   - politics
 ---
 
-# Bruce
-
 ## Notes
 A man in Count Roderick's service in an undefined but unsettling capacity; most people at court seem wary of him. In winter, he asks Drustin whether he has noticed anyone making deals with witches.
 

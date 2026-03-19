@@ -8,8 +8,6 @@ tags:
   - npc
 ---
 
-# Lycus
-
 ## Notes
 Member of Sir Kenian’s enschild during the Wells expedition. Helps form the spear line and discovers a hidden passage leading south from the ogre’s cave.
 

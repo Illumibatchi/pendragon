@@ -25,8 +25,6 @@ tags:
   - inferred
 ---
 
-# Session 001 — Wolves Are About
-
 **In-game year:** 480
 
 

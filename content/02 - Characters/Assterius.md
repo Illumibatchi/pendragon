@@ -12,7 +12,7 @@ tags:
 
 ## Quick facts
 - **Description:** A thoughtful, pragmatic Knight who balances caution with battlefield skill.
-- **Status:** Alive, but currently mad (post-Wilderspool thread)
+- **Status:** Alive (returned after Wilderspool madness)
 
 ## Timeline
 - **(480)** — Introduced as a squire of Salisbury. *(Source: [[Session 000 - The Young Squires of Salisbury]])*
@@ -25,3 +25,4 @@ tags:
 - **(484)** — Fights the Hag of the Dead at the Wilderspool clearing and is **critically wounded**, requiring chirurgery. *(Source: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]]; see also [[Session 016 — Player Synopsis — Wilderspool and Hag of the Dead]]).* 
 - **(484)** — Goes mad after the hag clearing battle due to a **failed Passion roll** (detail retroactively added; was missing from session notes). *(Source: table memory; see [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]]).* 
 - **(484)** — Not present for the Wyrd Pool events; currently mad. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
+- **(484)** — Returns to the conroi by the Serpent Lodge battle (no explanation recorded). *(Source: [[Session 018 - The Serpent Lodge and the Fall of Ælflaed]])*

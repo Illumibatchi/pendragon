@@ -1,17 +1,18 @@
-## Where we left off (end of [[Session 017 - The Wyrd Pool of Wilderspool|Session 017]])
-The company has shattered the serpent rite at the [[Wyrd Pool]]: [[Millicent]] beheaded the red-haired priestess, and the serpent creature was overwhelmed and slain (final blow from [[Maewyn Succat]]’s staff). Against expectation, both [[Sir Madoc]] and [[Ælflaed]] survived—but remain dazed and unresponsive. [[Sir Geraint]], [[Liam]], and [[Drustin]] fought bravely, overwhelming many cultists.
+## Where we left off (end of [[Session 018 - The Serpent Lodge and the Fall of Ælflaed|Session 018]])
+The conroi returned to [[Wilderspool]] and confronted the serpent-marked “surgeons” of the [[Serpent Lodge]]. The healers revealed themselves as serpent-things and called forth another manifestation of the serpent goddess. The lodge was destroyed and the serpent goddess slain (final blow from [[Maewyn Succat]]’s staff), but [[Ælflaed]] died in the battle. In the aftermath, the squires were found murdered and skinned on tanning racks. With the lodge’s chirurgeons dead and multiple knights gravely wounded, the company fled south to the [[City of the Legions]]—where [[Sir Madoc]] was saved in time. The conroi is now wintering there.
 
 ## Immediate fallout
-- [[Liam]] has gone mad and wandered into the forest after the battle.
-- [[Assterius]] remains mad and was not present this session. (patrik was also out)
-- **Unresolved:** the status/location of [[Drimant]] and the squires.
+- [[Ælflaed]] is dead.
+- **Confirmed horror:** the squires were captured, murdered, and used as hides in the lodge.
+- **Unresolved:** the status/location of [[Drimant]].
 - **Unresolved:** the fate of the three infants left with the serpent-marked surgeons in [[Wilderspool]].
+- **Political danger:** word has reached the conroi that [[Uther Pendragon]]’s army was ambushed and decisively defeated by Octa and Eosa while the knights were away; they will have to explain their actions.
+- [[Assterius]] returned to the conroi this session (no explanation recorded).
 
 ## Next session questions
-- What is [[Wilderspool]]’s surgeons’ guild, and how deep do the cult’s roots go?
-- What power governs the [[Wyrd Pool]]—and how far does its influence spread?
-- Where did those babies go?
-- Should we raze the town? I kinda wanna. (Signed, Jessica. Kevin agrees — we should raze it)
+- Who sponsored/protected the [[Serpent Lodge]] inside [[Wilderspool]]?
+- What was the cult’s endgame with the infants and squires?
+- What’s the fallout with Uther (and the war effort) now that Octa/Eosa have won a decisive victory?
 
 ## Open threads & mysteries
 See: [[Open Threads & Mysteries]]

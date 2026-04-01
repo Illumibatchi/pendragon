@@ -45,6 +45,10 @@
 - Defying the Wyrd Pool’s purification taboo kills the company’s horses beyond the boundary. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
 - At the Wyrd Pool summit, a red-haired priestess cuts Madoc’s throat and casts him into the pool; a serpent-woman rises as the company attacks to free the captives. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
 - Millicent beheads the red-haired priestess; the serpent creature is slain (final blow from Maewyn Succat’s staff). Madoc and Ælflaed survive but remain dazed, and Liam wanders into the forest in madness. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
+- The conroi returns to the [[Serpent Lodge]] in [[Wilderspool]]; serpent-healers transform and a new serpent-goddess manifestation is slain (final blow by [[Maewyn Succat]]). [[Ælflaed]] dies in the battle. *(Source: [[Session 018 - The Serpent Lodge and the Fall of Ælflaed]])*
+- The squires are found murdered and skinned on tanning racks in the lodge. *(Source: [[Session 018 - The Serpent Lodge and the Fall of Ælflaed]])*
+- The conroi races south to the [[City of the Legions]]; [[Sir Madoc]] is saved by chirurgeons; the conroi winters there. *(Source: [[Session 018 - The Serpent Lodge and the Fall of Ælflaed]])*
+- Word arrives: [[Uther Pendragon]]’s army is ambushed and decisively defeated by Octa and Eosa. *(Source: [[Session 018 - The Serpent Lodge and the Fall of Ælflaed]])*
 
 ---
 

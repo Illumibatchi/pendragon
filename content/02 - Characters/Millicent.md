@@ -23,3 +23,13 @@ tags:
 - **(484)** — Leads the northern march toward York; nearly killed in the Sherwood ambush; recovers after Drimant’s chant. *(Source: [[Session 015 - The Road to York and the Ambush in Sherwood]])*
 - **(484)** — Orders the three brain-fed infants spared and carried into Wilderspool to be placed in proper care. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
 - **(484)** — Beheads the red-haired priestess at the Wyrd Pool and hauls Madoc from the waters, staunching his wound. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
+
+---
+
+## Lineage
+
+```mermaid
+%% AUTO-LINEAGE: sir_millicent
+flowchart TB
+  p["Sir Millicent"]
+```

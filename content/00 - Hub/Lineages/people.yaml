@@ -1,0 +1,250 @@
+# Pendragon Campaign - Family Lineages
+# Source of truth for AUTO-LINEAGE Mermaid diagrams
+# Edit this file to add/modify relationships, then re-run the generator
+
+people:
+  # ============================================
+  # PENDRAGON DYNASTY
+  # ============================================
+  - id: king_uther_pendragon
+    name: "King Uther Pendragon"
+    sex: m
+    born: ~430
+    died: null
+    father: null
+    mother: null
+    spouses: []
+    children: []
+    house: "Pendragon"
+    notes: "Current High King of Britain (since 481)"
+
+  - id: king_aurelius
+    name: "King Aurelius Ambrosius"
+    sex: m
+    born: ~425
+    died: 481
+    father: null
+    mother: null
+    spouses: []
+    children: []
+    house: "Pendragon"
+    notes: "Former High King, betrayed and killed by Bedegraine"
+
+  # ============================================
+  # SALISBURY
+  # ============================================
+  - id: count_roderick
+    name: "Count Roderick of Salisbury"
+    sex: m
+    born: ~440
+    died: null
+    father: null
+    mother: null
+    spouses: []
+    children: []
+    house: "Salisbury"
+    notes: "Liege lord of the player knights; betrothed to Lady Ellen"
+
+  - id: lady_ellen_winchbank
+    name: "Lady Ellen of Winchbank"
+    sex: f
+    born: ~455
+    died: null
+    father: null
+    mother: null
+    spouses: []  # Betrothed to Roderick, not yet married
+    children: []
+    house: "Winchbank"
+    notes: "Secret jouster; fought alongside knights during ambush"
+
+  # ============================================
+  # PLAYER KNIGHTS
+  # ============================================
+  - id: sir_millicent
+    name: "Sir Millicent"
+    sex: f
+    born: ~462
+    died: null
+    father: null
+    mother: null
+    spouses: []
+    children: []
+    house: "Salisbury"
+    notes: "Player: Jessica; squire-knight; lost tooth to assassin"
+
+  - id: sir_drustin
+    name: "Sir Drustin"
+    sex: m
+    born: ~462
+    died: null
+    father: null
+    mother: null
+    spouses: []
+    children: []
+    house: "Salisbury"
+    notes: "Player: Kevin; former shield-bearer of St. Crispin"
+
+  - id: sir_assterius
+    name: "Sir Assterius"
+    sex: m
+    born: ~462
+    died: null
+    father: null
+    mother: null
+    spouses: []
+    children: []
+    house: "Salisbury"
+    notes: "Player: Patrick; beheaded Sir Marius; currently mad"
+
+  - id: sir_liam
+    name: "Sir Liam"
+    sex: m
+    born: ~462
+    died: null
+    father: null
+    mother: null
+    spouses: []
+    children: []
+    house: "Salisbury"
+    notes: "Player: Steve; bargained with Lady of the Well; currently mad"
+
+  - id: sir_geraint
+    name: "Sir Geraint"
+    sex: m
+    born: ~455
+    died: null
+    father: null
+    mother: null
+    spouses: []
+    children: []
+    house: "Salisbury"
+    notes: "Player: BrotherRidge; sole survivor of Dunkerton"
+
+  # ============================================
+  # DECEASED/RETIRED PLAYER KNIGHTS
+  # ============================================
+  - id: gregory
+    name: "Gregory"
+    sex: m
+    born: ~460
+    died: 480
+    father: null
+    mother: null
+    spouses: []
+    children: []
+    house: "Salisbury"
+    notes: "Player: Robert; died heroically vs Cambrian hillmen"
+
+  - id: beonred
+    name: "Beonred (Beon)"
+    sex: m
+    born: ~462
+    died: null
+    father: null
+    mother: null
+    spouses: []
+    children: []
+    house: "Salisbury"
+    notes: "Player: Robert; Gregory's brother; retired"
+
+  - id: noah
+    name: "Noah"
+    sex: m
+    born: ~460
+    died: 480
+    father: null
+    mother: null
+    spouses: []
+    children: []
+    house: "Salisbury"
+    notes: "Player: Alan; decapitated vs Irish kerns"
+
+  # ============================================
+  # SAXON LEADERS
+  # ============================================
+  - id: eosa_the_giant
+    name: "Eosa 'the Giant'"
+    sex: m
+    born: ~430
+    died: null
+    father: null
+    mother: null
+    spouses: []
+    children: [aelflaed]
+    house: "Saxon"
+    notes: "Saxon leader; captured York; hired party to investigate Wilderspool"
+
+  - id: aelflaed
+    name: "Ælflaed"
+    sex: f
+    born: ~460
+    died: null
+    father: eosa_the_giant
+    mother: null
+    spouses: []
+    children: []
+    house: "Saxon"
+    notes: "Eosa's daughter; bewitching beauty; rescued from Wyrd Pool"
+
+  # ============================================
+  # OTHER KEY NPCs
+  # ============================================
+  - id: sir_madoc
+    name: "Sir Madoc"
+    sex: m
+    born: ~455
+    died: null
+    father: null
+    mother: null
+    spouses: []
+    children: []
+    house: "Unknown"
+    notes: "Target of Lady Rhianneth's affections; throat cut at Wyrd Pool, survived"
+
+  - id: lady_rhianneth
+    name: "Lady Rhianneth"
+    sex: f
+    born: ~455
+    died: null
+    father: null
+    mother: null
+    spouses: [sir_marius]  # Widowed
+    children: []
+    house: "Caerwent"
+    notes: "Widow of Sir Marius; scheming"
+
+  - id: sir_marius
+    name: "Sir Marius of Caerwent"
+    sex: m
+    born: ~450
+    died: 483
+    father: null
+    mother: null
+    spouses: [lady_rhianneth]
+    children: []
+    house: "Caerwent"
+    notes: "Killed in duel by Assterius at Easter Court"
+
+  - id: king_brodin
+    name: "King Brodin of Malahaut"
+    sex: m
+    born: ~435
+    died: null
+    father: null
+    mother: null
+    spouses: []
+    children: []
+    house: "Malahaut"
+    notes: "The Centurion-King; wears Roman legatus armor"
+
+  - id: merlin
+    name: "Merlin"
+    sex: m
+    born: null
+    died: null
+    father: null
+    mother: null
+    spouses: []
+    children: []
+    house: null
+    notes: "Freed from captivity at Glastonbury Tor (482)"

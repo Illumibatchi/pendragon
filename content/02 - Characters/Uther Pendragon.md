@@ -39,13 +39,20 @@ Referenced during the victory feast: known for lecherous ways and lacking truebo
 flowchart TB
   a["Aurelius Ambrosius"]
   u["Uther Pendragon"]
+  m["Sir Madoc"]
+  sp["(Spouse unknown)"]
+  marriage(( ))
+
   a ---|brother| u
 
-  m["Sir Madoc"]
-  u -->|parent| m
+  u ---|spouse| marriage
+  sp ---|spouse| marriage
+
+  marriage -->|parent| m
 ```
 
 **Lineage links:**
-- [[Uther Pendragon]]
-- [[Sir Madoc]]
+- Uther Pendragon
+- Aurelius Ambrosius
+- Sir Madoc
 

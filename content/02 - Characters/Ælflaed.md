@@ -50,7 +50,7 @@ flowchart TB
 ```
 
 **Lineage links:**
-- Ælflaed
-- King of Sussex (unknown)
-- Eosa “the Giant” Horsason
+- [[Ælflaed]]
+- [[King of Sussex (unknown)]]
+- [[Eosa “the Giant” Horsason]]
 

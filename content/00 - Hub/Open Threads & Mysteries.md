@@ -4,7 +4,7 @@
 ## Active / high-priority as of end of [[Session 019 - The Well of Bargains and the Demon Princess]]
 
 - **Wilderspool’s true well (bargain site)** — what is it, what does it demand, and what answered from below? See: [[Wilderspool - True Well (Qui non dat quod habet)]].
-- **Sir Madoc missing** — whereabouts unknown; kidnapping lead: [[Bruce (Madoc kidnapping lead)]].
+- **Sir Madoc missing** — whereabouts unknown; kidnapping lead: [[Bruce]].
 - **Merlin missing / Excalibur broken** — find Merlin and/or restore the sword (now in three pieces).
 - **The three infants** — where are they now (left with the surgeons), and what are they?
 - **Missing ally:** where is [[Drimant]] now?
@@ -51,4 +51,14 @@
 
 - **(484 / S15) Lincoln under siege:** [[Lincoln]] threatened by the [[Angles of Anglia]].
 
-- **(484 / S16–S17) Wilderspool / Wyrd Pool:** what is the underlying power, and what was the sacrifice meant to accomplish? *(Sources: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]], [[Session 017 - The Wyrd Pool of Wilderspool]]).*
+- **(484 / S16–S17) Wilderspool / Wyrd Pool:** what is the underlying power, and what was the sacrifice meant to accomplish? *(Sources: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]], [[Session 017 - The Wyrd Pool of Wilderspool]]).* 
+
+- **(484 / S18) Serpent Lodge aftermath:** the surgeons/serpent-things are slain and the lodge is destroyed, but what was the broader cult network, what became of any survivors, and what consequences follow Ælflaed’s death? *(Source: [[Session 018 - The Serpent Lodge and the Fall of Ælflaed]]).* 
+
+- **(485–486 / S19) The true well’s bargain + the impostor:** what did the Wilderspool true well actually demand/accept, what answered from below, and how did the false Ælflaed manifest in York (and what was it)? *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]]).* 
+
+- **(485–486 / S19) Political blowback in York:** the conroi accepted a pact of friendship with Eosa, then killed the “princess” revenant in his hall—what retaliation or pursuit follows? *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]]).* 
+
+- **(485–486 / S19) Merlin missing / Excalibur broken:** where is Merlin, who has the three pieces of Excalibur, and can it be reforged before the realm collapses? *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]]).* 
+
+- **(485–486 / S19) Sir Madoc’s disappearance and redeployment:** was Madoc’s February kidnapping an extraction, a test, or an enemy action—and what is his actual status now in Escavalon? *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]]).*

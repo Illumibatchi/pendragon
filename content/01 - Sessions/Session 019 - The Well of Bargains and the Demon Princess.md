@@ -51,7 +51,7 @@ A desperate bedroom fight ends when [[Sir Geraint]] drives Eosa’s golden axe i
 
 ## Scene/Beat Log
 - War news and aftermath: Uther wounded; Excalibur broken; York held by Saxons; forces redeploy toward Silchester; Caerwent under Saxon pressure.
-- **Madoc missing:** after recovering, [[Sir Madoc]] slips away. Millicent learns he was kidnapped back in February: men sack him and throw him onto a boat. The bartender claims a “prince’s man” said Madoc was summoned by his father; the man is described as **Bruce** (policed moustache, spiky leather armor).
+- **Madoc missing:** after recovering, [[Sir Madoc]] slips away. Millicent learns he was kidnapped back in February: men sack him and throw him onto a boat. The bartender claims a “prince’s man” said Madoc was summoned by his father; the man is described as [[Bruce]] (policed moustache, spiky leather armor).
 - **New squires / mounts:** squires hired; horses replaced.
   - Drustin hires a squire for Geraint: [[Iorath]] (son of a rich nobleman). Geraint pledges to return the favor.
 - Return north to Wilderspool to untangle the “three wells and a pool” lead.
@@ -81,7 +81,7 @@ A desperate bedroom fight ends when [[Sir Geraint]] drives Eosa’s golden axe i
 ## Consequences & New Facts
 - The “true well” in Wilderspool appears to demand sacrifice/offerings, but answers indirectly (or not at all).
 - Something answered the well and took Ælflaed’s place in York.
-- Sir Madoc’s disappearance appears to be a kidnapping with a named lead (Bruce).
+- Sir Madoc’s disappearance appears to be a kidnapping with a named lead ([[Bruce]]).
 - Excalibur is broken; Merlin is missing; the conroi has a new major quest.
 
 ## Beginning of 487 — State of the Realm
@@ -106,12 +106,12 @@ Unresolved threads linger:
 
 ## Open threads / follow-ups
 - What exactly is the Wilderspool true well, and what bargain was made (or triggered)?
-- Where is Sir Madoc, and who is Bruce?
+- Where is Sir Madoc now, and what exactly is Bruce’s role/orders in Uther’s chain?
 - What are the consequences of the pact of friendship with Eosa after killing the “princess” in his hall?
 - Find Merlin / restore Excalibur.
 
 ## Timeline entries to add
-- **(485–486)** — Sir Madoc disappears; later revealed as a February kidnapping involving a man described as “Bruce.” *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]])*
+- **(485–486)** — Sir Madoc disappears; later revealed as a February kidnapping involving a man described as [[Bruce]]. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]])*
 - **(486)** — The conroi identifies the Wilderspool true well: “Qui non dat quod habet, Dæmon infra vide,” and offers Ælflaed’s body + sacrifices; the well answers with silence. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]])*
 - **(486)** — A false Ælflaed (“revenant”) appears in York and is revealed as a winged demon; it is slain by Sir Geraint with Eosa’s golden axe. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]])*
 - **(486)** — Excalibur is shown in three pieces; Merlin is missing; new quest: find Merlin and/or restore Excalibur. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]])*

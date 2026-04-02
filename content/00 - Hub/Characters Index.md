@@ -26,7 +26,7 @@
 - [[Count Roderick of Salisbury]] - liege of early campaign; pursuing marriage alliances.
 - [[War Baron Ulfius]] - major war figure present at Bedegraine.
 - [[Bruce]] - Roderick's unsettling agent/analyst; interrogates "witch-deals."
-- [[Bruce (Madoc kidnapping lead)]] - named lead tied to Sir Madoc’s February kidnapping-by-boat (policed moustache; spiky leather armor).
+- [[Bruce]] - named lead tied to Sir Madoc’s February kidnapping-by-boat (policed moustache; spiky leather armor).
 
 ## Knights / commanders (non-player)
 - [[Sir Jerem]] - castellan of Duplain; early mission leader.
@@ -34,6 +34,9 @@
 - [[Sir Ector]] - Rachel's brother; Caer Bannog host.
 - [[Sir Beefy]] - notorious rival/foe; strength legend grows.
 - [[King Brodin of Malahaut]] - "Centurion-King"; Roman legatus armor; political pressure point.
+
+## Squires / retainers
+- [[Iorath]] — Drustin-hired squire for Sir Geraint (son of a rich nobleman).
 
 ## Ladies / marriage prospects / courts
 - [[Lady Ellen of Winchbank]] - unconventional heiress; ward of the crown; promised to Roderick.

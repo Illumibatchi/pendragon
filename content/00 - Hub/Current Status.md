@@ -6,7 +6,7 @@ Back in York, King [[Eosa “the Giant” Horsason]] celebrated their “success
 They have now returned south and reported to [[Count Roderick of Salisbury]]. Roderick shows them the grim truth: **Excalibur is broken into three pieces and Merlin is missing**. The conroi’s new quest is to **find Merlin and/or restore Excalibur**.
 
 ## Immediate fallout
-- **Sir Madoc’s status remains concerning:** he previously vanished under suspicious circumstances (kidnapping lead: [[Bruce (Madoc kidnapping lead)]]), but is now reported **deployed west to [[Escavalon]] (Caerleon)** under Uther’s broader strategy.
+- **Sir Madoc’s status remains concerning:** he previously vanished under suspicious circumstances (kidnapping lead: [[Bruce]]), but is now reported **deployed west to [[Escavalon]] (Caerleon)** under Uther’s broader strategy.
 - The Wilderspool true well remains unexplained: did it demand a bargain, and what answered it?
 - **Political danger:** they accepted a pact of friendship with Eosa, then killed the “princess” in his hall... Hacked her up to almost beyond recognition omg....
 

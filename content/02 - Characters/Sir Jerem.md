@@ -1,10 +1,9 @@
 ---
 type: character
 kind: NPC (knight)
-title: Sir
 first_seen_session: 3
 first_seen_year: 480
-role: "Castellan of Duplain"
+role: Castellan of Duplain
 tags:
   - character
   - npc

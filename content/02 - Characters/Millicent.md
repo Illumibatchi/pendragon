@@ -15,6 +15,7 @@ tags:
 - **Description:** A determined, honorable squire seeking to prove her valor and uphold the traditions of knighthood.
 
 ## Timeline
+- **(485–486)** — Lowers Ælflaed’s preserved body into the Wilderspool true well as an offering; later confronts the false “Ælflaed” in York and fights the winged demon impostor. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]]; [[Session 019 — Player Synopsis — Well of Bargains and Demon Princess]])*
 - **(480)** — Introduced as a squire of Salisbury. *(Source: [[Session 000 - The Young Squires of Salisbury]])*
 - **(480)** — Wounded in the Purdue Forest ambush (knocked from her horse). *(Source: [[Session 003 - The Empty Castle and the Forest Ambush]])*
 - **(481)** — Leads the conroi at Downton; rescues Beon and supports the High King’s extraction during the wyvern crisis. *(Source: [[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern]])*

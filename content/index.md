@@ -4,7 +4,6 @@ A record of events, characters, and places within the campaign.
 
 ---
 
-## Current Status
 ![[00 - Hub/Current Status]]
 
 ---

@@ -1,11 +1,10 @@
 ---
 type: character
 kind: NPC (knight)
-title: Sir
 first_seen_session: 3
 first_seen_year: 480
-role: "Steward of Levcomagus"
-allegiance: "Household of Duke Ulfius of Silchester"
+role: Steward of Levcomagus
+allegiance: Household of Duke Ulfius of Silchester
 tags:
   - character
   - npc

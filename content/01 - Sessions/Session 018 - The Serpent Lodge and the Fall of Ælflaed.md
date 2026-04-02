@@ -74,3 +74,7 @@ The conroi returns to [[Wilderspool]] to confront the serpent-marked “surgeons
 - The squires are found murdered and skinned on tanning racks in the lodge. *(Source: [[Session 018 - The Serpent Lodge and the Fall of Ælflaed]])*
 - The conroi races south to the [[City of the Legions]]; [[Sir Madoc]] is saved by chirurgeons; the conroi winters there. *(Source: [[Session 018 - The Serpent Lodge and the Fall of Ælflaed]])*
 - Word arrives: [[Uther Pendragon]]’s army is ambushed and decisively defeated by Octa and Eosa. *(Source: [[Session 018 - The Serpent Lodge and the Fall of Ælflaed]])*
+
+---
+
+**Next:** [[Session 019 - The Well of Bargains and the Demon Princess]]

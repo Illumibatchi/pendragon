@@ -14,6 +14,7 @@ tags:
 - **Description:** A prudent, dutiful knight known for supporting his conroi and tracking vital equipment and supplies.
 
 ## Timeline
+- **(485–486)** — Sacrifices his druidic spear into the Wilderspool true well; later pursues the maddened Geraint into the forest after the demon is slain and attempts to calm him. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]]; [[Session 019 — Player Synopsis — Well of Bargains and Demon Princess]])*
 - **(480)** — Introduced as a squire of Salisbury. *(Source: [[Session 000 - The Young Squires of Salisbury]])*
 - **(480)** — Wounds a Saxon in the Purdue Forest ambush after calling on his honor. *(Source: [[Session 003 - The Empty Castle and the Forest Ambush]])*
 - **(480)** — Jousts at Winchbank after provoking a challenge; is eventually knocked from his horse (opponent later revealed as Lady Ellen in disguise). *(Source: [[Session 004 - The Lady’s Secret and the Feast at Winchbank]])*

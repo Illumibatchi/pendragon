@@ -13,6 +13,7 @@ tags:
 Appears in feast scenes and conversation. Drustin discusses folklore and pitches an ancient druidic order; Merlin claims he has an understanding with the house of Pendragon.
 
 ## Timeline
+- **(485–486)** — Is reported missing after Excalibur’s shattering; his disappearance becomes the central crisis driving the new quest. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]]; [[Session 019 — Player Synopsis — Well of Bargains and Demon Princess]])*
 - **(481)** — Present at the victory feast; discusses Pendragon matters with Drustin. *(Source: [[Session 007 — Player Synopsis — Nightly Business]])*
 - **(481)** — Consulted by Liam about wyvern hunting; confirmed wyverns are solitary and provided healing balms. *(Source: [[Session 008 - The Giant King of Deira and the Fairy Road]])*
 - **(482)** — Found imprisoned in Glastonbury passage complex; warned knights of red sorceresses before being freed. *(Source: [[Session 011 - The Hag of the Passage and the Lady of the Well]])*

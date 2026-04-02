@@ -14,6 +14,7 @@ tags:
 - **Description:** An energetic, eager young warrior who throws himself fully into the duties of service.
 
 ## Timeline
+- **(485–486)** — Hires [[Iorath]] as [[Sir Geraint]]’s squire; makes an offering at the Wilderspool true well; helps stabilize Geraint after the demon’s reveal. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]]; [[Session 019 — Player Synopsis — Well of Bargains and Demon Princess]])*
 - **(480)** — Introduced as a squire of Salisbury. *(Source: [[Session 000 - The Young Squires of Salisbury]])*
 - **(480)** — Splashed with fairy dragon blood at Winchbank; burned then transformed, his appearance dramatically improved. *(Source: [[Session 005 - The Fairy Dragon and the Ogre’s Return]])*
 - **(481)** — Claims the [[Shield of St. Crispin]] at Downton’s shrine; later passes it to Liam after his spear breaks. *(Source: [[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern]])*

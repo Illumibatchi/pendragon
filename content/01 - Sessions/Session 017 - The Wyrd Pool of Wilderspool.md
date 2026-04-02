@@ -86,3 +86,7 @@ Wilderspool appears calm but proves deeply uncanny: no church, and townsfolk tre
 - Where did the squires go, and where is Drimant at end of session?
 - What happened to the three infants left with the surgeons?
 - Any in-game date/season to tag this session?
+
+---
+
+**Next:** [[Session 018 - The Serpent Lodge and the Fall of Ælflaed]]

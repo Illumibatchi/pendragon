@@ -24,6 +24,7 @@ relations:
 - **Status:** Alive (returned after Wilderspool madness)
 
 ## Timeline
+- **(485–486)** — Makes an offering at the Wilderspool true well; senses the “Ælflaed” returned in York is wrong and fights the demon impostor in the bedchamber. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]]; [[Session 019 — Player Synopsis — Well of Bargains and Demon Princess]])*
 - **(480)** — Introduced as a squire of Salisbury. *(Source: [[Session 000 - The Young Squires of Salisbury]])*
 - **(480)** — Badly injured in the Purdue Forest ambush; saved and stabilized at Winchbank by [[Lady Rachel of Carbonog]]. *(Source: [[Session 004 - The Lady’s Secret and the Feast at Winchbank]])*
 - **(481)** — Injured again at Downton; carried from the fight by his horse; spear damaged. *(Source: [[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern]])*

@@ -66,3 +66,7 @@ In the clearing, the knights discover a cradle containing **three infants** and 
 ## Timeline entries to add
 - **(484)** — Parley at York: Eosa hires the knights to investigate Wilderspool; Brodin rides south to confront Uther. *(Source: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]])*
 - **(484)** — The company finds thirteen hanging knights and kills the brain-eating hag; three infants are discovered in the aftermath. *(Source: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]])*
+
+---
+
+**Next:** [[Session 017 - The Wyrd Pool of Wilderspool]]

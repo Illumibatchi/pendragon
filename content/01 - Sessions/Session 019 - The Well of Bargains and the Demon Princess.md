@@ -32,6 +32,7 @@ places:
   - Londinium
 tags:
   - session
+player_synopsis: "[[Session 019 — Player Synopsis — Well of Bargains and Demon Princess]]"
 ---
 
 ## Summary
@@ -44,6 +45,9 @@ Millicent lowers [[Ælflaed]]’s preserved body into the well as an offering an
 Returning to York to report, the knights are received with ritual pageantry (wreaths like sacrificial adornment). King Eosa thanks them for “returning his daughter” — and then **Ælflaed appears**, carrying Liam’s druidic spear. Millicent and Assterius sense she is wrong: a hollow imitation. That night Millicent confronts the “princess,” which declares itself the “princess of the whole Earth,” promises vengeance and a thousand-year reign, and unfurls bat-like wings.
 
 A desperate bedroom fight ends when [[Sir Geraint]] drives Eosa’s golden axe into the creature, pinning it to the bed. Peeling away its guise reveals a demonic visage; the sight drives Geraint into madness and he flees into the forest, pursued by Liam. The conroi regroups and escapes. Back at Sarum, Count Roderick sells the golden axe for **£10** and shows the company **three pieces of Excalibur**. Worse, **Merlin has vanished**. The new quest is clear: **find Merlin and/or restore Excalibur.**
+
+## Player synopsis
+- [[Session 019 — Player Synopsis — Well of Bargains and Demon Princess]]
 
 ## Scene/Beat Log
 - War news and aftermath: Uther wounded; Excalibur broken; York held by Saxons; forces redeploy toward Silchester; Caerwent under Saxon pressure.

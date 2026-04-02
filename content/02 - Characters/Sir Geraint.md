@@ -17,6 +17,7 @@ Player: **BrotherRidge** (joined Session 12).
 Only survivor of Knight Commander Caradoc's conroi after the burning of [[Dunkerton]] and a giant ambush. Found battered on the road and joins the Kenroi. Unlike most of the group, Geraint is **sworn directly to [[Count Roderick of Salisbury]]**.
 
 ## Timeline
+- **(485–486)** — Drives King Eosa’s golden axe into the winged demon masquerading as Ælflaed, pinning it; the revealed demonic face drives him into madness and flight, later steadied by his companions. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]]; [[Session 019 — Player Synopsis — Well of Bargains and Demon Princess]])*
 - **(482)** - Survives the Dunkerton massacre (giant ambush) and warns the Kenroi. *(Source: [[Session 012 - The Burning of Dunkerton and the Peace of Summerland]]; see also [[Session 012 — Player Synopsis — Dunkerton]]).*
 - **(482)** - Argues to abort Uther's destructive mission after Dunkerton (alongside Drustin and Liam). *(Source: [[Session 012 - The Burning of Dunkerton and the Peace of Summerland]]).*
 - **(482)** - Finds an overturned wagon with a partially eaten peasant family and judges the wounds were inflicted by men, not beasts. *(Source: [[Session 012 - The Burning of Dunkerton and the Peace of Summerland]]; see also [[Session 012 — Player Synopsis — Dunkerton]]).*

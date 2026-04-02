@@ -26,3 +26,17 @@ tags:
 - **(484)** — Goes mad after the hag clearing battle due to a **failed Passion roll** (detail retroactively added; was missing from session notes). *(Source: table memory; see [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]]).* 
 - **(484)** — Not present for the Wyrd Pool events; currently mad. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
 - **(484)** — Returns to the conroi by the Serpent Lodge battle (no explanation recorded). *(Source: [[Session 018 - The Serpent Lodge and the Fall of Ælflaed]])*
+
+---
+
+## Lineage
+
+```mermaid
+%% AUTO-LINEAGE: assterius
+flowchart TB
+  p["Assterius"]
+```
+
+**Lineage links:**
+- [[Assterius]]
+

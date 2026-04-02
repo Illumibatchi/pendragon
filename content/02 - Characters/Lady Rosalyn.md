@@ -5,7 +5,9 @@ first_seen_session: 8
 first_seen_year: 481
 role: "Daughter of the Duke of the March"
 relations:
-  - "Daughter of: [[Duke Edaris of the March]]"
+  - type: parent
+    target: "Duke Edaris of the March"
+    certainty: fact
 tags:
   - character
   - npc
@@ -16,3 +18,20 @@ Daughter of the Duke of the March; evaluated as a potential marriage candidate f
 
 ## Timeline
 - **(481)** — Evaluated at Lambor Castle as a potential marriage candidate for Count Roderick; noted for kindness and unusual attention to Millicent. *(Source: [[Session 008 - The Giant King of Deira and the Fairy Road]])*
+
+---
+
+## Lineage
+
+```mermaid
+%% AUTO-LINEAGE: lady_rosalyn
+flowchart TB
+  d["Duke Edaris of the March"]
+  r["Lady Rosalyn"]
+  d -->|parent| r
+```
+
+**Lineage links:**
+- [[Duke Edaris of the March]]
+- [[Lady Rosalyn]]
+

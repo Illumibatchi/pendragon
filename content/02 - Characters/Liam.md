@@ -31,3 +31,17 @@ tags:
 - **(484)** — Fights in the Hag of the Dead clearing near Wilderspool as the conroi closes in (alongside Millicent and Assterius). *(Source: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]]).* 
 - **(484)** — At [[Madam Eva]]’s cart near Wilderspool, receives a reading: he possesses **no lifeline**. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
 - **(484)** — After the Wyrd Pool battle, suffers a grave break of spirit and wanders into the forest in madness. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
+
+---
+
+## Lineage
+
+```mermaid
+%% AUTO-LINEAGE: liam
+flowchart TB
+  p["Liam"]
+```
+
+**Lineage links:**
+- [[Liam]]
+

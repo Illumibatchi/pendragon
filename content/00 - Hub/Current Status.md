@@ -1,18 +1,20 @@
-## Where we left off (end of [[Session 018 - The Serpent Lodge and the Fall of Ælflaed|Session 018]])
-The conroi returned to [[Wilderspool]] and confronted the serpent-marked “surgeons” of the [[Serpent Lodge]]. The healers revealed themselves as serpent-things and called forth another manifestation of the serpent goddess. The lodge was destroyed and the serpent goddess slain (final blow from [[Maewyn Succat]]’s staff), but [[Ælflaed]] died in the battle. In the aftermath, the squires were found murdered and skinned on tanning racks. With the lodge’s chirurgeons dead and multiple knights gravely wounded, the company fled south to the [[City of the Legions]]—where [[Sir Madoc]] was saved in time. The conroi is now wintering there.
+## Where we left off (end of [[Session 019 - The Well of Bargains and the Demon Princess|Session 019]])
+The conroi returned to [[Wilderspool]] to resolve the mystery of the “true well” and complete Ælflaed’s intended sacrifice. They identified the ancient ritual site—[[Wilderspool - True Well (Qui non dat quod habet)|the true well]]—and made offerings including Ælflaed’s preserved body and Liam’s druidic spear. The well answered with eerie silence.
+
+Back in York, King [[Eosa “the Giant” Horsason]] celebrated their “success” and presented a golden axe, but a false Ælflaed appeared—an empty imitation (a revenant/demonic impostor). The conroi confronted it, slew it in a desperate bedroom fight (decisive blow by [[Sir Geraint]] with Eosa’s axe), and fled.
+
+They have now returned south and reported to [[Count Roderick of Salisbury]]. Roderick shows them the grim truth: **Excalibur is broken into three pieces and Merlin is missing**. The conroi’s new quest is to **find Merlin and/or restore Excalibur**.
 
 ## Immediate fallout
-- [[Ælflaed]] is dead.
-- **Confirmed horror:** the squires were captured, murdered, and used as hides in the lodge.
-- **Unresolved:** the status/location of [[Drimant]].
-- **Unresolved:** the fate of the three infants left with the serpent-marked surgeons in [[Wilderspool]].
-- **Political danger:** word has reached the conroi that [[Uther Pendragon]]’s army was ambushed and decisively defeated by Octa and Eosa while the knights were away; they will have to explain their actions.
-- [[Assterius]] returned to the conroi this session (no explanation recorded).
+- **Sir Madoc is missing:** his disappearance is now believed to be a kidnapping tied to a named lead: [[Bruce (Madoc kidnapping lead)]].
+- The Wilderspool true well remains unexplained: did it demand a bargain, and what answered it?
+- **Political danger:** they accepted a pact of friendship with Eosa, then killed the “princess” in his hall.
+- Several knights carry lingering misery/melancholy after Wilderspool and the demon’s reveal.
 
 ## Next session questions
-- Who sponsored/protected the [[Serpent Lodge]] inside [[Wilderspool]]?
-- What was the cult’s endgame with the infants and squires?
-- What’s the fallout with Uther (and the war effort) now that Octa/Eosa have won a decisive victory?
+- What is the Wilderspool true well, and what was actually traded?
+- Where is Sir Madoc, and who is Bruce?
+- Can Excalibur be reforged, and can Merlin be found?
 
 ## Open threads & mysteries
 See: [[Open Threads & Mysteries]]

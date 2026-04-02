@@ -31,5 +31,13 @@ tags:
 ```mermaid
 %% AUTO-LINEAGE: sir_millicent
 flowchart TB
+  f["A courtly father"]
+  m["a badass knightly mother"]
   p["Sir Millicent"]
+  f -->|parent| p
+  m -->|parent| p
 ```
+
+**Lineage links:**
+- (none)
+

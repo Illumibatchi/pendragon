@@ -4,7 +4,13 @@ kind: NPC (Saxon warrior)
 first_seen_session: 15
 first_seen_year: 484
 relations:
-  - "Daughter of: [[Eosa “the Giant” Horsason]]"
+  - type: parent
+    target: "Eosa “the Giant” Horsason"
+    certainty: fact
+    note: "Father"
+  - type: spouse
+    target: "King of Sussex (unknown)"
+    certainty: fact
 tags:
   - character
   - npc
@@ -29,9 +35,22 @@ A stunningly beautiful Saxon warrior (described as a Saxon princess) encountered
 ```mermaid
 %% AUTO-LINEAGE: aelflaed
 flowchart TB
-  p["Ælflaed"]
   f["Eosa 'the Giant'"]
-  f --- p
   m["(Mother unknown)"]
-  m --- p
+  p["Ælflaed"]
+  s["King of Sussex (unknown)"]
+
+  f -->|parent| p
+  m -->|parent| p
+
+  %% marriage node keeps spouses side-by-side and is where children attach later
+  p ---|spouse| marriage(( ))
+  s ---|spouse| marriage
+
 ```
+
+**Lineage links:**
+- [[Ælflaed]]
+- [[King of Sussex (unknown)]]
+- [[Eosa “the Giant” Horsason]]
+

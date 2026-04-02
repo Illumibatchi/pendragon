@@ -1,14 +1,16 @@
 
 > Rolling list of unresolved mysteries and active campaign threads. Keep this page broad; use **Current Status** for “where we are right now.”
 
-## Active / high-priority as of end of [Session 018 - The Serpent Lodge and the Fall of Ælflaed]
+## Active / high-priority as of end of [Session 019 - The Well of Bargains and the Demon Princess]
 
-- **Wilderspool’s serpent surgeons / Serpent Lodge** — who sponsored/protected them, and how deep did the cult’s roots go in town?
-- **The Wyrd Pool’s governing power** — what enforces the taboos, and what broader influence does the pool have?
-- **Missing ally:** where is [[Drimant]] now?
+- **Wilderspool’s true well (bargain site)** — what is it, what does it demand, and what answered from below? See: [[Wilderspool - True Well (Qui non dat quod habet)]].
+- **Sir Madoc missing** — whereabouts unknown; kidnapping lead: [[Bruce (Madoc kidnapping lead)]].
+- **Merlin missing / Excalibur broken** — find Merlin and/or restore the sword (now in three pieces).
 - **The three infants** — where are they now (left with the surgeons), and what are they?
-- **War fallout:** Uther’s host was decisively defeated by Octa and Eosa while the conroi fought the serpents — what are the consequences for Logres (and for the knights’ standing)?
-- **Liam’s state:** “no lifeline” reading + recent instability; is this tied to the [[Lady of the Well]] bargain?
+- **Missing ally:** where is [[Drimant]] now?
+- **War fallout / political danger:** pact of friendship with [[Eosa “the Giant” Horsason]] vs killing the “princess” revenant in York.
+- **The Wyrd Pool’s governing power** — what enforces the taboos, and what broader influence does the pool have?
+- **Liam’s state:** “no lifeline” reading + instability/misery; is this tied to the [[Lady of the Well]] bargain?
 
 ## Open threads / mysteries (in session order)
 

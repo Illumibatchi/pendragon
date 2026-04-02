@@ -26,3 +26,21 @@ tags:
 - **(484)** — Loses his horse Brass to a trap during the hag clearing fight near Wilderspool. *(Source: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]]; see also [[Session 016 — Player Synopsis — Wilderspool and Hag of the Dead]]).* 
 - **(484)** — When the Hag of the Dead’s corpse resists burning, severs her head and buries it beneath a marked stone before entering Wilderspool. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
 - **(484)** — Wakes in Wilderspool with strange marks on his neck (as if breathed upon in sleep) and later frees Ælflaed at the Wyrd Pool rite. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
+
+---
+
+## Lineage
+
+```mermaid
+%% AUTO-LINEAGE: drustin
+flowchart TB
+  f["A really good healer"]
+  m["A really renown healer"]
+  p["Drustin"]
+  f -->|parent| p
+  m -->|parent| p
+```
+
+**Lineage links:**
+- [[Drustin]]
+

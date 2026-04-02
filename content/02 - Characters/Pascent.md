@@ -4,7 +4,10 @@ kind: NPC (warlord)
 first_seen_session: 6
 first_seen_year: 481
 relations:
-  - "Son of: [[Vortigern]] (deposed High King)"
+  - type: parent
+    target: "Vortigern"
+    certainty: fact
+    note: "Father"
 tags:
   - character
   - npc
@@ -16,3 +19,20 @@ Commander associated with the Irish host besieging Sarum; described as the son o
 
 ## Timeline
 - **(481)** — Leads Irish forces at the Sarum siege; closes on the fallen High King during the wyvern attack but retreats after the wyvern is slain. *(Source: [[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern]])*
+
+---
+
+## Lineage
+
+```mermaid
+%% AUTO-LINEAGE: pascent
+flowchart TB
+  v["Vortigern"]
+  p["Pascent"]
+  v -->|parent| p
+```
+
+**Lineage links:**
+- [[Vortigern]]
+- [[Pascent]]
+

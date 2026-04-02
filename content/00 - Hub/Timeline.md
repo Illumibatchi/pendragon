@@ -50,6 +50,13 @@
 - The conroi races south to the [[City of the Legions]]; [[Sir Madoc]] is saved by chirurgeons; the conroi winters there. *(Source: [[Session 018 - The Serpent Lodge and the Fall of Ælflaed]])*
 - Word arrives: [[Uther Pendragon]]’s army is ambushed and decisively defeated by Octa and Eosa. *(Source: [[Session 018 - The Serpent Lodge and the Fall of Ælflaed]])*
 
+## 485–486
+- After wintering in the [[City of the Legions]], the conroi returns to [[Wilderspool]] to locate the true well with the Latin inscription; they identify a false lead (“Constantine Rex” stones) and then find the ancient inscriptioned well: **Qui non dat quod habet, Dæmon infra vide**. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]])*
+- The conroi offers Ælflaed’s preserved body and other sacrifices into the well; it answers with eerie silence. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]])*
+- In York, a false Ælflaed appears (a revenant/demonic impostor). The conroi slays it; Sir Geraint lands the decisive blow with King Eosa’s golden axe. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]])*
+- Sir Madoc’s disappearance is revealed as a February kidnapping involving a man described as “Bruce.” *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]])*
+- Count Roderick reveals Excalibur is broken into three pieces; Merlin is missing; the conroi is bid to find Merlin and/or restore the sword. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]])*
+
 ---
 
 ### Entry format (recommended)

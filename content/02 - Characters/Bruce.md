@@ -21,6 +21,6 @@ Described as the “prince’s man” who claimed [[Sir Madoc]] was summoned by 
 **Description:** policed moustache; spiky leather armor.
 
 ## Timeline
-- **(485–486)** — Named by a bartender during Millicent’s investigation into Madoc’s disappearance; came to collect/abduct Madoc under claimed authority (“summoned by his father the King”), using a sack-and-boat extraction. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]]; [[Session 019 — Player Synopsis — Well of Bargains and Demon Princess]])*
 - **(483)** — Questions Drustin about witch-deals; Drustin refuses to betray Liam. *(Source: [[Session 013 - The Assassin’s Winter and the Escort of Lady Ellen]])*
 - **(484)** — Detained Drustin and Liam as suspected Silchestrian spies during northern campaign preparations. *(Source: [[Session 015 - The Road to York and the Ambush in Sherwood]])*
+- **(485–486)** — Named by a bartender during Millicent’s investigation into Madoc’s disappearance; came to collect/abduct Madoc under claimed authority (“summoned by his father the King”), using a sack-and-boat extraction. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]]; [[Session 019 — Player Synopsis — Well of Bargains and Demon Princess]])*

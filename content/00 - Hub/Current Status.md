@@ -3,7 +3,7 @@ The conroi returned to [[Wilderspool]] to resolve the mystery of the “true wel
 
 Back in York, King [[Eosa “the Giant” Horsason]] celebrated their “success” and presented a golden axe, but a false Ælflaed was revealed—an empty imitation (a revenant/demonic impostor). The conroi confronted it, slew it in a desperate bedroom fight (decisive blow by [[Sir Geraint]] with Eosa’s axe), and fled.
 
-They have now returned south and reported to [[Count Roderick of Salisbury]]. Roderick shows them the grim truth: **Excalibur is broken into three pieces and Merlin is missing**. The conroi’s new quest is to **find Merlin and/or restore Excalibur**.
+They have now returned south and reported to [[Count Roderick of Salisbury]]. Roderick shows them the grim truth: [[Excalibur]] is broken into three pieces and [[Merlin]] is missing. The conroi’s new quest is to **find Merlin and/or restore [[Excalibur]]**.
 
 ## Immediate fallout
 - **Sir Madoc’s status remains concerning:** he previously vanished under suspicious circumstances (kidnapping lead: [[Bruce]]), but is now reported **deployed west to [[Escavalon]] (Caerleon)** under Uther’s broader strategy.

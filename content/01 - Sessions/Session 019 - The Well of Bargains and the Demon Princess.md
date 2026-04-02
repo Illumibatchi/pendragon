@@ -36,7 +36,7 @@ player_synopsis: "[[Session 019 — Player Synopsis — Well of Bargains and Dem
 ---
 
 ## Summary
-In the wake of wintering in the [[City of the Legions]], the conroi learns the wider war has turned grim: [[Uther Pendragon]] has been wounded, York is firmly Saxon-held, and **Excalibur has been broken**—shattered against [[Eosa “the Giant” Horsason]] without wounding him. With new mounts and replacement squires, the knights return to [[Wilderspool]] to resolve the mystery of the “true well” with the Latin inscription.
+In the wake of wintering in the [[City of the Legions]], the conroi learns the wider war has turned grim: [[Uther Pendragon]] has been wounded, York is firmly Saxon-held, and [[Excalibur]] has been broken—shattered against [[Eosa “the Giant” Horsason]] without wounding him. With new mounts and replacement squires, the knights return to [[Wilderspool]] to resolve the mystery of the “true well” with the Latin inscription.
 
 They identify a **refurbished crossroads well** whose original stones were discarded into a ruined Roman church; among the stones they find the inscription **“Constantine Rex”**—but this proves a false lead. Avoiding the fortified bridge, they ford north and find the ancient well bearing silver-lettered Latin: **“Qui non dat quod habet, Dæmon infra vide”** (“He who does not give what he has, the devil below sees”).
 

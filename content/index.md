@@ -21,7 +21,7 @@ A record of events, characters, and places within the campaign.
 
 ## The World
 - [[00 - Hub/Characters Index|Characters]]
-- [[00 - Hub/Places & Factions Index|Places & Factions]]
+- [[00 - Hub/Lore|Lore Index]]
 
 ---
 

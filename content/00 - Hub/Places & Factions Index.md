@@ -71,6 +71,11 @@
 
 ---
 
+## Notable items / relics / symbols
+- [[Excalibur]] — Runed sword of the High Kingship; a core legitimacy symbol; **broken into three pieces** by the end of Session 19. *([[Session 007 - The Vigil and the Knights of the High King|S7]], [[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]], [[Session 019 - The Well of Bargains and the Demon Princess|S19]])*
+
+---
+
 ## Factions / Courts / Groups (by theme)
 
 ### Salisbury-aligned

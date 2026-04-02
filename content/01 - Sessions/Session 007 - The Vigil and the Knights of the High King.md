@@ -49,7 +49,7 @@ Before knighthood, each squire undertakes the traditional vigil:
 - Millicent completes the vigil and feels strangely energized afterward.
 
 ## The Dubbing of Knights
-At sunrise, the High King stands with the runed sword **Excalibur**. One by one, he administers the oaths, dubs the squires, and commands them to mount new warhorses.
+At sunrise, the High King stands with the runed sword [[Excalibur]]. One by one, he administers the oaths, dubs the squires, and commands them to mount new warhorses.
 - Millicent, Drustin, and Liam manage the traditional leap.
 - Injured Assterius struggles.
 - Still-inebriated Beon falls into the dirt.

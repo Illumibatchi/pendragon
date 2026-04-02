@@ -47,7 +47,7 @@ On the road they learn devastating news: **High King [[Aurelius]] Ambrosius has 
 ### March into Bedegraine
 The host marches to punish Bedegraine’s treason. Uther orders villages burned; the company rides through ash and ruin. At the siege lines before [[Bedegraine Castle]] they find familiar figures: Count Roderick, [[War Baron Ulfius]], and a great host of loyal knights. The Duke of Cornwall has not yet arrived (weather delay).
 
-Uther rages in camp, tormented by the loss of both Merlin and **Excalibur** as well as his brother’s death.
+Uther rages in camp, tormented by the loss of both [[Merlin]] and [[Excalibur]] as well as his brother’s death.
 
 ### Millicent’s report (Eosa/torque)
 Millicent realizes the significance of the earlier encounter with [[Eosa “the Giant” Horsason]] and the golden torque taken as ransom. She reports to Roderick, raising suspicions of a wider conspiracy involving Bedegraine, Malahaut, and Saxons—though there is no hard proof, and Bedegraine’s motive remains baffling. Roderick agrees to carry the concern directly to Uther.

@@ -1,11 +1,13 @@
 
 > Rolling list of unresolved mysteries and active campaign threads. Keep this page broad; use **Current Status** for “where we are right now.”
 
-## Active / high-priority as of end of [[Session 019 - The Well of Bargains and the Demon Princess]]
+## Active / high-priority as of end of [[Session 020 - The Road Beneath the World]]
 
-- **Wilderspool’s true well (bargain site)** — what is it, what does it demand, and what answered from below? See: [[Wilderspool - True Well (Qui non dat quod habet)]].
-- **Sir Madoc missing** — whereabouts unknown; kidnapping lead: [[Bruce]].
-- **Merlin missing / Excalibur broken** — find Merlin and/or restore the sword (now in three pieces).
+- **Otherworld navigation:** the conroi has stepped through an “Exit” into **Maybe future city (London?)** — find a **church with a golden angel** and determine where/when they are.
+- **Merlin missing / Excalibur broken** — Merlin has **crossed over**; reach him (or another Lady of the Lake) and learn how to restore [[Excalibur]].
+- **Uther blowback:** refusing the royal progress earned **+10 Contempt**; what retaliation or political consequence follows?
+- **Wilderspool’s true well (bargain site)** — what did it accept, and what did it *do*? See: [[Wilderspool - True Well (Qui non dat quod habet)]].
+- **Sir Madoc missing-ish** — kidnapping lead: [[Bruce]]; reported redeployed west to [[Escavalon]].
 - **The three infants** — where are they now (left with the surgeons), and what are they?
 - **Missing ally:** where is [[Drimant]] now?
 - **War fallout / political danger:** pact of friendship with [[Eosa “the Giant” Horsason]] vs killing the “princess” revenant in York.

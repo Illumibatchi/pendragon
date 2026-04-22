@@ -1,6 +1,6 @@
 
 
-> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 019**.
+> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 020**.
 
 ## Year 480 - The early days: squires of Salisbury (Sessions 000-002)
 - The campaign opens in the **Uther Period** with a group of squires serving the household knights of **[[Count Roderick of Salisbury]]**. *(See: [[Session 000 - The Young Squires of Salisbury]])*
@@ -84,3 +84,11 @@
 - In York, King [[Eosa “the Giant” Horsason]] celebrates and claims his daughter has returned — but Millicent and Assterius perceive the “princess” is wrong: a hollow revenant/demonic impostor.
 - The conroi confronts and slays the creature in a desperate bedroom fight (decisive blow by [[Sir Geraint]] with Eosa’s golden axe). The reveal drives Geraint into madness, and the company flees.
 - Returning south, [[Count Roderick of Salisbury]] shows them the grim truth: **Excalibur is broken into three pieces and Merlin is missing**. The new quest is to find Merlin and/or restore the sword. *(See: [[Session 019 - The Well of Bargains and the Demon Princess]])*
+
+## Year 487 - The Road Beneath the World (Session 020)
+- At the start of 487, the realm shifts: Saxons retreat on some fronts; the King of Deira is said to have gone mad; Linden is left desolated and unable to support civilization.
+- The conroi is invited to join [[Uther Pendragon]]’s royal progress — and refuses, committing instead to the Merlin/[[Excalibur]] quest. Uther takes this as disloyalty (**+10 Contempt**) and suspicion of Roderick’s faction.
+- Following a lead through [[Pitum]] and back to [[Wells]], the knights discover [[Lady Wells]] is one of the [[Ladies of the Lake]] and that [[Merlin]] has crossed over (not in this world).
+- With [[Excalibur]] shattered, the only path to Merlin is the [[Otherworld]]: the conroi enters via the [[Frome Stones]] cave with [[Guido (The Guide)]].
+- After a long underground trek (mushroom rations, dreams/visions, an abyss descent, and a hobgoblin battle), they open an iron door labeled “Exit” — and step into **Maybe future city (London?)**.
+- Their only guidance: find a **church with a golden angel**. *(See: [[Session 020 - The Road Beneath the World]])*

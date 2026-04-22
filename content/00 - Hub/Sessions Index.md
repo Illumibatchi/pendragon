@@ -20,6 +20,7 @@
 |  17 | 2026-03-18 |          484 | The Wyrd Pool of Wilderspool                                         | [[Session 017 - The Wyrd Pool of Wilderspool]]                                         |
 |  18 | 2026-03-25 |          484 | The Serpent Lodge and the Fall of Ælflaed                            | [[Session 018 - The Serpent Lodge and the Fall of Ælflaed]]                            |
 |  19 | 2026-04-01 |      485–486 | The Well of Bargains and the Demon Princess                          | [[Session 019 - The Well of Bargains and the Demon Princess]]                          |
+|  20 | 2026-04-08 |          487 | The Road Beneath the World                                           | [[Session 020 - The Road Beneath the World]]                                           |
 |   — |            |              | Template                                                             | [[Session 000 - Template]]                                                             |
 
 > I’ll maintain this table as we add sessions.

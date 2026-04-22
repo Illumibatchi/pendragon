@@ -60,6 +60,8 @@
 - [[Drimant]] - blue-robed neutral chronicler (Ladies of the Lake trained); warns of omens.
 - [[Red Sorceress (Glastonbury)]] - captured then escapes by swapping with Maynard.
 - [[Lady Niev]] - woman in white tied to fairy dragon egg.
+- [[Lady Wells]] - Lady of Wells; revealed as one of the [[Ladies of the Lake]].
+- [[Guido (The Guide)]] - child navigator provided by Lady Wells; leads the conroi to/through the [[Frome Stones]] route into the [[Otherworld]].
 - [[The Woman in White (Silchester)]] - mysterious white-cloaked castle visitor.
 - [[Unknown name - Woman in White (White Stag)]] - rides a white stag with glowing antlers.
 

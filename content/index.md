@@ -4,7 +4,7 @@ A record of events, characters, and places within the campaign.
 
 ---
 
-![[00 - Hub/Current Status]]
+![[Current Status]]
 
 ---
 
@@ -21,7 +21,7 @@ A record of events, characters, and places within the campaign.
 
 ## The World
 - [[00 - Hub/Characters Index|Characters]]
-- [[00 - Hub/Lore|Lore Index]]
+- [[Places & Factions Index|Places & Factions]]
 
 ---
 
@@ -31,7 +31,7 @@ A record of events, characters, and places within the campaign.
 ---
 
 ## Player Map
-![[00 - Hub/Player Map.jpg]]
+![[Player Map.jpg]]
 
 ---
 

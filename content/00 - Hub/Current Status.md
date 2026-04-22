@@ -1,24 +1,21 @@
-## Where we left off (end of [[Session 019 - The Well of Bargains and the Demon Princess|Session 019]])
-The conroi returned to [[Wilderspool]] to resolve the mystery of the “true well” and complete [[Ælflaed]]'s intended sacrifice. They identified the ancient ritual site—[[Wilderspool - True Well (Qui non dat quod habet)|the true well]]—and made offerings including Ælflaed’s preserved body and Liam’s druidic spear. The well answered with eerie silence.
+## Where we left off (end of [[Session 020 - The Road Beneath the World|Session 020]])
+With [[Excalibur]] broken and [[Merlin]] missing, the conroi refused [[Uther Pendragon]]’s royal progress (**+10 Contempt**) and pursued Roderick’s quest instead.
 
-Back in York, King [[Eosa “the Giant” Horsason]] celebrated their “success” and presented a golden axe, but a false Ælflaed was revealed—an empty imitation (a revenant/demonic impostor). The conroi confronted it, slew it in a desperate bedroom fight (decisive blow by [[Sir Geraint]] with Eosa’s axe), and fled.
+After consulting Assterius’ father at [[Pitum]] and returning to [[Wells]], they learned [[Lady Wells]] is one of the [[Ladies of the Lake]] — and that Merlin has **crossed over** and is no longer in this world. With no other path to mending Excalibur, the conroi chose to enter the [[Otherworld]].
 
-They have now returned south and reported to [[Count Roderick of Salisbury]]. Roderick shows them the grim truth: [[Excalibur]] is broken into three pieces and [[Merlin]] is missing. The conroi’s new quest is to **find Merlin and/or restore [[Excalibur]]**.
+Via the [[Frome Stones]] cave and a child guide, [[Guido (The Guide)|Guido]], they endured a long subterranean trek (mushrooms for food, dream-visions, an abyss descent) and fought hobgoblins in the dark.
+
+At last they climbed liquid-rock stairs to an iron door labeled **“Exit”** — and stepped into an alien place: **Maybe future city (London?)**. Guido’s only instruction: find a **church with a golden angel**.
 
 ## Immediate fallout
-- **Sir Madoc’s status remains concerning:** he previously vanished under suspicious circumstances (kidnapping lead: [[Bruce]]), but is now reported **deployed west to [[Escavalon]] (Caerleon)** under Uther’s broader strategy.
-- The Wilderspool true well remains unexplained: did it demand a bargain, and what answered it?
-- **Political danger:** they accepted a pact of friendship with Eosa, then killed the “princess” in his hall... Hacked her up to almost beyond recognition omg....
-
-![[american-psycho-smoke.gif]]
-
-- Several knights carry lingering melancholy after Wilderspool and the demon’s reveal.
-- **State of the realm (beginning of 487):** Uther marches east toward [[Londinium]]; the north remains lost; **Excalibur is broken** and **Merlin is missing**.
+- **Uther is alienated:** refusal of his progress is now a political signal (and may be read as siding with [[Count Roderick of Salisbury|Roderick]]).
+- **Merlin/Excalibur pressure escalates:** the only route to Merlin is navigating the Otherworld.
+- **Sir Madoc’s status remains concerning:** kidnapping lead [[Bruce]]; reported redeployed west to [[Escavalon]] (Caerleon).
 
 ## Next session questions
-- What is the Wilderspool true well, and what was actually traded?
-- Where is Sir Madoc now, and what exactly is Bruce’s role/orders in Uther’s chain?
-- Can Excalibur be reforged, and can Merlin be found?
+- Where (and *when*) exactly is this **Maybe future city (London?)** — and how do you find a church with a **golden angel**?
+- Can the conroi contact Merlin here, and what price will it demand?
+- What does Uther do when he decides the conroi has refused him “for a reason”?
 
 See: [[Open Threads & Mysteries]]
 

@@ -14,3 +14,4 @@ Local lady of Wells; threatened by a purported messenger acting in Uther’s nam
 
 ## Timeline
 - **(482)** — Threatened by a messenger claiming to act in [[Uther Pendragon]]’s name during the Wells incident. *(Source: [[Session 010 - The Silent Town of Wells and the Ogre of the Marsh]])*
+- **(487)** — Revealed to be one of the [[Ladies of the Lake]]; confirms [[Merlin]] has crossed over and provides a guide into the [[Otherworld]] via the [[Frome Stones]]. *(Source: [[Session 020 - The Road Beneath the World]])*

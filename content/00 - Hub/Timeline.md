@@ -57,16 +57,18 @@
 - Sir Madoc’s disappearance is revealed as a February kidnapping involving a man described as “Bruce.” *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]])*
 - Count Roderick reveals Excalibur is broken into three pieces; Merlin is missing; the conroi is bid to find Merlin and/or restore the sword. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]])*
 
-## Beginning of 487 — State of the Realm
+## 487
 - Uther reorganizes after the northern defeat: he marches east toward [[Londinium]], while [[Sir Madoc]] is sent west to [[Escavalon]] (Caerleon) to fight Saxons. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]])*
-
-## 487 — The Road Beneath the World
 - The Saxons retreat on every front; the King of Deira is said to have gone mad; the Angles abandon/desolate Linden after looting. *(Source: [[Session 020 - The Road Beneath the World]])*
 - The conroi refuses [[Uther Pendragon]]’s royal progress and earns **+10 Contempt**. *(Source: [[Session 020 - The Road Beneath the World]])*
 - Seeking Merlin and a path to restore [[Excalibur]], the conroi consults Assterius’ father at [[Pitum]] and returns to [[Wells]] to seek the [[Ladies of the Lake]]. *(Source: [[Session 020 - The Road Beneath the World]])*
 - [[Lady Wells]] is revealed as a Lady of the Lake and confirms [[Merlin]] has crossed over (not in this world). *(Source: [[Session 020 - The Road Beneath the World]])*
 - The conroi enters the [[Otherworld]] via the [[Frome Stones]] cave with [[Guido (The Guide)]], endures dreams/visions, survives an abyss descent and a hobgoblin fight, and opens an iron door labeled “Exit.” *(Source: [[Session 020 - The Road Beneath the World]])*
 - The conroi emerges into **Maybe future city (London?)** and begins searching for a church with a **golden angel**. *(Source: [[Session 020 - The Road Beneath the World]])*
+- The conroi confirms the Otherworld “glass city” is Cardiff while pursuing the golden-angel lead. *(Source: [[Session 021 - The Glass City and the Man in Vitriol]])*
+- [[Merlin]] is found preserved in vitriol in a museum exhibit; he is dead in this future and slated for dissection. *(Source: [[Session 021 - The Glass City and the Man in Vitriol]])*
+- [[Excalibur]] is repaired by [[Elf Smith of Pengam Green]]. *(Source: [[Session 021 - The Glass City and the Man in Vitriol]])*
+- On the return below, the conroi slays a many-handed abomination that becomes [[Guido (The Guide)]]. *(Source: [[Session 021 - The Glass City and the Man in Vitriol]])*
 
 ---
 

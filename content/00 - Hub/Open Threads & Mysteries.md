@@ -1,18 +1,13 @@
 
 > Rolling list of unresolved mysteries and active campaign threads. Keep this page broad; use **Current Status** for “where we are right now.”
 
-## Active / high-priority as of end of [[Session 020 - The Road Beneath the World]]
+## Active / high-priority as of end of [[Session 021 - The Glass City and the Man in Vitriol]]
 
-- **Otherworld navigation:** the conroi has stepped through an “Exit” into **Maybe future city (London?)** — find a **church with a golden angel** and determine where/when they are.
-- **Merlin missing / Excalibur broken** — Merlin has **crossed over**; reach him (or another Lady of the Lake) and learn how to restore [[Excalibur]].
+- **Death clock on exit:** Millicent + Liam are grievously wounded; once the conroi exits the caverns they have roughly **~6 hours (by midnight after exit)** to receive chirurgery.
+- **Merlin’s endpoint discovered:** [[Merlin]] is dead in this future (body preserved in vitriol; dissection imminent). The likely play is finding a way to **go back** and prevent that fate.
+- **Guido reveal:** the many-handed abomination you slew became [[Guido (The Guide)|Guido]]. What was he, and what does it imply about [[Lady Wells]] / the [[Ladies of the Lake]]?
 - **Uther blowback:** refusing the royal progress earned **+10 Contempt**; what retaliation or political consequence follows?
-- **Wilderspool’s true well (bargain site)** — what did it accept, and what did it *do*? See: [[Wilderspool - True Well (Qui non dat quod habet)]].
-- **Sir Madoc missing-ish** — kidnapping lead: [[Bruce]]; reported redeployed west to [[Escavalon]].
-- **The three infants** — where are they now (left with the surgeons), and what are they?
-- **Missing ally:** where is [[Drimant]] now?
-- **War fallout / political danger:** pact of friendship with [[Eosa “the Giant” Horsason]] vs killing the “princess” revenant in York.
-- **The Wyrd Pool’s governing power** — what enforces the taboos, and what broader influence does the pool have?
-- **Liam’s state:** “no lifeline” reading + instability/misery; is this tied to the [[Lady of the Well]] bargain?
+
 
 ## Open threads / mysteries (in session order)
 
@@ -64,3 +59,7 @@
 - **(485–486 / S19) Merlin missing / Excalibur broken:** where is Merlin, who has the three pieces of Excalibur, and can it be reforged before the realm collapses? *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]]).* 
 
 - **(485–486 / S19) Sir Madoc’s disappearance and redeployment:** was Madoc’s February kidnapping an extraction, a test, or an enemy action—and what is his actual status now in Escavalon? *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]]).*
+
+- **(487 / S20–S21) Otherworld crossing + Guido:** What was Guido (guide vs trap vs transformed), and what does his death imply about [[Lady Wells]] / the [[Ladies of the Lake]]? *(Sources: [[Session 020 - The Road Beneath the World]], [[Session 021 - The Glass City and the Man in Vitriol]]).*
+
+- **(487 / S20–S21) Merlin’s fate & the “save him” plan:** Merlin is dead in this future (body preserved in vitriol; dissection imminent). How can the conroi intervene—likely by going back before that endpoint? *(Sources: [[Session 020 - The Road Beneath the World]], [[Session 021 - The Glass City and the Man in Vitriol]]).*

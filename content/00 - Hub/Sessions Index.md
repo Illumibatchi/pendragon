@@ -21,6 +21,7 @@
 |  18 | 2026-03-25 |          484 | The Serpent Lodge and the Fall of Ælflaed                            | [[Session 018 - The Serpent Lodge and the Fall of Ælflaed]]                            |
 |  19 | 2026-04-01 |      485–486 | The Well of Bargains and the Demon Princess                          | [[Session 019 - The Well of Bargains and the Demon Princess]]                          |
 |  20 | 2026-04-08 |          487 | The Road Beneath the World                                           | [[Session 020 - The Road Beneath the World]]                                           |
+|  21 | 2026-04-15 |          487 | The Glass City and the Man in Vitriol                                | [[Session 021 - The Glass City and the Man in Vitriol]]                                |
 |   — |            |              | Template                                                             | [[Session 000 - Template]]                                                             |
 
 > I’ll maintain this table as we add sessions.

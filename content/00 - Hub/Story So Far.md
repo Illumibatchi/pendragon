@@ -1,6 +1,6 @@
 
 
-> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 020**.
+> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 021**.
 
 ## Year 480 - The early days: squires of Salisbury (Sessions 000-002)
 - The campaign opens in the **Uther Period** with a group of squires serving the household knights of **[[Count Roderick of Salisbury]]**. *(See: [[Session 000 - The Young Squires of Salisbury]])*
@@ -92,3 +92,10 @@
 - With [[Excalibur]] shattered, the only path to Merlin is the [[Otherworld]]: the conroi enters via the [[Frome Stones]] cave with [[Guido (The Guide)]].
 - After a long underground trek (mushroom rations, dreams/visions, an abyss descent, and a hobgoblin battle), they open an iron door labeled “Exit” — and step into **Maybe future city (London?)**.
 - Their only guidance: find a **church with a golden angel**. *(See: [[Session 020 - The Road Beneath the World]])*
+
+
+## Year 487 - The Glass City and the Man in Vitriol (Session 021)
+- The conroi confirms the Otherworld “glass city” is **Cardiff**, finds the golden angel atop **Llandaff Cathedral**, and follows leads for “Merdwyl.”
+- A museum exhibit reveals [[Merlin]]’s body preserved in vitriol — but dead in this future, soon to be cut apart for study.
+- At Pengam Green’s Reawakening Fair, an elf-smith repairs [[Excalibur]] and takes commissions for new kit.
+- Returning below, the conroi defeats a many-handed abomination that becomes [[Guido (The Guide)|Guido]] when slain; Millicent and Liam are grievously wounded, with a lethal timer once they exit. *(See: [[Session 021 - The Glass City and the Man in Vitriol]])*

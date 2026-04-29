@@ -1,24 +1,22 @@
-## Where we left off (end of [[Session 020 - The Road Beneath the World|Session 020]])
-With [[Excalibur]] broken and [[Merlin]] missing, the conroi refused [[Uther Pendragon]]’s royal progress (**+10 Contempt**) and pursued Roderick’s quest instead.
+## Where we left off (end of [[Session 021 - The Glass City and the Man in Vitriol|Session 021]])
+The conroi confirms the “glass city” beyond the underworld Exit is **Cardiff**. After finding the golden angel atop **Llandaff Cathedral**, they chase leads for “Merdwyl” and discover a museum exhibit: **[[Merlin]]** preserved in **oil of vitriol** — but dead in this future, an empty vessel soon to be cut apart for study.
 
-After consulting Assterius’ father at [[Pitum]] and returning to [[Wells]], they learned [[Lady Wells]] is one of the [[Ladies of the Lake]] — and that Merlin has **crossed over** and is no longer in this world. With no other path to mending Excalibur, the conroi chose to enter the [[Otherworld]].
+At the Reawakening Fair at Pengam Green, an otherworldly smith repairs **[[Excalibur]]** and takes commissions for new kit. The conroi then returns below — only to be stopped by a many-handed abomination. In a brutal fight **Millicent** and **Liam** are grievously wounded, and when the creature dies it collapses into **[[Guido (The Guide)|Guido]]**.
 
-Via the [[Frome Stones]] cave and a child guide, [[Guido (The Guide)|Guido]], they endured a long subterranean trek (mushrooms for food, dream-visions, an abyss descent) and fought hobgoblins in the dark.
+![[Guido Beast.jpg]]
 
-At last they climbed liquid-rock stairs to an iron door labeled **“Exit”** — and stepped into an alien place: **Maybe future city (London?)**. Guido’s only instruction: find a **church with a golden angel**.
+**Critical clock:** time doesn’t seem to pass below, but once the conroi exits the caverns, the mortally wounded have roughly **~6 hours (table shorthand: by midnight after exit)** to receive chirurgery or die.
 
 ## Immediate fallout
-- **Uther is alienated:** refusal of his progress is now a political signal (and may be read as siding with [[Count Roderick of Salisbury|Roderick]]).
-- **Merlin/Excalibur pressure escalates:** the only route to Merlin is navigating the Otherworld.
-- **Sir Madoc’s status remains concerning:** kidnapping lead [[Bruce]]; reported redeployed west to [[Escavalon]] (Caerleon).
+- **Millicent + Liam:** grievously wounded; stable *for now* while below; **death clock starts on exit**.
+- **Merlin:** located, but dead in this future; body preserved in vitriol; **imminent dissection** planned.
+- **Excalibur:** restored/functional.
+- **Guido:** revealed as the slain many-handed beast.
 
 ## Next session questions
-- Where (and *when*) exactly is this **Maybe future city (London?)** — and how do you find a church with a **golden angel**?
-- Can the conroi contact Merlin here, and what price will it demand?
-- What does Uther do when he decides the conroi has refused him “for a reason”?
+- How do you get Millicent + Liam urgent medical help the moment you return to the mortal world?
+- If Merlin is dead in this future, can you **go back** (or otherwise reach him) to save him before the vitriol-mine fate?
+- What was Guido, really — and what does that imply about [[Lady Wells]] and the [[Ladies of the Lake]]?
 
 See: [[Open Threads & Mysteries]]
 
----
-
-![[Realm Map - 487 state of the realm.jpg]]

@@ -19,7 +19,7 @@ The runed sword of the High Kingship of Logres — a symbol of legitimacy as muc
 Multiple sources treat Excalibur as *regalia*: it supports legitimacy, oaths, and political unity (not just battlefield power).
 
 ## Current status
-- **Broken into three pieces** as of the end of [[Session 019 - The Well of Bargains and the Demon Princess]].
+- **Repaired** as of [[Session 021 - The Glass City and the Man in Vitriol]] (after being broken into three pieces in Session 019).
 - The pieces are shown/held in [[Count Roderick of Salisbury]]’s treasury when he briefs the conroi on the new quest.
 
 ## Timeline
@@ -28,6 +28,7 @@ Multiple sources treat Excalibur as *regalia*: it supports legitimacy, oaths, an
 - **(481)** — Noted as an important mark of legitimacy for the High Kingship (regalia logic, not just a weapon). *(Source: [[Session 009 — Player Synopsis — Bedegraine]])*
 - **(485–486)** — Shattered when Uther strikes [[Eosa “the Giant” Horsason]]; the sword breaks without wounding him. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]]; [[Session 019 — Player Synopsis — Well of Bargains and Demon Princess]])*
 - **(485–486)** — [[Count Roderick of Salisbury]] reveals the three pieces and bids the conroi to find Merlin and/or restore Excalibur. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]])*
+- **(487)** — Repaired by [[Elf Smith of Pengam Green]] at the Pengam Green Reawakening Fair (Otherworld/Cardiff). *(Source: [[Session 021 - The Glass City and the Man in Vitriol]])*
 
 ## Linked people / threads
 - Uther Pendragon (wielder / political stake)

@@ -55,7 +55,7 @@
 - [[Tor of Glastonbury (Ynys Wydrin)]] — Pagan shadow-gate / Christian evil-gate framing. *([[Session 010 - The Silent Town of Wells and the Ogre of the Marsh|S10]])*
 - [[Flooded Shrine of the Well]] — Deep shrine with the Lady-of-the-Well bargain. *([[Session 011 - The Hag of the Passage and the Lady of the Well|S11]])*
 - [[Frome Stones]] — Thin place / cave-spring route into the [[Otherworld]] (entered in 487 with [[Guido (The Guide)]]). *([[Session 020 - The Road Beneath the World|S20]])*
-- [[Otherworld]] — The realm “across” (Merlin has crossed over); reached via Frome Stones; exit point leads to **Maybe future city (London?)**. *([[Session 020 - The Road Beneath the World|S20]])*
+- [[Otherworld]] — The realm “across” (Merlin has crossed over); reached via Frome Stones; exit point leads to **Cardiff** (confirmed). *([[Session 020 - The Road Beneath the World|S20]], [[Session 021 - The Glass City and the Man in Vitriol|S21]])*
 
 ## Summerland / treaty arc
 - [[Summerland]] — Targeted by Uther for invasion (later peace treaty episode). *([[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]])*

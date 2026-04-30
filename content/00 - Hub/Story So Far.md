@@ -99,3 +99,9 @@
 - A museum exhibit reveals [[Merlin]]’s body preserved in vitriol — but dead in this future, soon to be cut apart for study.
 - At Pengam Green’s Reawakening Fair, an elf-smith repairs [[Excalibur]] and takes commissions for new kit.
 - Returning below, the conroi defeats a many-handed abomination that becomes [[Guido (The Guide)|Guido]] when slain; Millicent and Liam are grievously wounded, with a lethal timer once they exit. *(See: [[Session 021 - The Glass City and the Man in Vitriol]])*
+
+## Year 487 - The Mine of Blood and the Dragon’s Vigil (Session 022)
+- The conroi emerges near [[Caerleon]]; the squires insist only **~7–7.5 hours** have passed since descent, sharpening the sense that the Exit is warping time and memory.
+- A chirurgeon is hired immediately (Liam pays), addressing the immediate wound crisis on the surface.
+- At the copper mine near [[Caerwent]], the conroi battles small green sling-creatures whose spiked shots spawn more bodies when they draw blood; the creatures’ blood is discovered to heal, and some is collected.
+- Deep below, [[Merlin]] is found **encased in crystal** and guarded by a **dragon**; the conroi withdraws to regroup rather than fight it in the depths. *(See: [[Session 022 - The Mine of Blood and the Dragon’s Vigil]])*

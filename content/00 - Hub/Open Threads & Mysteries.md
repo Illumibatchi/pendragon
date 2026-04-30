@@ -1,12 +1,16 @@
 
 > Rolling list of unresolved mysteries and active campaign threads. Keep this page broad; use **Current Status** for “where we are right now.”
 
-## Active / high-priority as of end of [[Session 021 - The Glass City and the Man in Vitriol]]
+## Active / high-priority as of end of [[Session 022 - The Mine of Blood and the Dragon’s Vigil]]
 
-- **Death clock on exit:** Millicent + Liam are grievously wounded; once the conroi exits the caverns they have roughly **~6 hours (by midnight after exit)** to receive chirurgery.
-- **Merlin’s endpoint discovered:** [[Merlin]] is dead in this future (body preserved in vitriol; dissection imminent). The likely play is finding a way to **go back** and prevent that fate.
-- **Guido reveal:** the many-handed abomination you slew became [[Guido (The Guide)|Guido]]. What was he, and what does it imply about [[Lady Wells]] / the [[Ladies of the Lake]]?
+- **Exit anomaly / missing time:** the conroi emerged near **Caerleon** and the squires insist only **~7–7.5 hours** elapsed. Memory/place doesn’t line up.
+- **Wells “burned” claim (distortion?):** squires insist **Wells was burned in the war**; treated as unreliable testimony / glamour until verified.
+- **Merlin in crystal + dragon guardian:** [[Merlin]] is located in the Caerwent copper mine, **encased in crystal** and guarded by a **dragon**; you withdrew to regroup.
+- **Caerwent mine blood-magic ecology:** green slingers whose spiked shots spawn more creatures when they draw blood; their blood **heals** and some was collected—safe resource or cursed trap?
 - **Uther blowback:** refusing the royal progress earned **+10 Contempt**; what retaliation or political consequence follows?
+- **Guido reveal:** the many-handed abomination you slew became [[Guido (The Guide)|Guido]]. What was he, and what does it imply about [[Lady Wells]] / the [[Ladies of the Lake]]?
+
+*(Advanced: the immediate “death clock on exit” crisis was addressed by hiring a chirurgeon on return.)*
 
 
 ## Open threads / mysteries (in session order)

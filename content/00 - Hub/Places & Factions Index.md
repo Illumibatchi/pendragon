@@ -56,6 +56,8 @@
 - [[Flooded Shrine of the Well]] — Deep shrine with the Lady-of-the-Well bargain. *([[Session 011 - The Hag of the Passage and the Lady of the Well|S11]])*
 - [[Frome Stones]] — Thin place / cave-spring route into the [[Otherworld]] (entered in 487 with [[Guido (The Guide)]]). *([[Session 020 - The Road Beneath the World|S20]])*
 - [[Otherworld]] — The realm “across” (Merlin has crossed over); reached via Frome Stones; exit point leads to **Cardiff** (confirmed). *([[Session 020 - The Road Beneath the World|S20]], [[Session 021 - The Glass City and the Man in Vitriol|S21]])*
+- [[Caerleon]] — Referenced as the apparent Exit/emergence area after the underworld route. *([[Session 022 - The Mine of Blood and the Dragon’s Vigil|S22]])*
+- [[Caerwent]] — Site of the copper mine where Merlin was first found; resupplied here before the mine descent. *([[Session 021 - The Glass City and the Man in Vitriol|S21]], [[Session 022 - The Mine of Blood and the Dragon’s Vigil|S22]])*
 
 ## Summerland / treaty arc
 - [[Summerland]] — Targeted by Uther for invasion (later peace treaty episode). *([[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]])*

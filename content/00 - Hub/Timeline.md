@@ -69,6 +69,9 @@
 - [[Merlin]] is found preserved in vitriol in a museum exhibit; he is dead in this future and slated for dissection. *(Source: [[Session 021 - The Glass City and the Man in Vitriol]])*
 - [[Excalibur]] is repaired by [[Elf Smith of Pengam Green]]. *(Source: [[Session 021 - The Glass City and the Man in Vitriol]])*
 - On the return below, the conroi slays a many-handed abomination that becomes [[Guido (The Guide)]]. *(Source: [[Session 021 - The Glass City and the Man in Vitriol]])*
+- The conroi emerges near [[Caerleon]]; squires insist only **~7–7.5 hours** have passed since descent, suggesting time distortion. *(Source: [[Session 022 - The Mine of Blood and the Dragon’s Vigil]])*
+- In the [[Caerwent]] copper mine, the conroi fights green slingers whose spiked shots spawn more creatures when they draw blood; the creatures’ blood is discovered to heal and some is collected. *(Source: [[Session 022 - The Mine of Blood and the Dragon’s Vigil]])*
+- [[Merlin]] is found encased in crystal in the mine, guarded by a dragon; the conroi retreats without engaging. *(Source: [[Session 022 - The Mine of Blood and the Dragon’s Vigil]])*
 
 ---
 

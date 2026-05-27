@@ -16,3 +16,4 @@ Recovered from a forgotten holy site near Downton. Claimed by [[Drustin]]. Later
 
 ## Timeline
 - **(481)** — Recovered near Downton; proven in battle. *(Source: [[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern]])*
+- **(487)** — Reclaimed by [[Sir Gerry]] after seven days of penance and an angelic test of honesty, justice, spirituality, and valor; must be returned within three moons. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*

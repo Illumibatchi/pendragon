@@ -1,17 +1,14 @@
 
 > Rolling list of unresolved mysteries and active campaign threads. Keep this page broad; use **Current Status** for “where we are right now.”
 
-## Active / high-priority as of end of [[Session 022 - The Mine of Blood and the Dragon’s Vigil]]
+## Active / high-priority as of end of [[Session 024 - The Feast at Sarum and the Forest’s Warning]]
 
-- **Exit anomaly / missing time:** the conroi emerged near **Caerleon** and the squires insist only **~7–7.5 hours** elapsed. Memory/place doesn’t line up.
-- **Wells “burned” claim (distortion?):** squires insist **Wells was burned in the war**; treated as unreliable testimony / glamour until verified.
-- **Merlin in crystal + dragon guardian:** [[Merlin]] is located in the Caerwent copper mine, **encased in crystal** and guarded by a **dragon**; you withdrew to regroup.
-- **Caerwent mine blood-magic ecology:** green slingers whose spiked shots spawn more creatures when they draw blood; their blood **heals** and some was collected—safe resource or cursed trap?
-- **Uther blowback:** refusing the royal progress earned **+10 Contempt**; what retaliation or political consequence follows?
-- **Guido reveal:** the many-handed abomination you slew became [[Guido (The Guide)|Guido]]. What was he, and what does it imply about [[Lady Wells]] / the [[Ladies of the Lake]]?
-
-*(Advanced: the immediate “death clock on exit” crisis was addressed by hiring a chirurgeon on return.)*
-
+- **Excalibur / forest threat:** [[Damsel Diana]] and [[Lady Wells]] warn that true [[Excalibur]] must be returned to the [[Ladies of the Lake]], or the forests will continue to encroach. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
+- **Sword identity crisis:** the conroi has [[Party’s Magical Sword (not Excalibur)]], not true Excalibur; Liam suspects Uther may never have had the real sword. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
+- **France campaign commitment:** the conroi volunteered for Uther’s spring 488 campaign against the [[Franks]] in [[Calais]], led by [[Sir Madoc]]. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
+- **Real Merlin still unresolved:** the parallel-world rescue did not solve the status of the conroi's own Merlin and true Excalibur problem. *(Sources: [[Session 023 - The Dragon Beneath the Mine]], [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
+- **Gate-creature consequences:** [[Merlin]] warned that killing the [[Gate-creature (fey)]] was probably catastrophic; consequences remain unknown. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
+- **Uther blowback / loyalty tension:** the conroi is now pulled between Uther’s war, Roderick’s politics, and the [[Ladies of the Lake]] cause.
 
 ## Open threads / mysteries (in session order)
 
@@ -67,3 +64,19 @@
 - **(487 / S20–S21) Otherworld crossing + Guido:** What was Guido (guide vs trap vs transformed), and what does his death imply about [[Lady Wells]] / the [[Ladies of the Lake]]? *(Sources: [[Session 020 - The Road Beneath the World]], [[Session 021 - The Glass City and the Man in Vitriol]]).*
 
 - **(487 / S20–S21) Merlin’s fate & the “save him” plan:** Merlin is dead in this future (body preserved in vitriol; dissection imminent). How can the conroi intervene—likely by going back before that endpoint? *(Sources: [[Session 020 - The Road Beneath the World]], [[Session 021 - The Glass City and the Man in Vitriol]]).*
+
+- **(487 / S23) Parallel Britain and Prince Uther:** the conroi has confirmed at least one alternate Britain ruled by [[Prince Uther]], with its own Merlin and true [[Excalibur]]. *(Source: [[Session 023 - The Dragon Beneath the Mine]]).*
+
+- **(487 / S23) Dragon guardian resolved:** the [[Dragon of the Roman Mine]] was slain, and its death freed the parallel-world Merlin from crystal. *(Source: [[Session 023 - The Dragon Beneath the Mine]]).*
+
+- **(487 / S23) The party's sword is not Excalibur:** the blade remains magical and reacts in the dragon chamber, but its true name, origin, and purpose remain unknown. *(Source: [[Session 023 - The Dragon Beneath the Mine]]; see [[Party’s Magical Sword (not Excalibur)]]).*
+
+- **(487 / S23) Gate-creature fallout:** [[Merlin]] says killing the [[Gate-creature (fey)]] was probably catastrophic; consequences remain unknown. *(Source: [[Session 023 - The Dragon Beneath the Mine]]).*
+
+
+## Maintenance notes
+- [[Stub & Rename Registry]] tracks unresolved names, spelling uncertainties, and rename cleanup.
+
+- **(487 / S24) Excalibur return and the encroaching forest:** [[Lady Wells]] confirms the forest will grow every year true [[Excalibur]] is not returned to the [[Ladies of the Lake]]. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]]).*
+
+- **(487 / S24) Spring 488 campaign against the Franks:** the conroi has volunteered for [[Uther Pendragon]]’s campaign to drive the [[Franks]] from [[Calais]], led by [[Sir Madoc]]. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]]).*

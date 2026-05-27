@@ -35,3 +35,5 @@ Multiple sources treat Excalibur as *regalia*: it supports legitimacy, oaths, an
 - Merlin (missing; restoration may depend on him)
 - Count Roderick of Salisbury (custody / quest-giver)
 - Eosa “the Giant” Horsason (the blow that shattered the sword)
+- **(487)** — A parallel-world [[Merlin]] reveals the party’s repaired sword is not Excalibur and produces the true Excalibur from his robes. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
+- **(487)** — [[Lady Wells]] warns that Excalibur must be returned to the [[Ladies of the Lake]] or the forests will encroach; Liam suspects Uther may never have held the true sword. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*

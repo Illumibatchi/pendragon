@@ -54,4 +54,4 @@ flowchart TB
 - Sir Madoc
 
 **Uncle:** Aurelius Ambrosius
-
+- **(487)** — Present intoxicated at the [[Sarum]] feast; [[Lady Dilwen]] pursues him; named to lead Uther’s spring 488 campaign against the [[Franks]] in [[Calais]]. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*

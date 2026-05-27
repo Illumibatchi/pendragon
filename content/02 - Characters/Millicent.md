@@ -41,4 +41,4 @@ flowchart TB
 
 **Lineage links:**
 - (none)
-
+- **(487)** — Scouts the dragon chamber first and is badly wounded in the battle against the [[Dragon of the Roman Mine]]. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*

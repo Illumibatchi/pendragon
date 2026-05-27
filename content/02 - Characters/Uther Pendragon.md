@@ -55,4 +55,4 @@ flowchart TB
 - Uther Pendragon
 - Aurelius Ambrosius
 - Sir Madoc
-
+- **(487)** — Calls for volunteers for a spring 488 campaign into Gaul/France to drive the [[Franks]] from [[Calais]], with [[Sir Madoc]] leading. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*

@@ -1,28 +1,22 @@
 
+## Where we left off (end of [[Session 024 - The Feast at Sarum and the Forest’s Warning|Session 024]])
+The conroi has returned to court life at [[Sarum]] after the parallel-world mine crisis. At the feast, [[Damsel Diana]] brings [[Lady Wells]]’ warning to [[Liam]]: if [[Excalibur]] is not returned to the [[Ladies of the Lake]], the forests will continue to encroach and imperil the land.
 
-![[Pasted image 20260429201757.png]]
+The conroi does not have true Excalibur — only [[Party’s Magical Sword (not Excalibur)]]. Liam shares his suspicion that [[Uther Pendragon]] may never have possessed the true sword, and Lady Wells confirms the forest will grow every year Excalibur is not returned. She will look into alternatives because the conroi cannot return what it does not have.
 
-walking magic potions ^^^
-
-## Where we left off (end of [[Session 022 - The Mine of Blood and the Dragon’s Vigil|Session 022]])
-The conroi emerges from the underworld route and finds squires and horses waiting **near Caerleon**—who insist that only **~7–7.5 hours** have passed since the party descended. This clashes with the party’s lived experience and sharpens the sense that the Exit is **warping time and memory**. The squires also insist that **Wells was burned in the war**, a claim treated as unreliable testimony / glamour rather than confirmed fact.
-
-With grievous wounds now pressing on the surface, the conroi heads to [Caerleon] and has the knights treated with chirugery.  **Liam hires a chirurgeon** immediately (at his expense), hoping to stave off future death. The conroi then turns toward the next hard lead: the old roman **copper mine near Caerwent**, where Merlin was said to be found (by the people in the future)
-
-Within the mine, the conroi battles small green sling-creatures whose spiked shots **spawn new bodies when they draw blood**. They discover the creatures’ blood has a **restorative/healing** property, and **some is collected**. Deeper still, they find **[[Merlin]] encased in crystal**, preserved but unreachable—guarded by a **dragon**. The conroi withdraws without fighting and resolves to regroup. (The GM made it clear that fighting the dragon head on is certain death)
+Meanwhile Uther calls for volunteers for a spring 488 campaign into Gaul/France, led by [[Sir Madoc]], to drive the [[Franks]] out of [[Calais]]. The conroi volunteers, with [[Sir Geraint]] especially enthusiastic.
 
 ## Immediate fallout
-- **Exit anomaly:** emergence near **Caerleon** + only **~7–7.5 hours** elapsed per the squires. (different timeline?)
-- **Distortion flag:** squires insist **Wells burned** (treated as unreliable testimony).
-- **Chirurgery secured:** grievous wounds addressed immediately, hired a chirurgeon.
-- **Caerwent mine:** hostile ecology (blood-spawning slingers) + **healing blood** collected.
-- **Merlin located (again):** now **imprisoned in crystal**.
-- **Dragon obstacle:** a dragon guards Merlin; the party retreated to plan.
+- **Forest warning:** the [[Ladies of the Lake]] need true [[Excalibur]] returned; delay worsens the land’s encroaching forests.
+- **Sword crisis persists:** the conroi has [[Party’s Magical Sword (not Excalibur)]], not true Excalibur.
+- **France campaign:** the conroi is committed to the spring 488 campaign against the [[Franks]] in [[Calais]].
+- **Drustin’s misery:** [[Drustin]] gains 100 Glory but suffers -2 to all rolls for a year after meeting Ellen’s baby daughter.
+- **Geraint/Rachel:** [[Sir Geraint]]’s courtship of [[Lady Rachel of Carbonog]] advances, but lordly permission and service matter.
 
 ## Next session questions
-- What is causing the **missing time / exit mismatch**, and what else changes while you are “gone”?
-- What does the **“Wells burned”** claim signify (glamour, lie, timeline rewrite, mistaken identity)?
-- How do you approach **Merlin + the dragon** (bypass, bargain, ally, prepare a dragon-slaying plan)?
-- Is the mine’s **healing blood** safe—or cursed, addictive, finite, or attention-drawing?
+- Can [[Lady Wells]] find another way to address the forest threat without Excalibur?
+- Where is true [[Excalibur]], and did Uther ever truly possess it?
+- What does volunteering for the spring 488 Gaul campaign mean for the Merlin/Excalibur quest?
+- How does Drustin cope with the year-long misery penalty?
 
 See: [[Open Threads & Mysteries]]

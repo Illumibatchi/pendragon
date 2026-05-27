@@ -73,7 +73,18 @@
 - In the [[Caerwent]] copper mine, the conroi fights green slingers whose spiked shots spawn more creatures when they draw blood; the creatures’ blood is discovered to heal and some is collected. *(Source: [[Session 022 - The Mine of Blood and the Dragon’s Vigil]])*
 - [[Merlin]] is found encased in crystal in the mine, guarded by a dragon; the conroi retreats without engaging. *(Source: [[Session 022 - The Mine of Blood and the Dragon’s Vigil]])*
 
+- The conroi re-enters the Roman mine and discovers a woman in the crystal chamber with [[Merlin]]; the sword believed to be [[Excalibur]] glows blue in her presence. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
+- After seven days of penance, [[Sir Gerry]] passes the angel's tests and reclaims the [[Shield of St. Crispin]], to be returned within three moons. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
+- The conroi borrows [[Saint Brigid’s Flying Cauldron]] from [[Bishop Bertrand of Bristol]], using [[Chest of Rubies (Liam)|Liam's cursed rubies]] as collateral. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
+- The woman in the chamber is revealed as the [[Dragon of the Roman Mine]]; the company slays it and Merlin's crystal prison melts away. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
+- [[Merlin]] reveals this is a parallel Britain ruled by [[Prince Uther]], and that [[Party’s Magical Sword (not Excalibur)|the party's sword]] is not [[Excalibur]]; he displays the true Excalibur. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
+- Merlin warns that killing the earlier [[Gate-creature (fey)]] was probably catastrophic; the party refuses to steal this world's Merlin or true Excalibur. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
+
+- At a feast in [[Sarum]], [[Damsel Diana]] warns [[Liam]] on behalf of [[Lady Wells]] that [[Excalibur]] must be returned to the [[Ladies of the Lake]], or the forests will encroach and imperil the land. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
+- [[Uther Pendragon]] calls for volunteers for a spring 488 campaign into Gaul/France to drive the [[Franks]] out of [[Calais]], with [[Sir Madoc]] leading; the conroi volunteers. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
+- [[Lady Wells]] confirms the forest will grow every year [[Excalibur]] is not returned, and says she will seek alternatives because the conroi does not have the sword. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
+
 ---
 
 ### Entry format (recommended)
-- **[In-game date / season if known]** - Event summary. *(Source: [[Session 000 - Template]])*
+- **[In-game date / season if known]** - Event summary. *(Source: [[Session Template]])*

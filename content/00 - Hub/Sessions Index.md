@@ -23,6 +23,6 @@
 |  20 | 2026-04-08 |          487 | The Road Beneath the World                                           | [[Session 020 - The Road Beneath the World]]                                           |
 |  21 | 2026-04-15 |          487 | The Glass City and the Man in Vitriol                                | [[Session 021 - The Glass City and the Man in Vitriol]]                                |
 |  22 | 2026-04-29 |          487 | The Mine of Blood and the Dragon’s Vigil                             | [[Session 022 - The Mine of Blood and the Dragon’s Vigil]]                             |
-|   — |            |              | Template                                                             | [[Session 000 - Template]]                                                             |
-
+|  23 | 2026-05-13 |          487 | The Dragon Beneath the Mine                                          | [[Session 023 - The Dragon Beneath the Mine]]                                          |
 > I’ll maintain this table as we add sessions.
+|  24 | 2026-05-20 |          487 | The Feast at Sarum and the Forest’s Warning                          | [[Session 024 - The Feast at Sarum and the Forest’s Warning]]                          |

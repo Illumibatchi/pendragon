@@ -17,7 +17,10 @@
 ---
 
 ## Royal / Succession figures
+- [[Clovis]] — unifier and conqueror leading the [[Franks]]; researched ahead of the spring 488 Gaul campaign.
+- [[King of Sussex (unknown)]] — ruler referenced in the Sussex/Saxon political context.
 - [[Uther Pendragon]] - inherits Logres; volatile conqueror; central driver of war and terror.
+- [[Prince Uther]] — ruler of the parallel Britain revealed in Session 023.
 - [[Aurelius]] - slain High King (Bedegraine betrayal); unity figure whose death fractures the realm.
 - [[Sir Madoc]] - legitimized bastard son of Uther; court intrigue magnet.
 - [[Lucius (Duke of Saxon Shore)]] - 4-year-old knighted; made Duke of Saxon Shore with regent aunt.
@@ -25,10 +28,13 @@
 ## Salisbury / Logres lords and power-brokers
 - [[Count Roderick of Salisbury]] - liege of early campaign; pursuing marriage alliances.
 - [[War Baron Ulfius]] - major war figure present at Bedegraine.
-- [[Bruce]] - Roderick's unsettling agent/analyst; interrogates "witch-deals."
-- [[Bruce]] - named lead tied to Sir Madoc’s February kidnapping-by-boat (policed moustache; spiky leather armor).
+- [[Bruce]] - Roderick's unsettling agent/analyst; interrogates Drustin about witch-deals and is also named as a lead tied to Sir Madoc’s February kidnapping-by-boat (policed moustache; spiky leather armor).
+
+## Player knights / conroi
+- [[Sir Gerry]] — passes the angelic test and bears the [[Shield of St. Crispin]] against the [[Dragon of the Roman Mine]].
 
 ## Knights / commanders (non-player)
+- [[Sir Corton]] — knight present at the Sarum feast; amused by Blaine’s lack of progress.
 - [[Sir Jerem]] - castellan of Duplain; early mission leader.
 - [[Sir Blaine]] - steward of Levcomagus; implicated in the fairy dragon "gift."
 - [[Sir Ector]] - Rachel's brother; Caer Bannog host.
@@ -39,6 +45,9 @@
 - [[Iorath]] — Drustin-hired squire for Sir Geraint (son of a rich nobleman).
 
 ## Ladies / marriage prospects / courts
+- [[Lady Dilwen]] — court lady who pursues an intoxicated [[Sir Madoc]] at the Sarum feast.
+- [[Lady Eadburh of the Vale]] — Saxon lady at the Sarum feast; possible wife of [[War Baron Ulfius]].
+- [[Damsel Diana]] — messenger from [[Lady Wells]] warning that Excalibur must return to the [[Ladies of the Lake]].
 - [[Lady Ellen of Winchbank]] - unconventional heiress; ward of the crown; promised to Roderick.
 - [[Lady Rachel of Carbonog]] - healer; pagan-leaning methods; repeatedly saves PCs.
 - [[Duchess of Silchester]] - host at Silchester during levy absence.
@@ -53,10 +62,11 @@
 - [[Abbot of Wells]] - humiliated victim of Wells incident.
 - [[Brother Maynard]] - monk involved in the sorceress swap.
 - [[Brother Llewelyn]] - Bath abbey monk; points to York plans.
+- [[Bishop Bertrand of Bristol]] — politically ambitious Bishop of Bristol; lends [[Saint Brigid’s Flying Cauldron]] for a costly deposit.
 - [[Joseph of Arimathea]] (lore) - Grail tradition linked to Glastonbury.
 
 ## Wizards / fae / supernatural actors
-- [[Merlin]] - wizard; repeatedly adjacent to major conspiracies.
+- [[Merlin]] - wizard; repeatedly adjacent to major conspiracies; Session 023 reveals a parallel-world Merlin distinct from the party’s own Merlin.
 - [[Drimant]] - blue-robed neutral chronicler (Ladies of the Lake trained); warns of omens.
 - [[Red Sorceress (Glastonbury)]] - captured then escapes by swapping with Maynard.
 - [[Lady Niev]] - woman in white tied to fairy dragon egg.
@@ -96,3 +106,7 @@
 - [[Unknown name - Rachel's hedge knight brother]]
 - [[Unnamed Messenger (Wells)]]
 - [[Vortigern]]
+
+
+## Maintenance
+- [[Stub & Rename Registry]] — tracks provisional names, spelling uncertainties, and future renames.

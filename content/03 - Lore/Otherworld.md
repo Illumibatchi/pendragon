@@ -16,3 +16,6 @@ In 487 the conroi reaches it via the [[Frome Stones]] cave with [[Guido (The Gui
 
 ## Leads
 - Find a **church with a golden angel**. *(Source: [[Session 020 - The Road Beneath the World]])*
+
+## Timeline
+- **(487)** — A freed parallel-world [[Merlin]] confirms the conroi has crossed into another Britain, one ruled by [[Prince Uther]]. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*

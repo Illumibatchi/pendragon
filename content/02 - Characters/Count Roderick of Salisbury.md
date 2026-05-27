@@ -63,4 +63,4 @@ flowchart TB
 **Lineage links:**
 - [[Count Roderick of Salisbury]]
 - [[Lady Ellen of Winchbank]]
-
+- **(487)** — Discusses the disputed sword with Liam and [[Merlin]]; says [[Sir Geraint]] should volunteer for the Gaul campaign to advance the Rachel courtship. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*

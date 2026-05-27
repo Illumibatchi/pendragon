@@ -19,8 +19,8 @@
 - [[Purdue Forest]] — Forest ambush route (Saxon attack; later false-flag raids). *([[Session 003 - The Empty Castle and the Forest Ambush|S3]], [[Session 013 - The Assassin’s Winter and the Escort of Lady Ellen|S13]])*
 
 ## Sarum / Logres war track
-- [[Sarum]] — Major Salisbury stronghold; siege and musters pivot here repeatedly. *([[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern|S6]], [[Session 007 - The Vigil and the Knights of the High King|S7]], [[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]], [[Session 010 - The Silent Town of Wells and the Ogre of the Marsh|S10]], [[Session 014 - Easter Court at Sarum and the Duel of Sir Marius|S14]], [[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
-- [[Downton]] — Battle + holy-site area (Shield of St. Crispin + wyvern crisis). *([[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern|S6]], [[Session 007 - The Vigil and the Knights of the High King|S7]])*
+- [[Sarum]] — Major Salisbury stronghold; siege, musters, and major feasts pivot here repeatedly. *([[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern|S6]], [[Session 007 - The Vigil and the Knights of the High King|S7]], [[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]], [[Session 010 - The Silent Town of Wells and the Ogre of the Marsh|S10]], [[Session 014 - Easter Court at Sarum and the Duel of Sir Marius|S14]], [[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
+- [[Downton]] — Battle + holy-site area (Shield of St. Crispin + wyvern crisis); later used to reclaim the shield before facing the Roman mine dragon. *([[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern|S6]], [[Session 007 - The Vigil and the Knights of the High King|S7]], [[Session 023 - The Dragon Beneath the Mine|S23]])*
 - [[Clausentum]] — Locals report the High King’s army crossing nearby. *([[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern|S6]])*
 - [[River Test]] — River crossed by the High King’s army. *([[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern|S6]])*
 - [[Figsbury]] — Road point where Irish + ogre sighting occurs (Noah’s death). *([[Session 005 - The Fairy Dragon and the Ogre’s Return|S5]])*
@@ -37,7 +37,7 @@
 - [[Gloucester]] — Trade town; confirms wyvern sightings. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[Hereford]] — River town during wyvern hunt route. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[Bath]] — Stop north; abbey records consulted. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
-- [[Bath Scriptorium]] — York plans; River Foss drain weakness. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
+- [[Bath Scriptorium]] — Research site for York plans, River Foss, and later the Franks/Gaul campaign. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
 - [[Eboracum (York)]] — Fallen city; central northern objective. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead|S16]])*
 - [[River Foss]] — York wall drain vulnerability. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
 - [[Sherwood Forest]] — Ambush site; Triamors used as bait. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
@@ -50,14 +50,19 @@
 - [[Warwick]] — Detour to investigate Lady Llylla (“Shisha”). *([[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]])*
 
 ## Wells → Glastonbury underworld corridor
-- [[Wells]] — Deserted town; faerie offerings; forced-muster incident; later revisited to consult [[Lady Wells]] (a Lady of the Lake). *([[Session 010 - The Silent Town of Wells and the Ogre of the Marsh|S10]], [[Session 020 - The Road Beneath the World|S20]])*
+- [[Wells]] — Deserted town; faerie offerings; forced-muster incident; later revisited to consult [[Lady Wells]] about Excalibur and the encroaching forest. *([[Session 010 - The Silent Town of Wells and the Ogre of the Marsh|S10]], [[Session 020 - The Road Beneath the World|S20]])*
 - [[Glastonbury]] — Marshland “thin place” tied to Christian + pagan legend. *([[Session 010 - The Silent Town of Wells and the Ogre of the Marsh|S10]], [[Session 011 - The Hag of the Passage and the Lady of the Well|S11]])*
 - [[Tor of Glastonbury (Ynys Wydrin)]] — Pagan shadow-gate / Christian evil-gate framing. *([[Session 010 - The Silent Town of Wells and the Ogre of the Marsh|S10]])*
 - [[Flooded Shrine of the Well]] — Deep shrine with the Lady-of-the-Well bargain. *([[Session 011 - The Hag of the Passage and the Lady of the Well|S11]])*
 - [[Frome Stones]] — Thin place / cave-spring route into the [[Otherworld]] (entered in 487 with [[Guido (The Guide)]]). *([[Session 020 - The Road Beneath the World|S20]])*
-- [[Otherworld]] — The realm “across” (Merlin has crossed over); reached via Frome Stones; exit point leads to **Cardiff** (confirmed). *([[Session 020 - The Road Beneath the World|S20]], [[Session 021 - The Glass City and the Man in Vitriol|S21]])*
+- [[Otherworld]] — The realm “across” (Merlin has crossed over); exit point leads to **Cardiff**; Session 023 confirms at least one parallel Britain ruled by [[Prince Uther]]. *([[Session 020 - The Road Beneath the World|S20]], [[Session 021 - The Glass City and the Man in Vitriol|S21]], [[Session 023 - The Dragon Beneath the Mine|S23]])*
 - [[Caerleon]] — Referenced as the apparent Exit/emergence area after the underworld route. *([[Session 022 - The Mine of Blood and the Dragon’s Vigil|S22]])*
-- [[Caerwent]] — Site of the copper mine where Merlin was first found; resupplied here before the mine descent. *([[Session 021 - The Glass City and the Man in Vitriol|S21]], [[Session 022 - The Mine of Blood and the Dragon’s Vigil|S22]])*
+- [[Caerwent]] — Site of the Roman/copper mine where Merlin was found in crystal and the dragon guardian was later slain. *([[Session 021 - The Glass City and the Man in Vitriol|S21]], [[Session 022 - The Mine of Blood and the Dragon’s Vigil|S22]], [[Session 023 - The Dragon Beneath the Mine|S23]])*
+
+## Bristol / Downton relic route
+- [[Roman Mine]] — mine complex near [[Caerwent]] where [[Merlin]] was crystal-imprisoned and the [[Dragon of the Roman Mine]] was slain. *([[Session 022 - The Mine of Blood and the Dragon’s Vigil|S22]], [[Session 023 - The Dragon Beneath the Mine|S23]])*
+- [[Bristol]] — port town where [[Bishop Bertrand of Bristol]] holds [[Saint Brigid’s Flying Cauldron]]. *([[Session 023 - The Dragon Beneath the Mine|S23]])*
+- [[Clearbury Circle]] — uncertain-spelling stone circle near [[Downton]] tied to the [[Shield of St. Crispin]]. *([[Session 023 - The Dragon Beneath the Mine|S23]])*
 
 ## Summerland / treaty arc
 - [[Summerland]] — Targeted by Uther for invasion (later peace treaty episode). *([[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]])*
@@ -76,6 +81,10 @@
 ---
 
 ## Notable items / relics / symbols
+- [[Shield of St. Crispin]] — Angel-guarded holy shield recovered at Downton and reclaimed by [[Sir Gerry]] in Session 023. *([[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern|S6]], [[Session 023 - The Dragon Beneath the Mine|S23]])*
+- [[Saint Brigid’s Flying Cauldron]] — Holy relic that flies and turns bathwater into beer; borrowed from [[Bishop Bertrand of Bristol]]. *([[Session 023 - The Dragon Beneath the Mine|S23]])*
+- [[Party’s Magical Sword (not Excalibur)]] — Magical sword formerly believed to be Excalibur, revealed otherwise by parallel-world [[Merlin]]. *([[Session 023 - The Dragon Beneath the Mine|S23]])*
+- [[Gate-creature (fey)]] — Previously slain world-crossing/gate creature; Merlin warns its death was probably catastrophic. *([[Session 023 - The Dragon Beneath the Mine|S23]])*
 - [[Excalibur]] — Runed sword of the High Kingship; a core legitimacy symbol; **broken into three pieces** by the end of Session 19. *([[Session 007 - The Vigil and the Knights of the High King|S7]], [[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]], [[Session 019 - The Well of Bargains and the Demon Princess|S19]])*
 
 ---
@@ -115,5 +124,58 @@
 
 ---
 
+
+
+## Continental campaign / Franks
+- [[Gaul]] — continental region targeted by Uther’s planned spring 488 campaign. *([[Session 024 - The Feast at Sarum and the Forest’s Warning|S24]])*
+- [[Calais]] — objective of the planned campaign against the [[Franks]]. *([[Session 024 - The Feast at Sarum and the Forest’s Warning|S24]])*
+- [[Franks]] — continental people led by [[Clovis]], currently holding/contesting Calais. *([[Session 024 - The Feast at Sarum and the Forest’s Warning|S24]])*
+
+## Background / wider-world lore backfill
+- [[Abbey of Glastonbury]] — religious site tied to the Glastonbury/Wells mythic geography.
+- [[Bourton]] — referenced campaign location; keep indexed for travel/political continuity.
+- [[Holy Grail]] — major Christian relic/mythic object; background thread for Glastonbury and wider Britain.
+- [[Huns]] — wider-world people/threat referenced in lore context.
+- [[Kineton]] — referenced campaign location; keep indexed for travel/political continuity.
+- [[Saxons of Berroc]] — Saxon group/polity referenced in the campaign’s Saxon politics.
+- [[Spear of Longinus]] — major Christian relic; background mythic object.
+- [[True Cross (relic)]] — major Christian relic; background mythic object.
+
+## Additional indexed lore / creatures / items backfill
+- [[Black Dog of the Moors]] — ominous creature/omen warned of by [[Drimant]].
+- [[Caer Bannog]] — winter refuge / Rachel and Ector connection.
+- [[Cambrian Archers]] — hostile/armed group tied to early Salisbury threats.
+- [[Cambrian Hillmen]] — hillmen encountered in the [[Forest of Gloom]].
+- [[Carbonog]] — region associated with [[Lady Rachel of Carbonog]].
+- [[Chest of Rubies (Liam)]] — treasure/debt from [[Lady of the Well]]; later used as cauldron collateral.
+- [[Cirencester]] — referenced campaign location.
+- [[Cu‑Sith (Wells)]] — supernatural hound fought near [[Wells]].
+- [[Duplain]] — early campaign castle/holding tied to [[Sir Jerem]].
+- [[Escavalon]] — western theater where [[Sir Madoc]] is later sent.
+- [[Fairy Dragon (Winchbank)]] — dragon egg “gift” incident at Winchbank.
+- [[Giant (Dunkerton)]] — giant responsible for the Dunkerton slaughter.
+- [[Golden Torque (Eosa’s ransom)]] — ransom/treasure from [[Eosa “the Giant” Horsason]].
+- [[Hag (Goat-Eyed)]] — hag encountered in the Glastonbury passage complex.
+- [[Hag of the Dead (Wilderspool)]] — brain-grinding hag near Wilderspool.
+- [[Ladies of the Lake]] — supernatural/political group tied to [[Lady Wells]] and Merlin’s crossing.
+- [[Lady of the Well]] — bargain-making supernatural figure tied to Liam’s rubies.
+- [[Lickeyend]] — estate/location tied to [[Lady Triamors]].
+- [[Ogre (Ellen Escort Ambush)]] — ogre encountered during Ellen’s escort.
+- [[Ogre (Forest of Gloom)]] — early ogre signs/threat in the Forest of Gloom.
+- [[Ogre (Wells Marsh)]] — ogre fought during the Wells/Summerland arc.
+- [[Roman Legatus Armor (Brodin)]] — distinctive armor of [[King Brodin of Malahaut]].
+- [[Undead Knights (Glastonbury)]] — undead knights encountered below Glastonbury.
+- [[Underwear Chest (Hag)]] — odd loot/item from the hag thread.
+- [[Uther Troop Map (Spy Map)]] — intelligence/war map item.
+- [[Wolves (Vagon Forest)]] — early road/forest threat around Vagon.
+- [[Wyvern (Downton)]] — wyvern fought in the Downton/Sarum battle.
+- [[Wyvern (escaped)]] — unresolved wyvern hunt thread.
+- [[Wyvern of Idris]] — local/alternate name tied to the wyvern mystery.
+- [[Ælflaed’s Slippers]] — magical slippers associated with [[Ælflaed]].
+
 ## Offices / Titles (referenced in sessions)
 - [[Castellan of Vagon]] — Receives the “wolves are about” warning; puts Vagon on alert. *([[Session 001 - Wolves Are About|S1]])*
+
+
+## Maintenance
+- [[Stub & Rename Registry]] — tracks provisional names, spelling uncertainties, and future renames.

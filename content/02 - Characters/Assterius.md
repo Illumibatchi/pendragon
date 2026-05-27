@@ -49,4 +49,4 @@ flowchart TB
 
 **Lineage links:**
 - [[Assterius]]
-
+- **(487)** — At the [[Sarum]] feast, botches a drunken toast/rescue attempt for [[Sir Madoc]] and later researches the [[Franks]] at [[Bath Scriptorium]]. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*

@@ -44,4 +44,5 @@ flowchart TB
 
 **Lineage links:**
 - [[Drustin]]
-
+- **(487)** — Pushes the Merlin rescue and emerges strangely invigorated from the seven-day atonement before reclaiming the [[Shield of St. Crispin]]. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
+- **(487)** — At the [[Sarum]] feast, meets [[Lady Ellen of Winchbank|Ellen]]’s baby daughter and falls into misery: **100 Glory**, **-2 to all rolls for a year**. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*

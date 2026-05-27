@@ -22,7 +22,7 @@ tags:
 
 **In-game year:** 487
 
-## Summary (1–2 paragraphs)
+## Summary 
 The conroi emerges from the underworld route and finds their squires and horses waiting **near Caerleon**—who insist only **~7–7.5 hours** have passed since the party descended. This contradicts the party’s lived experience and reinforces the growing sense of distortion around the Exit. The squires further insist that **Wells was burned in the war**, a claim treated as unreliable testimony / glamour rather than confirmed fact.
 
 With grievous wounds now pressing on the surface, Liam hires a **chirurgeon** at his own expense. The conroi then turns toward the next concrete lead: the **copper mine near Caerwent**, where Merlin was first found. There, the mine proves to be a place where **blood and time do not behave naturally**—and where Merlin waits again, now behind crystal, under a dragon’s vigil.

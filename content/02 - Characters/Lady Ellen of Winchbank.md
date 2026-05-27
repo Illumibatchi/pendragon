@@ -48,4 +48,4 @@ flowchart TB
 **Lineage links:**
 - [[Lady Ellen of Winchbank]]
 - [[Count Roderick of Salisbury]]
-
+- **(487)** — At the [[Sarum]] feast, introduces [[Drustin]] to her baby daughter, triggering his misery. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*

@@ -1,6 +1,6 @@
 
 
-> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 021**.
+> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 024**.
 
 ## Year 480 - The early days: squires of Salisbury (Sessions 000-002)
 - The campaign opens in the **Uther Period** with a group of squires serving the household knights of **[[Count Roderick of Salisbury]]**. *(See: [[Session 000 - The Young Squires of Salisbury]])*
@@ -105,3 +105,14 @@
 - A chirurgeon is hired immediately (Liam pays), addressing the immediate wound crisis on the surface.
 - At the copper mine near [[Caerwent]], the conroi battles small green sling-creatures whose spiked shots spawn more bodies when they draw blood; the creatures’ blood is discovered to heal, and some is collected.
 - Deep below, [[Merlin]] is found **encased in crystal** and guarded by a **dragon**; the conroi withdraws to regroup rather than fight it in the depths. *(See: [[Session 022 - The Mine of Blood and the Dragon’s Vigil]])*
+
+## Year 487 - The Dragon Beneath the Mine (Session 023)
+- The conroi returns to the [[Caerwent]] Roman mine and discovers the dragon guardian has taken the form of a beautiful woman beside [[Merlin]]'s crystal prison.
+- To survive the confrontation, they reclaim the [[Shield of St. Crispin]] after seven days of penance and borrow [[Saint Brigid’s Flying Cauldron]] from [[Bishop Bertrand of Bristol]], using [[Chest of Rubies (Liam)|Liam's cursed rubies]] as collateral.
+- The woman is revealed as the [[Dragon of the Roman Mine]]; the company slays it and Merlin's crystal prison melts away.
+- Freed Merlin reveals this is a parallel Britain ruled by [[Prince Uther]], that [[Party’s Magical Sword (not Excalibur)|the party's sword]] is not [[Excalibur]], and that killing the earlier [[Gate-creature (fey)]] was probably catastrophic. The company refuses to steal this world's Merlin or true Excalibur. *(See: [[Session 023 - The Dragon Beneath the Mine]])*
+
+## Year 487 - The Feast at Sarum and the Forest’s Warning (Session 024)
+- At a crowded [[Sarum]] feast, courtship and rivalry mix with new political commitments: [[Sir Geraint]] advances his courtship of [[Lady Rachel of Carbonog]], [[Lady Dilwen]] pursues an intoxicated [[Sir Madoc]], and [[Drustin]] falls into misery after seeing [[Lady Ellen of Winchbank|Ellen]]’s baby daughter.
+- [[Damsel Diana]], sent by [[Lady Wells]], warns [[Liam]] that [[Excalibur]] must be returned to the [[Ladies of the Lake]], or the forests will encroach and imperil the land.
+- [[Uther Pendragon]] calls for volunteers for a spring 488 campaign into Gaul/France to drive the [[Franks]] from [[Calais]], with [[Sir Madoc]] leading; the conroi volunteers. [[Assterius]] researches the Franks and their leader [[Clovis]]. *(See: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*

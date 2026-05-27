@@ -45,4 +45,5 @@ flowchart TB
 
 **Lineage links:**
 - [[Liam]]
-
+- **(487)** — Presents the party’s sword in the dragon chamber, where it glows blue; badly wounded in the fight; his cursed rubies are used as collateral for [[Saint Brigid’s Flying Cauldron]] and later recovered. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
+- **(487)** — Receives [[Damsel Diana]]’s warning from [[Lady Wells]], tells [[Count Roderick of Salisbury]] the party’s sword is not [[Excalibur]], and consults Lady Wells about the encroaching forest. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*

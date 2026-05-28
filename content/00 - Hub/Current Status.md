@@ -1,10 +1,10 @@
 
-## Where we left off (end of [[Session 024 - The Feast at Sarum and the Forest’s Warning|Session 024]])
-The conroi has returned to court life at [[Sarum]] after the parallel-world mine crisis. At the feast, [[Damsel Diana]] brings [[Lady Wells]]’ warning to [[Liam]]: if [[Excalibur]] is not returned to the [[Ladies of the Lake]], the forests will continue to encroach and imperil the land.
+## Where we left off (end of [[Session 025 - The Feast at Caen and the Battle of Calais|Session 025]])
+The conroi has crossed into Gaul and fought its first major action: the **siege of [[Calais]] has been lifted** after a coordinated trap with the garrison. Roman estimates were badly wrong (the Franks outnumbered the allies), but the companions’ horns-and-bells plan worked and the Frankish host withdrew.
 
-The conroi does not have true Excalibur — only [[Party’s Magical Sword (not Excalibur)]]. Liam shares his suspicion that [[Uther Pendragon]] may never have possessed the true sword, and Lady Wells confirms the forest will grow every year Excalibur is not returned. She will look into alternatives because the conroi cannot return what it does not have.
+During the Caen feast, [[Millicent]] and [[Sir Madoc]] **eloped and married** in a rushed ceremony officiated by the [[Bishop of Caen]]—without Uther’s permission.
 
-Meanwhile Uther calls for volunteers for a spring 488 campaign into Gaul/France, led by [[Sir Madoc]], to drive the [[Franks]] out of [[Calais]]. The conroi volunteers, with [[Sir Geraint]] especially enthusiastic.
+The table’s meta-fact: Calais “should” have been a defeat. It wasn’t. History is now off the rails.
 
 ## Immediate fallout
 - **Forest warning:** the [[Ladies of the Lake]] need true [[Excalibur]] returned; delay worsens the land’s encroaching forests.

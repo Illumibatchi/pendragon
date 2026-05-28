@@ -42,3 +42,4 @@ flowchart TB
 **Lineage links:**
 - (none)
 - **(487)** — Scouts the dragon chamber first and is badly wounded in the battle against the [[Dragon of the Roman Mine]]. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
+- **(488)** — Marries [[Sir Madoc]] in [[Caen]] and commands in the battle to lift the siege of [[Calais]]. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*

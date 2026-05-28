@@ -1,6 +1,6 @@
 
 
-> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 024**.
+> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 025**.
 
 ## Year 480 - The early days: squires of Salisbury (Sessions 000-002)
 - The campaign opens in the **Uther Period** with a group of squires serving the household knights of **[[Count Roderick of Salisbury]]**. *(See: [[Session 000 - The Young Squires of Salisbury]])*
@@ -116,3 +116,7 @@
 - At a crowded [[Sarum]] feast, courtship and rivalry mix with new political commitments: [[Sir Geraint]] advances his courtship of [[Lady Rachel of Carbonog]], [[Lady Dilwen]] pursues an intoxicated [[Sir Madoc]], and [[Drustin]] falls into misery after seeing [[Lady Ellen of Winchbank|Ellen]]’s baby daughter.
 - [[Damsel Diana]], sent by [[Lady Wells]], warns [[Liam]] that [[Excalibur]] must be returned to the [[Ladies of the Lake]], or the forests will encroach and imperil the land.
 - [[Uther Pendragon]] calls for volunteers for a spring 488 campaign into Gaul/France to drive the [[Franks]] from [[Calais]], with [[Sir Madoc]] leading; the conroi volunteers. [[Assterius]] researches the Franks and their leader [[Clovis]]. *(See: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
+
+
+## Year 488 - Gaul: Caen and Calais (Session 025)
+- Uther’s expedition lands in Gaul to aid [[Syagrius]] against the [[Franks]]. At a feast in [[Caen]], [[Millicent]] and [[Sir Madoc]] elope and marry without Uther’s permission. The host then finds [[Calais]] under siege and outnumbered; the companions coordinate with [[Baroness Pomponia]] to spring a horns-and-bells trap that lifts the siege in a decisive surprise victory. *(See: [[Session 025 - The Feast at Caen and the Battle of Calais]])*

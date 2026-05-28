@@ -179,3 +179,5 @@
 
 ## Maintenance
 - [[Stub & Rename Registry]] — tracks provisional names, spelling uncertainties, and future renames.
+
+- [[Caen]] — Gallo-Roman court city; feast and wedding before the march to Calais. *([[Session 025 - The Feast at Caen and the Battle of Calais|S25]])*

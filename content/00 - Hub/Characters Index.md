@@ -17,7 +17,8 @@
 ---
 
 ## Royal / Succession figures
-- [[Clovis]] — unifier and conqueror leading the [[Franks]]; researched ahead of the spring 488 Gaul campaign.
+- [[Hlodowig]] — king of the [[Franks]] (aka [[Clovis]]).
+- [[Clovis]] (alias of [[Hlodowig]]) — unifier and conqueror leading the [[Franks]]; researched ahead of the spring 488 Gaul campaign.
 - [[King of Sussex (unknown)]] — ruler referenced in the Sussex/Saxon political context.
 - [[Uther Pendragon]] - inherits Logres; volatile conqueror; central driver of war and terror.
 - [[Prince Uther]] — ruler of the parallel Britain revealed in Session 023.

@@ -10,6 +10,10 @@
 - **Gate-creature consequences:** [[Merlin]] warned that killing the [[Gate-creature (fey)]] was probably catastrophic; consequences remain unknown. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
 - **Uther blowback / loyalty tension:** the conroi is now pulled between Uther’s war, Roderick’s politics, and the [[Ladies of the Lake]] cause.
 
+- **Madoc + Millicent marriage fallout:** unsanctioned marriage; when Uther learns, consequences could be brutal and political. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
+- **After Calais:** what do the Franks do next after a broken siege and a bloody reversal—retreat, regroup, or escalate elsewhere in Gaul? *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
+- **Roman intel failure / missing senior commanders:** why were the Romans so wrong about numbers, and why are British conroi commanders so junior? *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
+
 ## Open threads / mysteries (in session order)
 
 - **(480 / S05) Winchbank dragon egg & the women-in-white thread:** what was [[Lady Niev]] really doing when she sold/provided the “fairy dragon” egg (via [[Sir Blaine]]) that nearly killed people at Winchbank? *(Source: [[Session 005 - The Fairy Dragon and the Ogre’s Return]]).* 

@@ -38,4 +38,5 @@ flowchart TB
 **Lineage links:**
 - [[Baroness Pomponia]]
 - [[Lucius (Duke of Saxon Shore)]]
-
+- **(488)** — Commands [[Calais]] under siege; coordinates a horns-and-bells sortie with the companions; rewards [[Assterius]] after the victory. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
+- **(488)** — After the victory at [[Calais]], Pomponia takes [[Assterius]] as a lover (rewarding him for the infiltration + wedge charge). *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*

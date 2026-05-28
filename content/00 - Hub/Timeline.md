@@ -88,3 +88,7 @@
 
 ### Entry format (recommended)
 - **[In-game date / season if known]** - Event summary. *(Source: [[Session Template]])*
+- **(488)** — The conroi crosses the Channel to aid [[Syagrius]] in Gaul against the [[Franks]]. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
+- **(488)** — Feast at [[Caen]]; [[Millicent]] and [[Sir Madoc]] elope and marry (officiated by the [[Bishop of Caen]]). *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
+- **(488)** — The allied host reaches [[Calais]] under siege; the companions coordinate a horns-and-bells trap with [[Baroness Pomponia]] and lift the siege in a surprise attack. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
+

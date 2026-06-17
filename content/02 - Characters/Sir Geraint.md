@@ -42,3 +42,4 @@ flowchart TB
 - [[Sir Geraint]]
 - **(487)** — Advances his courtship of [[Lady Rachel of Carbonog]], volunteers enthusiastically for the spring 488 Gaul campaign, and becomes strongly loyal to the [[Ladies of the Lake]] cause. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
 - **(488)** — Commands "The Normans" at Calais; rallies his men with homage in the battle that lifts the siege. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
+- **(488)** — Kills a werewolf at the [[Wildenburg Pagan Shrine]] and recalls folklore that lycanthropy is a Saxon affliction and not every bite turns the victim. *(Source: [[Session 026 - The Wolves of Wildenburg]])*

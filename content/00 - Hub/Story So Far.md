@@ -1,6 +1,6 @@
 
 
-> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 025**.
+> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 026**.
 
 ## Year 480 - The early days: squires of Salisbury (Sessions 000-002)
 - The campaign opens in the **Uther Period** with a group of squires serving the household knights of **[[Count Roderick of Salisbury]]**. *(See: [[Session 000 - The Young Squires of Salisbury]])*
@@ -120,3 +120,7 @@
 
 ## Year 488 - Gaul: Caen and Calais (Session 025)
 - Uther’s expedition lands in Gaul to aid [[Syagrius]] against the [[Franks]]. At a feast in [[Caen]], [[Millicent]] and [[Sir Madoc]] elope and marry without Uther’s permission. The host then finds [[Calais]] under siege and outnumbered; the companions coordinate with [[Baroness Pomponia]] to spring a horns-and-bells trap that lifts the siege in a decisive surprise victory. *(See: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
+
+## Year 488 - Calais secured and the Wildenburg hunt (Session 026)
+- The companions remain near [[Calais]] to retrain the [[XX Legion]] and clear the countryside. [[Dunkirk]] surrenders, Frankish remnants are driven south into [[Gaul]], and the Saxon Shore on this side of the Channel returns to [[Baroness Pomponia]]'s rule.
+- A murder crisis in [[Wildenburg]] draws the companions into the [[Wildenwald]], where [[Clotilde]]'s warning about the [[Lord of Wildenburg]] proves true: the party fights werewolves at the [[Wildenburg Pagan Shrine]], [[Drustin]] is bitten, and the trail leads to the [[Roman Manor in Wildenwald]]. *(See: [[Session 026 - The Wolves of Wildenburg]])*

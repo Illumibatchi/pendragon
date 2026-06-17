@@ -57,6 +57,7 @@
 - [[Lady Triamors]] - heiress of Lickeyend; introduced by Dubricus.
 - [[Lady Rhianneth]] - Sir Marius' wife; manipulative; Madoc entanglements.
 - [[Baroness Pomponia]] - Frankish Saxon Shore; political maneuverer.
+- [[Clotilde]] — young visionary of [[Wildenburg]], accused of murder; warned of the [[Lord of Wildenburg]] and Michael's silver prophecy.
 
 ## Clergy / holy figures
 - [[Archbishop Dubricus]] - senior church authority; counsels Drustin.
@@ -107,6 +108,7 @@
 - [[Unknown name - Rachel's hedge knight brother]]
 - [[Unnamed Messenger (Wells)]]
 - [[Vortigern]]
+- [[Lord of Wildenburg]]
 
 
 ## Maintenance

@@ -1,18 +1,15 @@
 
 > Rolling list of unresolved mysteries and active campaign threads. Keep this page broad; use **Current Status** for “where we are right now.”
 
-## Active / high-priority as of end of [[Session 024 - The Feast at Sarum and the Forest’s Warning]]
+## Active / high-priority as of end of [[Session 026 - The Wolves of Wildenburg]]
 
+- **Wildenwald / Roman manor:** after the werewolf fight at the [[Wildenburg Pagan Shrine]], the trail leads to the [[Roman Manor in Wildenwald]]. *(Source: [[Session 026 - The Wolves of Wildenburg]])*
+- **Drustin's werewolf bite:** [[Drustin]] was bitten under a full moon; whether lycanthropy follows is unknown. *(Source: [[Session 026 - The Wolves of Wildenburg]])*
 - **Excalibur / forest threat:** [[Damsel Diana]] and [[Lady Wells]] warn that true [[Excalibur]] must be returned to the [[Ladies of the Lake]], or the forests will continue to encroach. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
 - **Sword identity crisis:** the conroi has [[Party’s Magical Sword (not Excalibur)]], not true Excalibur; Liam suspects Uther may never have had the real sword. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
-- **France campaign commitment:** the conroi volunteered for Uther’s spring 488 campaign against the [[Franks]] in [[Calais]], led by [[Sir Madoc]]. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
-- **Real Merlin still unresolved:** the parallel-world rescue did not solve the status of the conroi's own Merlin and true Excalibur problem. *(Sources: [[Session 023 - The Dragon Beneath the Mine]], [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
-- **Gate-creature consequences:** [[Merlin]] warned that killing the [[Gate-creature (fey)]] was probably catastrophic; consequences remain unknown. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
-- **Uther blowback / loyalty tension:** the conroi is now pulled between Uther’s war, Roderick’s politics, and the [[Ladies of the Lake]] cause.
+- **Hlodowig's response:** [[Hlodowig]] has now suffered the defeat at [[Calais]], the loss of [[Dunkirk]], and the retreat of Frankish forces south into [[Gaul]]. *(Sources: [[Session 025 - The Feast at Caen and the Battle of Calais]], [[Session 026 - The Wolves of Wildenburg]])*
 
 - **Madoc + Millicent marriage fallout:** unsanctioned marriage; when Uther learns, consequences could be brutal and political. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
-- **After Calais:** what do the Franks do next after a broken siege and a bloody reversal—retreat, regroup, or escalate elsewhere in Gaul? *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
-- **Roman intel failure / missing senior commanders:** why were the Romans so wrong about numbers, and why are British conroi commanders so junior? *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
 
 ## Open threads / mysteries (in session order)
 
@@ -84,3 +81,5 @@
 - **(487 / S24) Excalibur return and the encroaching forest:** [[Lady Wells]] confirms the forest will grow every year true [[Excalibur]] is not returned to the [[Ladies of the Lake]]. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]]).*
 
 - **(487 / S24) Spring 488 campaign against the Franks:** the conroi has volunteered for [[Uther Pendragon]]’s campaign to drive the [[Franks]] from [[Calais]], led by [[Sir Madoc]]. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]]).*
+
+- **(488 / S26) Wildenburg shrine and ancient script:** the [[Wildenburg Pagan Shrine]] has a bloodied stone table and ancient writing that is neither Latin nor Greek. *(Source: [[Session 026 - The Wolves of Wildenburg]]).*

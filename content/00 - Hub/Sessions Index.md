@@ -27,3 +27,4 @@
 > I’ll maintain this table as we add sessions.
 |  24 | 2026-05-20 |          487 | The Feast at Sarum and the Forest’s Warning                          | [[Session 024 - The Feast at Sarum and the Forest’s Warning]]                          |
 |  25 | 2026-05-27 |          488 | The Feast at Caen and the Battle of Calais                              | [[Session 025 - The Feast at Caen and the Battle of Calais]]                              |
+|  26 | 2026-06-10 |          488 | The Wolves of Wildenburg                                             | [[Session 026 - The Wolves of Wildenburg]]                                             |

@@ -127,9 +127,16 @@
 
 
 ## Continental campaign / Franks
-- [[Gaul]] — continental region targeted by Uther’s planned spring 488 campaign. *([[Session 024 - The Feast at Sarum and the Forest’s Warning|S24]])*
-- [[Calais]] — objective of the planned campaign against the [[Franks]]. *([[Session 024 - The Feast at Sarum and the Forest’s Warning|S24]])*
-- [[Franks]] — continental people led by [[Clovis]], currently holding/contesting Calais. *([[Session 024 - The Feast at Sarum and the Forest’s Warning|S24]])*
+- [[Gaul]] — continental region targeted by Uther’s spring 488 campaign; Frankish forces are driven south into it after Calais. *([[Session 024 - The Feast at Sarum and the Forest’s Warning|S24]], [[Session 026 - The Wolves of Wildenburg|S26]])*
+- [[Calais]] — campaign objective against the [[Franks]]; siege lifted and post-battle territory stabilized. *([[Session 024 - The Feast at Sarum and the Forest’s Warning|S24]], [[Session 025 - The Feast at Caen and the Battle of Calais|S25]], [[Session 026 - The Wolves of Wildenburg|S26]])*
+- [[Dunkirk]] — garrison town about a day's march from Calais; surrenders after the countryside campaign. *([[Session 026 - The Wolves of Wildenburg|S26]])*
+- [[Franks]] — continental people led by [[Clovis]] / [[Hlodowig]], pushed back after Calais and Dunkirk. *([[Session 024 - The Feast at Sarum and the Forest’s Warning|S24]], [[Session 026 - The Wolves of Wildenburg|S26]])*
+- [[XX Legion]] — battered Roman legion retrained by the companions near [[Calais]]. *([[Session 026 - The Wolves of Wildenburg|S26]])*
+- [[Wildenburg]] — town troubled by murders and werewolves. *([[Session 026 - The Wolves of Wildenburg|S26]])*
+- [[Wildenwald]] — forest near Wildenburg containing the pagan shrine and Roman manor. *([[Session 026 - The Wolves of Wildenburg|S26]])*
+- [[Wildenburg Pagan Shrine]] — ancient shrine with a bloodied stone table and non-Latin/non-Greek writing. *([[Session 026 - The Wolves of Wildenburg|S26]])*
+- [[Roman Manor in Wildenwald]] — strange Roman manor behind a high granite wall deep in the forest. *([[Session 026 - The Wolves of Wildenburg|S26]])*
+- [[Werewolves of Wildenburg]] — wolf-headed supernatural threat tied to the [[Lord of Wildenburg]]. *([[Session 026 - The Wolves of Wildenburg|S26]])*
 
 ## Background / wider-world lore backfill
 - [[Abbey of Glastonbury]] — religious site tied to the Glastonbury/Wells mythic geography.

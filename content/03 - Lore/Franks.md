@@ -14,3 +14,4 @@ A rising continental people/power. [[Assterius]]' research at [[Bath Scriptorium
 
 ## Timeline
 - **(487)** — [[Uther Pendragon]] calls for volunteers to drive the Franks out of [[Calais]] in spring 488. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
+- **(488)** — Their siege of [[Calais]] is broken, and their remaining forces are later driven south into [[Gaul]] while [[Dunkirk]] surrenders. *(Sources: [[Session 025 - The Feast at Caen and the Battle of Calais]], [[Session 026 - The Wolves of Wildenburg]])*

@@ -84,11 +84,10 @@
 - [[Uther Pendragon]] calls for volunteers for a spring 488 campaign into Gaul/France to drive the [[Franks]] out of [[Calais]], with [[Sir Madoc]] leading; the conroi volunteers. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
 - [[Lady Wells]] confirms the forest will grow every year [[Excalibur]] is not returned, and says she will seek alternatives because the conroi does not have the sword. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
 
----
-
-### Entry format (recommended)
-- **[In-game date / season if known]** - Event summary. *(Source: [[Session Template]])*
+## 488
 - **(488)** — The conroi crosses the Channel to aid [[Syagrius]] in Gaul against the [[Franks]]. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
 - **(488)** — Feast at [[Caen]]; [[Millicent]] and [[Sir Madoc]] elope and marry (officiated by the [[Bishop of Caen]]). *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
 - **(488)** — The allied host reaches [[Calais]] under siege; the companions coordinate a horns-and-bells trap with [[Baroness Pomponia]] and lift the siege in a surprise attack. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
-
+- **(488)** — The companions remain near [[Calais]] to reform the [[XX Legion]] and clear the countryside; [[Dunkirk]] surrenders, and Frankish forces are driven south into [[Gaul]]. *(Source: [[Session 026 - The Wolves of Wildenburg]])*
+- **(488)** — A murder crisis in [[Wildenburg]] leads the companions to [[Clotilde]], the [[Lord of Wildenburg]], and a werewolf hunt in the [[Wildenwald]]. *(Source: [[Session 026 - The Wolves of Wildenburg]])*
+- **(488)** — At the [[Wildenburg Pagan Shrine]], the companions kill three werewolves, including the [[Lord of Wildenburg]]; [[Drustin]] is bitten, and the trail continues to the [[Roman Manor in Wildenwald]]. *(Source: [[Session 026 - The Wolves of Wildenburg]])*

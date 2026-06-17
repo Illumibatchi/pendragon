@@ -15,3 +15,4 @@ He bears the shield back into the Roman mine and confronts the woman in the crys
 
 ## Timeline
 - **(487)** — Passes the angelic virtue test at [[Clearbury Circle]] / [[Downton]] and receives the [[Shield of St. Crispin]], then leads the confrontation with the [[Dragon of the Roman Mine]]. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
+- **(488)** — Helps [[Drustin]] and [[Sir Madoc]] train the [[XX Legion]] around [[Calais]]. *(Source: [[Session 026 - The Wolves of Wildenburg]])*

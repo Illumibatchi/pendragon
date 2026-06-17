@@ -52,3 +52,4 @@ flowchart TB
 - **(487)** — At the [[Sarum]] feast, botches a drunken toast/rescue attempt for [[Sir Madoc]] and later researches the [[Franks]] at [[Bath Scriptorium]]. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
 - **(488)** — Infiltrates besieged [[Calais]], coordinates a horns-and-bells trap with [[Baroness Pomponia]], and leads a wedge charge in the victory. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
 - **(488)** — Sleeps with [[Baroness Pomponia]] after the victory at [[Calais]]. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
+- **(488)** — Helps clear the countryside around [[Calais]], contributing to the remaining [[Franks]] being driven south into [[Gaul]]. *(Source: [[Session 026 - The Wolves of Wildenburg]])*

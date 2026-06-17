@@ -47,3 +47,4 @@ flowchart TB
 - **(487)** — Pushes the Merlin rescue and emerges strangely invigorated from the seven-day atonement before reclaiming the [[Shield of St. Crispin]]. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
 - **(487)** — At the [[Sarum]] feast, meets [[Lady Ellen of Winchbank|Ellen]]’s baby daughter and falls into misery: **100 Glory**, **-2 to all rolls for a year**. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
 - **(488)** — Commands "Les Misérables" at Calais; his Lady Ellen rant inspires a decisive charge (+2 Hero Points). *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
+- **(488)** — Helps train the [[XX Legion]] near [[Calais]], then kills a werewolf at the [[Wildenburg Pagan Shrine]] but is bitten above the hauberk under a full moon. *(Source: [[Session 026 - The Wolves of Wildenburg]])*

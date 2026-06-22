@@ -1,22 +1,21 @@
 
-## Where we left off (end of [[Session 026 - The Wolves of Wildenburg|Session 026]])
-The conroi has stabilized the immediate aftermath of [[Calais]]: the [[XX Legion]] has been retrained, [[Dunkirk]] has surrendered, and the Saxon Shore on this side of the Channel is back under [[Baroness Pomponia]]'s rule.
+## Where we left off (end of [[Session 027 - The House of Constantine and the Return to Wells|Session 027]])
+The conroi survived the trial within the [[House of Constantine]] in the [[Wildenwald]], where an angelic ordeal of faith and chivalry led [[Liam]] to uncover the [[Holy Grail]] beneath the chapel altar. After the company drank from it, Liam's cursed rubies spilled harmlessly away, suggesting the relic cleansed him.
 
-The companions are now in the [[Wildenwald]] after answering a murder crisis in [[Wildenburg]]. They have killed the [[Lord of Wildenburg]] and other werewolves at the [[Wildenburg Pagan Shrine]], but [[Drustin]] was bitten under a full moon. The trail from the shrine has led them to the [[Roman Manor in Wildenwald]], an out-of-place manor behind a high granite wall.
+The companions then returned through [[Wildenburg]] and [[Calais]], where they found [[Sir Madoc]] and [[Clovis]] acting in suspicious political harmony. Madoc claimed to carry a reforged Excalibur and spoke of a new accord with the [[Franks]], but [[Millicent]] secretly swapped his weapon before the company returned to [[Wells]]. There, [[Lady Wells]] joyfully received the runed sword and cast it into a still forest pool beneath the gaze of a stag.
 
 ## Immediate fallout
-- **Forest warning:** the [[Ladies of the Lake]] need true [[Excalibur]] returned; delay worsens the land’s encroaching forests.
-- **Sword crisis persists:** the conroi has [[Party’s Magical Sword (not Excalibur)]], not true Excalibur.
-- **France campaign:** the conroi has won at [[Calais]], driven Frankish forces south, and restored local territory to [[Baroness Pomponia]], but [[Hlodowig]]'s answer remains unknown.
-- **Drustin’s misery:** [[Drustin]] gains 100 Glory but suffers -2 to all rolls for a year after meeting Ellen’s baby daughter.
-- **Drustin’s bite:** Drustin was bitten by a werewolf in the [[Wildenwald]]; infection or curse consequences are unknown.
-- **Geraint/Rachel:** [[Sir Geraint]]’s courtship of [[Lady Rachel of Carbonog]] advances, but lordly permission and service matter.
+- **Sword returned, truth unresolved:** the blade demanded by [[Lady Wells]] and the [[Ladies of the Lake]] has now been surrendered, but whether it was truly Excalibur — and what that means for the timeline — remains uncertain.
+- **Madoc's Frankish deal:** [[Sir Madoc]] has cut a troubling arrangement with [[Clovis]] and the [[Franks]] around Bayeux and [[Calais]], and briefly allowed himself to be treated as a king.
+- **House of Constantine:** the Roman villa in the [[Wildenwald]] proved to be a holy/protected site with anti-wolf power, an angelic trial, and the hidden [[Holy Grail]].
+- **Drustin's bite:** [[Drustin]]'s werewolf bite from the prior session is still unresolved.
+- **Pomponia's child:** [[Baroness Pomponia]] is carrying [[Assterius]]'s bastard child.
 
 ## Next session questions
-- What waits inside the [[Roman Manor in Wildenwald]]?
+- Was the sword returned at [[Wells]] truly [[Excalibur]], or something else entirely?
+- What exactly has [[Sir Madoc]] agreed to with [[Clovis]] and the [[Franks]]?
+- What is the deeper meaning of the [[House of Constantine]], the angelic trial, and the [[Holy Grail]]'s appearance there?
 - Was [[Drustin]] infected or cursed by the werewolf bite?
-- What is the ancient writing at the [[Wildenburg Pagan Shrine]]?
-- How will [[Hlodowig]] and the [[Franks]] answer the defeat at [[Calais]] and loss of [[Dunkirk]]?
-- Can [[Lady Wells]] find another way to address the forest threat without Excalibur?
+- How will [[Uther Pendragon]] react to Madoc's marriage, diplomacy, and apparent kingship posturing?
 
 See: [[Open Threads & Mysteries]]

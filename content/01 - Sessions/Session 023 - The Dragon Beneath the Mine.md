@@ -29,7 +29,7 @@ tags:
 
 **In-game year:** 487
 
-## Summary (1–2 paragraphs)
+## Summary
 The conroi returned to the Roman mine where [[Merlin]] had been found encased in crystal beneath a dragon's vigil. A cautious side route revealed a hidden chamber: Merlin trapped in a great crystal shard while a beautiful naked woman caressed the prison. The woman would not bargain, silently beckoned for the party's reforged sword, and proved unsettling enough that the knights withdrew to seek holy protection before risking battle.
 
 After failed attempts to reclaim the [[Shield of St. Crispin]] at [[Downton]], [[Brother Maynard]] prescribed seven days of fasting, prayer, penance, and self-mortification. The company also secured [[Saint Brigid’s Flying Cauldron]] from [[Bishop Bertrand of Bristol]], using [[Chest of Rubies (Liam)|Liam's cursed rubies]] as collateral to solve the travel problem. At last, [[Sir Gerry]] passed the angel's tests of honesty, justice, spirituality, and valor and bore the shield back into the mine. The woman revealed herself as the [[Dragon of the Roman Mine]], was slain by the company, and Merlin's crystal prison melted away — only for the knights to learn that this Merlin belonged to a parallel Britain ruled by [[Prince Uther]], and that their sword was not truly [[Excalibur]].

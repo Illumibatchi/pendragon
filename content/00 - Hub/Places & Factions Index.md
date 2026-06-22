@@ -114,6 +114,7 @@
 
 ### Supernatural / covert
 - [[Ladies of the Lake (rumor)]] — White-cloak association; trained chroniclers implied later. *([[Session 003 - The Empty Castle and the Forest Ambush|S3]])*
+- [[Dverga (raven-footed smiths)]] — suspected underworld smith-folk tied to the Glastonbury tunnels and strange four-toed tracks. *([[Session 011 - The Hag of the Passage and the Lady of the Well|S11]])*
 - [[Red Cultists]] — Red-robed cult within Glastonbury passage complex. *([[Session 011 - The Hag of the Passage and the Lady of the Well|S11]])*
 - [[Enshield of Sir Kenian]] — Kenian’s expeditionary formation (knights + men-at-arms). *([[Session 010 - The Silent Town of Wells and the Ogre of the Marsh|S10]])*
 - [[Children of Shepton]] — 13 children appearing with missing horses; possibly guided/used. *([[Session 012 - The Burning of Dunkerton and the Peace of Summerland|S12]])*
@@ -127,21 +128,24 @@
 
 
 ## Continental campaign / Franks
+- [[Caen]] — Gallo-Roman court city; feast and wedding before the march to Calais. *([[Session 025 - The Feast at Caen and the Battle of Calais|S25]])*
 - [[Gaul]] — continental region targeted by Uther’s spring 488 campaign; Frankish forces are driven south into it after Calais. *([[Session 024 - The Feast at Sarum and the Forest’s Warning|S24]], [[Session 026 - The Wolves of Wildenburg|S26]])*
 - [[Calais]] — campaign objective against the [[Franks]]; siege lifted and post-battle territory stabilized. *([[Session 024 - The Feast at Sarum and the Forest’s Warning|S24]], [[Session 025 - The Feast at Caen and the Battle of Calais|S25]], [[Session 026 - The Wolves of Wildenburg|S26]])*
 - [[Dunkirk]] — garrison town about a day's march from Calais; surrenders after the countryside campaign. *([[Session 026 - The Wolves of Wildenburg|S26]])*
+- [[Gallo-Romans]] — Roman polity and allied host under [[Syagrius]] that receives British aid in the Caen/Calais campaign. *([[Session 025 - The Feast at Caen and the Battle of Calais|S25]])*
 - [[Franks]] — continental people led by [[Clovis]] / [[Hlodowig]], pushed back after Calais and Dunkirk. *([[Session 024 - The Feast at Sarum and the Forest’s Warning|S24]], [[Session 026 - The Wolves of Wildenburg|S26]])*
 - [[XX Legion]] — battered Roman legion retrained by the companions near [[Calais]]. *([[Session 026 - The Wolves of Wildenburg|S26]])*
 - [[Wildenburg]] — town troubled by murders and werewolves. *([[Session 026 - The Wolves of Wildenburg|S26]])*
 - [[Wildenwald]] — forest near Wildenburg containing the pagan shrine and Roman manor. *([[Session 026 - The Wolves of Wildenburg|S26]])*
 - [[Wildenburg Pagan Shrine]] — ancient shrine with a bloodied stone table and non-Latin/non-Greek writing. *([[Session 026 - The Wolves of Wildenburg|S26]])*
 - [[Roman Manor in Wildenwald]] — strange Roman manor behind a high granite wall deep in the forest. *([[Session 026 - The Wolves of Wildenburg|S26]])*
+- [[House of Constantine]] — holy/protected Roman villa site in the [[Wildenwald]], marked by anti-wolf signs, an angelic trial, and the hidden [[Holy Grail]]. *([[Session 027 - The House of Constantine and the Return to Wells|S27]])*
 - [[Werewolves of Wildenburg]] — wolf-headed supernatural threat tied to the [[Lord of Wildenburg]]. *([[Session 026 - The Wolves of Wildenburg|S26]])*
 
 ## Background / wider-world lore backfill
 - [[Abbey of Glastonbury]] — religious site tied to the Glastonbury/Wells mythic geography.
 - [[Bourton]] — referenced campaign location; keep indexed for travel/political continuity.
-- [[Holy Grail]] — major Christian relic/mythic object; background thread for Glastonbury and wider Britain.
+- [[Holy Grail]] — major Christian relic discovered by [[Liam]] beneath the altar in the [[House of Constantine]].
 - [[Huns]] — wider-world people/threat referenced in lore context.
 - [[Kineton]] — referenced campaign location; keep indexed for travel/political continuity.
 - [[Saxons of Berroc]] — Saxon group/polity referenced in the campaign’s Saxon politics.
@@ -170,6 +174,7 @@
 - [[Ogre (Ellen Escort Ambush)]] — ogre encountered during Ellen’s escort.
 - [[Ogre (Forest of Gloom)]] — early ogre signs/threat in the Forest of Gloom.
 - [[Ogre (Wells Marsh)]] — ogre fought during the Wells/Summerland arc.
+- [[Pitum]] — estate of Assterius’ father, visited while the conroi sought leads on [[Merlin]] and the [[Ladies of the Lake]]. *([[Session 020 - The Road Beneath the World|S20]])*
 - [[Roman Legatus Armor (Brodin)]] — distinctive armor of [[King Brodin of Malahaut]].
 - [[Undead Knights (Glastonbury)]] — undead knights encountered below Glastonbury.
 - [[Underwear Chest (Hag)]] — odd loot/item from the hag thread.
@@ -184,7 +189,3 @@
 - [[Castellan of Vagon]] — Receives the “wolves are about” warning; puts Vagon on alert. *([[Session 001 - Wolves Are About|S1]])*
 
 
-## Maintenance
-- [[Stub & Rename Registry]] — tracks provisional names, spelling uncertainties, and future renames.
-
-- [[Caen]] — Gallo-Roman court city; feast and wedding before the march to Calais. *([[Session 025 - The Feast at Caen and the Battle of Calais|S25]])*

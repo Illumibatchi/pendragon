@@ -41,3 +41,4 @@ flowchart TB
 - **(488)** — Commands [[Calais]] under siege; coordinates a horns-and-bells sortie with the companions; rewards [[Assterius]] after the victory. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
 - **(488)** — After the victory at [[Calais]], Pomponia takes [[Assterius]] as a lover (rewarding him for the infiltration + wedge charge). *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
 - **(488)** — The Saxon Shore on this side of the Channel returns to her rule after the companions retrain the [[XX Legion]], clear the countryside, and force [[Dunkirk]]'s surrender. *(Source: [[Session 026 - The Wolves of Wildenburg]])*
+- **(488)** — [[Assterius]] learns that Pomponia is carrying his bastard child. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]])*

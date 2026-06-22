@@ -97,7 +97,7 @@
 ## Year 487 - The Glass City and the Man in Vitriol (Session 021)
 - The conroi confirms the Otherworld “glass city” is **Cardiff**, finds the golden angel atop **Llandaff Cathedral**, and follows leads for “Merdwyl.”
 - A museum exhibit reveals [[Merlin]]’s body preserved in vitriol — but dead in this future, soon to be cut apart for study.
-- At Pengam Green’s Reawakening Fair, an elf-smith repairs [[Excalibur]] and takes commissions for new kit.
+- At Pengam Green’s Reawakening Fair, an elf-smith repairs the sword the conroi still believes is [[Excalibur]] and takes commissions for new kit.
 - Returning below, the conroi defeats a many-handed abomination that becomes [[Guido (The Guide)|Guido]] when slain; Millicent and Liam are grievously wounded, with a lethal timer once they exit. *(See: [[Session 021 - The Glass City and the Man in Vitriol]])*
 
 ## Year 487 - The Mine of Blood and the Dragon’s Vigil (Session 022)
@@ -124,3 +124,8 @@
 ## Year 488 - Calais secured and the Wildenburg hunt (Session 026)
 - The companions remain near [[Calais]] to retrain the [[XX Legion]] and clear the countryside. [[Dunkirk]] surrenders, Frankish remnants are driven south into [[Gaul]], and the Saxon Shore on this side of the Channel returns to [[Baroness Pomponia]]'s rule.
 - A murder crisis in [[Wildenburg]] draws the companions into the [[Wildenwald]], where [[Clotilde]]'s warning about the [[Lord of Wildenburg]] proves true: the party fights werewolves at the [[Wildenburg Pagan Shrine]], [[Drustin]] is bitten, and the trail leads to the [[Roman Manor in Wildenwald]]. *(See: [[Session 026 - The Wolves of Wildenburg]])*
+
+## Year 488 - The House of Constantine and the Return to Wells (Session 027)
+- Pursued from the werewolf fight, the companions take refuge in the [[House of Constantine]] within the [[Wildenwald]], where wolves will not cross the courtyard. In its ruined chapel, a radiant angel tests the company on faith, virtue, and chivalry. [[Millicent]] sacrifices her own place so [[Drustin]] can continue, [[Sir Geraint]] becomes the **Nameless Knight**, and [[Assterius]] becomes the **Homeless Knight**.
+- Beneath the chapel altar, [[Liam]] discovers the [[Holy Grail]]. After the companions drink from it, Liam's cursed rubies spill harmlessly away.
+- Returning through [[Wildenburg]] and [[Calais]], the company finds [[Sir Madoc]] in suspicious political harmony with [[Clovis]], carrying a runed sword he claims is reforged Excalibur. [[Millicent]] secretly swaps his weapon for [[Party’s Magical Sword (not Excalibur)|Fakealibur]], and the companions return to [[Wells]], where [[Lady Wells]] receives the sword and casts it into the forest pool. *(See: [[Session 027 - The House of Constantine and the Return to Wells]])*

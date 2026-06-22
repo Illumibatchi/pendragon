@@ -24,7 +24,9 @@
 |  21 | 2026-04-15 |          487 | The Glass City and the Man in Vitriol                                | [[Session 021 - The Glass City and the Man in Vitriol]]                                |
 |  22 | 2026-04-29 |          487 | The Mine of Blood and the Dragon’s Vigil                             | [[Session 022 - The Mine of Blood and the Dragon’s Vigil]]                             |
 |  23 | 2026-05-13 |          487 | The Dragon Beneath the Mine                                          | [[Session 023 - The Dragon Beneath the Mine]]                                          |
-> I’ll maintain this table as we add sessions.
 |  24 | 2026-05-20 |          487 | The Feast at Sarum and the Forest’s Warning                          | [[Session 024 - The Feast at Sarum and the Forest’s Warning]]                          |
-|  25 | 2026-05-27 |          488 | The Feast at Caen and the Battle of Calais                              | [[Session 025 - The Feast at Caen and the Battle of Calais]]                              |
+|  25 | 2026-05-27 |          488 | The Feast at Caen and the Battle of Calais                           | [[Session 025 - The Feast at Caen and the Battle of Calais]]                           |
 |  26 | 2026-06-10 |          488 | The Wolves of Wildenburg                                             | [[Session 026 - The Wolves of Wildenburg]]                                             |
+|  27 | 2026-06-17 |          488 | The House of Constantine and the Return to Wells                     | [[Session 027 - The House of Constantine and the Return to Wells]]                     |
+
+> I’ll maintain this table as we add sessions.

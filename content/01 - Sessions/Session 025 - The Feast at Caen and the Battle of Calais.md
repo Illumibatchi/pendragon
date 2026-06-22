@@ -30,7 +30,7 @@ tags:
 
 **In-game year:** 488
 
-## Summary (1–2 paragraphs)
+## Summary
 Uther’s expeditionary force crosses the Channel to aid [[Syagrius]] in Gaul against the [[Franks]]. At [[Caen]], the Gallo-Romans welcome the Britons with a feast where the companions size up their allies, name their conrois, and learn that Roman confidence about numbers is mostly vibes. In a sudden escalation of courtship politics, [[Millicent]] pushes [[Sir Madoc]] into an immediate elopement: they marry in a rushed ceremony officiated by the [[Bishop of Caen]], with the companions as witnesses.
 
 Marching northeast, the allied host finds [[Calais]] under Frankish siege. Roman estimates prove disastrously wrong: the Franks outnumber the allies roughly two-to-one. The companions propose a coordinated trap: [[Assterius]] infiltrates Calais to secure cooperation from [[Baroness Pomponia]], and at the signal of two horn blasts answered by church bells, the garrison sorties while the British strike a siege-wing from behind. The maneuver works—Asterius’ wedge splits formations, Drustin’s men break the line in a savage charge, and the siege is lifted. The companions hold discipline and do not pursue the fleeing Franks, but everyone is left with the uneasy sense that history itself has been knocked off its expected track.

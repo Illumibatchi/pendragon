@@ -24,7 +24,7 @@ tags:
 
 **In-game year:** 487
 
-## Summary (1–2 paragraphs)
+## Summary
 The conroi emerges from the underworld tunnel into a bewildering “glass city” of stone and towers (confirmed to be **Cardiff**). Unable to communicate, they blunder their way toward Guido’s only instruction: find a **church with a golden angel**. After a tense break-in at an Orthodox church and a bewildered ride paid for with “modern” coinage, they reach **Llandaff Cathedral** and confirm the golden angel is real.
 
 Following leads for “**Merdwyl**” (Merlin’s name here), the conroi learns of a “Reawakening Fair” at Pengam Green—and, via a new-age shop, discovers a museum exhibit: a druid-like body preserved in **oil of vitriol** for over a millennium. The figure is unmistakably **[[Merlin]]**, but in this future he is *dead*—his body an empty vessel soon to be cut apart for study. The conroi instead turns to an otherworldly smith at the fair to restore **[[Excalibur]]**, then descends again—only to fight a many-handed abomination that, in death, becomes **[[Guido (The Guide)]]**.

@@ -32,7 +32,7 @@ tags:
 
 **In-game year:** 487
 
-## Summary (1–2 paragraphs)
+## Summary
 At the opening of 487 the realm shifts again: Saxons retreat on some fronts, Linden is desolated, and rumors spread that the King of Deira has gone mad. With [[Excalibur]] broken into three pieces and [[Merlin]] missing, the conroi is pulled between courtly obligations and a desperate private quest.
 
 Invited to accompany [[Uther Pendragon]] on his royal progress, the knights refuse and instead commit to [[Count Roderick of Salisbury|Roderick]]’s charge to find Merlin and restore the sword. That refusal earns Uther’s suspicion (and contempt). Following thin leads through Pitum and back to Wells, they learn the truth: Merlin has “crossed over” and is no longer in this world. With [[Lady Wells]] revealed as one of the [[Ladies of the Lake]], the conroi chooses the only remaining path — a perilous descent into the [[Otherworld]].

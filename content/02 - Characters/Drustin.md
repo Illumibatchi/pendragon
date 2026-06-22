@@ -48,3 +48,4 @@ flowchart TB
 - **(487)** — At the [[Sarum]] feast, meets [[Lady Ellen of Winchbank|Ellen]]’s baby daughter and falls into misery: **100 Glory**, **-2 to all rolls for a year**. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
 - **(488)** — Commands "Les Misérables" at Calais; his Lady Ellen rant inspires a decisive charge (+2 Hero Points). *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
 - **(488)** — Helps train the [[XX Legion]] near [[Calais]], then kills a werewolf at the [[Wildenburg Pagan Shrine]] but is bitten above the hauberk under a full moon. *(Source: [[Session 026 - The Wolves of Wildenburg]])*
+- **(488)** — In the [[House of Constantine]] trial, nearly fails through lust, vengeance, and weakness of devotion until [[Millicent]] sacrifices her own place so he can continue; at the end he chooses the Child. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]])*

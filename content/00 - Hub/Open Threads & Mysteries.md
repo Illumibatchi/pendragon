@@ -1,15 +1,13 @@
 
 > Rolling list of unresolved mysteries and active campaign threads. Keep this page broad; use **Current Status** for “where we are right now.”
 
-## Active / high-priority as of end of [[Session 026 - The Wolves of Wildenburg]]
+## Active / high-priority as of end of [[Session 027 - The House of Constantine and the Return to Wells]]
 
-- **Wildenwald / Roman manor:** after the werewolf fight at the [[Wildenburg Pagan Shrine]], the trail leads to the [[Roman Manor in Wildenwald]]. *(Source: [[Session 026 - The Wolves of Wildenburg]])*
-- **Drustin's werewolf bite:** [[Drustin]] was bitten under a full moon; whether lycanthropy follows is unknown. *(Source: [[Session 026 - The Wolves of Wildenburg]])*
-- **Excalibur / forest threat:** [[Damsel Diana]] and [[Lady Wells]] warn that true [[Excalibur]] must be returned to the [[Ladies of the Lake]], or the forests will continue to encroach. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
-- **Sword identity crisis:** the conroi has [[Party’s Magical Sword (not Excalibur)]], not true Excalibur; Liam suspects Uther may never have had the real sword. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
-- **Hlodowig's response:** [[Hlodowig]] has now suffered the defeat at [[Calais]], the loss of [[Dunkirk]], and the retreat of Frankish forces south into [[Gaul]]. *(Sources: [[Session 025 - The Feast at Caen and the Battle of Calais]], [[Session 026 - The Wolves of Wildenburg]])*
-
-- **Madoc + Millicent marriage fallout:** unsanctioned marriage; when Uther learns, consequences could be brutal and political. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
+- **Sword identity / Excalibur truth:** [[Lady Wells]] has now received the runed blade and cast it into the forest pool, but the larger sword mystery remains unresolved: was the returned blade truly [[Excalibur]], what exactly did [[Sir Madoc]] carry, what is [[Party’s Magical Sword (not Excalibur)]], and what do the timeline consequences mean? *(Sources: [[Session 023 - The Dragon Beneath the Mine]], [[Session 024 - The Feast at Sarum and the Forest’s Warning]], [[Session 027 - The House of Constantine and the Return to Wells]])*
+- **Madoc's Frankish accord:** [[Sir Madoc]] and [[Clovis]] emerge acting in suspicious harmony after Wildenburg; Madoc claims a deal protecting territory around Bayeux and [[Calais]] and briefly allows himself to be treated as a king. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]])*
+- **House of Constantine / Grail:** the Roman villa in the [[Wildenwald]] proves to be a holy/protected site with an angelic trial, anti-wolf power, and the hidden [[Holy Grail]]. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]])*
+- **Drustin's werewolf bite:** [[Drustin]] was bitten under a full moon; whether lycanthropy follows is still unknown. *(Sources: [[Session 026 - The Wolves of Wildenburg]], [[Session 027 - The House of Constantine and the Return to Wells]])*
+- **Uther's future reaction:** Madoc's unsanctioned marriage, Frankish diplomacy, and kingly posturing could provoke a brutal political response when [[Uther Pendragon]] learns of it. *(Sources: [[Session 025 - The Feast at Caen and the Battle of Calais]], [[Session 027 - The House of Constantine and the Return to Wells]])*
 
 ## Open threads / mysteries (in session order)
 
@@ -21,10 +19,10 @@
 
 - **(482 / S12) The Dunkerton giant:** the giant that slaughtered Caradoc’s conroi—dead, escaped, or still roaming? *(Source: [[Session 012 - The Burning of Dunkerton and the Peace of Summerland]]).* 
 
-- **(483 / S11–S12) Escaped Red Sorceress:** [[Red Sorceress (Glastonbury)]] escaped custody by swapping places with [[Brother Maynard]]; possible link to [[Children of Shepton]].
-- **(483 / S12) [[Children of Shepton]]:** why they appeared with the horses; who “led” them.
+- **(482 / S11–S12) Escaped Red Sorceress:** [[Red Sorceress (Glastonbury)]] escaped custody by swapping places with [[Brother Maynard]]; possible link to [[Children of Shepton]].
+- **(482 / S12) [[Children of Shepton]]:** why they appeared with the horses; who “led” them.
 
-- **(483 / S11) Liam’s bargain:** [[Lady of the Well]] + [[Chest of Rubies (Liam)]] + future debt.
+- **(482 / S11) Liam’s bargain:** [[Lady of the Well]] + [[Chest of Rubies (Liam)]] + future debt.
 
 - **(484 / S13) False-flag raids:** [[False-Flag Raiders (Deiran Shields)]] (fresh overpainted shields; Silchestrian accent).
 
@@ -58,10 +56,6 @@
 
 - **(485–486 / S19) Political blowback in York:** the conroi accepted a pact of friendship with Eosa, then killed the “princess” revenant in his hall—what retaliation or pursuit follows? *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]]).* 
 
-- **(485–486 / S19) Merlin missing / Excalibur broken:** where is Merlin, who has the three pieces of Excalibur, and can it be reforged before the realm collapses? *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]]).* 
-
-- **(485–486 / S19) Sir Madoc’s disappearance and redeployment:** was Madoc’s February kidnapping an extraction, a test, or an enemy action—and what is his actual status now in Escavalon? *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]]).*
-
 - **(487 / S20–S21) Otherworld crossing + Guido:** What was Guido (guide vs trap vs transformed), and what does his death imply about [[Lady Wells]] / the [[Ladies of the Lake]]? *(Sources: [[Session 020 - The Road Beneath the World]], [[Session 021 - The Glass City and the Man in Vitriol]]).*
 
 - **(487 / S20–S21) Merlin’s fate & the “save him” plan:** Merlin is dead in this future (body preserved in vitriol; dissection imminent). How can the conroi intervene—likely by going back before that endpoint? *(Sources: [[Session 020 - The Road Beneath the World]], [[Session 021 - The Glass City and the Man in Vitriol]]).*
@@ -70,16 +64,11 @@
 
 - **(487 / S23) Dragon guardian resolved:** the [[Dragon of the Roman Mine]] was slain, and its death freed the parallel-world Merlin from crystal. *(Source: [[Session 023 - The Dragon Beneath the Mine]]).*
 
-- **(487 / S23) The party's sword is not Excalibur:** the blade remains magical and reacts in the dragon chamber, but its true name, origin, and purpose remain unknown. *(Source: [[Session 023 - The Dragon Beneath the Mine]]; see [[Party’s Magical Sword (not Excalibur)]]).*
-
 - **(487 / S23) Gate-creature fallout:** [[Merlin]] says killing the [[Gate-creature (fey)]] was probably catastrophic; consequences remain unknown. *(Source: [[Session 023 - The Dragon Beneath the Mine]]).*
 
-
-## Maintenance notes
-- [[Stub & Rename Registry]] tracks unresolved names, spelling uncertainties, and rename cleanup.
-
-- **(487 / S24) Excalibur return and the encroaching forest:** [[Lady Wells]] confirms the forest will grow every year true [[Excalibur]] is not returned to the [[Ladies of the Lake]]. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]]).*
-
-- **(487 / S24) Spring 488 campaign against the Franks:** the conroi has volunteered for [[Uther Pendragon]]’s campaign to drive the [[Franks]] from [[Calais]], led by [[Sir Madoc]]. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]]).*
-
 - **(488 / S26) Wildenburg shrine and ancient script:** the [[Wildenburg Pagan Shrine]] has a bloodied stone table and ancient writing that is neither Latin nor Greek. *(Source: [[Session 026 - The Wolves of Wildenburg]]).*
+
+- **(488 / S27) Pomponia's child:** [[Baroness Pomponia]] is carrying [[Assterius]]'s bastard child; political and dynastic consequences are unknown. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]]).*
+
+
+

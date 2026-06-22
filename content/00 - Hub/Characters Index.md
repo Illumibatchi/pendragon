@@ -23,8 +23,9 @@
 - [[Uther Pendragon]] - inherits Logres; volatile conqueror; central driver of war and terror.
 - [[Prince Uther]] — ruler of the parallel Britain revealed in Session 023.
 - [[Aurelius]] - slain High King (Bedegraine betrayal); unity figure whose death fractures the realm.
-- [[Sir Madoc]] - legitimized bastard son of Uther; court intrigue magnet.
+- [[Sir Madoc]] - legitimized bastard son of Uther; now married to [[Millicent]] and entangled in a suspicious Frankish accord.
 - [[Lucius (Duke of Saxon Shore)]] - 4-year-old knighted; made Duke of Saxon Shore with regent aunt.
+- [[Syagrius]] — Gallo-Roman ruler in [[Gaul]] who appeals to Uther for aid against the [[Franks]].
 
 ## Salisbury / Logres lords and power-brokers
 - [[Count Roderick of Salisbury]] - liege of early campaign; pursuing marriage alliances.
@@ -56,12 +57,13 @@
 - [[Lady Llylla (Shisha)]] - wealthy and beautiful; infamous cruelty to servants.
 - [[Lady Triamors]] - heiress of Lickeyend; introduced by Dubricus.
 - [[Lady Rhianneth]] - Sir Marius' wife; manipulative; Madoc entanglements.
-- [[Baroness Pomponia]] - Frankish Saxon Shore; political maneuverer.
-- [[Clotilde]] — young visionary of [[Wildenburg]], accused of murder; warned of the [[Lord of Wildenburg]] and Michael's silver prophecy.
+- [[Baroness Pomponia]] - Frankish Saxon Shore ruler; political maneuverer; carrying [[Assterius]]'s bastard child.
+- [[Clotilde]] — young visionary of [[Wildenburg]] nearly burned for murders actually caused by werewolves; warned of the [[Lord of Wildenburg]] and Michael's silver prophecy.
 
 ## Clergy / holy figures
 - [[Archbishop Dubricus]] - senior church authority; counsels Drustin.
 - [[Abbot of Wells]] - humiliated victim of Wells incident.
+- [[Bishop of Caen]] — clergy in [[Caen]] who officiates the rushed marriage of [[Millicent]] and [[Sir Madoc]].
 - [[Brother Maynard]] - monk involved in the sorceress swap.
 - [[Brother Llewelyn]] - Bath abbey monk; points to York plans.
 - [[Bishop Bertrand of Bristol]] — politically ambitious Bishop of Bristol; lends [[Saint Brigid’s Flying Cauldron]] for a costly deposit.
@@ -72,7 +74,7 @@
 - [[Drimant]] - blue-robed neutral chronicler (Ladies of the Lake trained); warns of omens.
 - [[Red Sorceress (Glastonbury)]] - captured then escapes by swapping with Maynard.
 - [[Lady Niev]] - woman in white tied to fairy dragon egg.
-- [[Lady Wells]] - Lady of Wells; revealed as one of the [[Ladies of the Lake]].
+- [[Lady Wells]] - Lady of Wells; one of the [[Ladies of the Lake]] who receives the returned sword at [[Wells]].
 - [[Guido (The Guide)]] - child navigator provided by Lady Wells; leads the conroi to/through the [[Frome Stones]] route into the [[Otherworld]].
 - [[Elf Smith of Pengam Green]] — otherworldly smith at the Pengam Green “Reawakening Fair”; repairs [[Excalibur]]; takes commissions.
 - [[The Woman in White (Silchester)]] - mysterious white-cloaked castle visitor.
@@ -87,29 +89,20 @@
 - [[Knight Commander Caradoc]] — burns Dunkerton; conroi slaughtered by a giant.
 - [[Madam Eva]] — mystic near Wilderspool; warns of taboos; reads Liam.
 - [[Maewyn Succat]] — Christian priest freed from a pit near Wilderspool.
-- [[Alaric]]
-- [[Aspar]]
+- [[Marius Gallus]] — Gallo-Roman quartermaster met at [[Caen]]; befriends [[Liam]] and offers access to javelins.
 - [[Baron of Winchbank]]
 - [[Castellan of Vagon]]
 - [[Duke Edaris of the March]]
 - [[Duke Erof of Cornwall]]
 - [[Duke Ulfius of Silchester]]
-- [[Jarran]]
 - [[King Cadwy of Summerland]]
-- [[Lady Wells]]
-- [[Lycus]]
-- [[Merdwyl]]
-- [[Pascent]]
 - [[Sir Leo]]
 - [[Sir Marius of Caerwent]]
-- [[Smallberries]]
 - [[Squire Aspara]]
 - [[Squire Leo]]
 - [[Unknown name - Rachel's hedge knight brother]]
 - [[Unnamed Messenger (Wells)]]
-- [[Vortigern]]
-- [[Lord of Wildenburg]]
+- [[Lord of Wildenburg]] — revealed after death as one of the werewolves haunting [[Wildenburg]].
 
 
-## Maintenance
-- [[Stub & Rename Registry]] — tracks provisional names, spelling uncertainties, and future renames.
+

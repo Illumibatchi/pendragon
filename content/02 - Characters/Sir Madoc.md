@@ -57,3 +57,4 @@ flowchart TB
 - **(487)** — Present intoxicated at the [[Sarum]] feast; [[Lady Dilwen]] pursues him; named to lead Uther’s spring 488 campaign against the [[Franks]] in [[Calais]]. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
 - **(488)** — Marries [[Millicent]] in a rushed ceremony at [[Caen]] and leads the allied battle that lifts the siege of [[Calais]]. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
 - **(488)** — Helps train the [[XX Legion]] around [[Calais]] after the battle. *(Source: [[Session 026 - The Wolves of Wildenburg]])*
+- **(488)** — Appears beside [[Clovis]] under the style of "King" Madoc, reports a suspicious accord with the [[Franks]] around Bayeux and [[Calais]], and claims the runed sword at his side is reforged Excalibur. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]])*

@@ -32,7 +32,7 @@ tags:
 
 **In-game year:** 487
 
-## Summary (1–2 paragraphs)
+## Summary
 The conroi attends a crowded feast at [[Sarum]] with [[Uther Pendragon]], [[Sir Madoc]], [[Count Roderick of Salisbury]], [[Lady Ellen of Winchbank]], [[Merlin]], and a large gathering of courtly rivals, allies, and potential marriage prospects. Courtly comedy and romantic maneuvering fill the hall: [[Sir Geraint]] tries to advance his courtship of [[Lady Rachel of Carbonog]], [[Liam]] wins a sing-off, [[Assterius]] and [[Drustin]] share an ill-fated tender hug that ends with food spilled on Drustin, and [[Lady Dilwen]] moves on the intoxicated Madoc.
 
 The feast also turns politically serious. [[Damsel Diana]], sent by [[Lady Wells]], warns Liam that if [[Excalibur]] is not returned to the [[Ladies of the Lake]], the land will be imperiled by encroaching forests. Liam later speaks with Lady Wells, shares his suspicion that Uther may never have had the true Excalibur, and learns the forest will grow every year the sword is not returned. Meanwhile, Uther calls for volunteers for a spring 488 campaign in Gaul to drive the [[Franks]] out of [[Calais]], with Madoc to lead; the conroi volunteers.

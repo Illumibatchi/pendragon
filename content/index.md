@@ -39,4 +39,4 @@ A record of events, characters, and places within the campaign.
 - Session notes are organized by real date and in-game year.
 - Information reflects what the party currently knows.
 - Player Synopsis included from session 6 forward.
-- [[Stub & Rename Registry]]
+

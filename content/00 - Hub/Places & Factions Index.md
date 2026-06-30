@@ -27,7 +27,9 @@
 
 ## Northern campaign (York / Lincoln / Lindsey)
 - [[Londinium]] — Base of the High King’s household knights. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]], [[Session 013 - The Assassin’s Winter and the Escort of Lady Ellen|S13]])*
-- [[White Tower]] — Londinium tower where Ellen is held/quartered. *([[Session 013 - The Assassin’s Winter and the Escort of Lady Ellen|S13]])*
+- [[White Tower]] — Londinium tower where Ellen is held/quartered; site of Uther's dangerous Easter feast with [[Ygraine]]. *([[Session 013 - The Assassin’s Winter and the Escort of Lady Ellen|S13]], [[Session 028 - The Easter Feast at the White Tower|S28]])*
+- [[Llud’s Castle]] — Uther's tracks lead here after he leaves the White Tower feast. *([[Session 028 - The Easter Feast at the White Tower|S28]])*
+- [[St. Mary Bethlehem]] — Londinium nunnery where the company finds Madoc in a compromising or mysterious scene. *([[Session 028 - The Easter Feast at the White Tower|S28]])*
 - [[Lindsey]] — Northern coordination region (Angles campaign prep). *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[River Trent]] — Referenced on the northward journey (men glimpsed west of it). *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[Newark]] — Town whose castellan aids the assault on Eosa’s camp. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
@@ -110,6 +112,7 @@
 - [[Winchbank Household]] — Winchbank court/household. *([[Session 004 - The Lady’s Secret and the Feast at Winchbank|S4]], [[Session 005 - The Fairy Dragon and the Ogre’s Return|S5]])*
 - [[High King’s Household]] — Direct household knights of the High King. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[Malahaut]] — Northern kingdom; appeals to Uther; chivalric knights. *([[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]], [[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead|S16]])*
+- [[Lothian]] — northern kingdom of [[King Lot of Lothian]], now fighting Saxons alongside Malahaut. *([[Session 028 - The Easter Feast at the White Tower|S28]])*
 - [[Saxon Shore (duchy)]] — Frontier duchy assigned to child duke Lucius. *([[Session 014 - Easter Court at Sarum and the Duel of Sir Marius|S14]])*
 
 ### Supernatural / covert

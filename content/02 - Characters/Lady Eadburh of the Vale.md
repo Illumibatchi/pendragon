@@ -14,3 +14,4 @@ A Saxon lady present at the [[Sarum]] feast in [[Session 024 - The Feast at Saru
 
 ## Timeline
 - **(487)** — Present at the Sarum feast. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
+- **(488)** — At the [[White Tower]] Easter feast, [[Millicent]] falls into her during a dance and then accidentally turns the apology into flirtation; Eadburh appears receptive rather than offended. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*

@@ -23,7 +23,8 @@
 - [[Uther Pendragon]] - inherits Logres; volatile conqueror; central driver of war and terror.
 - [[Prince Uther]] — ruler of the parallel Britain revealed in Session 023.
 - [[Aurelius]] - slain High King (Bedegraine betrayal); unity figure whose death fractures the realm.
-- [[Sir Madoc]] - legitimized bastard son of Uther; now married to [[Millicent]] and entangled in a suspicious Frankish accord.
+- [[Sir Madoc]] - legitimized bastard son of Uther; now married to [[Millicent]], entangled in a suspicious Frankish accord, and compromised at [[St. Mary Bethlehem]].
+- [[Ygraine]] — Duchess of Cornwall; her arrival at the White Tower triggers Uther's dangerous obsession.
 - [[Lucius (Duke of Saxon Shore)]] - 4-year-old knighted; made Duke of Saxon Shore with regent aunt.
 - [[Syagrius]] — Gallo-Roman ruler in [[Gaul]] who appeals to Uther for aid against the [[Franks]].
 
@@ -42,6 +43,7 @@
 - [[Sir Ector]] - Rachel's brother; Caer Bannog host.
 - [[Sir Beefy]] - notorious rival/foe; strength legend grows.
 - [[King Brodin of Malahaut]] - "Centurion-King"; Roman legatus armor; political pressure point.
+- [[King Lot of Lothian]] — young king fighting Saxons alongside [[King Brodin of Malahaut]].
 
 ## Squires / retainers
 - [[Iorath]] — Drustin-hired squire for Sir Geraint (son of a rich nobleman).
@@ -56,7 +58,7 @@
 - [[Lady Rosalyn]] - Duke of the March's daughter; generous; court interest dynamics.
 - [[Lady Llylla (Shisha)]] - wealthy and beautiful; infamous cruelty to servants.
 - [[Lady Triamors]] - heiress of Lickeyend; introduced by Dubricus.
-- [[Lady Rhianneth]] - Sir Marius' wife; manipulative; Madoc entanglements.
+- [[Lady Rhianneth]] - Sir Marius' wife; manipulative; corrected source of Madoc's prior scandal and possible child.
 - [[Baroness Pomponia]] - Frankish Saxon Shore ruler; political maneuverer; carrying [[Assterius]]'s bastard child.
 - [[Clotilde]] — young visionary of [[Wildenburg]] nearly burned for murders actually caused by werewolves; warned of the [[Lord of Wildenburg]] and Michael's silver prophecy.
 
@@ -93,7 +95,7 @@
 - [[Baron of Winchbank]]
 - [[Castellan of Vagon]]
 - [[Duke Edaris of the March]]
-- [[Duke Erof of Cornwall]]
+- [[Duke Erof of Cornwall]] — husband of [[Ygraine]]; his court presence becomes dangerous once Uther fixates on her.
 - [[Duke Ulfius of Silchester]]
 - [[King Cadwy of Summerland]]
 - [[Sir Leo]]

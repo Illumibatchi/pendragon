@@ -1,13 +1,14 @@
 
 > Rolling list of unresolved mysteries and active campaign threads. Keep this page broad; use **Current Status** for “where we are right now.”
 
-## Active / high-priority as of end of [[Session 027 - The House of Constantine and the Return to Wells]]
+## Active / high-priority as of end of [[Session 028 - The Easter Feast at the White Tower]]
 
-- **Sword identity / Excalibur truth:** [[Lady Wells]] has now received the runed blade and cast it into the forest pool, but the larger sword mystery remains unresolved: was the returned blade truly [[Excalibur]], what exactly did [[Sir Madoc]] carry, what is [[Party’s Magical Sword (not Excalibur)]], and what do the timeline consequences mean? *(Sources: [[Session 023 - The Dragon Beneath the Mine]], [[Session 024 - The Feast at Sarum and the Forest’s Warning]], [[Session 027 - The House of Constantine and the Return to Wells]])*
-- **Madoc's Frankish accord:** [[Sir Madoc]] and [[Clovis]] emerge acting in suspicious harmony after Wildenburg; Madoc claims a deal protecting territory around Bayeux and [[Calais]] and briefly allows himself to be treated as a king. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]])*
-- **House of Constantine / Grail:** the Roman villa in the [[Wildenwald]] proves to be a holy/protected site with an angelic trial, anti-wolf power, and the hidden [[Holy Grail]]. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]])*
-- **Drustin's werewolf bite:** [[Drustin]] was bitten under a full moon; whether lycanthropy follows is still unknown. *(Sources: [[Session 026 - The Wolves of Wildenburg]], [[Session 027 - The House of Constantine and the Return to Wells]])*
-- **Uther's future reaction:** Madoc's unsanctioned marriage, Frankish diplomacy, and kingly posturing could provoke a brutal political response when [[Uther Pendragon]] learns of it. *(Sources: [[Session 025 - The Feast at Caen and the Battle of Calais]], [[Session 027 - The House of Constantine and the Return to Wells]])*
+- **St. Mary Bethlehem cliffhanger:** the conroi followed [[Sir Madoc]] from the [[White Tower]] to [[St. Mary Bethlehem]] and found him with his head in a nun's lap; [[Millicent]] recognizes this is not a normal Church rite. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
+- **Uther / Ygraine / Cornwall crisis:** [[Uther Pendragon]] became openly obsessed with [[Ygraine]] at the feast; his tracks lead toward [[Llud’s Castle]], while [[Duke Erof of Cornwall]] and Ygraine appear to have gone toward the docks. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
+- **Sword identity / Excalibur truth:** [[Merlin]] now knows the real sword was returned to the lake and that [[Sir Madoc]] bears a false blade; his warning is stark: Britain has no sword and no king. *(Sources: [[Session 027 - The House of Constantine and the Return to Wells]], [[Session 028 - The Easter Feast at the White Tower]])*
+- **March relief:** [[Duke Edaris of the March]] says his lands may not survive repeated Saxon raids; [[Liam]] has [[Count Roderick of Salisbury|Roderick]]'s permission to assemble a relief force. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
+- **Northern war neglected:** [[King Brodin of Malahaut]] and [[King Lot of Lothian]] are fighting Saxons in the north, but Uther has not answered their appeals for aid. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
+- **Madoc / Rhianneth / possible child:** [[Sir Madoc]] admitted the earlier [[Lady Rhianneth]] incident and says he does not know whether a child exists; [[Millicent]] intends provision if one does. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
 
 ## Open threads / mysteries (in session order)
 
@@ -69,6 +70,10 @@
 - **(488 / S26) Wildenburg shrine and ancient script:** the [[Wildenburg Pagan Shrine]] has a bloodied stone table and ancient writing that is neither Latin nor Greek. *(Source: [[Session 026 - The Wolves of Wildenburg]]).*
 
 - **(488 / S27) Pomponia's child:** [[Baroness Pomponia]] is carrying [[Assterius]]'s bastard child; political and dynastic consequences are unknown. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]]).*
+
+- **(488 / S28) White Tower departures:** [[Merlin]], [[Ygraine]], [[Uther Pendragon]], and [[Sir Madoc]] all leave the feast in sequence; the company follows Madoc rather than Uther or Cornwall. *(Source: [[Session 028 - The Easter Feast at the White Tower]]).*
+- **(488 / S28) Drustin and Ellen:** [[Drustin]] nearly approaches [[Lady Ellen of Winchbank]] again, but [[Sir Geraint]] and [[Assterius]] intercept him and lock him in an outhouse before disaster repeats. *(Source: [[Session 028 - The Easter Feast at the White Tower]]).*
+
 
 
 

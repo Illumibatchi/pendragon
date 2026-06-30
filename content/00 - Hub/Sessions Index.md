@@ -28,5 +28,6 @@
 |  25 | 2026-05-27 |          488 | The Feast at Caen and the Battle of Calais                           | [[Session 025 - The Feast at Caen and the Battle of Calais]]                           |
 |  26 | 2026-06-10 |          488 | The Wolves of Wildenburg                                             | [[Session 026 - The Wolves of Wildenburg]]                                             |
 |  27 | 2026-06-17 |          488 | The House of Constantine and the Return to Wells                     | [[Session 027 - The House of Constantine and the Return to Wells]]                     |
+|  28 | 2026-06-24 |          488 | The Easter Feast at the White Tower                                  | [[Session 028 - The Easter Feast at the White Tower]]                                  |
 
 > I’ll maintain this table as we add sessions.

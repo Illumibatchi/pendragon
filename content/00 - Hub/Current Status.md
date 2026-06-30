@@ -1,21 +1,22 @@
 
-## Where we left off (end of [[Session 027 - The House of Constantine and the Return to Wells|Session 027]])
-The conroi survived the trial within the [[House of Constantine]] in the [[Wildenwald]], where an angelic ordeal of faith and chivalry led [[Liam]] to uncover the [[Holy Grail]] beneath the chapel altar. After the company drank from it, Liam's cursed rubies spilled harmlessly away, suggesting the relic cleansed him.
+## Where we left off (end of [[Session 028 - The Easter Feast at the White Tower|Session 028]])
+The conroi left [[Uther Pendragon|Uther]]'s Easter feast at the [[White Tower]] in [[Londinium]] after the hall became a knot of courtly scandal, sword treason, and Cornwall disaster. [[Ygraine]]'s arrival with [[Duke Erof of Cornwall]] drew Uther into open obsession, while [[Merlin]] fled horrified after [[Drustin]] told him the truth about the sword swap and the returned blade. Merlin's warning is now explicit: Britain has **no sword** and **no king**.
 
-The companions then returned through [[Wildenburg]] and [[Calais]], where they found [[Sir Madoc]] and [[Clovis]] acting in suspicious political harmony. Madoc claimed to carry a reforged Excalibur and spoke of a new accord with the [[Franks]], but [[Millicent]] secretly swapped his weapon before the company returned to [[Wells]]. There, [[Lady Wells]] joyfully received the runed sword and cast it into a still forest pool beneath the gaze of a stag.
+After key figures vanished from the feast, the company crossed into snowy Londinium. Tracks split three ways: Uther toward [[Llud’s Castle]], the Cornwalls toward the docks, and [[Sir Madoc]] toward [[St. Mary Bethlehem]]. The company followed Madoc and found him inside the nunnery with his head in a nun's lap. [[Millicent]]'s religious knowledge confirms this is not any normal rite of the Church.
 
 ## Immediate fallout
-- **Sword returned, truth unresolved:** the blade demanded by [[Lady Wells]] and the [[Ladies of the Lake]] has now been surrendered, but whether it was truly Excalibur — and what that means for the timeline — remains uncertain.
-- **Madoc's Frankish deal:** [[Sir Madoc]] has cut a troubling arrangement with [[Clovis]] and the [[Franks]] around Bayeux and [[Calais]], and briefly allowed himself to be treated as a king.
-- **House of Constantine:** the Roman villa in the [[Wildenwald]] proved to be a holy/protected site with anti-wolf power, an angelic trial, and the hidden [[Holy Grail]].
-- **Drustin's bite:** [[Drustin]]'s werewolf bite from the prior session is still unresolved.
-- **Pomponia's child:** [[Baroness Pomponia]] is carrying [[Assterius]]'s bastard child.
+- **Nunnery cliffhanger:** Madoc appears compromised again at [[St. Mary Bethlehem]], and the company has just walked in.
+- **Cornwall crisis:** Uther's pursuit of [[Ygraine]] has begun in earnest; the Duke and Duchess of Cornwall appear to be heading for the docks, likely toward Cornwall.
+- **Merlin knows:** Merlin now knows that Madoc carries a false blade and that the runed sword was returned to the lake.
+- **March relief:** [[Liam]] has [[Count Roderick of Salisbury|Roderick]]'s permission to assemble a small Salisbury force for [[Duke Edaris of the March]].
+- **Northern war:** [[King Brodin of Malahaut]] and [[King Lot of Lothian]] are fighting Saxons while Uther ignores requests for aid.
+- **Madoc/Rhianneth:** [[Sir Madoc]] admitted the prior [[Lady Rhianneth]] incident; whether a child exists remains unknown.
 
 ## Next session questions
-- Was the sword returned at [[Wells]] truly [[Excalibur]], or something else entirely?
-- What exactly has [[Sir Madoc]] agreed to with [[Clovis]] and the [[Franks]]?
-- What is the deeper meaning of the [[House of Constantine]], the angelic trial, and the [[Holy Grail]]'s appearance there?
-- Was [[Drustin]] infected or cursed by the werewolf bite?
-- How will [[Uther Pendragon]] react to Madoc's marriage, diplomacy, and apparent kingship posturing?
+- What exactly is happening between Madoc and the nun at [[St. Mary Bethlehem]]?
+- Is the nunnery scene connected to [[Lady Rhianneth]], a possible bastard, or something stranger?
+- What will Merlin do now that he knows Britain is swordless?
+- Is Uther actively pursuing [[Ygraine]] at [[Llud’s Castle]], and are the Cornwalls fleeing to Cornwall?
+- Will the company pursue the Cornwall crisis, Madoc's scandal, Merlin, or the March relief force first?
 
 See: [[Open Threads & Mysteries]]

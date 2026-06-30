@@ -14,3 +14,4 @@ A lady present at the [[Sarum]] feast. In [[Session 024 - The Feast at Sarum and
 
 ## Timeline
 - **(487)** — Pursues the intoxicated [[Sir Madoc]] at the Sarum feast. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
+- **(488)** — Initially misidentified by [[Drustin]] as the woman in Madoc's prior scandal; later clarified not to be the source of the possible child rumor. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*

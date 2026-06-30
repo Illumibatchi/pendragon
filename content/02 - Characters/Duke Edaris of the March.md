@@ -38,4 +38,4 @@ flowchart TB
 **Lineage links:**
 - [[Duke Edaris of the March]]
 - [[Lady Rosalyn]]
-
+- **(488)** — Tells [[Liam]] that repeated Saxon raids have devastated his lands and left his daughter difficult to marry; Liam later gains Roderick's permission to assemble aid. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*

@@ -39,4 +39,4 @@ flowchart TB
 **Lineage links:**
 - [[Lady Rhianneth]]
 - [[Sir Marius of Caerwent]]
-
+- **(488)** — [[Sir Madoc]] admits to [[Millicent]] that Rhianneth, not [[Lady Dilwen]], was the woman in the earlier drunken scandal; whether a child resulted remains unknown. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*

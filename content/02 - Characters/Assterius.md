@@ -54,3 +54,4 @@ flowchart TB
 - **(488)** — Sleeps with [[Baroness Pomponia]] after the victory at [[Calais]]. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
 - **(488)** — Helps clear the countryside around [[Calais]], contributing to the remaining [[Franks]] being driven south into [[Gaul]]. *(Source: [[Session 026 - The Wolves of Wildenburg]])*
 - **(488)** — Identifies the [[House of Constantine]] in the [[Wildenwald]], becomes the Homeless Knight during its angelic trial, and later learns [[Baroness Pomponia]] is carrying his bastard child. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]])*
+- **(488)** — At the [[White Tower]] feast, reassures [[Damsel Diana]] after [[Liam]] neglects her and helps [[Sir Geraint]] restrain [[Drustin]] before he approaches [[Lady Ellen of Winchbank]]. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*

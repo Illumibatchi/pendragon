@@ -16,3 +16,4 @@ Brytho-Roman king of Malahaut, known as the “Centurion‑King” for wearing h
 
 ## Timeline
 - **(484)** — Meets the party en route to York; later rides south to confront Uther. *(Source: [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead]])*
+- **(488)** — Reported fighting Saxons in the north alongside [[King Lot of Lothian]], while [[Uther Pendragon]] has not answered appeals for aid. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*

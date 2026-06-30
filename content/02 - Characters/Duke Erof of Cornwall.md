@@ -15,3 +15,4 @@ Attends Easter court at Sarum during preparations for Ellen's marriage and Uther
 
 ## Timeline
 - **(483)** — Marches north separately from Uther's main host; his loyalty remains under suspicion. *(Source: [[Session 015 - The Road to York and the Ambush in Sherwood]])*
+- **(488)** — Attends Uther's Easter feast at the [[White Tower]] with [[Ygraine]]; outward reconciliation with Uther collapses into danger as Uther fixates on his wife. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*

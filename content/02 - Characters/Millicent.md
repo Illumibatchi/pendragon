@@ -45,3 +45,4 @@ flowchart TB
 - **(488)** — Marries [[Sir Madoc]] in [[Caen]] and commands in the battle to lift the siege of [[Calais]]. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
 - **(488)** — Leads 500 men in five units to clear the countryside around [[Calais]], helping drive the remaining [[Franks]] south into [[Gaul]]. *(Source: [[Session 026 - The Wolves of Wildenburg]])*
 - **(488)** — In the [[House of Constantine]] trial, sacrifices her own place so [[Drustin]] can continue; later secretly swaps Madoc's sword before returning the runed blade to [[Lady Wells]] at [[Wells]]. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]])*
+- **(488)** — Confronts [[Sir Madoc]] about the corrected [[Lady Rhianneth]] scandal and possible child, then follows his trail to [[St. Mary Bethlehem]] and recognizes the nunnery scene is not a normal Church rite. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*

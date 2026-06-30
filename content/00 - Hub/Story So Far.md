@@ -1,6 +1,6 @@
 
 
-> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 026**.
+> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 028**.
 
 ## Year 480 - The early days: squires of Salisbury (Sessions 000-002)
 - The campaign opens in the **Uther Period** with a group of squires serving the household knights of **[[Count Roderick of Salisbury]]**. *(See: [[Session 000 - The Young Squires of Salisbury]])*
@@ -129,3 +129,10 @@
 - Pursued from the werewolf fight, the companions take refuge in the [[House of Constantine]] within the [[Wildenwald]], where wolves will not cross the courtyard. In its ruined chapel, a radiant angel tests the company on faith, virtue, and chivalry. [[Millicent]] sacrifices her own place so [[Drustin]] can continue, [[Sir Geraint]] becomes the **Nameless Knight**, and [[Assterius]] becomes the **Homeless Knight**.
 - Beneath the chapel altar, [[Liam]] discovers the [[Holy Grail]]. After the companions drink from it, Liam's cursed rubies spill harmlessly away.
 - Returning through [[Wildenburg]] and [[Calais]], the company finds [[Sir Madoc]] in suspicious political harmony with [[Clovis]], carrying a runed sword he claims is reforged Excalibur. [[Millicent]] secretly swaps his weapon for [[Party’s Magical Sword (not Excalibur)|Fakealibur]], and the companions return to [[Wells]], where [[Lady Wells]] receives the sword and casts it into the forest pool. *(See: [[Session 027 - The House of Constantine and the Return to Wells]])*
+
+
+## Year 488 - The Easter Feast at the White Tower (Session 028)
+- At [[Uther Pendragon|Uther]]'s Easter feast in the [[White Tower]], [[Ygraine]] appears beside [[Duke Erof of Cornwall]], and Uther's desire for her turns the feast into a political crisis.
+- Courtly comedy masks dangerous revelations: [[Millicent]] confronts [[Sir Madoc]] about the corrected [[Lady Rhianneth]] scandal, [[Drustin]] reveals the sword truth to [[Merlin]], and Merlin warns that Britain has no sword and no king.
+- [[Liam]] gains [[Count Roderick of Salisbury|Roderick]]'s permission to assemble a force for [[Duke Edaris of the March]], whose lands are failing under Saxon raids.
+- After Merlin, Ygraine, Uther, and Madoc vanish from the feast, the company follows Madoc to [[St. Mary Bethlehem]] and finds him with his head in a nun's lap — not, according to [[Millicent]]'s religion, any normal rite of the Church. *(See: [[Session 028 - The Easter Feast at the White Tower]])*

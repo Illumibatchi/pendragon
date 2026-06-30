@@ -44,3 +44,4 @@ flowchart TB
 - **(488)** — Commands "The Normans" at Calais; rallies his men with homage in the battle that lifts the siege. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
 - **(488)** — Kills a werewolf at the [[Wildenburg Pagan Shrine]] and recalls folklore that lycanthropy is a Saxon affliction and not every bite turns the victim. *(Source: [[Session 026 - The Wolves of Wildenburg]])*
 - **(488)** — In the [[House of Constantine]] trial, gives up his name and coat of arms and is styled the Nameless Knight. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]])*
+- **(488)** — Becomes the “Eastern Wind” at the [[White Tower]] feast, continues courting [[Lady Rachel of Carbonog]], and helps [[Assterius]] restrain [[Drustin]] before another Ellen disaster. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*

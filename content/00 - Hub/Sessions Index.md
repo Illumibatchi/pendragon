@@ -29,5 +29,6 @@
 |  26 | 2026-06-10 |          488 | The Wolves of Wildenburg                                             | [[Session 026 - The Wolves of Wildenburg]]                                             |
 |  27 | 2026-06-17 |          488 | The House of Constantine and the Return to Wells                     | [[Session 027 - The House of Constantine and the Return to Wells]]                     |
 |  28 | 2026-06-24 |          488 | The Easter Feast at the White Tower                                  | [[Session 028 - The Easter Feast at the White Tower]]                                  |
+|  29 | 2026-07-01 |      488–489 | Madoc’s Penance, New Manors, and the March                           | [[Session 029 - Madoc’s Penance, New Manors, and the March]]                           |
 
 > I’ll maintain this table as we add sessions.

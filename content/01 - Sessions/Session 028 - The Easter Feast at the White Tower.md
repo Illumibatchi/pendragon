@@ -86,7 +86,7 @@ After Drustin nearly repeats his [[Lady Ellen of Winchbank|Ellen]] disaster and 
 
 ## Consequences & New Facts
 - [[Ygraine]]'s arrival at court triggers the Uther/Cornwall crisis.
-- [[Merlin]] now knows the real sword was returned to the lake and that Madoc bears a false blade.
+- [[Merlin]] now knows that Madoc bears [[Party’s Magical Sword (not Excalibur)|the false blade]] and that the runed blade taken from Madoc was returned to the lake; whether that blade is truly home-world [[Excalibur]] remains uncertain.
 - [[Lady Rhianneth]], not [[Lady Dilwen]], is the corrected woman in Madoc's prior scandal; whether a child exists is unknown.
 - [[Duke Edaris of the March]]'s lands are near collapse from Saxon raids.
 - [[King Brodin of Malahaut]] and [[King Lot of Lothian]] are fighting Saxons without Uther's help.

@@ -97,7 +97,7 @@
 ## Year 487 - The Glass City and the Man in Vitriol (Session 021)
 - The conroi confirms the Otherworld “glass city” is **Cardiff**, finds the golden angel atop **Llandaff Cathedral**, and follows leads for “Merdwyl.”
 - A museum exhibit reveals [[Merlin]]’s body preserved in vitriol — but dead in this future, soon to be cut apart for study.
-- At Pengam Green’s Reawakening Fair, an elf-smith repairs the sword the conroi still believes is [[Excalibur]] and takes commissions for new kit.
+- At Pengam Green’s Reawakening Fair, an elf-smith repairs the sword the conroi still believes is [[Excalibur]] — later clarified as [[Party’s Magical Sword (not Excalibur)]] — and takes commissions for new kit.
 - Returning below, the conroi defeats a many-handed abomination that becomes [[Guido (The Guide)|Guido]] when slain; Millicent and Liam are grievously wounded, with a lethal timer once they exit. *(See: [[Session 021 - The Glass City and the Man in Vitriol]])*
 
 ## Year 487 - The Mine of Blood and the Dragon’s Vigil (Session 022)
@@ -114,7 +114,7 @@
 
 ## Year 487 - The Feast at Sarum and the Forest’s Warning (Session 024)
 - At a crowded [[Sarum]] feast, courtship and rivalry mix with new political commitments: [[Sir Geraint]] advances his courtship of [[Lady Rachel of Carbonog]], [[Lady Dilwen]] pursues an intoxicated [[Sir Madoc]], and [[Drustin]] falls into misery after seeing [[Lady Ellen of Winchbank|Ellen]]’s baby daughter.
-- [[Damsel Diana]], sent by [[Lady Wells]], warns [[Liam]] that [[Excalibur]] must be returned to the [[Ladies of the Lake]], or the forests will encroach and imperil the land.
+- [[Damsel Diana]], sent by [[Lady Wells]], warns [[Liam]] that [[Excalibur]] must be returned to the [[Ladies of the Lake]], or the forests will encroach and imperil the land; this is complicated because the conroi’s repaired sword has been revealed as [[Party’s Magical Sword (not Excalibur)|not Excalibur]].
 - [[Uther Pendragon]] calls for volunteers for a spring 488 campaign into Gaul/France to drive the [[Franks]] from [[Calais]], with [[Sir Madoc]] leading; the conroi volunteers. [[Assterius]] researches the Franks and their leader [[Clovis]]. *(See: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
 
 
@@ -128,7 +128,7 @@
 ## Year 488 - The House of Constantine and the Return to Wells (Session 027)
 - Pursued from the werewolf fight, the companions take refuge in the [[House of Constantine]] within the [[Wildenwald]], where wolves will not cross the courtyard. In its ruined chapel, a radiant angel tests the company on faith, virtue, and chivalry. [[Millicent]] sacrifices her own place so [[Drustin]] can continue, [[Sir Geraint]] becomes the **Nameless Knight**, and [[Assterius]] becomes the **Homeless Knight**.
 - Beneath the chapel altar, [[Liam]] discovers the [[Holy Grail]]. After the companions drink from it, Liam's cursed rubies spill harmlessly away.
-- Returning through [[Wildenburg]] and [[Calais]], the company finds [[Sir Madoc]] in suspicious political harmony with [[Clovis]], carrying a runed sword he claims is reforged Excalibur. [[Millicent]] secretly swaps his weapon for [[Party’s Magical Sword (not Excalibur)|Fakealibur]], and the companions return to [[Wells]], where [[Lady Wells]] receives the sword and casts it into the forest pool. *(See: [[Session 027 - The House of Constantine and the Return to Wells]])*
+- Returning through [[Wildenburg]] and [[Calais]], the company finds [[Sir Madoc]] in suspicious political harmony with [[Clovis]], carrying a runed sword he claims is reforged Excalibur. [[Millicent]] secretly takes Madoc’s runed blade and leaves him with [[Party’s Magical Sword (not Excalibur)|Fakealibur]], and the companions return to [[Wells]], where [[Lady Wells]] receives the runed blade and casts it into the forest pool. Everyone currently treats that returned blade as the true sword, but the timeline/reality problem keeps its exact identity uncertain. *(See: [[Session 027 - The House of Constantine and the Return to Wells]])*
 
 
 ## Year 488 - The Easter Feast at the White Tower (Session 028)
@@ -136,3 +136,10 @@
 - Courtly comedy masks dangerous revelations: [[Millicent]] confronts [[Sir Madoc]] about the corrected [[Lady Rhianneth]] scandal, [[Drustin]] reveals the sword truth to [[Merlin]], and Merlin warns that Britain has no sword and no king.
 - [[Liam]] gains [[Count Roderick of Salisbury|Roderick]]'s permission to assemble a force for [[Duke Edaris of the March]], whose lands are failing under Saxon raids.
 - After Merlin, Ygraine, Uther, and Madoc vanish from the feast, the company follows Madoc to [[St. Mary Bethlehem]] and finds him with his head in a nun's lap — not, according to [[Millicent]]'s religion, any normal rite of the Church. *(See: [[Session 028 - The Easter Feast at the White Tower]])*
+
+
+## Years 488–489 - Madoc’s Penance, New Manors, and the March (Session 029)
+- At [[St. Mary Bethlehem]], the apparent scandal resolves into family grief: the nun is [[Meredith]], [[Sir Madoc]]'s mother. Madoc seeks penance for the [[Lady Rhianneth]] scandal and possible child; his penance requires six months' chastity and saving ten families.
+- The companions become landed vassal knights of Salisbury: [[Drustin]] receives [[Yarnbrook]], [[Millicent]] [[Heywood]], [[Assterius]] [[Bratton]], [[Liam]] [[Edington]], and [[Sir Geraint]] [[Coulston]]. Bad weather and famine make lordship immediately painful, especially at starving Yarnbrook.
+- In 489, the company chooses Madoc's call to aid [[Duke Edaris of the March]] over Uther's Cornwall campaign and the Church's call to remain home. At [[Oxford]], Madoc appears masked, silent, and mad.
+- At [[Lambor Castle]], Millicent confines Madoc for safety before the company enters the Angle-haunted forest, kills two ogres, and falls back to the castle to regroup. *(See: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*

@@ -1,9 +1,9 @@
 ## Player Knights / PCs (active)
-- [[Millicent]] (Jessica) - battlefield leader; courtly "unaware" streak; famed for decisive rescues.
-- [[Drustin]] (Kevin) - eager and tradition-minded; prone to melancholy; tied to St. Crispin relic story.
-- [[Assterius]] (Patrik) - thoughtful/pragmatic; suffered madness episodes; currently a key "stability vs passion" arc.
-- [[Liam]] (Steve) - dutiful/logistics; ends up in the center of multiple supernatural bargains/spotlights.
-- [[Sir Geraint]] (BrotherRidge) - joined Session 12; sole survivor of Caradoc's Dunkerton conroi; sworn to Roderick.
+- [[Millicent]] (Jessica) - battlefield leader; courtly "unaware" streak; famed for decisive rescues; now Lady of [[Heywood]].
+- [[Drustin]] (Kevin) - eager and tradition-minded; prone to melancholy; tied to St. Crispin relic story; now lord of starving [[Yarnbrook]].
+- [[Assterius]] (Patrik) - thoughtful/pragmatic; suffered madness episodes; currently a key "stability vs passion" arc; now lord of [[Bratton]].
+- [[Liam]] (Steve) - dutiful/logistics; ends up in the center of multiple supernatural bargains/spotlights; now lord of [[Edington]].
+- [[Sir Geraint]] (BrotherRidge) - joined Session 12; sole survivor of Caradoc's Dunkerton conroi; sworn to Roderick; now lord of [[Coulston]].
 
 ## Former Player Knights / PCs (dead/retired)
 - [[Gregory]] (Robert) - massive Saxon squire; heroic death in the Forest of Gloom.
@@ -23,7 +23,7 @@
 - [[Uther Pendragon]] - inherits Logres; volatile conqueror; central driver of war and terror.
 - [[Prince Uther]] — ruler of the parallel Britain revealed in Session 023.
 - [[Aurelius]] - slain High King (Bedegraine betrayal); unity figure whose death fractures the realm.
-- [[Sir Madoc]] - legitimized bastard son of Uther; now married to [[Millicent]], entangled in a suspicious Frankish accord, and compromised at [[St. Mary Bethlehem]].
+- [[Sir Madoc]] - legitimized bastard son of Uther; married to [[Millicent]]; after penance for the Rhianneth scandal, appears masked and mad in the March.
 - [[Ygraine]] — Duchess of Cornwall; her arrival at the White Tower triggers Uther's dangerous obsession.
 - [[Lucius (Duke of Saxon Shore)]] - 4-year-old knighted; made Duke of Saxon Shore with regent aunt.
 - [[Syagrius]] — Gallo-Roman ruler in [[Gaul]] who appeals to Uther for aid against the [[Franks]].
@@ -46,6 +46,7 @@
 - [[King Lot of Lothian]] — young king fighting Saxons alongside [[King Brodin of Malahaut]].
 
 ## Squires / retainers
+- [[Lilwen]] — sixteen-year-old Yarnbrook local entrusted by [[Drustin]] with relief money during the 489 famine.
 - [[Iorath]] — Drustin-hired squire for Sir Geraint (son of a rich nobleman).
 
 ## Ladies / marriage prospects / courts
@@ -63,6 +64,7 @@
 - [[Clotilde]] — young visionary of [[Wildenburg]] nearly burned for murders actually caused by werewolves; warned of the [[Lord of Wildenburg]] and Michael's silver prophecy.
 
 ## Clergy / holy figures
+- [[Meredith]] — nun at [[St. Mary Bethlehem]] and mother of [[Sir Madoc]].
 - [[Archbishop Dubricus]] - senior church authority; counsels Drustin.
 - [[Abbot of Wells]] - humiliated victim of Wells incident.
 - [[Bishop of Caen]] — clergy in [[Caen]] who officiates the rushed marriage of [[Millicent]] and [[Sir Madoc]].

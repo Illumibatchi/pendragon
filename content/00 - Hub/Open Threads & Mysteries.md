@@ -1,14 +1,14 @@
 
 > Rolling list of unresolved mysteries and active campaign threads. Keep this page broad; use **Current Status** for “where we are right now.”
 
-## Active / high-priority as of end of [[Session 028 - The Easter Feast at the White Tower]]
+## Active / high-priority as of end of [[Session 029 - Madoc’s Penance, New Manors, and the March|Session 029]]
 
-- **St. Mary Bethlehem cliffhanger:** the conroi followed [[Sir Madoc]] from the [[White Tower]] to [[St. Mary Bethlehem]] and found him with his head in a nun's lap; [[Millicent]] recognizes this is not a normal Church rite. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
-- **Uther / Ygraine / Cornwall crisis:** [[Uther Pendragon]] became openly obsessed with [[Ygraine]] at the feast; his tracks lead toward [[Llud’s Castle]], while [[Duke Erof of Cornwall]] and Ygraine appear to have gone toward the docks. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
-- **Sword identity / Excalibur truth:** [[Merlin]] now knows the real sword was returned to the lake and that [[Sir Madoc]] bears a false blade; his warning is stark: Britain has no sword and no king. *(Sources: [[Session 027 - The House of Constantine and the Return to Wells]], [[Session 028 - The Easter Feast at the White Tower]])*
-- **March relief:** [[Duke Edaris of the March]] says his lands may not survive repeated Saxon raids; [[Liam]] has [[Count Roderick of Salisbury|Roderick]]'s permission to assemble a relief force. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
-- **Northern war neglected:** [[King Brodin of Malahaut]] and [[King Lot of Lothian]] are fighting Saxons in the north, but Uther has not answered their appeals for aid. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
-- **Madoc / Rhianneth / possible child:** [[Sir Madoc]] admitted the earlier [[Lady Rhianneth]] incident and says he does not know whether a child exists; [[Millicent]] intends provision if one does. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
+- **Lambor Castle / March crisis:** [[Duke Edaris of the March]] says Angles fill the forest near [[Lambor Castle]] and siege may be near; the company killed two ogres and fell back to the castle. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
+- **Madoc’s penance and madness:** [[Sir Madoc]] sought penance for the [[Lady Rhianneth]] scandal, then appeared in 489 wearing a mouthless porcelain mask and suffering madness; [[Millicent]] has him confined for safety. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
+- **Sword identity / Merlin missing:** [[Merlin]] fled after learning that Madoc bears [[Party’s Magical Sword (not Excalibur)|the false blade]] and that Madoc’s runed blade was returned to the lake. Everyone currently treats the returned blade as the true sword, but the timeline/reality problem leaves its identity uncertain. *(Sources: [[Session 027 - The House of Constantine and the Return to Wells]], [[Session 028 - The Easter Feast at the White Tower]], [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
+- **Uther / Ygraine / Cornwall crisis:** [[Uther Pendragon]] is calling knights to invade [[Cornwall]] after the White Tower scandal; the company has chosen the March instead. *(Sources: [[Session 028 - The Easter Feast at the White Tower]], [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
+- **New vassal manors under famine:** the company now holds Salisbury manors, but famine and bad winter rolls put immediate pressure on their new lordship, especially [[Yarnbrook]]. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
+- **Madoc / Rhianneth / possible child:** [[Meredith]] is sending messengers to learn whether [[Lady Rhianneth]] bore Madoc's child; the child's existence remains unknown. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
 
 ## Open threads / mysteries (in session order)
 
@@ -61,7 +61,7 @@
 
 - **(487 / S20–S21) Merlin’s fate & the “save him” plan:** Merlin is dead in this future (body preserved in vitriol; dissection imminent). How can the conroi intervene—likely by going back before that endpoint? *(Sources: [[Session 020 - The Road Beneath the World]], [[Session 021 - The Glass City and the Man in Vitriol]]).*
 
-- **(487 / S23) Parallel Britain and Prince Uther:** the conroi has confirmed at least one alternate Britain ruled by [[Prince Uther]], with its own Merlin and true [[Excalibur]]. *(Source: [[Session 023 - The Dragon Beneath the Mine]]).*
+- **(487 / S23) Parallel Britain and Prince Uther:** the conroi has confirmed at least one alternate Britain ruled by [[Prince Uther]], with its own Merlin and true [[Excalibur]]; the conroi refused to steal either. *(Source: [[Session 023 - The Dragon Beneath the Mine]]).*
 
 - **(487 / S23) Dragon guardian resolved:** the [[Dragon of the Roman Mine]] was slain, and its death freed the parallel-world Merlin from crystal. *(Source: [[Session 023 - The Dragon Beneath the Mine]]).*
 
@@ -71,9 +71,8 @@
 
 - **(488 / S27) Pomponia's child:** [[Baroness Pomponia]] is carrying [[Assterius]]'s bastard child; political and dynastic consequences are unknown. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]]).*
 
-- **(488 / S28) White Tower departures:** [[Merlin]], [[Ygraine]], [[Uther Pendragon]], and [[Sir Madoc]] all leave the feast in sequence; the company follows Madoc rather than Uther or Cornwall. *(Source: [[Session 028 - The Easter Feast at the White Tower]]).*
+- **(488 / S28) Sword-swap fallout / White Tower departures:** [[Drustin]] tells [[Merlin]] that Madoc has [[Party’s Magical Sword (not Excalibur)|the false blade]] and that the runed blade was returned to the lake; Merlin warns Britain has no sword and no king, then leaves the feast before [[Ygraine]], [[Uther Pendragon]], and [[Sir Madoc]]. *(Source: [[Session 028 - The Easter Feast at the White Tower]]).*
 - **(488 / S28) Drustin and Ellen:** [[Drustin]] nearly approaches [[Lady Ellen of Winchbank]] again, but [[Sir Geraint]] and [[Assterius]] intercept him and lock him in an outhouse before disaster repeats. *(Source: [[Session 028 - The Easter Feast at the White Tower]]).*
-
-
-
-
+- **(488–489 / S29) Madoc’s penance and madness:** [[Sir Madoc]]'s [[St. Mary Bethlehem]] scene was with his mother [[Meredith]], but his shame led to penance; by 489 he appears masked, silent, and mad. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]]).*
+- **(489 / S29) Lambor forest threat:** the forest near [[Lambor Castle]] contains ogres and Angles; siege may be imminent. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]]).*
+- **(489 / S29) New vassal manors:** the company now holds [[Yarnbrook]], [[Heywood]], [[Bratton]], [[Edington]], and [[Coulston]], with famine and estate responsibilities already pressing. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]]).*

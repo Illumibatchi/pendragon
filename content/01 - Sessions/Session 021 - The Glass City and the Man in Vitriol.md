@@ -27,7 +27,7 @@ tags:
 ## Summary
 The conroi emerges from the underworld tunnel into a bewildering “glass city” of stone and towers (confirmed to be **Cardiff**). Unable to communicate, they blunder their way toward Guido’s only instruction: find a **church with a golden angel**. After a tense break-in at an Orthodox church and a bewildered ride paid for with “modern” coinage, they reach **Llandaff Cathedral** and confirm the golden angel is real.
 
-Following leads for “**Merdwyl**” (Merlin’s name here), the conroi learns of a “Reawakening Fair” at Pengam Green—and, via a new-age shop, discovers a museum exhibit: a druid-like body preserved in **oil of vitriol** for over a millennium. The figure is unmistakably **[[Merlin]]**, but in this future he is *dead*—his body an empty vessel soon to be cut apart for study. The conroi instead turns to an otherworldly smith at the fair to restore **[[Excalibur]]**, then descends again—only to fight a many-handed abomination that, in death, becomes **[[Guido (The Guide)]]**.
+Following leads for “**Merdwyl**” (Merlin’s name here), the conroi learns of a “Reawakening Fair” at Pengam Green—and, via a new-age shop, discovers a museum exhibit: a druid-like body preserved in **oil of vitriol** for over a millennium. The figure is unmistakably **[[Merlin]]**, but in this future he is *dead*—his body an empty vessel soon to be cut apart for study. The conroi instead turns to an otherworldly smith at the fair to restore **the sword they still believe is [[Excalibur]]** — later clarified as [[Party’s Magical Sword (not Excalibur)]] — then descends again, only to fight a many-handed abomination that, in death, becomes **[[Guido (The Guide)]]**.
 
 ## Scene/Beat Log
 - **Cardiff (Otherworld):** the conroi emerges into the modern city, ignored by passersby, unable to read signs or speak fluently.
@@ -42,7 +42,7 @@ Following leads for “**Merdwyl**” (Merlin’s name here), the conroi learns 
 - **New-age shop lead:** at “Golden Angel Massage & Wiccan Emporium,” a shop woman provides a flyer for a limited exhibit at the Welsh National Museum.
 - **Museum exhibit:** weapons are checked at the door (Geraint manages to keep a dagger). Merlin is found suspended in a glass tube of **oil of vitriol**; signage explains preservation and notes plans to cut him apart for study.
 - **Decision:** do **not** smash the tube; Merlin is *dead* in this future.
-- **Pengam Green:** at the fair, [[Elf Smith of Pengam Green]] repairs **[[Excalibur]]** and takes commissions (coats of plates; Geraint’s axe/warhammer “axehammer”). The conroi stocks up on strange modern provisions.
+- **Pengam Green:** at the fair, [[Elf Smith of Pengam Green]] repairs **the sword believed to be [[Excalibur]]** (later revealed as [[Party’s Magical Sword (not Excalibur)]]) and takes commissions (coats of plates; Geraint’s axe/warhammer “axehammer”). The conroi stocks up on strange modern provisions.
 - **Return below:** back in the caverns, a many-handed fleshy abomination blocks the route; its presence presses on the mind.
 - **Fight:** Millicent and Liam take grievous wounds and drop; Excalibur changes hands; Drustin lands the killing blow.
 - **Reveal:** the abomination collapses into **Guido**.
@@ -59,7 +59,7 @@ Following leads for “**Merdwyl**” (Merlin’s name here), the conroi learns 
 - [[Elf Smith of Pengam Green]] — repairs Excalibur; takes commissions.
 
 ## Loot / Rewards / Glory / Notable Rolls
-- **[[Excalibur]] repaired** by [[Elf Smith of Pengam Green]].
+- **Repaired sword:** [[Elf Smith of Pengam Green]] repairs the blade the conroi still believes to be [[Excalibur]]; it is later revealed as [[Party’s Magical Sword (not Excalibur)]].
 - New kit commissioned: **coats of plates** for the party; **axehammer** for Geraint.
 - Modern supplies acquired (candy, energy drinks, beef jerky, etc.).
 
@@ -72,5 +72,5 @@ Following leads for “**Merdwyl**” (Merlin’s name here), the conroi learns 
 ## Timeline entries to add
 - **(487)** — The conroi confirms the Otherworld city is Cardiff while searching for a church with a golden angel. *(Source: [[Session 021 - The Glass City and the Man in Vitriol]])*
 - **(487)** — [[Merlin]] is found preserved in vitriol in a museum exhibit; he is dead in this future and slated for dissection. *(Source: [[Session 021 - The Glass City and the Man in Vitriol]])*
-- **(487)** — [[Excalibur]] is repaired by [[Elf Smith of Pengam Green]]. *(Source: [[Session 021 - The Glass City and the Man in Vitriol]])*
+- **(487)** — The sword the conroi still believes to be [[Excalibur]] is repaired by [[Elf Smith of Pengam Green]]; it is later revealed as [[Party’s Magical Sword (not Excalibur)]]. *(Source: [[Session 021 - The Glass City and the Man in Vitriol]])*
 - **(487)** — The conroi defeats a many-handed abomination; it becomes [[Guido (The Guide)]]. *(Source: [[Session 021 - The Glass City and the Man in Vitriol]])*

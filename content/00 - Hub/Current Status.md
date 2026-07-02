@@ -1,22 +1,24 @@
+## Where we left off (end of [[Session 029 - Madoc’s Penance, New Manors, and the March|Session 029]])
+The company has become landed vassal knights of Salisbury, but the honor came with famine, empty purses, and manors full of problems. [[Drustin]]'s [[Yarnbrook]] is starving; [[Millicent]]'s [[Heywood]] contains a torture chamber she wants dismantled; [[Sir Geraint]]'s [[Coulston]] is embarrassingly scenic and comparatively comfortable; [[Liam]] holds [[Edington]]; and [[Assterius]] holds [[Bratton]].
 
-## Where we left off (end of [[Session 028 - The Easter Feast at the White Tower|Session 028]])
-The conroi left [[Uther Pendragon|Uther]]'s Easter feast at the [[White Tower]] in [[Londinium]] after the hall became a knot of courtly scandal, sword treason, and Cornwall disaster. [[Ygraine]]'s arrival with [[Duke Erof of Cornwall]] drew Uther into open obsession, while [[Merlin]] fled horrified after [[Drustin]] told him the truth about the sword swap and the returned blade. Merlin's warning is now explicit: Britain has **no sword** and **no king**.
+In 489, the knights chose [[Sir Madoc]]'s call to aid [[Duke Edaris of the March]] over [[Uther Pendragon|Uther]]'s Cornwall campaign and the Church's call to stay home during famine. They met Madoc at [[Oxford]], but he appeared in a strange mouthless porcelain mask and seemed to be suffering madness.
 
-After key figures vanished from the feast, the company crossed into snowy Londinium. Tracks split three ways: Uther toward [[Llud’s Castle]], the Cornwalls toward the docks, and [[Sir Madoc]] toward [[St. Mary Bethlehem]]. The company followed Madoc and found him inside the nunnery with his head in a nun's lap. [[Millicent]]'s religious knowledge confirms this is not any normal rite of the Church.
+At [[Lambor Castle]], Edaris warned that Angles filled the surrounding forest and that siege might be only days away. When Madoc silently motioned for an attack into the trees, [[Millicent]] judged him unfit, had him confined safely in the castle's oubliette, left her squire to watch him, and took Madoc's squire with the company.
+
+The knights entered the forest, encountered two ogres, fell back to armor, returned mounted, and killed both: [[Liam]] slew the southern ogre, and [[Sir Geraint]] slew the northern. Seeing how dangerous the forest was only a few kilometers in, the company fell back to [[Lambor Castle]].
 
 ## Immediate fallout
-- **Nunnery cliffhanger:** Madoc appears compromised again at [[St. Mary Bethlehem]], and the company has just walked in.
-- **Cornwall crisis:** Uther's pursuit of [[Ygraine]] has begun in earnest; the Duke and Duchess of Cornwall appear to be heading for the docks, likely toward Cornwall.
-- **Merlin knows:** Merlin now knows that Madoc carries a false blade and that the runed sword was returned to the lake.
-- **March relief:** [[Liam]] has [[Count Roderick of Salisbury|Roderick]]'s permission to assemble a small Salisbury force for [[Duke Edaris of the March]].
-- **Northern war:** [[King Brodin of Malahaut]] and [[King Lot of Lothian]] are fighting Saxons while Uther ignores requests for aid.
-- **Madoc/Rhianneth:** [[Sir Madoc]] admitted the prior [[Lady Rhianneth]] incident; whether a child exists remains unknown.
+- **Lambor under threat:** the company is back at [[Lambor Castle]], with Angles in the forest and possible siege imminent.
+- **Madoc confined:** [[Sir Madoc]] is masked, silent, mad, and locked in the castle's "nice hole" for safety.
+- **Merlin missing:** [[Merlin]] remains absent after learning the sword truth; searches and prayers have failed.
+- **Famine at home:** the knights' new manors still need attention, especially starving [[Yarnbrook]].
+- **Cornwall ignored for now:** Uther has called knights to invade [[Cornwall]], but the company chose the March.
 
 ## Next session questions
-- What exactly is happening between Madoc and the nun at [[St. Mary Bethlehem]]?
-- Is the nunnery scene connected to [[Lady Rhianneth]], a possible bastard, or something stranger?
-- What will Merlin do now that he knows Britain is swordless?
-- Is Uther actively pursuing [[Ygraine]] at [[Llud’s Castle]], and are the Cornwalls fleeing to Cornwall?
-- Will the company pursue the Cornwall crisis, Madoc's scandal, Merlin, or the March relief force first?
+- Is Madoc still safely confined when the company returns?
+- Are the Angles already moving against [[Lambor Castle]]?
+- What else is in the forest besides ogres?
+- How will Uther react to knights who answered Madoc instead of Cornwall?
+- Can the new vassal knights keep their manors alive while campaigning?
 
 See: [[Open Threads & Mysteries]]

@@ -5,6 +5,11 @@
 - [[Salisbury]] — County ruled by [[Count Roderick of Salisbury]] during the Uther Period. *([[Session 000 - The Young Squires of Salisbury|S0]], [[Session 003 - The Empty Castle and the Forest Ambush|S3]], [[Session 005 - The Fairy Dragon and the Ogre’s Return|S5]], [[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern|S6]], [[Session 013 - The Assassin’s Winter and the Escort of Lady Ellen|S13]])*
 - [[Woodhouse]] — A location near the King’s Road in Salisbury; the patrol route mentioned in Session 0. *([[Session 000 - The Young Squires of Salisbury|S0]], [[Session 001 - Wolves Are About|S1]], [[Session 002 - Wolves, Hillmen, and the Ogre’s Trail|S2]], [[Session 012 - The Burning of Dunkerton and the Peace of Summerland|S12]])*
 - [[King's Road]] — A major road in/through Salisbury; the PCs join a patrol along it near Woodhouse. *([[Session 000 - The Young Squires of Salisbury|S0]], [[Session 001 - Wolves Are About|S1]], [[Session 002 - Wolves, Hillmen, and the Ogre’s Trail|S2]])*
+- [[Yarnbrook]] — Drustin's Salisbury manor; lead-roofed hall, deer park, pagan barrow, and severe famine hardship. *([[Session 029 - Madoc’s Penance, New Manors, and the March|S29]])*
+- [[Heywood]] — Millicent's Salisbury manor; horse herd, lush forest, and an inherited torture chamber she wants dismantled. *([[Session 029 - Madoc’s Penance, New Manors, and the March|S29]])*
+- [[Bratton]] — Assterius's Salisbury manor; irrigation ditches and an oak grove known for excellent pigs. *([[Session 029 - Madoc’s Penance, New Manors, and the March|S29]])*
+- [[Edington]] — Liam's Salisbury manor; extra peasants, an abbey, a leprosarium, and an eternal spring. *([[Session 029 - Madoc’s Penance, New Manors, and the March|S29]])*
+- [[Coulston]] — Sir Geraint's Salisbury manor; Greek water-nymph mosaics, honey/beeswax, ornamental gardens, and cleared wastes. *([[Session 029 - Madoc’s Penance, New Manors, and the March|S29]])*
 - [[Vagon]] — A settlement with a castellan and manned walls; warned of danger on the roads (“Wolves are about.”). *([[Session 001 - Wolves Are About|S1]], [[Session 002 - Wolves, Hillmen, and the Ogre’s Trail|S2]], [[Session 012 - The Burning of Dunkerton and the Peace of Summerland|S12]])*
 - [[Unknown name - Burning Village]] — Burned village on the road to Vagon; no people found. *([[Session 001 - Wolves Are About|S1]], [[Session 002 - Wolves, Hillmen, and the Ogre’s Trail|S2]])*
 - [[Forest of Gloom]] — Forest with hillmen camp; ogre signs; site of early tragedy. *([[Session 002 - Wolves, Hillmen, and the Ogre’s Trail|S2]])*
@@ -26,15 +31,17 @@
 - [[Figsbury]] — Road point where Irish + ogre sighting occurs (Noah’s death). *([[Session 005 - The Fairy Dragon and the Ogre’s Return|S5]])*
 
 ## Northern campaign (York / Lincoln / Lindsey)
+- [[Oxford]] — Muster point where the company meets masked, mad [[Sir Madoc]] before riding to the March. *([[Session 029 - Madoc’s Penance, New Manors, and the March|S29]])*
 - [[Londinium]] — Base of the High King’s household knights. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]], [[Session 013 - The Assassin’s Winter and the Escort of Lady Ellen|S13]])*
 - [[White Tower]] — Londinium tower where Ellen is held/quartered; site of Uther's dangerous Easter feast with [[Ygraine]]. *([[Session 013 - The Assassin’s Winter and the Escort of Lady Ellen|S13]], [[Session 028 - The Easter Feast at the White Tower|S28]])*
 - [[Llud’s Castle]] — Uther's tracks lead here after he leaves the White Tower feast. *([[Session 028 - The Easter Feast at the White Tower|S28]])*
 - [[St. Mary Bethlehem]] — Londinium nunnery where the company finds Madoc in a compromising or mysterious scene. *([[Session 028 - The Easter Feast at the White Tower|S28]])*
+- [[St. Paul’s Cathedral]] — London cathedral where [[Sir Madoc]] seeks priestly counsel and penance. *([[Session 029 - Madoc’s Penance, New Manors, and the March|S29]])*
 - [[Lindsey]] — Northern coordination region (Angles campaign prep). *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[River Trent]] — Referenced on the northward journey (men glimpsed west of it). *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[Newark]] — Town whose castellan aids the assault on Eosa’s camp. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[Lincoln Forest]] — Forest near Newark where Eosa’s warband is found. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
-- [[Lambor Castle]] — Seat of Duke Edaris; Rosalyn investigation feast. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]], [[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
+- [[Lambor Castle]] — Seat of Duke Edaris; Rosalyn investigation feast; in 489 the company returns for the March crisis and falls back here after killing two forest ogres. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]], [[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 029 - Madoc’s Penance, New Manors, and the March|S29]])*
 - [[Forest of Dean]] — Rumored direction of wyvern hunt. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[Gloucester]] — Trade town; confirms wyvern sightings. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[Hereford]] — River town during wyvern hunt route. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
@@ -44,6 +51,9 @@
 - [[River Foss]] — York wall drain vulnerability. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
 - [[Sherwood Forest]] — Ambush site; Triamors used as bait. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
 - [[Lincoln]] — Found under siege by the Angles. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
+
+## Cornwall crisis
+- [[Cornwall]] — Western duchy of [[Duke Erof of Cornwall]] and [[Ygraine]]; target of Uther's 489 invasion call after the White Tower scandal. *([[Session 028 - The Easter Feast at the White Tower|S28]], [[Session 029 - Madoc’s Penance, New Manors, and the March|S29]])*
 
 ## Bedegraine crisis / succession fracture
 - [[Leicester]] — Uther’s muster point after Aurelius’s death. *([[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]])*
@@ -85,9 +95,9 @@
 ## Notable items / relics / symbols
 - [[Shield of St. Crispin]] — Angel-guarded holy shield recovered at Downton and reclaimed by [[Sir Gerry]] in Session 023. *([[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern|S6]], [[Session 023 - The Dragon Beneath the Mine|S23]])*
 - [[Saint Brigid’s Flying Cauldron]] — Holy relic that flies and turns bathwater into beer; borrowed from [[Bishop Bertrand of Bristol]]. *([[Session 023 - The Dragon Beneath the Mine|S23]])*
-- [[Party’s Magical Sword (not Excalibur)]] — Magical sword formerly believed to be Excalibur, revealed otherwise by parallel-world [[Merlin]]. *([[Session 023 - The Dragon Beneath the Mine|S23]])*
+- [[Party’s Magical Sword (not Excalibur)]] — Magical sword formerly believed to be Excalibur; confirmed false by parallel-world [[Merlin]] and later used as Fakealibur in the Madoc sword swap. *([[Session 023 - The Dragon Beneath the Mine|S23]], [[Session 027 - The House of Constantine and the Return to Wells|S27]])*
 - [[Gate-creature (fey)]] — Previously slain world-crossing/gate creature; Merlin warns its death was probably catastrophic. *([[Session 023 - The Dragon Beneath the Mine|S23]])*
-- [[Excalibur]] — Runed sword of the High Kingship; a core legitimacy symbol; **broken into three pieces** by the end of Session 19. *([[Session 007 - The Vigil and the Knights of the High King|S7]], [[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]], [[Session 019 - The Well of Bargains and the Demon Princess|S19]])*
+- [[Excalibur]] — High Kingship sword/regalia; the repaired party sword is confirmed false, the parallel-world true Excalibur was not stolen, and Madoc’s returned runed blade is treated as likely true but still uncertain. *([[Session 007 - The Vigil and the Knights of the High King|S7]], [[Session 019 - The Well of Bargains and the Demon Princess|S19]], [[Session 023 - The Dragon Beneath the Mine|S23]], [[Session 027 - The House of Constantine and the Return to Wells|S27]])*
 
 ---
 

@@ -143,3 +143,10 @@
 - The companions become landed vassal knights of Salisbury: [[Drustin]] receives [[Yarnbrook]], [[Millicent]] [[Heywood]], [[Assterius]] [[Bratton]], [[Liam]] [[Edington]], and [[Sir Geraint]] [[Coulston]]. Bad weather and famine make lordship immediately painful, especially at starving Yarnbrook.
 - In 489, the company chooses Madoc's call to aid [[Duke Edaris of the March]] over Uther's Cornwall campaign and the Church's call to remain home. At [[Oxford]], Madoc appears masked, silent, and mad.
 - At [[Lambor Castle]], Millicent confines Madoc for safety before the company enters the Angle-haunted forest, kills two ogres, and falls back to the castle to regroup. *(See: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
+
+
+## Years 489–490 - The Angel’s Command and the Child King (Session 030)
+- At [[Lambor Castle]], [[Duke Edaris of the March]] is nearly out of strength, but [[Sir Madoc]] claims an angel has commanded him to end the war by killing the King of the Angles at [[Peterborough]]. [[Drustin]] briefly reaches Madoc through duty and despair, then witnesses an angel catch him after he leaps from a high window.
+- The company splits under pressure: [[Sir Geraint]] negotiates aid for refugees at [[Carohaig]], while Drustin and [[Lady Rosalyn]] escort another refugee train safely into [[Salisbury]]. Rosalyn and Drustin begin a courtship.
+- [[Millicent]], [[Liam]], and [[Assterius]] pursue Madoc to [[Folkingham]], where he forges a sword for his claimed angelic mission. At Peterborough, the “King of the Angles” proves to be [[King Wihtlaeg of the Angles]], a child; Madoc chooses mercy, and the company captures Wihtlaeg alive.
+- The Angle offensive stalls for the rest of 489. By year’s end, Millicent and Madoc conceive [[Meredith (daughter of Madoc and Millicent)|Meredith]]. In spring 490, [[Uther Pendragon|Uther]] and [[Duke Erof of Cornwall]] reconcile through [[Merlin]]’s urging and march north together against the Saxons. *(See: [[Session 030 - The Angel’s Command and the Child King]])*

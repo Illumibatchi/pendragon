@@ -41,7 +41,7 @@
 - [[River Trent]] — Referenced on the northward journey (men glimpsed west of it). *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[Newark]] — Town whose castellan aids the assault on Eosa’s camp. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[Lincoln Forest]] — Forest near Newark where Eosa’s warband is found. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
-- [[Lambor Castle]] — Seat of Duke Edaris; Rosalyn investigation feast; in 489 the company returns for the March crisis and falls back here after killing two forest ogres. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]], [[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 029 - Madoc’s Penance, New Manors, and the March|S29]])*
+- [[Lambor Castle]] — Seat of Duke Edaris; Rosalyn investigation feast; in 489 the company returns for the March crisis, kills two forest ogres, and later brings back the captured child King Wihtlaeg. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]], [[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 029 - Madoc’s Penance, New Manors, and the March|S29]], [[Session 030 - The Angel’s Command and the Child King|S30]])*
 - [[Forest of Dean]] — Rumored direction of wyvern hunt. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[Gloucester]] — Trade town; confirms wyvern sightings. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[Hereford]] — River town during wyvern hunt route. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
@@ -51,9 +51,12 @@
 - [[River Foss]] — York wall drain vulnerability. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
 - [[Sherwood Forest]] — Ambush site; Triamors used as bait. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
 - [[Lincoln]] — Found under siege by the Angles. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
+- [[Carohaig]] — Settlement where [[Leodegrance]] aids refugees brought by [[Sir Geraint]]. *([[Session 030 - The Angel’s Command and the Child King|S30]])*
+- [[Folkingham]] — Town where [[Sir Madoc]] forges a sword for his claimed angelic mission. *([[Session 030 - The Angel’s Command and the Child King|S30]])*
+- [[Peterborough]] — Walled market town where the company captures [[King Wihtlaeg of the Angles]] alive. *([[Session 030 - The Angel’s Command and the Child King|S30]])*
 
 ## Cornwall crisis
-- [[Cornwall]] — Western duchy of [[Duke Erof of Cornwall]] and [[Ygraine]]; target of Uther's 489 invasion call after the White Tower scandal. *([[Session 028 - The Easter Feast at the White Tower|S28]], [[Session 029 - Madoc’s Penance, New Manors, and the March|S29]])*
+- [[Cornwall]] — Western duchy of [[Duke Erof of Cornwall]] and [[Ygraine]]; target of Uther's 489 invasion call after the White Tower scandal, then reconciled with Uther by spring 490. *([[Session 028 - The Easter Feast at the White Tower|S28]], [[Session 029 - Madoc’s Penance, New Manors, and the March|S29]], [[Session 030 - The Angel’s Command and the Child King|S30]])*
 
 ## Bedegraine crisis / succession fracture
 - [[Leicester]] — Uther’s muster point after Aurelius’s death. *([[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]])*
@@ -112,7 +115,7 @@
 
 ### Saxons / north
 - [[Deira Saxons]] — Eosa’s faction; York/Sherwood/Wilderspool thread. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]], [[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead|S16]])*
-- [[Angles of Anglia]] — Angles/Angles-in-Anglia pressure; siege of Lincoln. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]], [[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
+- [[Angles of Anglia]] — Angles/Angles-in-Anglia pressure; siege of Lincoln; their child king [[King Wihtlaeg of the Angles]] is captured alive at Peterborough. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]], [[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 030 - The Angel’s Command and the Child King|S30]])*
 - [[Saxon Warriors (Purdue Forest)]] — Saxon attackers in Purdue ambush. *([[Session 003 - The Empty Castle and the Forest Ambush|S3]])*
 - [[False-Flag Raiders (Deiran Shields)]] — Deiran-painted shields over old designs; Silchestrian accent. *([[Session 013 - The Assassin’s Winter and the Escort of Lady Ellen|S13]])*
 - [[Yellow-and-Red Shields (unknown)]] — Unknown shield faction reported by captured Saxons. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*

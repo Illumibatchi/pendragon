@@ -1,13 +1,13 @@
 
 > Rolling list of unresolved mysteries and active campaign threads. Keep this page broad; use **Current Status** for “where we are right now.”
 
-## Active / high-priority as of end of [[Session 029 - Madoc’s Penance, New Manors, and the March|Session 029]]
+## Active / high-priority as of end of [[Session 030 - The Angel’s Command and the Child King|Session 030]]
 
-- **Lambor Castle / March crisis:** [[Duke Edaris of the March]] says Angles fill the forest near [[Lambor Castle]] and siege may be near; the company killed two ogres and fell back to the castle. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
-- **Madoc’s penance and madness:** [[Sir Madoc]] sought penance for the [[Lady Rhianneth]] scandal, then appeared in 489 wearing a mouthless porcelain mask and suffering madness; [[Millicent]] has him confined for safety. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
-- **Sword identity / Merlin missing:** [[Merlin]] fled after learning that Madoc bears [[Party’s Magical Sword (not Excalibur)|the false blade]] and that Madoc’s runed blade was returned to the lake. Everyone currently treats the returned blade as the true sword, but the timeline/reality problem leaves its identity uncertain. *(Sources: [[Session 027 - The House of Constantine and the Return to Wells]], [[Session 028 - The Easter Feast at the White Tower]], [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
-- **Uther / Ygraine / Cornwall crisis:** [[Uther Pendragon]] is calling knights to invade [[Cornwall]] after the White Tower scandal; the company has chosen the March instead. *(Sources: [[Session 028 - The Easter Feast at the White Tower]], [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
-- **New vassal manors under famine:** the company now holds Salisbury manors, but famine and bad winter rolls put immediate pressure on their new lordship, especially [[Yarnbrook]]. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
+- **Spring 490 northern campaign:** [[Uther Pendragon|Uther]] and [[Duke Erof of Cornwall]] have reconciled through [[Merlin]]’s urging and are marching north together against the Saxons. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+- **Wihtlaeg, child King of the Angles:** [[King Wihtlaeg of the Angles]] was captured alive at [[Peterborough]]; his captivity is a major political and military fact going into 490. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+- **Madoc’s angelic command:** [[Sir Madoc]] believes Archangel Michael commanded him to kill the King of the Angles; mercy captured the child king instead, leaving the command’s meaning unresolved. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+- **Sword identity / Merlin missing fallout:** [[Merlin]] has returned to action enough to urge Uther–Cornwall reconciliation, but the sword/timeline problem around [[Excalibur]] remains unresolved. *(Sources: [[Session 027 - The House of Constantine and the Return to Wells]], [[Session 028 - The Easter Feast at the White Tower]], [[Session 030 - The Angel’s Command and the Child King]])*
+- **New vassal manors under famine:** the company now holds Salisbury manors, but famine and bad winter rolls still pressure their new lordship, especially [[Yarnbrook]]. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
 - **Madoc / Rhianneth / possible child:** [[Meredith]] is sending messengers to learn whether [[Lady Rhianneth]] bore Madoc's child; the child's existence remains unknown. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
 
 ## Open threads / mysteries (in session order)
@@ -76,3 +76,9 @@
 - **(488–489 / S29) Madoc’s penance and madness:** [[Sir Madoc]]'s [[St. Mary Bethlehem]] scene was with his mother [[Meredith]], but his shame led to penance; by 489 he appears masked, silent, and mad. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]]).*
 - **(489 / S29) Lambor forest threat:** the forest near [[Lambor Castle]] contains ogres and Angles; siege may be imminent. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]]).*
 - **(489 / S29) New vassal manors:** the company now holds [[Yarnbrook]], [[Heywood]], [[Bratton]], [[Edington]], and [[Coulston]], with famine and estate responsibilities already pressing. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]]).*
+
+- **(489 / S30) Wihtlaeg captured alive:** [[King Wihtlaeg of the Angles]] is a child king captured alive at [[Peterborough]] after [[Sir Madoc]] chose mercy. What does his captivity do to Angle politics and the northern war? *(Source: [[Session 030 - The Angel’s Command and the Child King]]).*
+- **(489 / S30) Madoc’s angelic command:** [[Sir Madoc]] claimed Archangel Michael commanded him to kill the King of the Angles, but the company captured the child king alive instead; whether the angel intended mercy, capture, or something darker remains unclear. *(Source: [[Session 030 - The Angel’s Command and the Child King]]).*
+- **(489 / S30) Drustin and Rosalyn:** [[Drustin]] and [[Lady Rosalyn]] begin a courtship after saving refugees from the March. *(Source: [[Session 030 - The Angel’s Command and the Child King]]).*
+- **(489 / S30) Meredith, daughter of Madoc and Millicent:** [[Millicent]] and [[Sir Madoc]] conceive [[Meredith (daughter of Madoc and Millicent)|Meredith]], adding a new family and succession thread around Madoc. *(Source: [[Session 030 - The Angel’s Command and the Child King]]).*
+- **(490 / S30) Uther–Cornwall reconciliation:** [[Uther Pendragon|Uther]] and [[Duke Erof of Cornwall]] are reconciled by [[Merlin]] and march north together; whether this truly settles the [[Ygraine]] crisis is unknown. *(Source: [[Session 030 - The Angel’s Command and the Child King]]).*

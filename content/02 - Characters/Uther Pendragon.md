@@ -57,3 +57,5 @@ flowchart TB
 - Sir Madoc
 - **(487)** — Calls for volunteers for a spring 488 campaign into Gaul/France to drive the [[Franks]] from [[Calais]], with [[Sir Madoc]] leading. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
 - **(488)** — At the [[White Tower]] Easter feast, becomes openly obsessed with [[Ygraine]] and leaves upset; his tracks lead toward [[Llud’s Castle]]. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
+
+- **(490 / Spring)** — Reconciled with [[Duke Erof of Cornwall]] through [[Merlin]]’s urging and arrives with a combined army to march north against the Saxons. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*

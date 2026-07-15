@@ -23,7 +23,7 @@
 - [[Uther Pendragon]] - inherits Logres; volatile conqueror; central driver of war and terror.
 - [[Prince Uther]] — ruler of the parallel Britain revealed in Session 023.
 - [[Aurelius]] - slain High King (Bedegraine betrayal); unity figure whose death fractures the realm.
-- [[Sir Madoc]] - legitimized bastard son of Uther; married to [[Millicent]]; after penance for the Rhianneth scandal, appears masked and mad in the March.
+- [[Sir Madoc]] - legitimized bastard son of Uther; married to [[Millicent]]; after a claimed angelic command in the March, captures the child King Wihtlaeg alive and begins recovering from despair.
 - [[Ygraine]] — Duchess of Cornwall; her arrival at the White Tower triggers Uther's dangerous obsession.
 - [[Lucius (Duke of Saxon Shore)]] - 4-year-old knighted; made Duke of Saxon Shore with regent aunt.
 - [[Syagrius]] — Gallo-Roman ruler in [[Gaul]] who appeals to Uther for aid against the [[Franks]].
@@ -44,6 +44,7 @@
 - [[Sir Beefy]] - notorious rival/foe; strength legend grows.
 - [[King Brodin of Malahaut]] - "Centurion-King"; Roman legatus armor; political pressure point.
 - [[King Lot of Lothian]] — young king fighting Saxons alongside [[King Brodin of Malahaut]].
+- [[Leodegrance]] — young lord at [[Carohaig]] who aids refugees brought by [[Sir Geraint]].
 
 ## Squires / retainers
 - [[Lilwen]] — sixteen-year-old Yarnbrook local entrusted by [[Drustin]] with relief money during the 489 famine.
@@ -56,7 +57,7 @@
 - [[Lady Ellen of Winchbank]] - unconventional heiress; ward of the crown; promised to Roderick.
 - [[Lady Rachel of Carbonog]] - healer; pagan-leaning methods; repeatedly saves PCs.
 - [[Duchess of Silchester]] - host at Silchester during levy absence.
-- [[Lady Rosalyn]] - Duke of the March's daughter; generous; court interest dynamics.
+- [[Lady Rosalyn]] - Duke of the March's daughter; generous and merciful; helps [[Drustin]] save refugees and begins courting him.
 - [[Lady Llylla (Shisha)]] - wealthy and beautiful; infamous cruelty to servants.
 - [[Lady Triamors]] - heiress of Lickeyend; introduced by Dubricus.
 - [[Lady Rhianneth]] - Sir Marius' wife; manipulative; corrected source of Madoc's prior scandal and possible child.
@@ -65,6 +66,7 @@
 
 ## Clergy / holy figures
 - [[Meredith]] — nun at [[St. Mary Bethlehem]] and mother of [[Sir Madoc]].
+- [[Meredith (daughter of Madoc and Millicent)]] — daughter conceived by [[Millicent]] and [[Sir Madoc]], named after Madoc’s mother.
 - [[Archbishop Dubricus]] - senior church authority; counsels Drustin.
 - [[Abbot of Wells]] - humiliated victim of Wells incident.
 - [[Bishop of Caen]] — clergy in [[Caen]] who officiates the rushed marriage of [[Millicent]] and [[Sir Madoc]].
@@ -86,6 +88,7 @@
 
 ## Saxons / northern war figures
 - [[Eosa “the Giant” Horsason]] - King of the Deira Saxons; ransom/torque; York parley.
+- [[King Wihtlaeg of the Angles]] — child King of the Angles captured alive at [[Peterborough]] after [[Sir Madoc]] chose mercy.
 - [[Ælflaed]] - Eosa's daughter; magical slippers; Wilderspool mission.
 - [[Rori of Newark]] — castellan; allies against Eosa's warband.
 
@@ -97,7 +100,7 @@
 - [[Baron of Winchbank]]
 - [[Castellan of Vagon]]
 - [[Duke Edaris of the March]]
-- [[Duke Erof of Cornwall]] — husband of [[Ygraine]]; his court presence becomes dangerous once Uther fixates on her.
+- [[Duke Erof of Cornwall]] — husband of [[Ygraine]]; reconciled with Uther through Merlin’s urging before the spring 490 northern march.
 - [[Duke Ulfius of Silchester]]
 - [[King Cadwy of Summerland]]
 - [[Sir Leo]]

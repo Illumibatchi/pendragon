@@ -107,3 +107,12 @@
 - **(489)** — With famine at home, Uther calling knights to [[Cornwall]], and Madoc calling for heroes to the March, the company chooses Madoc's call. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
 - **(489)** — At [[Lambor Castle]], [[Sir Madoc]] appears masked and mad; [[Millicent]] confines him for safety before the company enters the forest. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
 - **(489)** — The company encounters two ogres in the forest near [[Lambor Castle]], kills both, and falls back to the castle rather than press deeper. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
+
+- **(489)** — At [[Lambor Castle]], [[Sir Madoc]] claims an angel has commanded him to kill the King of the Angles at [[Peterborough]]; after he leaps from a high window, [[Drustin]] sees an angel catch him and place him on a horse. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+- **(489)** — [[Sir Geraint]] and [[Drustin]] help refugee columns fleeing Saxon advances; Drustin and [[Lady Rosalyn]] bring one train safely into [[Salisbury]] with no deaths. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+- **(489)** — At [[Folkingham]], [[Sir Madoc]] forges a sword for his claimed angelic mission, and [[Millicent]], [[Liam]], and [[Assterius]] accompany him to [[Peterborough]]. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+- **(489)** — At [[Peterborough]], the company captures [[King Wihtlaeg of the Angles]] alive after discovering he is only a child; Madoc chooses mercy rather than killing him. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+- **(489)** — [[Drustin]] and [[Lady Rosalyn]] begin a courtship, and [[Millicent]] and [[Sir Madoc]] conceive a daughter, [[Meredith (daughter of Madoc and Millicent)|Meredith]]. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+
+## 490
+- **(490 / Spring)** — [[Uther Pendragon|Uther]] and [[Duke Erof of Cornwall]], reconciled through [[Merlin]]’s urging, arrive with a combined army to march north against the Saxons. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*

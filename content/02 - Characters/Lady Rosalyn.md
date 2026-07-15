@@ -35,3 +35,5 @@ flowchart TB
 - [[Duke Edaris of the March]]
 - [[Lady Rosalyn]]
 
+
+- **(489)** — Argues to protect peasants outside [[Lambor Castle]], helps [[Drustin]] escort the refugee train safely to [[Salisbury]], and begins a courtship with him. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*

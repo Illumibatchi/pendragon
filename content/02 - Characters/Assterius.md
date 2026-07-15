@@ -55,3 +55,5 @@ flowchart TB
 - **(488)** — Helps clear the countryside around [[Calais]], contributing to the remaining [[Franks]] being driven south into [[Gaul]]. *(Source: [[Session 026 - The Wolves of Wildenburg]])*
 - **(488)** — Identifies the [[House of Constantine]] in the [[Wildenwald]], becomes the Homeless Knight during its angelic trial, and later learns [[Baroness Pomponia]] is carrying his bastard child. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]])*
 - **(488)** — At the [[White Tower]] feast, reassures [[Damsel Diana]] after [[Liam]] neglects her and helps [[Sir Geraint]] restrain [[Drustin]] before he approaches [[Lady Ellen of Winchbank]]. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
+
+- **(489)** — Pursues [[Sir Madoc]] to [[Folkingham]] and [[Peterborough]], doubts the claimed angelic command, and helps [[Liam]] kill the Saxon guards while Madoc passes into the mayor’s palace. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*

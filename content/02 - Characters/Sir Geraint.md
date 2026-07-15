@@ -45,3 +45,5 @@ flowchart TB
 - **(488)** — Kills a werewolf at the [[Wildenburg Pagan Shrine]] and recalls folklore that lycanthropy is a Saxon affliction and not every bite turns the victim. *(Source: [[Session 026 - The Wolves of Wildenburg]])*
 - **(488)** — In the [[House of Constantine]] trial, gives up his name and coat of arms and is styled the Nameless Knight. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]])*
 - **(488)** — Becomes the “Eastern Wind” at the [[White Tower]] feast, continues courting [[Lady Rachel of Carbonog]], and helps [[Assterius]] restrain [[Drustin]] before another Ellen disaster. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
+
+- **(489)** — Finds refugee tracks near Brun, leads refugees toward Cambria, negotiates aid at [[Carohaig]] from young [[Leodegrance]], and later rejoins the conroi at [[Peterborough]]. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*

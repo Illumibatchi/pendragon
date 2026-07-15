@@ -51,3 +51,5 @@ flowchart TB
 - **(488)** — Helps clear the countryside around [[Calais]], deduces the [[Wildenburg]] threat is werewolves, suggests silvered spears, and kills a wolf and a werewolf in the [[Wildenwald]]. *(Source: [[Session 026 - The Wolves of Wildenburg]])*
 - **(488)** — Solves the riddle of chivalry in the [[House of Constantine]], chooses the Cup, uncovers the [[Holy Grail]] beneath the altar, and is cleansed of his cursed rubies after drinking from it. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]])*
 - **(488)** — At the [[White Tower]] feast, learns [[Duke Edaris of the March]] needs aid against Saxon devastation and secures [[Count Roderick of Salisbury|Roderick]]'s permission to assemble a relief force. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
+
+- **(489)** — Pursues [[Sir Madoc]] to [[Folkingham]] and [[Peterborough]], is injured fighting Saxon guards, helps capture [[King Wihtlaeg of the Angles]] alive, and declines [[Duke Edaris of the March|Duke Edaris]]’s banneret offer while crediting the whole company. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*

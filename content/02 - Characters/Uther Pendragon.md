@@ -59,3 +59,5 @@ flowchart TB
 - **(488)** — At the [[White Tower]] Easter feast, becomes openly obsessed with [[Ygraine]] and leaves upset; his tracks lead toward [[Llud’s Castle]]. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
 
 - **(490 / Spring)** — Reconciled with [[Duke Erof of Cornwall]] through [[Merlin]]’s urging and arrives with a combined army to march north against the Saxons. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+
+- **(490 / Spring)** — Wins the Battle of [[Lincoln]] with [[Duke Erof of Cornwall]] and calls a feast to celebrate both the victory and the battlefield birth of his granddaughter [[Meredith (daughter of Madoc and Millicent)|Meredith]]. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*

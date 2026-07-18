@@ -23,7 +23,7 @@
 - [[Uther Pendragon]] - inherits Logres; volatile conqueror; central driver of war and terror.
 - [[Prince Uther]] — ruler of the parallel Britain revealed in Session 023.
 - [[Aurelius]] - slain High King (Bedegraine betrayal); unity figure whose death fractures the realm.
-- [[Sir Madoc]] - legitimized bastard son of Uther; married to [[Millicent]]; after a claimed angelic command in the March, captures the child King Wihtlaeg alive and begins recovering from despair.
+- [[Sir Madoc]] - legitimized bastard son of Uther; married to [[Millicent]]; survives the Battle of Lincoln and becomes father to [[Meredith (daughter of Madoc and Millicent)|Meredith]].
 - [[Ygraine]] — Duchess of Cornwall; her arrival at the White Tower triggers Uther's dangerous obsession.
 - [[Lucius (Duke of Saxon Shore)]] - 4-year-old knighted; made Duke of Saxon Shore with regent aunt.
 - [[Syagrius]] — Gallo-Roman ruler in [[Gaul]] who appeals to Uther for aid against the [[Franks]].
@@ -66,7 +66,7 @@
 
 ## Clergy / holy figures
 - [[Meredith]] — nun at [[St. Mary Bethlehem]] and mother of [[Sir Madoc]].
-- [[Meredith (daughter of Madoc and Millicent)]] — daughter conceived by [[Millicent]] and [[Sir Madoc]], named after Madoc’s mother.
+- [[Meredith (daughter of Madoc and Millicent)]] — battleborn daughter of [[Millicent]] and [[Sir Madoc]], born at [[Lincoln]] and named after Madoc’s mother.
 - [[Archbishop Dubricus]] - senior church authority; counsels Drustin.
 - [[Abbot of Wells]] - humiliated victim of Wells incident.
 - [[Bishop of Caen]] — clergy in [[Caen]] who officiates the rushed marriage of [[Millicent]] and [[Sir Madoc]].

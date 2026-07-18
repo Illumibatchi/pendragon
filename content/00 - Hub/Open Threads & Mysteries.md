@@ -1,14 +1,14 @@
 
 > Rolling list of unresolved mysteries and active campaign threads. Keep this page broad; use **Current Status** for “where we are right now.”
 
-## Active / high-priority as of end of [[Session 030 - The Angel’s Command and the Child King|Session 030]]
+## Active / high-priority as of end of [[Session 031 - The Battle of Lincoln and the Birth of Meredith|Session 031]]
 
-- **Spring 490 northern campaign:** [[Uther Pendragon|Uther]] and [[Duke Erof of Cornwall]] have reconciled through [[Merlin]]’s urging and are marching north together against the Saxons. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
-- **Wihtlaeg, child King of the Angles:** [[King Wihtlaeg of the Angles]] was captured alive at [[Peterborough]]; his captivity is a major political and military fact going into 490. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
-- **Madoc’s angelic command:** [[Sir Madoc]] believes Archangel Michael commanded him to kill the King of the Angles; mercy captured the child king instead, leaving the command’s meaning unresolved. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
-- **Sword identity / Merlin missing fallout:** [[Merlin]] has returned to action enough to urge Uther–Cornwall reconciliation, but the sword/timeline problem around [[Excalibur]] remains unresolved. *(Sources: [[Session 027 - The House of Constantine and the Return to Wells]], [[Session 028 - The Easter Feast at the White Tower]], [[Session 030 - The Angel’s Command and the Child King]])*
-- **New vassal manors under famine:** the company now holds Salisbury manors, but famine and bad winter rolls still pressure their new lordship, especially [[Yarnbrook]]. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
-- **Madoc / Rhianneth / possible child:** [[Meredith]] is sending messengers to learn whether [[Lady Rhianneth]] bore Madoc's child; the child's existence remains unknown. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
+- **Feast after Lincoln:** [[Uther Pendragon|Uther]] has called a feast to celebrate the Saxon defeat at [[Lincoln]] and the battlefield birth of [[Meredith (daughter of Madoc and Millicent)|Meredith]]. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
+- **Meredith Battleborn:** Meredith is now born, not merely expected; she is battleborn with **+2 STR** and **Alert**, and Uther is celebrating her as his granddaughter. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
+- **Brangolet missing:** Millicent’s squire Brangolet went missing during the elite Saxon foot-knight fight at Lincoln. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
+- **Captured commander ransom:** Liam and Gwinas captured a high-value enemy commander worth an expected **£173**, while Assterius and Wulfrun secured a bodyguard worth **£5**; Uther’s share and distribution remain pending. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
+- **Madoc’s madness and angelic command:** [[Sir Madoc]] survived Lincoln but slipped back into madness; the earlier angelic command and his instability remain unresolved. *(Sources: [[Session 030 - The Angel’s Command and the Child King]], [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
+- **Wihtlaeg, child King of the Angles:** [[King Wihtlaeg of the Angles]] remains a living prisoner after Peterborough; Lincoln’s victory may change his political value. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
 
 ## Open threads / mysteries (in session order)
 
@@ -80,5 +80,10 @@
 - **(489 / S30) Wihtlaeg captured alive:** [[King Wihtlaeg of the Angles]] is a child king captured alive at [[Peterborough]] after [[Sir Madoc]] chose mercy. What does his captivity do to Angle politics and the northern war? *(Source: [[Session 030 - The Angel’s Command and the Child King]]).*
 - **(489 / S30) Madoc’s angelic command:** [[Sir Madoc]] claimed Archangel Michael commanded him to kill the King of the Angles, but the company captured the child king alive instead; whether the angel intended mercy, capture, or something darker remains unclear. *(Source: [[Session 030 - The Angel’s Command and the Child King]]).*
 - **(489 / S30) Drustin and Rosalyn:** [[Drustin]] and [[Lady Rosalyn]] begin a courtship after saving refugees from the March. *(Source: [[Session 030 - The Angel’s Command and the Child King]]).*
-- **(489 / S30) Meredith, daughter of Madoc and Millicent:** [[Millicent]] and [[Sir Madoc]] conceive [[Meredith (daughter of Madoc and Millicent)|Meredith]], adding a new family and succession thread around Madoc. *(Source: [[Session 030 - The Angel’s Command and the Child King]]).*
+- **(489 / S30) Meredith, daughter of Madoc and Millicent:** [[Millicent]] and [[Sir Madoc]] conceive [[Meredith (daughter of Madoc and Millicent)|Meredith]], adding a new family and succession thread around Madoc. Advanced in Session 031 when Meredith is born at Lincoln. *(Sources: [[Session 030 - The Angel’s Command and the Child King]], [[Session 031 - The Battle of Lincoln and the Birth of Meredith]]).*
 - **(490 / S30) Uther–Cornwall reconciliation:** [[Uther Pendragon|Uther]] and [[Duke Erof of Cornwall]] are reconciled by [[Merlin]] and march north together; whether this truly settles the [[Ygraine]] crisis is unknown. *(Source: [[Session 030 - The Angel’s Command and the Child King]]).*
+
+- **(490 / S31) Battle of Lincoln aftermath:** [[Uther Pendragon|Uther]] and [[Duke Erof of Cornwall]] win a joint victory at [[Lincoln]], proving their reconciliation can hold in battle for now; whether it settles the deeper [[Ygraine]] crisis remains unknown. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]]).*
+- **(490 / S31) Meredith Battleborn:** [[Meredith (daughter of Madoc and Millicent)|Meredith]] is born on the battlefield, battleborn with **+2 STR** and **Alert**, and publicly celebrated by Uther as his granddaughter. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]]).*
+- **(490 / S31) Brangolet missing:** Brangolet, [[Millicent]]’s squire, disappears during the elite Saxon foot-knight encounter at Lincoln. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]]).*
+- **(490 / S31) Lincoln ransom follow-up:** The captured enemy commander’s expected **£173** ransom and the bodyguard’s **£5** ransom remain to be distributed. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]]).*

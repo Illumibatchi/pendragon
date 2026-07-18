@@ -47,3 +47,5 @@ flowchart TB
 - **(488)** — Becomes the “Eastern Wind” at the [[White Tower]] feast, continues courting [[Lady Rachel of Carbonog]], and helps [[Assterius]] restrain [[Drustin]] before another Ellen disaster. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
 
 - **(489)** — Finds refugee tracks near Brun, leads refugees toward Cambria, negotiates aid at [[Carohaig]] from young [[Leodegrance]], and later rejoins the conroi at [[Peterborough]]. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+
+- **(490)** — At the Battle of [[Lincoln]], charges down a wild man, trips a small giant, then nearly falls into Saxon hands while trying to aid [[Millicent]] before [[Liam]] rescues him. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*

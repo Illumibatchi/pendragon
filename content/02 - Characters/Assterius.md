@@ -57,3 +57,5 @@ flowchart TB
 - **(488)** — At the [[White Tower]] feast, reassures [[Damsel Diana]] after [[Liam]] neglects her and helps [[Sir Geraint]] restrain [[Drustin]] before he approaches [[Lady Ellen of Winchbank]]. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
 
 - **(489)** — Pursues [[Sir Madoc]] to [[Folkingham]] and [[Peterborough]], doubts the claimed angelic command, and helps [[Liam]] kill the Saxon guards while Madoc passes into the mayor’s palace. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+
+- **(490)** — At the Battle of [[Lincoln]], unhorses a bodyguard whose ransom is secured by Wulfrun, kills the wild man threatening [[Millicent]], and helps cover the conroi’s retreats. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*

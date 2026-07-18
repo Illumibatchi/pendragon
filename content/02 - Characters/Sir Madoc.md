@@ -21,6 +21,79 @@ relations:
 ## Notes
 Legitimized bastard son of Uther Pendragon; potentially significant in succession politics.
 
+## Character sheet snapshot
+
+> Source: screenshots provided 2026-07-15. Keep as a quick table reference for playing Madoc.
+
+### Core stats
+| Stat | Value |
+|---|---:|
+| SIZ | 13 |
+| DEX | 12 |
+| STR | 15 |
+| CON | 13 |
+| APP | 15 |
+| Hit Points | 26 / 26 |
+| Move | 19 |
+| Glory (Unproven) | 1025 |
+| Damage | 5 |
+| Armor | 30 / 18 |
+| Money £/d | 0 / 0 |
+
+**Conditions shown:** none checked for Debilitated, Unconscious, Near Death, Madness, Melancholy, or Misery.
+
+### Traits
+| Trait | Value | Opposed Trait | Value |
+|---|---:|---|---:|
+| Chaste | 13 | Lustful | 7 |
+| Energetic | 16 | Lazy | 4 |
+| Forgiving | 10 | Vengeful | 10 |
+| Generous | 13 | Selfish | 7 |
+| Honest | 10 | Deceitful | 10 |
+| Just | 12 | Arbitrary | 8 |
+| Merciful | 10 | Cruel | 10 |
+| Modest | 13 | Proud | 7 |
+| Prudent | 6 | Reckless | 14 |
+| Spiritual | 10 | Worldly | 10 |
+| Temperate | 13 | Indulgent | 7 |
+| Trusting | 10 | Suspicious | 10 |
+| Valorous | 15 | Cowardly | 5 |
+
+### Passions / values
+| Passion / value | Score |
+|---|---:|
+| Adoratio | 0 |
+| Civilitas | 27 |
+| Hospitality | 12 |
+| Station | 15 |
+| Fervour | 40 |
+| Hate (Saxons) | 9 |
+| Love (Millicent) | 16 |
+| Love Family | 15 |
+| Fidelitas | 28 |
+| Duty (Vassals) | 10 |
+| Loyalty (Companions) | 15 |
+| Loyalty (King) | 3 |
+| Honor | 12 |
+| Honour | 12 |
+
+### Skills
+| Skill | Value | Skill | Value | Skill | Value |
+|---|---:|---|---:|---|---:|
+| Awareness | 6 | Orate | 11 | Horsemanship | 16 |
+| Compose | 6 | Play Instrument | 6 | Spear | 7 |
+| Courtesy | 13 | Recognize | 10 | Sword | 15 |
+| Dancing | 7 | Religion (Specify) | 6 | Thrown Weapon | 7 |
+| Falconry | 6 | Singing | 5 |  |  |
+| Fashion | 16 | Stewardship | 6 |  |  |
+| First Aid | 11 | Battle | 10 |  |  |
+| Flirting | 13 | Bow | 6 |  |  |
+| Folklore | 10 | Brawling | 11 |  |  |
+| Gaming | 6 | Charge | 14 |  |  |
+| Hunting | 6 | Crossbow | 7 |  |  |
+| Intrigue | 10 | Hafted | 7 |  |  |
+| Literacy (Specify) | 1 | Hafted - 2H | 7 |  |  |
+
 ## Timeline
 - **(481)** — At the victory feast, chokes on walnuts; Millicent saves him (Heimlich), and he proclaims her his saviour. *(Source: [[Session 007 — Player Synopsis — Nightly Business]])*
 - **(482)** — Gravely injured by a manticore; Millicent and Brother Maynard bring him back to safety. *(Source: [[Session 011 - The Hag of the Passage and the Lady of the Well]])*
@@ -62,3 +135,5 @@ flowchart TB
 - **(488–489)** — At [[St. Mary Bethlehem]], revealed that the nun is his mother [[Meredith]]; seeks penance for the [[Lady Rhianneth]] scandal and possible child, then appears in 489 wearing a mouthless porcelain mask and suffering madness before being confined at [[Lambor Castle]] by [[Millicent]]. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
 
 - **(489)** — Claims an angel commanded him to kill the King of the Angles at [[Peterborough]], escapes [[Lambor Castle]] after an angel catches him, forges a sword at [[Folkingham]], then chooses mercy when the king proves to be the child [[King Wihtlaeg of the Angles]]. By year’s end, he and [[Millicent]] conceive [[Meredith (daughter of Madoc and Millicent)|Meredith]]. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+
+- **(490)** — Commands the conroi at the Battle of [[Lincoln]], is gravely wounded and stabilized by Lewis, slips back into madness, survives multiple near-death moments, and sees [[Meredith (daughter of Madoc and Millicent)|Meredith]] born on the battlefield. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*

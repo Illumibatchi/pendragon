@@ -53,3 +53,5 @@ flowchart TB
 - **(488)** — At the [[White Tower]] feast, learns [[Duke Edaris of the March]] needs aid against Saxon devastation and secures [[Count Roderick of Salisbury|Roderick]]'s permission to assemble a relief force. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
 
 - **(489)** — Pursues [[Sir Madoc]] to [[Folkingham]] and [[Peterborough]], is injured fighting Saxon guards, helps capture [[King Wihtlaeg of the Angles]] alive, and declines [[Duke Edaris of the March|Duke Edaris]]’s banneret offer while crediting the whole company. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+
+- **(490)** — At the Battle of [[Lincoln]], unhorses a high-value enemy commander captured by his squire Gwinas, kills a small giant, and makes the decisive rescue that prevents [[Sir Geraint|Geraint]] and the fallen from being captured. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*

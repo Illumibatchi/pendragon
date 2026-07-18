@@ -1,6 +1,6 @@
 
 
-> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 028**.
+> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 031**.
 
 ## Year 480 - The early days: squires of Salisbury (Sessions 000-002)
 - The campaign opens in the **Uther Period** with a group of squires serving the household knights of **[[Count Roderick of Salisbury]]**. *(See: [[Session 000 - The Young Squires of Salisbury]])*
@@ -150,3 +150,8 @@
 - The company splits under pressure: [[Sir Geraint]] negotiates aid for refugees at [[Carohaig]], while Drustin and [[Lady Rosalyn]] escort another refugee train safely into [[Salisbury]]. Rosalyn and Drustin begin a courtship.
 - [[Millicent]], [[Liam]], and [[Assterius]] pursue Madoc to [[Folkingham]], where he forges a sword for his claimed angelic mission. At Peterborough, the “King of the Angles” proves to be [[King Wihtlaeg of the Angles]], a child; Madoc chooses mercy, and the company captures Wihtlaeg alive.
 - The Angle offensive stalls for the rest of 489. By year’s end, Millicent and Madoc conceive [[Meredith (daughter of Madoc and Millicent)|Meredith]]. In spring 490, [[Uther Pendragon|Uther]] and [[Duke Erof of Cornwall]] reconcile through [[Merlin]]’s urging and march north together against the Saxons. *(See: [[Session 030 - The Angel’s Command and the Child King]])*
+
+
+## Year 490 - The Battle of Lincoln and the Birth of Meredith (Session 031)
+- Uther and Cornwall’s reconciled army marches north and defeats Saxon forces at [[Lincoln]]. The conroi captures a high-value enemy commander, survives a giant and wild-men encounter, and is nearly overwhelmed by elite Saxon foot knights.
+- [[Millicent]] rides into battle heavily pregnant in polished maternity armor, is unhorsed, and gives birth on the battlefield to [[Meredith (daughter of Madoc and Millicent)|Meredith]]. [[Sir Madoc]] survives grave wounds and madness long enough to see his daughter born. Uther calls a feast for both the victory and the birth of his granddaughter. *(See: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*

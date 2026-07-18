@@ -116,3 +116,4 @@
 
 ## 490
 - **(490 / Spring)** — [[Uther Pendragon|Uther]] and [[Duke Erof of Cornwall]], reconciled through [[Merlin]]’s urging, arrive with a combined army to march north against the Saxons. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+- **(490 / Spring)** — At the Battle of [[Lincoln]], [[Uther Pendragon|Uther]] and [[Duke Erof of Cornwall]] defeat Saxon forces; the conroi captures a high-value enemy commander, survives a small giant and elite Saxon foot knights, and [[Millicent]] gives birth to [[Meredith (daughter of Madoc and Millicent)|Meredith]] on the battlefield. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*

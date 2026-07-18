@@ -49,3 +49,5 @@ flowchart TB
 - **(488–489)** — Forgives [[Sir Madoc]] but demands honesty; becomes Lady of [[Heywood]]; at [[Lambor Castle]], confines masked/mad Madoc for safety and leads the company into the forest against the ogres. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
 
 - **(489)** — Secures silver and wagons from [[Duke Edaris of the March]] for refugees, pursues [[Sir Madoc]] to [[Folkingham]] and [[Peterborough]], helps prevent him from killing the child [[King Wihtlaeg of the Angles]], and conceives [[Meredith (daughter of Madoc and Millicent)|Meredith]] with him by year’s end. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+
+- **(490)** — Rides into the Battle of [[Lincoln]] heavily pregnant in polished maternity armor, is wounded and unhorsed by elite Saxon foot knights, and gives birth on the battlefield to [[Meredith (daughter of Madoc and Millicent)|Meredith]], earning **150 glory** for bearing a royal child. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*

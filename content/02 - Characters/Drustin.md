@@ -53,3 +53,4 @@ flowchart TB
 - **(488–489)** — Becomes lord of famine-struck [[Yarnbrook]], receives £4 from [[Sir Geraint]] to feed families, entrusts the money to [[Lilwen]], and fights the northern ogre near [[Lambor Castle]] after obeying [[Millicent]]'s withdrawal order. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
 
 - **(489)** — Reaches [[Sir Madoc]] through shared understanding of despair, witnesses an angel catch him after a leap from [[Lambor Castle]], escorts refugees safely into [[Salisbury]] with [[Lady Rosalyn]], and begins courting her. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+- **(490)** — Advances his courtship with [[Lady Rosalyn]], but [[Duke Edaris of the March]] refuses to consider marriage unless Drustin becomes a banneret before Rosalyn finds another courtship. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*

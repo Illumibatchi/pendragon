@@ -37,3 +37,4 @@ flowchart TB
 
 
 - **(489)** — Argues to protect peasants outside [[Lambor Castle]], helps [[Drustin]] escort the refugee train safely to [[Salisbury]], and begins a courtship with him. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+- **(490)** — Shows interest in [[Drustin]] after he tells her a fairy tale, but says he needs her father’s permission; Duke Edaris will only consider him if he becomes a banneret. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*

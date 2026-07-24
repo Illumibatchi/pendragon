@@ -61,3 +61,4 @@ flowchart TB
 - **(490 / Spring)** — Reconciled with [[Duke Erof of Cornwall]] through [[Merlin]]’s urging and arrives with a combined army to march north against the Saxons. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
 
 - **(490 / Spring)** — Wins the Battle of [[Lincoln]] with [[Duke Erof of Cornwall]] and calls a feast to celebrate both the victory and the battlefield birth of his granddaughter [[Meredith (daughter of Madoc and Millicent)|Meredith]]. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
+- **(490)** — After [[Sir Madoc]] dies from his wounds, Uther is disturbed but quickly focuses on producing another heir; at Madoc’s funeral feast, his desire for [[Ygraine]] becomes openly dangerous and strains the peace with [[Duke Erof of Cornwall|Gorlois]]. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*

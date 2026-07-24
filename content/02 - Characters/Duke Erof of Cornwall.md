@@ -18,3 +18,4 @@ Attends Easter court at Sarum during preparations for Ellen's marriage and Uther
 - **(488)** — Attends Uther's Easter feast at the [[White Tower]] with [[Ygraine]]; outward reconciliation with Uther collapses into danger as Uther fixates on his wife. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
 
 - **(490 / Spring)** — Reconciled with [[Uther Pendragon|Uther]] through [[Merlin]]’s urging and marches north with a combined army against the Saxons. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+- **(490)** — At [[Sir Madoc]]’s funeral feast, finally notices Uther’s improper desire for [[Ygraine]] after a misunderstanding involving [[Liam]]; leaves hastily with Ygraine, straining the recent reconciliation. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*

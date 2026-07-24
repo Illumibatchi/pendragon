@@ -59,3 +59,4 @@ flowchart TB
 - **(489)** — Pursues [[Sir Madoc]] to [[Folkingham]] and [[Peterborough]], doubts the claimed angelic command, and helps [[Liam]] kill the Saxon guards while Madoc passes into the mayor’s palace. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
 
 - **(490)** — At the Battle of [[Lincoln]], unhorses a bodyguard whose ransom is secured by Wulfrun, kills the wild man threatening [[Millicent]], and helps cover the conroi’s retreats. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
+- **(490)** — Dubricus frames his Homeless condition as a Job-like test and warns that questioning the truth of the test is part of failing it; Geraint asks that Asterius be included in the restorative quest. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*

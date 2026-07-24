@@ -31,3 +31,4 @@ Daughter of [[Millicent]] and [[Sir Madoc]], conceived by the end of 489 and bor
 - **(489)** — Conceived by [[Millicent]] and [[Sir Madoc]] by year’s end; named after Madoc’s mother. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
 
 - **(490)** — Born on the battlefield at the Battle of [[Lincoln]] after [[Millicent]] is unhorsed during the elite Saxon foot-knight fight; celebrated by [[Uther Pendragon|Uther]] as his granddaughter. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
+- **(490)** — Her father [[Sir Madoc]] dies from his Lincoln wounds soon after her battlefield birth, leaving her as his infant daughter and [[Uther Pendragon|Uther]]’s granddaughter in a sharpened succession crisis. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*

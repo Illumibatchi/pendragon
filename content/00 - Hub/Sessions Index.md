@@ -32,5 +32,6 @@
 |  29 | 2026-07-01 |      488–489 | Madoc’s Penance, New Manors, and the March                           | [[Session 029 - Madoc’s Penance, New Manors, and the March]]                           |
 |  30 | 2026-07-08 |      489–490 | The Angel’s Command and the Child King                                | [[Session 030 - The Angel’s Command and the Child King]]                                |
 |  31 | 2026-07-15 |          490 | The Battle of Lincoln and the Birth of Meredith                      | [[Session 031 - The Battle of Lincoln and the Birth of Meredith]]                      |
+|  32 | 2026-07-22 |          490 | Madoc’s Funeral and the Question of Britain’s Crown                  | [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]]                  |
 
 > I’ll maintain this table as we add sessions.

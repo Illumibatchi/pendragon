@@ -1,14 +1,14 @@
 
 > Rolling list of unresolved mysteries and active campaign threads. Keep this page broad; use **Current Status** for “where we are right now.”
 
-## Active / high-priority as of end of [[Session 031 - The Battle of Lincoln and the Birth of Meredith|Session 031]]
+## Active / high-priority as of end of [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown|Session 032]]
 
-- **Feast after Lincoln:** [[Uther Pendragon|Uther]] has called a feast to celebrate the Saxon defeat at [[Lincoln]] and the battlefield birth of [[Meredith (daughter of Madoc and Millicent)|Meredith]]. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
-- **Meredith Battleborn:** Meredith is now born, not merely expected; she is battleborn with **+2 STR** and **Alert**, and Uther is celebrating her as his granddaughter. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
-- **Brangolet missing:** Millicent’s squire Brangolet went missing during the elite Saxon foot-knight fight at Lincoln. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
-- **Captured commander ransom:** Liam and Gwinas captured a high-value enemy commander worth an expected **£173**, while Assterius and Wulfrun secured a bodyguard worth **£5**; Uther’s share and distribution remain pending. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
-- **Madoc’s madness and angelic command:** [[Sir Madoc]] survived Lincoln but slipped back into madness; the earlier angelic command and his instability remain unresolved. *(Sources: [[Session 030 - The Angel’s Command and the Child King]], [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
-- **Wihtlaeg, child King of the Angles:** [[King Wihtlaeg of the Angles]] remains a living prisoner after Peterborough; Lincoln’s victory may change his political value. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+- **Choice of path:** The conroi must choose between following [[Uther Pendragon|Uther]] toward conflict with [[Cornwall]] or taking [[Archbishop Dubricus|Dubricus]]’ quest for the [[Crown that could unite Britain]]. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*
+- **Uther–Ygraine–Gorlois crisis:** Uther’s desire for [[Ygraine]] became openly dangerous at [[Sir Madoc]]’s funeral feast, and [[Duke Erof of Cornwall|Gorlois]] left with her under a cloud. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*
+- **Geraint and Asterius need restoration:** [[Sir Geraint|Geraint]] remains the Nameless Knight, [[Assterius|Asterius]] remains the Homeless Knight, and Dubricus says a quest is required. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*
+- **Uther’s succession crisis:** Madoc is dead, Meredith is still an infant, and Uther is already seeking another heir. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*
+- **Aescwine and eastern Saxons:** Northern Saxons have been defeated, but Aescwine has consolidated power over the eastern Saxon tribes. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*
+- **Brangolet missing / ransoms pending:** Brangolet remains missing after Lincoln, and the captured commander/bodyguard ransoms still need distribution. *(Sources: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]], [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*
 
 ## Open threads / mysteries (in session order)
 
@@ -87,3 +87,7 @@
 - **(490 / S31) Meredith Battleborn:** [[Meredith (daughter of Madoc and Millicent)|Meredith]] is born on the battlefield, battleborn with **+2 STR** and **Alert**, and publicly celebrated by Uther as his granddaughter. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]]).*
 - **(490 / S31) Brangolet missing:** Brangolet, [[Millicent]]’s squire, disappears during the elite Saxon foot-knight encounter at Lincoln. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]]).*
 - **(490 / S31) Lincoln ransom follow-up:** The captured enemy commander’s expected **£173** ransom and the bodyguard’s **£5** ransom remain to be distributed. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]]).*
+
+- **(490 / S32) Madoc dead and Meredith’s succession thread:** [[Sir Madoc]] dies from his Lincoln wounds and is buried at [[Stonehenge]], leaving [[Millicent]] widowed and [[Meredith (daughter of Madoc and Millicent)|Meredith]] as his infant daughter. What political weight does Uther place on her now? *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]]).*
+- **(490 / S32) Crown that could unite Britain:** [[Archbishop Dubricus]] offers or reveals a quest for the [[Crown that could unite Britain]], potentially tied to restoring [[Sir Geraint|Geraint]] and [[Assterius|Asterius]] after the [[House of Constantine]]. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]]).*
+- **(490 / S32) Courtship obstacles:** [[Drustin]] must become a banneret to pursue [[Lady Rosalyn]], while [[Liam]] must court [[Damsel Diana]] properly and avoid further damage from the Ygraine/Gorlois misunderstanding. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]]).*

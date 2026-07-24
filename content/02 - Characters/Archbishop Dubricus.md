@@ -15,3 +15,4 @@ Archbishop and head of British Christendom. Advises Drustin that melancholy may 
 
 ## Timeline
 - **(483)** — Attends Easter Court at Sarum; advises Drustin on marriage and introduces Lady Triamors. *(Source: [[Session 014 - Easter Court at Sarum and the Duel of Sir Marius]])*
+- **(490)** — Advises [[Sir Geraint|Geraint]] that removing his sins and anonymity will require a quest, agrees to pray on the matter, and may include [[Assterius|Asterius]] in the same restoration. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*

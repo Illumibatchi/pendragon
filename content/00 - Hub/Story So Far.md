@@ -1,6 +1,6 @@
 
 
-> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 031**.
+> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 032**.
 
 ## Year 480 - The early days: squires of Salisbury (Sessions 000-002)
 - The campaign opens in the **Uther Period** with a group of squires serving the household knights of **[[Count Roderick of Salisbury]]**. *(See: [[Session 000 - The Young Squires of Salisbury]])*
@@ -155,3 +155,9 @@
 ## Year 490 - The Battle of Lincoln and the Birth of Meredith (Session 031)
 - Uther and Cornwall’s reconciled army marches north and defeats Saxon forces at [[Lincoln]]. The conroi captures a high-value enemy commander, survives a giant and wild-men encounter, and is nearly overwhelmed by elite Saxon foot knights.
 - [[Millicent]] rides into battle heavily pregnant in polished maternity armor, is unhorsed, and gives birth on the battlefield to [[Meredith (daughter of Madoc and Millicent)|Meredith]]. [[Sir Madoc]] survives grave wounds and madness long enough to see his daughter born. Uther calls a feast for both the victory and the birth of his granddaughter. *(See: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
+
+## Year 490 - Madoc’s funeral and Britain’s crown (Session 032)
+- After Lincoln, [[Sir Madoc]]’s wounds worsen during the southward journey: he loses his left leg at Kineton, his left arm at Corinium, and dies at [[Bath]]. He is buried at [[Stonehenge]] beside his uncle, likely [[Aurelius]].
+- At Madoc’s funeral feast in [[Sarum]], [[Millicent]] publicly grieves convincingly, while courtships sharpen: [[Drustin]] must become a banneret to pursue [[Lady Rosalyn]], and [[Liam]] mishandles the early steps of courting [[Damsel Diana]].
+- [[Uther Pendragon|Uther]]’s grief gives way to renewed heir pressure and obvious desire for [[Ygraine]], nearly causing a breach with [[Duke Erof of Cornwall|Gorlois]] at the funeral feast.
+- [[Archbishop Dubricus]] says [[Sir Geraint|Geraint]] and [[Assterius|Asterius]] need a quest to remove the consequences of the [[House of Constantine]]. The conroi must choose between Uther’s path toward [[Cornwall]] and the quest for the [[Crown that could unite Britain]]. *(See: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*

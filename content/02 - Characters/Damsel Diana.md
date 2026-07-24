@@ -16,3 +16,4 @@ In [[Session 024 - The Feast at Sarum and the Forest’s Warning]], she tells [[
 
 ## Timeline
 - **(487)** — Delivers [[Lady Wells]]’ warning to Liam at the feast in [[Sarum]]. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
+- **(490)** — Corrects [[Liam]] when he jumps too quickly toward marriage, reminding him to ask her father’s permission to court her first; Roderick has no objection but warns Uther may object. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*

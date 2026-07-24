@@ -19,7 +19,7 @@ relations:
 ---
 
 ## Notes
-Legitimized bastard son of Uther Pendragon; potentially significant in succession politics.
+Legitimized bastard son of Uther Pendragon; husband of [[Millicent]] and father of [[Meredith (daughter of Madoc and Millicent)|Meredith]]. Died in 490 from wounds taken at [[Lincoln]] and was buried at [[Stonehenge]].
 
 ## Character sheet snapshot
 
@@ -137,3 +137,4 @@ flowchart TB
 - **(489)** — Claims an angel commanded him to kill the King of the Angles at [[Peterborough]], escapes [[Lambor Castle]] after an angel catches him, forges a sword at [[Folkingham]], then chooses mercy when the king proves to be the child [[King Wihtlaeg of the Angles]]. By year’s end, he and [[Millicent]] conceive [[Meredith (daughter of Madoc and Millicent)|Meredith]]. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
 
 - **(490)** — Commands the conroi at the Battle of [[Lincoln]], is gravely wounded and stabilized by Lewis, slips back into madness, survives multiple near-death moments, and sees [[Meredith (daughter of Madoc and Millicent)|Meredith]] born on the battlefield. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
+- **(490)** — Dies from his Lincoln wounds after worsening on the southward journey: unwell at Ansty, left leg amputated at Kineton, left arm amputated at Corinium, and death at [[Bath]]. He is buried at [[Stonehenge]] beside his uncle, likely [[Aurelius]]. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*

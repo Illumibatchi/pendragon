@@ -45,7 +45,7 @@
 - [[Forest of Dean]] — Rumored direction of wyvern hunt. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[Gloucester]] — Trade town; confirms wyvern sightings. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[Hereford]] — River town during wyvern hunt route. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
-- [[Bath]] — Stop north; abbey records consulted. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
+- [[Bath]] — Stop north; abbey records consulted; [[Sir Madoc]] dies here of his Lincoln wounds in 490. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown|S32]])*
 - [[Bath Scriptorium]] — Research site for York plans, River Foss, and later the Franks/Gaul campaign. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
 - [[Eboracum (York)]] — Fallen city; central northern objective. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead|S16]])*
 - [[River Foss]] — York wall drain vulnerability. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
@@ -56,9 +56,11 @@
 - [[Peterborough]] — Walled market town where the company captures [[King Wihtlaeg of the Angles]] alive. *([[Session 030 - The Angel’s Command and the Child King|S30]])*
 
 ## Cornwall crisis
-- [[Cornwall]] — Western duchy of [[Duke Erof of Cornwall]] and [[Ygraine]]; target of Uther's 489 invasion call after the White Tower scandal, then reconciled with Uther by spring 490. *([[Session 028 - The Easter Feast at the White Tower|S28]], [[Session 029 - Madoc’s Penance, New Manors, and the March|S29]], [[Session 030 - The Angel’s Command and the Child King|S30]])*
+- [[Cornwall]] — Western duchy of [[Duke Erof of Cornwall]] and [[Ygraine]]; target of Uther's 489 invasion call after the White Tower scandal, reconciled by spring 490, and threatened again after Uther’s desire for Ygraine erupts at Madoc’s funeral. *([[Session 028 - The Easter Feast at the White Tower|S28]], [[Session 029 - Madoc’s Penance, New Manors, and the March|S29]], [[Session 030 - The Angel’s Command and the Child King|S30]], [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown|S32]])*
 
 ## Bedegraine crisis / succession fracture
+- [[Stonehenge]] — Ancient monument and royal burial site where [[Sir Madoc]] is buried beside his uncle, likely [[Aurelius]]. *([[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown|S32]])*
+
 - [[Leicester]] — Uther’s muster point after Aurelius’s death. *([[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]])*
 - [[Bedegraine]] — Petty kingdom punished for treason; destroyed. *([[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]])*
 - [[Bedegraine Castle]] — Siege lines; battle and collapse. *([[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]])*
@@ -101,6 +103,7 @@
 - [[Party’s Magical Sword (not Excalibur)]] — Magical sword formerly believed to be Excalibur; confirmed false by parallel-world [[Merlin]] and later used as Fakealibur in the Madoc sword swap. *([[Session 023 - The Dragon Beneath the Mine|S23]], [[Session 027 - The House of Constantine and the Return to Wells|S27]])*
 - [[Gate-creature (fey)]] — Previously slain world-crossing/gate creature; Merlin warns its death was probably catastrophic. *([[Session 023 - The Dragon Beneath the Mine|S23]])*
 - [[Excalibur]] — High Kingship sword/regalia; the repaired party sword is confirmed false, the parallel-world true Excalibur was not stolen, and Madoc’s returned runed blade is treated as likely true but still uncertain. *([[Session 007 - The Vigil and the Knights of the High King|S7]], [[Session 019 - The Well of Bargains and the Demon Princess|S19]], [[Session 023 - The Dragon Beneath the Mine|S23]], [[Session 027 - The House of Constantine and the Return to Wells|S27]])*
+- [[Crown that could unite Britain]] — Quest regalia named by Dubricus after Madoc’s funeral; possible alternative path to Uther’s war with Cornwall. *([[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown|S32]])*
 
 ---
 

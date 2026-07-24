@@ -16,3 +16,4 @@ A priest who accompanies Millicent and helps her bring the gravely wounded Princ
 ## Timeline
 - **(482)** — Aids Millicent in returning with the wounded prince; later becomes involved in the red sorceress escape swap. *(Source: [[Session 011 - The Hag of the Passage and the Lady of the Well]]; [[Session 012 - The Burning of Dunkerton and the Peace of Summerland]])*
 - **(487)** — At [[Downton]], prescribes seven days of fasting, prayer, penance, and self-mortification so the conroi can call the angel guarding the [[Shield of St. Crispin]]. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
+- **(490)** — Bonds with [[Millicent]] over first aid during [[Sir Madoc]]’s funeral feast. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*

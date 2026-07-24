@@ -49,3 +49,4 @@ flowchart TB
 - **(489)** — Finds refugee tracks near Brun, leads refugees toward Cambria, negotiates aid at [[Carohaig]] from young [[Leodegrance]], and later rejoins the conroi at [[Peterborough]]. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
 
 - **(490)** — At the Battle of [[Lincoln]], charges down a wild man, trips a small giant, then nearly falls into Saxon hands while trying to aid [[Millicent]] before [[Liam]] rescues him. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
+- **(490)** — Still unrecognized as the Nameless Knight, appeals to [[Count Roderick of Salisbury|Roderick]] and then [[Archbishop Dubricus]]; Dubricus says a quest is needed to remove his sins and anonymity. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*

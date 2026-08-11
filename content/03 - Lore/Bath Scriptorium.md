@@ -13,3 +13,6 @@ Abbey scriptorium consulted for York’s fortification plans. Reveals a potentia
 ## Timeline
 - **(487)** — Research here reveals [[Saint Brigid’s Flying Cauldron]] as a way to manage the urgent travel problem. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
 - **(487)** — [[Assterius]] researches the [[Franks]] here ahead of Uther’s planned Gaul campaign. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
+
+## Session 033 update
+- [[Assterius|Asterius]] researches elm-linked waters here and identifies the River Leven / “Elm-water” flowing into [[Loch Lomond]], likely matching [[Archbishop Dubricus|Dubricus]]’ vision. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*

@@ -46,6 +46,7 @@ Count of Salisbury; liege lord whose household knights the PCs serve as squires.
 - **(483)** — Attended Easter court at Sarum, asking knights about their passions. *(Source: [[Session 014 - Easter Court at Sarum and the Duel of Sir Marius]])*
 
 ---
+- **490:** Tells [[Liam]] at the [[Exeter]] siege that vassal knights must endure when the king calls, and that campaigns rarely last more than a year or two. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
 
 ## Lineage
 

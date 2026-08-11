@@ -34,6 +34,7 @@ tags:
 - **(484)** — After the Wyrd Pool battle, suffers a grave break of spirit and wanders into the forest in madness. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
 
 ---
+- **490:** Rides with Uther to cover for the questers, buys [[Rabbit (Liam’s horse)|Rabbit]], lends [[Clover (Liam’s horse)|Clover]] to [[Drustin]], grows miserable at the [[Exeter]] siege, and ends at the siege ladders. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
 
 ## Lineage
 

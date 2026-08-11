@@ -31,6 +31,7 @@ Referenced during the victory feast: known for lecherous ways and lacking truebo
 - **(485–486)** — Suffers major reversals in the north: wounded in the York campaign; Excalibur is shattered against Eosa without harming him. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]])*
 
 ---
+- **490:** Marches on [[Exeter]] to kill [[Duke Erof of Cornwall|Gorlois]] and take [[Ygraine]]; after [[Drustin]] reports the castle may be lightly held, orders an immediate assault. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
 
 ## Lineage
 

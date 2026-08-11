@@ -19,3 +19,7 @@ A crown described by [[Archbishop Dubricus]] as capable of uniting Britain. It o
 
 ## Timeline
 - **(490)** — After [[Sir Madoc]]’s funeral, the conroi faces a choice between Uther’s path toward Cornwall and Dubricus’ quest for the crown. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*
+
+## Session 033 update
+- [[Archbishop Dubricus]]’ vision reframes the “crown” as a brilliant golden object taken from [[Glastonbury]] by a dutiful fisherman, carried north past forests, mountains, and two walls, and cast into an elm-shaded lake. The fisherman never wears it, so whether it is literally a crown remains uncertain. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
+- The clue now overlaps strongly with the missing [[Holy Grail]]: the Grail was taken north about a century ago by a descendant of [[Joseph of Arimathea]], while the [[Spear of Longinus]] and [[True Cross (relic)|piece of the True Cross]] remain at Glastonbury. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*

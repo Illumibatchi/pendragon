@@ -1,21 +1,19 @@
-## Where we left off (end of [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown|Session 032]])
-After the victory at [[Lincoln]], [[Sir Madoc]]’s wounds worsened during the journey south. He was maimed at Kineton and Corinium, died at [[Bath]], and was buried at [[Stonehenge]] beside his uncle, likely [[Aurelius]]. [[Millicent]] is now his widow, and [[Meredith (daughter of Madoc and Millicent)|Meredith]] is his living daughter and [[Uther Pendragon|Uther]]’s granddaughter.
+## Where we left off (end of [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|Session 033]])
+The conroi is split between two immediate crises. At [[Exeter]], [[Liam]] and [[Drustin]] are with [[Uther Pendragon|Uther]]’s army and have been ordered onto the siege ladders after Drustin’s report convinced Uther to launch an immediate night assault. The town outside Exeter was deliberately emptied before the army arrived, so [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] may not actually be inside.
 
-The funeral feast at [[Sarum]] nearly broke into scandal. Uther’s desire for [[Ygraine]] became dangerously obvious; [[Duke Erof of Cornwall|Gorlois]] finally noticed; and a misunderstanding involving [[Liam]] made the room worse before the conroi restored hospitality enough for Gorlois and Ygraine to leave.
+Far to the north, [[Millicent]], [[Sir Geraint]], [[Assterius|Asterius]], and [[Brother Nerovens]] are following [[Archbishop Dubricus|Dubricus]]’ vision from [[Glastonbury]] toward [[Loch Lomond]]. They diverted at [[Stafford]] to confront [[Giant Erge]] and discovered evidence of two giants before seeing a giant’s head above the treeline.
 
 ## Immediate fallout
-- **Madoc dead:** Madoc died from his Lincoln wounds and is buried at Stonehenge.
-- **Succession pressure worsened:** Uther has lost his legitimized bastard son and is focused on producing another heir.
-- **Cornwall crisis reignited:** Uther’s obsession with Ygraine has again endangered the fragile reconciliation with Gorlois.
-- **Sacred quest offered:** [[Archbishop Dubricus]] says [[Sir Geraint|Geraint]] and [[Assterius|Asterius]] need a quest to remove the consequences of the [[House of Constantine]]; the conroi may seek the [[Crown that could unite Britain]].
-- **Courtship stakes:** [[Drustin]] must become a banneret before [[Lady Rosalyn]]’s father will consider him; Liam has Roderick’s leave to court [[Damsel Diana]] but still needs proper permission and may face Uther’s objection.
-- **Saxons still shifting:** The northern Saxons were defeated, but Aescwine has consolidated power over the eastern tribes.
+- **Exeter assault now:** Liam and Drustin are about to climb siege ladders in Uther’s assault.
+- **Gorlois may be gone:** the empty town and evasive parley answer suggest Exeter may be a ruse.
+- **Crown/Grail quest advanced:** Dubricus’ vision now points from Glastonbury through the missing Grail tradition toward Loch Lomond.
+- **New companion:** Brother Nerovens has joined the questers as a holy man with chirurgery.
+- **Giant threat:** Stafford and Carohaise have been attacked by Giant Erge, and there may be a second, larger giant.
 
 ## Next session questions
-- Does the conroi follow Uther toward war with Cornwall, or take Dubricus’ crown quest?
-- What answer does Dubricus bring in the morning for Geraint and Asterius?
-- Can anyone prevent Uther’s desire for Ygraine from becoming open war?
-- Can Drustin gain enough rank quickly enough to pursue Rosalyn?
-- Can Liam repair the Ygraine/Gorlois misunderstanding while pursuing Diana correctly?
+- Do Liam and Drustin survive Uther’s assault, and is Gorlois actually in Exeter?
+- What are the consequences if Uther discovers the conroi split?
+- Are the “crown,” the Grail, and Joseph’s northern lineage the same trail or overlapping holy mysteries?
+- Who or what is the larger giant with Erge?
 
 See: [[Open Threads & Mysteries]]

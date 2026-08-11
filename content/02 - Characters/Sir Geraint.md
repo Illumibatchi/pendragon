@@ -29,6 +29,7 @@ Only survivor of Knight Commander Caradoc's conroi after the burning of [[Dunker
 - **(484)** — Fights at the Wyrd Pool; engages the serpent creature and deals telling blows during the rescue of Madoc and Ælflaed. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]]).* 
 
 ---
+- **490:** Pursues Dubricus’ restoration quest, trades up to a proper warhorse at [[Bath]], recruits [[Brother Nerovens]] at the [[Castle of Salt]], and tracks [[Giant Erge]] near [[Stafford]]. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
 
 ## Lineage
 

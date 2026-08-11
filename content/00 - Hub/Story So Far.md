@@ -1,6 +1,4 @@
-
-
-> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 032**.
+> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 033**.
 
 ## Year 480 - The early days: squires of Salisbury (Sessions 000-002)
 - The campaign opens in the **Uther Period** with a group of squires serving the household knights of **[[Count Roderick of Salisbury]]**. *(See: [[Session 000 - The Young Squires of Salisbury]])*
@@ -161,3 +159,9 @@
 - At Madoc’s funeral feast in [[Sarum]], [[Millicent]] publicly grieves convincingly, while courtships sharpen: [[Drustin]] must become a banneret to pursue [[Lady Rosalyn]], and [[Liam]] mishandles the early steps of courting [[Damsel Diana]].
 - [[Uther Pendragon|Uther]]’s grief gives way to renewed heir pressure and obvious desire for [[Ygraine]], nearly causing a breach with [[Duke Erof of Cornwall|Gorlois]] at the funeral feast.
 - [[Archbishop Dubricus]] says [[Sir Geraint|Geraint]] and [[Assterius|Asterius]] need a quest to remove the consequences of the [[House of Constantine]]. The conroi must choose between Uther’s path toward [[Cornwall]] and the quest for the [[Crown that could unite Britain]]. *(See: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*
+
+## Year 490 - The Crown Quest, Exeter, and Giant Erge (Session 033)
+- After Madoc’s funeral, the conroi splits: [[Liam]] and [[Drustin]] ride with [[Uther Pendragon|Uther]] toward [[Exeter]], while [[Millicent]], [[Sir Geraint|Geraint]], and [[Assterius|Asterius]] wait for [[Archbishop Dubricus|Dubricus]] and take up the crown/Grail quest.
+- Dubricus’ vision describes a dutiful fisherman taking a brilliant “crown” from [[Glastonbury]] and casting it into an elm-shaded lake north past two walls. The questers link this to the missing [[Holy Grail]] and identify [[Loch Lomond]] through the River Leven clue.
+- At Exeter, Uther’s desire for [[Ygraine]] has become open war. [[Drustin]] and Liam discover the town was emptied before the siege; Drustin’s suspicion prompts Uther to order an immediate assault.
+- On the northern road, [[Brother Nerovens]] joins the quest. The party diverts at [[Stafford]] against [[Giant Erge]] and finds evidence of a second, larger giant. *(See: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*

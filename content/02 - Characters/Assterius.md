@@ -38,6 +38,7 @@ relations:
 - **(484)** — Returns to the conroi by the Serpent Lodge battle (no explanation recorded). *(Source: [[Session 018 - The Serpent Lodge and the Fall of Ælflaed]])*
 
 ---
+- **490:** Joins the restoration quest, researches at the [[Bath Scriptorium]], and identifies [[Loch Lomond]] through the River Leven / “Elm-water” clue. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
 
 ## Lineage
 

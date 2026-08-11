@@ -45,8 +45,8 @@
 - [[Forest of Dean]] — Rumored direction of wyvern hunt. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[Gloucester]] — Trade town; confirms wyvern sightings. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[Hereford]] — River town during wyvern hunt route. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
-- [[Bath]] — Stop north; abbey records consulted; [[Sir Madoc]] dies here of his Lincoln wounds in 490. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown|S32]])*
-- [[Bath Scriptorium]] — Research site for York plans, River Foss, and later the Franks/Gaul campaign. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
+- [[Bath]] — Stop north; abbey records consulted; healing waters used; [[Sir Madoc]] dies here of his Lincoln wounds in 490. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown|S32]], [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
+- [[Bath Scriptorium]] — Research site for York plans, River Foss, the Franks/Gaul campaign, and the Loch Lomond / River Leven clue. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
 - [[Eboracum (York)]] — Fallen city; central northern objective. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead|S16]])*
 - [[River Foss]] — York wall drain vulnerability. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
 - [[Sherwood Forest]] — Ambush site; Triamors used as bait. *([[Session 015 - The Road to York and the Ambush in Sherwood|S15]])*
@@ -55,8 +55,18 @@
 - [[Folkingham]] — Town where [[Sir Madoc]] forges a sword for his claimed angelic mission. *([[Session 030 - The Angel’s Command and the Child King|S30]])*
 - [[Peterborough]] — Walled market town where the company captures [[King Wihtlaeg of the Angles]] alive. *([[Session 030 - The Angel’s Command and the Child King|S30]])*
 
+## Jagent / Exeter / northern crown quest
+- [[Jagent]] — Pictish-dominated border county where Uther musters before marching on Exeter. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
+- [[Lindinis]] — Also called Ilchester; county seat of Jagent and site of the tower holding the [[Daughter of the Earl of Jagent]]. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
+- [[Exeter]] — Cornish stronghold besieged by Uther; the surrounding town was deliberately emptied before his army arrived. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
+- [[Galvoie]] — Minor Cambrian kingdom in the Severn Valley, increasingly isolated by expanding enchanted forests. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
+- [[Castle of Salt]] — Also called Worcester; royal seat of King Nym where [[Brother Nerovens]] joins the quest. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
+- [[Loch Lomond]] — Likely elm-shaded lake from Dubricus’ vision, identified through the River Leven / “Elm-water” clue. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
+- [[Stafford]] — Village/keep devastated by [[Giant Erge]] while its warriors are away answering Uther’s call. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
+- [[Carohaise]] — Settlement also attacked by Giant Erge; spelling may need later reconciliation with [[Carohaig]]. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
+
 ## Cornwall crisis
-- [[Cornwall]] — Western duchy of [[Duke Erof of Cornwall]] and [[Ygraine]]; target of Uther's 489 invasion call after the White Tower scandal, reconciled by spring 490, and threatened again after Uther’s desire for Ygraine erupts at Madoc’s funeral. *([[Session 028 - The Easter Feast at the White Tower|S28]], [[Session 029 - Madoc’s Penance, New Manors, and the March|S29]], [[Session 030 - The Angel’s Command and the Child King|S30]], [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown|S32]])*
+- [[Cornwall]] — Western duchy of [[Duke Erof of Cornwall]] and [[Ygraine]]; target of Uther's 489 invasion call after the White Tower scandal, reconciled by spring 490, then invaded again as Uther besieges [[Exeter]] for Ygraine. *([[Session 028 - The Easter Feast at the White Tower|S28]], [[Session 029 - Madoc’s Penance, New Manors, and the March|S29]], [[Session 030 - The Angel’s Command and the Child King|S30]], [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown|S32]], [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
 
 ## Bedegraine crisis / succession fracture
 - [[Stonehenge]] — Ancient monument and royal burial site where [[Sir Madoc]] is buried beside his uncle, likely [[Aurelius]]. *([[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown|S32]])*

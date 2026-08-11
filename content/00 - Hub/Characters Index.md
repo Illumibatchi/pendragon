@@ -20,11 +20,11 @@
 - [[Hlodowig]] — king of the [[Franks]] (aka [[Clovis]]).
 - [[Clovis]] (alias of [[Hlodowig]]) — unifier and conqueror leading the [[Franks]]; researched ahead of the spring 488 Gaul campaign.
 - [[King of Sussex (unknown)]] — ruler referenced in the Sussex/Saxon political context.
-- [[Uther Pendragon]] - inherits Logres; volatile conqueror; central driver of war and terror.
+- [[Uther Pendragon]] - inherits Logres; volatile conqueror; central driver of war and terror; his desire for Ygraine drives the siege of Exeter.
 - [[Prince Uther]] — ruler of the parallel Britain revealed in Session 023.
 - [[Aurelius]] - slain High King (Bedegraine betrayal); unity figure whose death fractures the realm.
 - [[Sir Madoc]] - legitimized bastard son of Uther; married to [[Millicent]]; father of [[Meredith (daughter of Madoc and Millicent)|Meredith]]; died from Lincoln wounds and was buried at [[Stonehenge]].
-- [[Ygraine]] — Duchess of Cornwall; her arrival at the White Tower triggers Uther's dangerous obsession.
+- [[Ygraine]] — Duchess of Cornwall; her arrival at the White Tower triggers Uther's dangerous obsession, now driving his assault on Exeter.
 - [[Lucius (Duke of Saxon Shore)]] - 4-year-old knighted; made Duke of Saxon Shore with regent aunt.
 - [[Syagrius]] — Gallo-Roman ruler in [[Gaul]] who appeals to Uther for aid against the [[Franks]].
 
@@ -67,13 +67,14 @@
 ## Clergy / holy figures
 - [[Meredith]] — nun at [[St. Mary Bethlehem]] and mother of [[Sir Madoc]].
 - [[Meredith (daughter of Madoc and Millicent)]] — battleborn daughter of [[Millicent]] and [[Sir Madoc]], born at [[Lincoln]] and named after Madoc’s mother.
-- [[Archbishop Dubricus]] - senior church authority; counsels Drustin and later directs Geraint/Asterius toward a restorative quest.
+- [[Archbishop Dubricus]] - senior church authority; directs Geraint/Asterius toward a restorative quest and gives the fisherman/crown vision pointing from Glastonbury toward Loch Lomond.
 - [[Abbot of Wells]] - humiliated victim of Wells incident.
 - [[Bishop of Caen]] — clergy in [[Caen]] who officiates the rushed marriage of [[Millicent]] and [[Sir Madoc]].
 - [[Brother Maynard]] - monk involved in the sorceress swap.
 - [[Brother Llewelyn]] - Bath abbey monk; points to York plans.
 - [[Bishop Bertrand of Bristol]] — politically ambitious Bishop of Bristol; lends [[Saint Brigid’s Flying Cauldron]] for a costly deposit.
 - [[Joseph of Arimathea]] (lore) - Grail tradition linked to Glastonbury.
+- [[Brother Nerovens]] — holy man from the [[Castle of Salt]] with chirurgery; joins the crown/Grail quest north.
 
 ## Wizards / fae / supernatural actors
 - [[Merlin]] - wizard; repeatedly adjacent to major conspiracies; Session 023 reveals a parallel-world Merlin distinct from the party’s own Merlin.
@@ -93,6 +94,8 @@
 - [[Rori of Newark]] — castellan; allies against Eosa's warband.
 
 ## Other NPCs / stubs (auto-listed)
+- [[Earl of Jagent]] — lord of [[Jagent]] whose daughter is locked away due to a dragon-abduction prophecy.
+- [[Daughter of the Earl of Jagent]] — tower-bound daughter of the Earl of Jagent; an oracle foretold she would be abducted by a dragon.
 - [[Knight Commander Caradoc]] — burns Dunkerton; conroi slaughtered by a giant.
 - [[Madam Eva]] — mystic near Wilderspool; warns of taboos; reads Liam.
 - [[Maewyn Succat]] — Christian priest freed from a pit near Wilderspool.
@@ -100,7 +103,7 @@
 - [[Baron of Winchbank]]
 - [[Castellan of Vagon]]
 - [[Duke Edaris of the March]]
-- [[Duke Erof of Cornwall]] — husband of [[Ygraine]]; reconciled with Uther for the spring 490 northern march, but Uther’s renewed desire for Ygraine strains the peace again after Madoc’s funeral.
+- [[Duke Erof of Cornwall]] — husband of [[Ygraine]]; reconciled with Uther for the spring 490 northern march, but Uther’s renewed desire for Ygraine strains the peace and leads to the siege of Exeter.
 - [[Duke Ulfius of Silchester]]
 - [[King Cadwy of Summerland]]
 - [[Sir Leo]]

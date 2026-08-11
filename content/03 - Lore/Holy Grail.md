@@ -14,3 +14,6 @@ In Session 027, [[Liam]] discovers the Grail buried beneath the altar in the [[H
 
 ## Timeline
 - **(488)** — [[Liam]] uncovers the [[Holy Grail]] beneath the altar of the [[House of Constantine]]; the companions drink from it, and Liam's cursed rubies are cleansed. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]])*
+
+## Session 033 update
+- At [[Glastonbury]], the questers learn that the Grail was taken north about a century ago by one of [[Joseph of Arimathea]]’s descendants. This now appears tied to [[Archbishop Dubricus|Dubricus]]’ vision of the “crown” carried north by a dutiful fisherman. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*

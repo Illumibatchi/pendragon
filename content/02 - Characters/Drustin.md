@@ -29,6 +29,7 @@ tags:
 - **(484)** — Wakes in Wilderspool with strange marks on his neck (as if breathed upon in sleep) and later frees Ælflaed at the Wyrd Pool rite. *(Source: [[Session 017 - The Wyrd Pool of Wilderspool]])*
 
 ---
+- **490:** Borrows [[Clover (Liam’s horse)|Clover]], notices the [[Daughter of the Earl of Jagent]], hunts venison for Uther, and volunteers the suspicion that prompts the immediate [[Exeter]] assault. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
 
 ## Lineage
 

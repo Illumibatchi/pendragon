@@ -40,6 +40,8 @@ relations:
 ---
 - **490:** Joins the restoration quest, researches at the [[Bath Scriptorium]], and identifies [[Loch Lomond]] through the River Leven / “Elm-water” clue. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
 
+- **490:** Helps bait [[Giant Erge]], reads the Greek inscription at the [[Shrine of Hecate]], and is badly wounded by a [[Hounds of Hecate|Hound of Hecate]]. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
+
 ## Lineage
 
 ```mermaid

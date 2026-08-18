@@ -31,6 +31,8 @@ Only survivor of Knight Commander Caradoc's conroi after the burning of [[Dunker
 ---
 - **490:** Pursues Dubricus’ restoration quest, trades up to a proper warhorse at [[Bath]], recruits [[Brother Nerovens]] at the [[Castle of Salt]], and tracks [[Giant Erge]] near [[Stafford]]. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
 
+- **490:** Helps bait [[Giant Erge]] into chasing the second giant trail and lands the decisive blow against a [[Hounds of Hecate|Hound of Hecate]] at the [[Shrine of Hecate]]. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
+
 ## Lineage
 
 ```mermaid

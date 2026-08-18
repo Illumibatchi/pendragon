@@ -1,4 +1,4 @@
-> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 033**.
+> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 034**.
 
 ## Year 480 - The early days: squires of Salisbury (Sessions 000-002)
 - The campaign opens in the **Uther Period** with a group of squires serving the household knights of **[[Count Roderick of Salisbury]]**. *(See: [[Session 000 - The Young Squires of Salisbury]])*
@@ -165,3 +165,8 @@
 - Dubricus’ vision describes a dutiful fisherman taking a brilliant “crown” from [[Glastonbury]] and casting it into an elm-shaded lake north past two walls. The questers link this to the missing [[Holy Grail]] and identify [[Loch Lomond]] through the River Leven clue.
 - At Exeter, Uther’s desire for [[Ygraine]] has become open war. [[Drustin]] and Liam discover the town was emptied before the siege; Drustin’s suspicion prompts Uther to order an immediate assault.
 - On the northern road, [[Brother Nerovens]] joins the quest. The party diverts at [[Stafford]] against [[Giant Erge]] and finds evidence of a second, larger giant. *(See: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
+
+## Year 490 - Erge, Exeter, and the Hounds of Hecate (Session 034)
+- At [[Exeter]], [[Liam]] and [[Drustin]] survive [[Uther Pendragon|Uther]]’s assault. Drustin is first onto the wall, fights through the defenders, and opens the gate; Liam spares a child soldier but is badly wounded.
+- Exeter falls, but [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] are absent. Uther drives the army onward toward [[Tintagel]], after Liam briefly delays the march and Drustin takes the blame.
+- In the north, [[Millicent]], [[Sir Geraint|Geraint]], and [[Assterius|Asterius]] trick [[Giant Erge]] into chasing a supposed rival giant’s trail, then discover the [[Shrine of Hecate]]. Millicent attempts the maiden’s trial; the party defeats one of the [[Hounds of Hecate]] but leaves the ritual unfinished. *(See: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*

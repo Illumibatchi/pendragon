@@ -36,6 +36,8 @@ tags:
 ---
 - **490:** Rides with Uther to cover for the questers, buys [[Rabbit (Liam’s horse)|Rabbit]], lends [[Clover (Liam’s horse)|Clover]] to [[Drustin]], grows miserable at the [[Exeter]] siege, and ends at the siege ladders. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
 
+- **490:** Spares a child soldier during the [[Exeter]] assault, is badly wounded but survives, and quietly delays [[Uther Pendragon|Uther]]’s march toward [[Tintagel]]. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
+
 ## Lineage
 
 ```mermaid

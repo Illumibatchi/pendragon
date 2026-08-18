@@ -31,6 +31,8 @@ tags:
 ---
 - **490:** Borrows [[Clover (Liam’s horse)|Clover]], notices the [[Daughter of the Earl of Jagent]], hunts venison for Uther, and volunteers the suspicion that prompts the immediate [[Exeter]] assault. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
 
+- **490:** In the assault on [[Exeter]], becomes first onto the wall, fights from the ground, breaks the elite defenders, opens the gate, and is later blamed for the army’s wrong turn toward [[Tintagel]]. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
+
 ## Lineage
 
 ```mermaid

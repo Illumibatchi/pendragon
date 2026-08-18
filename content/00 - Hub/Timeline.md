@@ -127,3 +127,9 @@
 - **(490)** — Dubricus’ vision links the [[Crown that could unite Britain]] to a brilliant object taken from [[Glastonbury]] by a dutiful fisherman, the missing [[Holy Grail]], and an elm-shaded lake north past two walls. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
 - **(490)** — At [[Exeter]], Liam and Drustin discover the town was deliberately emptied before Uther’s siege; Drustin’s report prompts Uther to order an immediate assault. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
 - **(490)** — The questers recruit [[Brother Nerovens]] at the [[Castle of Salt]] and divert near [[Stafford]] to confront [[Giant Erge]], discovering evidence of two giants before the session ends. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
+
+- **(490)** — [[Liam]] and [[Drustin]] survive [[Uther Pendragon|Uther]]’s assault on [[Exeter]]; Drustin is first onto the wall and opens the gates, while Liam is badly wounded after sparing a child soldier. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
+- **(490)** — Exeter falls, but [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] are absent; Uther redirects the army toward [[Tintagel]]. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
+- **(490)** — [[Millicent]], [[Sir Geraint|Geraint]], and [[Assterius|Asterius]] trick [[Giant Erge]] into chasing the trail of a supposed rival giant. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
+- **(490)** — The northern questers discover the [[Shrine of Hecate]]; after Millicent fails one part of the maiden’s trial, the company defeats one of the [[Hounds of Hecate]] and chooses not to continue the ritual yet. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
+

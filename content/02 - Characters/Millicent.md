@@ -28,6 +28,8 @@ tags:
 ---
 - **490:** Refuses to follow Uther’s Cornwall campaign after Madoc’s funeral, leaves [[Meredith (daughter of Madoc and Millicent)|Meredith]] with her father, takes the waters at [[Bath]], and follows Dubricus’ quest north toward [[Loch Lomond]] and [[Giant Erge]]. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
 
+- **490:** Tricks [[Giant Erge]] with flattery and false-rival bait, then attempts the maiden’s trial at the [[Shrine of Hecate]]; after one failed trait answer, survives the [[Hounds of Hecate|Hound of Hecate]]. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
+
 ## Lineage
 
 ```mermaid

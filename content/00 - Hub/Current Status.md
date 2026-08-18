@@ -1,19 +1,19 @@
-## Where we left off (end of [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|Session 033]])
-The conroi is split between two immediate crises. At [[Exeter]], [[Liam]] and [[Drustin]] are with [[Uther Pendragon|Uther]]’s army and have been ordered onto the siege ladders after Drustin’s report convinced Uther to launch an immediate night assault. The town outside Exeter was deliberately emptied before the army arrived, so [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] may not actually be inside.
+## Where we left off (end of [[Session 034 - Erge, Exeter, and the Hounds of Hecate|Session 034]])
+The conroi remains split. In Cornwall, [[Liam]] and [[Drustin]] are with [[Uther Pendragon|Uther]]’s army after the fall of [[Exeter]]. The victory proved hollow: [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] were not there, and Uther has driven the army onward to [[Tintagel]] as autumn leaves begin to fall. Liam is badly wounded but alive; Drustin won the gate and then took the blame for the army’s misdirected march.
 
-Far to the north, [[Millicent]], [[Sir Geraint]], [[Assterius|Asterius]], and [[Brother Nerovens]] are following [[Archbishop Dubricus|Dubricus]]’ vision from [[Glastonbury]] toward [[Loch Lomond]]. They diverted at [[Stafford]] to confront [[Giant Erge]] and discovered evidence of two giants before seeing a giant’s head above the treeline.
+Far to the north, [[Millicent]], [[Sir Geraint]], [[Assterius|Asterius]], and [[Brother Nerovens]] continue the crown/Grail quest toward [[Appleby]] and ultimately [[Loch Lomond]]. They tricked [[Giant Erge]] into chasing a supposed rival giant, found the [[Shrine of Hecate]], and survived one of the [[Hounds of Hecate]] after Millicent failed part of the maiden’s trial. The shrine’s reward remains unclaimed.
 
 ## Immediate fallout
-- **Exeter assault now:** Liam and Drustin are about to climb siege ladders in Uther’s assault.
-- **Gorlois may be gone:** the empty town and evasive parley answer suggest Exeter may be a ruse.
-- **Crown/Grail quest advanced:** Dubricus’ vision now points from Glastonbury through the missing Grail tradition toward Loch Lomond.
-- **New companion:** Brother Nerovens has joined the questers as a holy man with chirurgery.
-- **Giant threat:** Stafford and Carohaise have been attacked by Giant Erge, and there may be a second, larger giant.
+- **Tintagel next:** Uther’s army has reached Tintagel, likely Gorlois and Ygraine’s refuge.
+- **Exeter hollow victory:** Exeter fell, but its light defense confirms it was probably not Gorlois’ true stand.
+- **Liam wounded:** Liam survived the wall fight after sparing a child soldier, but took many wounds.
+- **Drustin exposed to royal anger:** Drustin opened Exeter’s gate, but Uther blames him for the army’s mistaken detour.
+- **Northern quest continues:** Erge has been diverted, but the second giant and Hecate shrine remain dangerous unresolved obstacles.
 
 ## Next session questions
-- Do Liam and Drustin survive Uther’s assault, and is Gorlois actually in Exeter?
-- What are the consequences if Uther discovers the conroi split?
-- Are the “crown,” the Grail, and Joseph’s northern lineage the same trail or overlapping holy mysteries?
-- Who or what is the larger giant with Erge?
+- What happens at Tintagel, and can Liam or Drustin influence Uther’s pursuit of Ygraine?
+- Does Gorlois make his stand at Tintagel, or has Cornwall prepared another ruse?
+- Will Erge find the second giant — and will that make things better or much, much worse?
+- Should the northern questers return to the Shrine of Hecate, or leave its reward alone?
 
 See: [[Open Threads & Mysteries]]

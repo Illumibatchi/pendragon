@@ -33,6 +33,7 @@
 |  30 | 2026-07-08 |      489–490 | The Angel’s Command and the Child King                                | [[Session 030 - The Angel’s Command and the Child King]]                                |
 |  31 | 2026-07-15 |          490 | The Battle of Lincoln and the Birth of Meredith                      | [[Session 031 - The Battle of Lincoln and the Birth of Meredith]]                      |
 |  32 | 2026-07-22 |          490 | Madoc’s Funeral and the Question of Britain’s Crown                  | [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]]                  |
-  33 | 2026-08-04 |          490 | The Crown Quest, the Siege of Exeter, and the Giant Erge                | [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]]                |
+|  33 | 2026-08-04 |          490 | The Crown Quest, the Siege of Exeter, and the Giant Erge             | [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]]             |
+|  34 | 2026-08-12 |          490 | Erge, Exeter, and the Hounds of Hecate                               | [[Session 034 - Erge, Exeter, and the Hounds of Hecate]]                               |
 
 > I’ll maintain this table as we add sessions.

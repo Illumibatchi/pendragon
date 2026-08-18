@@ -64,8 +64,10 @@
 - [[Loch Lomond]] — Likely elm-shaded lake from Dubricus’ vision, identified through the River Leven / “Elm-water” clue. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
 - [[Stafford]] — Village/keep devastated by [[Giant Erge]] while its warriors are away answering Uther’s call. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
 - [[Carohaise]] — Settlement also attacked by Giant Erge; spelling may need later reconciliation with [[Carohaig]]. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
+- [[Appleby]] — Northern waypoint on the crown/Grail quest after the Stafford and Erge diversion. *([[Session 034 - Erge, Exeter, and the Hounds of Hecate|S34]])*
 
 ## Cornwall crisis
+- [[Tintagel]] — Cornish sea-cliff stronghold and likely refuge of [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] after the fall of [[Exeter]]. *([[Session 034 - Erge, Exeter, and the Hounds of Hecate|S34]])*
 - [[Cornwall]] — Western duchy of [[Duke Erof of Cornwall]] and [[Ygraine]]; target of Uther's 489 invasion call after the White Tower scandal, reconciled by spring 490, then invaded again as Uther besieges [[Exeter]] for Ygraine. *([[Session 028 - The Easter Feast at the White Tower|S28]], [[Session 029 - Madoc’s Penance, New Manors, and the March|S29]], [[Session 030 - The Angel’s Command and the Child King|S30]], [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown|S32]], [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
 
 ## Bedegraine crisis / succession fracture
@@ -108,6 +110,8 @@
 ---
 
 ## Notable items / relics / symbols
+- [[Shrine of Hecate]] — Mountain cave-shrine of the Triple Goddess; offers a dangerous ritual enforced by the [[Hounds of Hecate]]. *([[Session 034 - Erge, Exeter, and the Hounds of Hecate|S34]])*
+- [[Hounds of Hecate]] — Soul-devouring supernatural hounds bound to the shrine’s failed trials. *([[Session 034 - Erge, Exeter, and the Hounds of Hecate|S34]])*
 - [[Shield of St. Crispin]] — Angel-guarded holy shield recovered at Downton and reclaimed by [[Sir Gerry]] in Session 023. *([[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern|S6]], [[Session 023 - The Dragon Beneath the Mine|S23]])*
 - [[Saint Brigid’s Flying Cauldron]] — Holy relic that flies and turns bathwater into beer; borrowed from [[Bishop Bertrand of Bristol]]. *([[Session 023 - The Dragon Beneath the Mine|S23]])*
 - [[Party’s Magical Sword (not Excalibur)]] — Magical sword formerly believed to be Excalibur; confirmed false by parallel-world [[Merlin]] and later used as Fakealibur in the Madoc sword swap. *([[Session 023 - The Dragon Beneath the Mine|S23]], [[Session 027 - The House of Constantine and the Return to Wells|S27]])*

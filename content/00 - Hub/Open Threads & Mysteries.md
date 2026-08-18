@@ -1,13 +1,13 @@
 > Rolling list of unresolved mysteries and active campaign threads. Keep this page broad; use **Current Status** for “where we are right now.”
 
-## Active / high-priority as of end of [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|Session 033]]
+## Active / high-priority as of end of [[Session 034 - Erge, Exeter, and the Hounds of Hecate|Session 034]]
 
-- **Exeter assault:** [[Liam]] and [[Drustin]] are about to climb the siege ladders after [[Uther Pendragon|Uther]] ordered an immediate night assault on [[Exeter]]. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
-- **Gorlois/Ygraine may not be in Exeter:** the town outside Exeter was deliberately cleared before Uther arrived, and the parley answer was evasive; [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] may have slipped away. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
-- **Crown/Grail quest north:** [[Archbishop Dubricus|Dubricus]]’ vision points from [[Glastonbury]] toward [[Loch Lomond]], tied to a brilliant “crown,” a dutiful fisherman, and the missing [[Holy Grail]]. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
-- **Giant Erge and the second giant:** [[Millicent]], [[Sir Geraint]], [[Assterius|Asterius]], and [[Brother Nerovens]] have tracked [[Giant Erge]] near [[Stafford]] and found evidence of an even larger giant. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
+- **Tintagel crisis:** [[Uther Pendragon|Uther]] has taken [[Exeter]] but not [[Duke Erof of Cornwall|Gorlois]] or [[Ygraine]]; his army has reached [[Tintagel]], likely the true Cornish refuge. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
+- **Liam and Drustin under Uther:** [[Liam]] is badly wounded after Exeter, and [[Drustin]] has both opened the gate and drawn Uther’s blame for the army’s wrong turn. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
+- **Crown/Grail quest north:** [[Archbishop Dubricus|Dubricus]]’ vision still points from [[Glastonbury]] toward [[Loch Lomond]], while the questers continue toward [[Appleby]]. *(Sources: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]], [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
+- **Giant Erge and the second giant:** [[Giant Erge]] has been tricked into chasing the larger trail, but the second giant remains unidentified and dangerous. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
+- **Shrine of Hecate:** The [[Shrine of Hecate]] offers a dangerous pagan trial with real supernatural enforcement by the [[Hounds of Hecate]]; its reward remains unclaimed. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
 - **Geraint and Asterius need restoration:** [[Sir Geraint|Geraint]] remains the Nameless Knight and [[Assterius|Asterius]] remains the Homeless Knight; the northern quest may be the route to restoration. *(Sources: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]], [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
-- **Uther’s succession/Ygraine crisis:** [[Sir Madoc]] is dead, [[Meredith (daughter of Madoc and Millicent)|Meredith]] is an infant, and Uther’s desire for Ygraine has become open military action. *(Sources: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]], [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
 
 ## Open threads / mysteries (in session order)
 
@@ -95,3 +95,5 @@
 - **(490 / S33) The fisherman, the crown, and Loch Lomond:** [[Archbishop Dubricus|Dubricus]]’ vision sends the questers from [[Glastonbury]] toward [[Loch Lomond]], with the “crown” possibly tied to the missing [[Holy Grail]] and [[Joseph of Arimathea]]’s northern lineage. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]]).*
 - **(490 / S33) Giant Erge and the larger tracks:** [[Giant Erge]] has attacked [[Stafford]] and [[Carohaise]], but the questers discover a second, larger set of giant tracks. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]]).*
 - **(490 / S33) Daughter of Jagent’s dragon prophecy:** the [[Daughter of the Earl of Jagent]] is locked in a tower because an oracle foretold a dragon would abduct her; [[Drustin]]’s dragon shield makes the omen pointed. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]]).*
+- **(490 / S34) Exeter falls but Tintagel rises:** [[Exeter]] was lightly held and has fallen, but [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] were absent; [[Tintagel]] is now Uther’s target. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]]).*
+- **(490 / S34) Shrine of Hecate:** the northern questers found the [[Shrine of Hecate]], failed part of the maiden’s trial, and survived one of the [[Hounds of Hecate]]; the remaining phases and reward are unknown. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]]).*

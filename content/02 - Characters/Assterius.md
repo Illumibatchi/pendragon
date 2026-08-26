@@ -63,3 +63,4 @@ flowchart TB
 
 - **(490)** — At the Battle of [[Lincoln]], unhorses a bodyguard whose ransom is secured by Wulfrun, kills the wild man threatening [[Millicent]], and helps cover the conroi’s retreats. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
 - **(490)** — Dubricus frames his Homeless condition as a Job-like test and warns that questioning the truth of the test is part of failing it; Geraint asks that Asterius be included in the restorative quest. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*
+- **490:** At [[Appleby]], investigates Lady Appleby’s hidden household mystery, wins the [[Brownies of Appleby Forest|brownies]] over through music, refuses fairy food, and breaks his family silver spear against the [[Auroch of Appleby]]. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*

@@ -1,11 +1,11 @@
 > Rolling list of unresolved mysteries and active campaign threads. Keep this page broad; use **Current Status** for “where we are right now.”
 
-## Active / high-priority as of end of [[Session 034 - Erge, Exeter, and the Hounds of Hecate|Session 034]]
+## Active / high-priority as of end of [[Session 035 - The Battle of Tintagel and the Brownies of Appleby|Session 035]]
 
-- **Tintagel crisis:** [[Uther Pendragon|Uther]] has taken [[Exeter]] but not [[Duke Erof of Cornwall|Gorlois]] or [[Ygraine]]; his army has reached [[Tintagel]], likely the true Cornish refuge. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
-- **Liam and Drustin under Uther:** [[Liam]] is badly wounded after Exeter, and [[Drustin]] has both opened the gate and drawn Uther’s blame for the army’s wrong turn. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
-- **Crown/Grail quest north:** [[Archbishop Dubricus|Dubricus]]’ vision still points from [[Glastonbury]] toward [[Loch Lomond]], while the questers continue toward [[Appleby]]. *(Sources: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]], [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
-- **Giant Erge and the second giant:** [[Giant Erge]] has been tricked into chasing the larger trail, but the second giant remains unidentified and dangerous. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
+- **Tintagel siege:** [[Uther Pendragon|Uther]] has forced Cornwall back into [[Tintagel]], but [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] remain uncaptured and may still escape by sea or secret route. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
+- **Liam and Drustin under Uther:** [[Liam]] and [[Drustin]] are wounded after the Tintagel sally; Uther is now looking to “greater knights” while the siege continues. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
+- **Crown/Grail quest north:** [[Archbishop Dubricus|Dubricus]]’ vision still points toward [[Loch Lomond]], while the Appleby questers have stabilized the town and may pursue [[Sir Vardilain]]’s [[Unicorn of Appleby|unicorn]] bargain for a horn. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
+- **Appleby’s raiders and Jacqueline:** [[Lady Appleby]] has lost husband and sons to Gore and [[Malahaut]] raids; her daughter [[Jacqueline of Appleby]] has been revealed and seems eager to leave. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
 - **Shrine of Hecate:** The [[Shrine of Hecate]] offers a dangerous pagan trial with real supernatural enforcement by the [[Hounds of Hecate]]; its reward remains unclaimed. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
 - **Geraint and Asterius need restoration:** [[Sir Geraint|Geraint]] remains the Nameless Knight and [[Assterius|Asterius]] remains the Homeless Knight; the northern quest may be the route to restoration. *(Sources: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]], [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
 
@@ -97,3 +97,7 @@
 - **(490 / S33) Daughter of Jagent’s dragon prophecy:** the [[Daughter of the Earl of Jagent]] is locked in a tower because an oracle foretold a dragon would abduct her; [[Drustin]]’s dragon shield makes the omen pointed. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]]).*
 - **(490 / S34) Exeter falls but Tintagel rises:** [[Exeter]] was lightly held and has fallen, but [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] were absent; [[Tintagel]] is now Uther’s target. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]]).*
 - **(490 / S34) Shrine of Hecate:** the northern questers found the [[Shrine of Hecate]], failed part of the maiden’s trial, and survived one of the [[Hounds of Hecate]]; the remaining phases and reward are unknown. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]]).*
+
+- **(490 / S35) Tintagel siege and escape routes:** Uther’s army has begun the siege, but the war council worries Gorlois and Ygraine may escape by sea or secret route. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]]).*
+- **(490 / S35) Appleby, Gore, and Malahaut:** [[Lady Appleby]] says Gore killed her husband and [[Malahaut]] killed her sons; the political danger around Appleby remains active even after the auroch is slain. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]]).*
+- **(490 / S35) Unicorn of Appleby:** [[Sir Vardilain]] offers a unicorn horn if the questers kill the strawberry-eating [[Unicorn of Appleby]] and let him keep the meat. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]]).*

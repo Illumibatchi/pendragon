@@ -64,10 +64,10 @@
 - [[Loch Lomond]] — Likely elm-shaded lake from Dubricus’ vision, identified through the River Leven / “Elm-water” clue. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
 - [[Stafford]] — Village/keep devastated by [[Giant Erge]] while its warriors are away answering Uther’s call. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
 - [[Carohaise]] — Settlement also attacked by Giant Erge; spelling may need later reconciliation with [[Carohaig]]. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
-- [[Appleby]] — Northern waypoint on the crown/Grail quest after the Stafford and Erge diversion. *([[Session 034 - Erge, Exeter, and the Hounds of Hecate|S34]])*
+- [[Appleby]] — Northern waypoint on the crown/Grail quest; raided by Gore and Malahaut, then fed after the questers kill the [[Auroch of Appleby]]. *([[Session 034 - Erge, Exeter, and the Hounds of Hecate|S34]], [[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]])*
 
 ## Cornwall crisis
-- [[Tintagel]] — Cornish sea-cliff stronghold and likely refuge of [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] after the fall of [[Exeter]]. *([[Session 034 - Erge, Exeter, and the Hounds of Hecate|S34]])*
+- [[Tintagel]] — Cornish sea-cliff stronghold now under Uther’s siege after the Cornish sally is forced back. *([[Session 034 - Erge, Exeter, and the Hounds of Hecate|S34]], [[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]])*
 - [[Cornwall]] — Western duchy of [[Duke Erof of Cornwall]] and [[Ygraine]]; target of Uther's 489 invasion call after the White Tower scandal, reconciled by spring 490, then invaded again as Uther besieges [[Exeter]] for Ygraine. *([[Session 028 - The Easter Feast at the White Tower|S28]], [[Session 029 - Madoc’s Penance, New Manors, and the March|S29]], [[Session 030 - The Angel’s Command and the Child King|S30]], [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown|S32]], [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
 
 ## Bedegraine crisis / succession fracture
@@ -118,6 +118,10 @@
 - [[Gate-creature (fey)]] — Previously slain world-crossing/gate creature; Merlin warns its death was probably catastrophic. *([[Session 023 - The Dragon Beneath the Mine|S23]])*
 - [[Excalibur]] — High Kingship sword/regalia; the repaired party sword is confirmed false, the parallel-world true Excalibur was not stolen, and Madoc’s returned runed blade is treated as likely true but still uncertain. *([[Session 007 - The Vigil and the Knights of the High King|S7]], [[Session 019 - The Well of Bargains and the Demon Princess|S19]], [[Session 023 - The Dragon Beneath the Mine|S23]], [[Session 027 - The House of Constantine and the Return to Wells|S27]])*
 - [[Crown that could unite Britain]] — Quest regalia named by Dubricus after Madoc’s funeral; possible alternative path to Uther’s war with Cornwall. *([[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown|S32]])*
+- [[Brownies of Appleby Forest]] — Fey household spirits who ask the questers to stop the cow eating their bee-clover. *([[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]])*
+- [[Auroch of Appleby]] — Giant cow slain by the questers; its meat feeds Appleby. *([[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]])*
+- [[Unicorn of Appleby]] — Strawberry-eating unicorn offered by [[Sir Vardilain]] as a possible horn source. *([[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]])*
+
 
 ---
 
@@ -141,7 +145,8 @@
 - [[Household of Duke Ulfius of Silchester]] — Silchester’s ruling household; levy depletion. *([[Session 003 - The Empty Castle and the Forest Ambush|S3]], [[Session 005 - The Fairy Dragon and the Ogre’s Return|S5]])*
 - [[Winchbank Household]] — Winchbank court/household. *([[Session 004 - The Lady’s Secret and the Feast at Winchbank|S4]], [[Session 005 - The Fairy Dragon and the Ogre’s Return|S5]])*
 - [[High King’s Household]] — Direct household knights of the High King. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
-- [[Malahaut]] — Northern kingdom; appeals to Uther; chivalric knights. *([[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]], [[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead|S16]])*
+- [[Gore]] — Northern land/faction associated with Bagdemagus; raiders from Gore killed [[Lady Appleby]]’s husband. *([[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]])*
+- [[Malahaut]] — Northern kingdom; appeals to Uther; chivalric knights; raiders from Malahaut killed [[Lady Appleby]]’s sons. *([[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]], [[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead|S16]], [[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]])*
 - [[Lothian]] — northern kingdom of [[King Lot of Lothian]], now fighting Saxons alongside Malahaut. *([[Session 028 - The Easter Feast at the White Tower|S28]])*
 - [[Saxon Shore (duchy)]] — Frontier duchy assigned to child duke Lucius. *([[Session 014 - Easter Court at Sarum and the Duel of Sir Marius|S14]])*
 

@@ -1,4 +1,4 @@
-> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 034**.
+> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 035**.
 
 ## Year 480 - The early days: squires of Salisbury (Sessions 000-002)
 - The campaign opens in the **Uther Period** with a group of squires serving the household knights of **[[Count Roderick of Salisbury]]**. *(See: [[Session 000 - The Young Squires of Salisbury]])*
@@ -170,3 +170,7 @@
 - At [[Exeter]], [[Liam]] and [[Drustin]] survive [[Uther Pendragon|Uther]]’s assault. Drustin is first onto the wall, fights through the defenders, and opens the gate; Liam spares a child soldier but is badly wounded.
 - Exeter falls, but [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] are absent. Uther drives the army onward toward [[Tintagel]], after Liam briefly delays the march and Drustin takes the blame.
 - In the north, [[Millicent]], [[Sir Geraint|Geraint]], and [[Assterius|Asterius]] trick [[Giant Erge]] into chasing a supposed rival giant’s trail, then discover the [[Shrine of Hecate]]. Millicent attempts the maiden’s trial; the party defeats one of the [[Hounds of Hecate]] but leaves the ritual unfinished. *(See: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
+
+## Year 490 - Tintagel and Appleby (Session 035)
+- Outside [[Tintagel]], [[Uther Pendragon|Uther]]’s army fights off a Cornish sally meant to disrupt siege preparations. [[Liam]] and [[Drustin]] survive brutal fighting against foot soldiers, spear-armed knights, mounted champions, and peasant levy; Liam is knocked down and rescued by Squire Gwinas. The battle is indecisive in the field, but Cornwall is forced back into Tintagel and Uther begins the siege in fury.
+- At [[Appleby]], the northern questers learn from [[Sir Vardilain]] of a possible unicorn horn, while [[Lady Appleby]] reveals raids from Gore and [[Malahaut]] have left her widowed and bereaved. The party treats with the [[Brownies of Appleby Forest]], refuses fairy food, kills the [[Auroch of Appleby|giant auroch]] eating the clover, feeds the town, and meets [[Jacqueline of Appleby]]. *(See: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*

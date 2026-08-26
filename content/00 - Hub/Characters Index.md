@@ -45,6 +45,7 @@
 - [[King Brodin of Malahaut]] - "Centurion-King"; Roman legatus armor; political pressure point.
 - [[King Lot of Lothian]] — young king fighting Saxons alongside [[King Brodin of Malahaut]].
 - [[Leodegrance]] — young lord at [[Carohaig]] who aids refugees brought by [[Sir Geraint]].
+- [[Sir Vardilain]] — Appleby knight/lord who offers the questers a unicorn-horn bargain.
 
 ## Squires / retainers
 - [[Lilwen]] — sixteen-year-old Yarnbrook local entrusted by [[Drustin]] with relief money during the 489 famine.
@@ -63,6 +64,8 @@
 - [[Lady Rhianneth]] - Sir Marius' wife; manipulative; corrected source of Madoc's prior scandal and possible child.
 - [[Baroness Pomponia]] - Frankish Saxon Shore ruler; political maneuverer; carrying [[Assterius]]'s bastard child.
 - [[Clotilde]] — young visionary of [[Wildenburg]] nearly burned for murders actually caused by werewolves; warned of the [[Lord of Wildenburg]] and Michael's silver prophecy.
+- [[Lady Appleby]] — widowed Appleby lady whose family was devastated by Gore and Malahaut raids.
+- [[Jacqueline of Appleby]] — Lady Appleby’s hidden daughter, eager to leave Appleby.
 
 ## Clergy / holy figures
 - [[Meredith]] — nun at [[St. Mary Bethlehem]] and mother of [[Sir Madoc]].
@@ -86,6 +89,7 @@
 - [[Elf Smith of Pengam Green]] — otherworldly smith at the Pengam Green “Reawakening Fair”; repairs [[Excalibur]]; takes commissions.
 - [[The Woman in White (Silchester)]] - mysterious white-cloaked castle visitor.
 - [[Unknown name - Woman in White (White Stag)]] - rides a white stag with glowing antlers.
+- [[Elvish Damsel of Appleby Forest]] — singing fey woman who guides Millicent in Appleby forest.
 
 ## Saxons / northern war figures
 - [[Eosa “the Giant” Horsason]] - King of the Deira Saxons; ransom/torque; York parley.

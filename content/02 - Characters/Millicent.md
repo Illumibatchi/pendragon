@@ -55,3 +55,4 @@ flowchart TB
 
 - **(490)** — Rides into the Battle of [[Lincoln]] heavily pregnant in polished maternity armor, is wounded and unhorsed by elite Saxon foot knights, and gives birth on the battlefield to [[Meredith (daughter of Madoc and Millicent)|Meredith]], earning **150 glory** for bearing a royal child. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
 - **(490)** — Becomes [[Sir Madoc]]’s widow after he dies from his Lincoln wounds; at his [[Sarum]] funeral feast, convinces the court of her sincere grief and helps preserve hospitality during the Ygraine/Gorlois crisis. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*
+- **490:** At [[Appleby]], wanders into the forest, meets the [[Elvish Damsel of Appleby Forest]], finds hanged Gore knights, and leaps onto the [[Auroch of Appleby]] before being thrown clear. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*

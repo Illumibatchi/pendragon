@@ -1,13 +1,13 @@
 > Rolling list of unresolved mysteries and active campaign threads. Keep this page broad; use **Current Status** for “where we are right now.”
 
-## Active / high-priority as of end of [[Session 035 - The Battle of Tintagel and the Brownies of Appleby|Session 035]]
+## Active / high-priority as of end of [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|Session 036]]
 
-- **Tintagel siege:** [[Uther Pendragon|Uther]] has forced Cornwall back into [[Tintagel]], but [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] remain uncaptured and may still escape by sea or secret route. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
-- **Liam and Drustin under Uther:** [[Liam]] and [[Drustin]] are wounded after the Tintagel sally; Uther is now looking to “greater knights” while the siege continues. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
-- **Crown/Grail quest north:** [[Archbishop Dubricus|Dubricus]]’ vision still points toward [[Loch Lomond]], while the Appleby questers have stabilized the town and may pursue [[Sir Vardilain]]’s [[Unicorn of Appleby|unicorn]] bargain for a horn. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
-- **Appleby’s raiders and Jacqueline:** [[Lady Appleby]] has lost husband and sons to Gore and [[Malahaut]] raids; her daughter [[Jacqueline of Appleby]] has been revealed and seems eager to leave. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
-- **Shrine of Hecate:** The [[Shrine of Hecate]] offers a dangerous pagan trial with real supernatural enforcement by the [[Hounds of Hecate]]; its reward remains unclaimed. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
-- **Geraint and Asterius need restoration:** [[Sir Geraint|Geraint]] remains the Nameless Knight and [[Assterius|Asterius]] remains the Homeless Knight; the northern quest may be the route to restoration. *(Sources: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]], [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
+- **Loch Lomond fountain visions:** [[Sir Geraint|Geraint]], [[Millicent]], and [[Assterius|Asterius]] entered the [[Loch Lomond Fountain]] and are now separated in dream/death spaces. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*
+- **Crown/Grail at Loch Lomond:** the questers reached the lake from [[Archbishop Dubricus|Dubricus]]’ vision, found a supernatural fountain and altar, and suspect the crown may be Grail-like. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*
+- **Merlin at Exmoor:** [[Drustin]] learned [[Merlin]] can be found at the [[Standing Stones of Exmoor]], but must not be awakened unless the realm depends upon it. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*
+- **Tintagel siege:** [[Uther Pendragon|Uther]] remains entangled at [[Tintagel]], while [[Exeter]] is empty and movements suggest forces circled back toward Tintagel. *(Sources: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]], [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*
+- **Wells closed to Uther’s men:** maidens of the lake bar [[Liam]] and [[Drustin]] from [[Wells]] because of Uther allegiance. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*
+- **Geraint and Asterius need restoration:** [[Sir Geraint|Geraint]] remains the Nameless Knight and [[Assterius|Asterius]] remains the Homeless Knight; the Loch Lomond fountain may be part of that restoration. *(Sources: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]], [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*
 
 ## Open threads / mysteries (in session order)
 
@@ -101,3 +101,8 @@
 - **(490 / S35) Tintagel siege and escape routes:** Uther’s army has begun the siege, but the war council worries Gorlois and Ygraine may escape by sea or secret route. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]]).*
 - **(490 / S35) Appleby, Gore, and Malahaut:** [[Lady Appleby]] says Gore killed her husband and [[Malahaut]] killed her sons; the political danger around Appleby remains active even after the auroch is slain. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]]).*
 - **(490 / S35) Unicorn of Appleby:** [[Sir Vardilain]] offers a unicorn horn if the questers kill the strawberry-eating [[Unicorn of Appleby]] and let him keep the meat. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]]).*
+
+- **(490 / S36) Loch Lomond fountain and black glass dagger:** the questers found a bottomless-looking fountain, stained altar, [[Love-Sun Water]], and [[Black Glass Dagger]] near [[Loch Lomond]]; the site’s purpose remains unclear. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]]).*
+- **(490 / S36) Wolf in France:** both [[Millicent]] and [[Sir Geraint|Geraint]] see life-visions ending in France with a wolf making eye contact. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]]).*
+- **(490 / S36) Merlin sleeping at Exmoor:** [[Merlin]] can be found at the [[Standing Stones of Exmoor]], but the maidens warn not to wake him unless the realm depends upon it. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]]).*
+- **(490 / S36) Duchess at Glastonbury:** Liam sees the Duchess watching from shadows as he and Drustin leave cagey [[Glastonbury]]; her purpose is unknown. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]]).*

@@ -12,3 +12,4 @@ A sizable town (~1,000) found completely deserted. Food offerings at thresholds 
 
 ## Timeline
 - **(487)** — Liam consults [[Lady Wells]] here about the Excalibur warning and learns the forest will grow every year the sword is not returned. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
+- **490:** Three white-dressed, woad-marked maidens block Liam and Drustin from reaching Wells, saying it is closed to them because of allegiance to Uther. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*

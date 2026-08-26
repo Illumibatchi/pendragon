@@ -138,3 +138,4 @@ flowchart TB
 
 - **(490)** — Commands the conroi at the Battle of [[Lincoln]], is gravely wounded and stabilized by Lewis, slips back into madness, survives multiple near-death moments, and sees [[Meredith (daughter of Madoc and Millicent)|Meredith]] born on the battlefield. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
 - **(490)** — Dies from his Lincoln wounds after worsening on the southward journey: unwell at Ansty, left leg amputated at Kineton, left arm amputated at Corinium, and death at [[Bath]]. He is buried at [[Stonehenge]] beside his uncle, likely [[Aurelius]]. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*
+- **490:** Appears to [[Millicent]] on a night beach in the fountain-vision, troubled more by his failures as a future king than by relationship mistakes; neither can pray their way home. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*

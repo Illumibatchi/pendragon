@@ -13,3 +13,4 @@ The town beside the castle was deliberately emptied before Uther’s army arrive
 ## Timeline
 - **490:** Besieged for roughly six weeks by Uther; after [[Drustin]] reports that the castle seems lightly held, Uther orders an immediate night assault. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
 - **490:** Exeter falls to Uther after [[Drustin]] opens the gate, but the duke and Ygraine are absent; Uther turns toward [[Tintagel]]. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
+- **490:** Liam and Drustin find Exeter empty; recent road traffic a few days old leads east. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*

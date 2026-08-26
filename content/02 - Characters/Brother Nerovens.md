@@ -13,3 +13,4 @@ Brother Nerovens knows a tradition that one of Joseph of Arimathea’s descendan
 
 ## Timeline
 - **490:** Joins [[Millicent]], [[Sir Geraint]], and [[Assterius|Asterius]] at the [[Castle of Salt]] and accompanies them north on the crown/Grail quest. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
+- **490:** Travels with the northern questers through [[Gaiholm]] and [[Alclud]], calls the [[Loch Lomond Fountain]] altar the Devil’s work, and performs [[Sir Geraint|Geraint]]’s full-body baptism in the fountain. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*

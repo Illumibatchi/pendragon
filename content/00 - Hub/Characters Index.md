@@ -44,6 +44,8 @@
 - [[Sir Beefy]] - notorious rival/foe; strength legend grows.
 - [[King Brodin of Malahaut]] - "Centurion-King"; Roman legatus armor; political pressure point.
 - [[King Lot of Lothian]] — young king fighting Saxons alongside [[King Brodin of Malahaut]].
+- [[Prince Urion]] — young Gorre prince who grants hospitality at [[Gaiholm]].
+- [[Prince Bademagu]] — elder prince of Gorre, away campaigning against Saxons.
 - [[Leodegrance]] — young lord at [[Carohaig]] who aids refugees brought by [[Sir Geraint]].
 - [[Sir Vardilain]] — Appleby knight/lord who offers the questers a unicorn-horn bargain.
 
@@ -90,6 +92,9 @@
 - [[The Woman in White (Silchester)]] - mysterious white-cloaked castle visitor.
 - [[Unknown name - Woman in White (White Stag)]] - rides a white stag with glowing antlers.
 - [[Elvish Damsel of Appleby Forest]] — singing fey woman who guides Millicent in Appleby forest.
+- [[Silver-Haired Woman of Loch Lomond]] — mysterious naked silver-haired woman who leads the questers toward the Loch Lomond fountain.
+- [[Fox-girl of the Forest of Gloom]] — reported fox-fae driven off with cold iron near the Forest of Gloom.
+- [[Black Knight at the Well]] — vision figure blocking passage to a hilltop well.
 
 ## Saxons / northern war figures
 - [[Eosa “the Giant” Horsason]] - King of the Deira Saxons; ransom/torque; York parley.

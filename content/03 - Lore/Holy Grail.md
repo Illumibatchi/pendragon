@@ -17,3 +17,4 @@ In Session 027, [[Liam]] discovers the Grail buried beneath the altar in the [[H
 
 ## Session 033 update
 - At [[Glastonbury]], the questers learn that the Grail was taken north about a century ago by one of [[Joseph of Arimathea]]’s descendants. This now appears tied to [[Archbishop Dubricus|Dubricus]]’ vision of the “crown” carried north by a dutiful fisherman. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
+- **490:** The Loch Lomond investigation strengthens the suspicion that the “crown” sought by Dubricus’ vision may be Grail-like or connected to the Grail. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*

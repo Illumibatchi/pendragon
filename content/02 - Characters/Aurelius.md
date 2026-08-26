@@ -42,4 +42,4 @@ flowchart TB
 
 **Lineage links:**
 - [[Uther Pendragon]]
-
+- **490:** Appears to [[Millicent]] in a Stonehenge vision or death-space and asks how she remembers his life. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*

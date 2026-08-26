@@ -1,19 +1,19 @@
-## Where we left off (end of [[Session 035 - The Battle of Tintagel and the Brownies of Appleby|Session 035]])
-The conroi remains split. In Cornwall, [[Liam]] and [[Drustin]] are with [[Uther Pendragon|Uther]]’s army at [[Tintagel]]. A Cornish sally failed to break the siege preparations, but the field battle was costly: both knights are wounded, Liam had to be rescued by Squire Gwinas, and the fortress remains formidable while [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] may still have escape routes by sea or secret passage.
+## Where we left off (end of [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|Session 036]])
+The conroi remains split across two supernatural crises. At [[Loch Lomond]], [[Sir Geraint|Geraint]] has been baptized in the [[Loch Lomond Fountain]] and vanished; [[Millicent]] and [[Assterius|Asterius]] followed him in. They are now in dream/death-visions: Millicent has met [[Aurelius]] at [[Stonehenge]] and [[Sir Madoc]] on a night beach, while Geraint and Asterius face a road of Duty and Pleasure and a hilltop well guarded by the [[Black Knight at the Well]].
 
-Far to the north, [[Millicent]], [[Sir Geraint]], [[Assterius|Asterius]], and [[Brother Nerovens]] have reached [[Appleby]] on the crown/Grail quest toward [[Loch Lomond]]. Sir Vardilain has offered a possible unicorn horn, and the party has already helped the town by aiding the [[Brownies of Appleby Forest]], killing the [[Auroch of Appleby|giant auroch]] that was ruining the clover, and feeding Appleby from its carcass. [[Jacqueline of Appleby]], Lady Appleby’s hidden daughter, has been revealed.
+In the south, [[Liam]] and [[Drustin]] found [[Exeter]] empty, saw no army at [[Glastonbury]], and were barred from [[Wells]] by maidens of the lake because of their allegiance to [[Uther Pendragon|Uther]]. Drustin’s Merlin-devotions earned a hidden clue: [[Merlin]] can be found by going to [[Taunton]], taking the [[River Exe]] to [[Exmoor]], and seeking the [[Standing Stones of Exmoor]], but he must not be awakened unless the realm depends on it.
 
 ## Immediate fallout
-- **Tintagel under siege:** Uther’s army has forced the Cornish back into Tintagel, but taking the fortress or catching Gorlois remains unresolved.
-- **Liam and Drustin wounded:** both survived the battle but are no longer fresh front-line assets.
-- **Appleby stabilized:** the brownie/clover problem is resolved, and the town has food from the slain auroch.
-- **Unicorn horn next:** Sir Vardilain’s strawberry-eating unicorn remains the clearest local lead for a horn.
-- **Appleby danger:** raids from Gore and Malahaut have already killed Lady Appleby’s husband and sons.
+- **Fountain visions:** Geraint, Millicent, and Asterius are not safely back from the Loch Lomond fountain.
+- **Geraint’s restoration path:** his vision points toward Bravery, Valor, Honesty, and Devotion to Duty.
+- **Merlin located:** Drustin has a route to Merlin, but waking him is forbidden unless the need is realm-level.
+- **Wells closed:** the Ladies/Lake maidens are blocking Liam and Drustin due to Uther allegiance.
+- **Tintagel still unresolved:** Exeter is empty and signs suggest forces circled back toward Tintagel.
 
 ## Next session questions
-- Can Uther seal Tintagel before Gorlois or Ygraine escape by sea or secret route?
-- Will Liam or Drustin influence the siege, or are they stuck recovering while “greater knights” take over?
-- Do the northern questers pursue Sir Vardilain’s unicorn bargain?
-- What does Jacqueline of Appleby want, and is leaving Appleby a real possibility for her?
+- How do Millicent, Geraint, and Asterius escape the fountain visions?
+- What does the wolf in France mean for Millicent and Geraint?
+- Is the crown in Loch Lomond also Grail-like, and what role does the [[Black Glass Dagger]] play?
+- Should Liam and Drustin seek Merlin at Exmoor — and what would make the realm’s need dire enough to wake him?
 
 See: [[Open Threads & Mysteries]]

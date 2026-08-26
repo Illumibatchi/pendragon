@@ -1,4 +1,4 @@
-> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 035**.
+> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 036**.
 
 ## Year 480 - The early days: squires of Salisbury (Sessions 000-002)
 - The campaign opens in the **Uther Period** with a group of squires serving the household knights of **[[Count Roderick of Salisbury]]**. *(See: [[Session 000 - The Young Squires of Salisbury]])*
@@ -174,3 +174,8 @@
 ## Year 490 - Tintagel and Appleby (Session 035)
 - Outside [[Tintagel]], [[Uther Pendragon|Uther]]’s army fights off a Cornish sally meant to disrupt siege preparations. [[Liam]] and [[Drustin]] survive brutal fighting against foot soldiers, spear-armed knights, mounted champions, and peasant levy; Liam is knocked down and rescued by Squire Gwinas. The battle is indecisive in the field, but Cornwall is forced back into Tintagel and Uther begins the siege in fury.
 - At [[Appleby]], the northern questers learn from [[Sir Vardilain]] of a possible unicorn horn, while [[Lady Appleby]] reveals raids from Gore and [[Malahaut]] have left her widowed and bereaved. The party treats with the [[Brownies of Appleby Forest]], refuses fairy food, kills the [[Auroch of Appleby|giant auroch]] eating the clover, feeds the town, and meets [[Jacqueline of Appleby]]. *(See: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
+
+## Year 490 - The Sun-Water of Loch Lomond and the Road to Merlin (Session 036)
+- The northern questers pass through [[Gore|Gorre]] and win hospitality at [[Gaiholm]] from [[Prince Urion]] by returning the shield found on the slain Gorre knights. They learn the fighting men are away under [[Prince Bademagu|Bademagu]], then continue by boat past [[Alclud]] to [[Loch Lomond]], where silver scales and a [[Silver-Haired Woman of Loch Lomond|silver-haired woman]] lead them to the [[Loch Lomond Fountain]].
+- At the fountain, [[Sir Geraint|Geraint]] and [[Millicent]] see wolf-linked visions of their lives ending in France, while [[Assterius|Asterius]] discovers [[Love-Sun Water]] and uses it to cleanse the altar. Geraint is baptized and vanishes into the fountain; Millicent and Asterius follow into visions involving [[Aurelius]], Geraint’s mother, Duty and Pleasure, a hilltop well, and [[Sir Madoc]].
+- In the south, [[Liam]] and [[Drustin]] find [[Exeter]] empty, are rushed through cagey [[Glastonbury]], and are barred from [[Wells]]. Drustin’s Merlin passions earn a hidden route to [[Merlin]] at the [[Standing Stones of Exmoor]], with the warning not to wake him unless the realm depends on it. *(See: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*

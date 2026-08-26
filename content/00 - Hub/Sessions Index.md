@@ -36,5 +36,6 @@
 |  33 | 2026-08-04 |          490 | The Crown Quest, the Siege of Exeter, and the Giant Erge             | [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]]             |
 |  34 | 2026-08-12 |          490 | Erge, Exeter, and the Hounds of Hecate                               | [[Session 034 - Erge, Exeter, and the Hounds of Hecate]]                               |
 |  35 | 2026-08-19 |          490 | The Battle of Tintagel and the Brownies of Appleby                   | [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]]                   |
+|  36 | 2026-08-26 |          490 | The Sun-Water of Loch Lomond and the Road to Merlin                  | [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]]                  |
 
 > I’ll maintain this table as we add sessions.

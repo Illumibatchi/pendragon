@@ -61,7 +61,8 @@
 - [[Exeter]] — Cornish stronghold besieged by Uther; the surrounding town was deliberately emptied before his army arrived. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
 - [[Galvoie]] — Minor Cambrian kingdom in the Severn Valley, increasingly isolated by expanding enchanted forests. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
 - [[Castle of Salt]] — Also called Worcester; royal seat of King Nym where [[Brother Nerovens]] joins the quest. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
-- [[Loch Lomond]] — Likely elm-shaded lake from Dubricus’ vision, identified through the River Leven / “Elm-water” clue. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
+- [[Loch Lomond]] — Likely elm-shaded lake from Dubricus’ vision; reached in Session 036, where the questers find silver scales and the [[Loch Lomond Fountain]]. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]], [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
+- [[Loch Lomond Fountain]] — Supernatural fountain/altar site tied to visions, [[Love-Sun Water]], and the quest for the crown/Grail. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
 - [[Stafford]] — Village/keep devastated by [[Giant Erge]] while its warriors are away answering Uther’s call. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
 - [[Carohaise]] — Settlement also attacked by Giant Erge; spelling may need later reconciliation with [[Carohaig]]. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
 - [[Appleby]] — Northern waypoint on the crown/Grail quest; raided by Gore and Malahaut, then fed after the questers kill the [[Auroch of Appleby]]. *([[Session 034 - Erge, Exeter, and the Hounds of Hecate|S34]], [[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]])*
@@ -81,6 +82,10 @@
 ## Wells → Glastonbury underworld corridor
 - [[Wells]] — Deserted town; faerie offerings; forced-muster incident; later revisited to consult [[Lady Wells]] about Excalibur and the encroaching forest. *([[Session 010 - The Silent Town of Wells and the Ogre of the Marsh|S10]], [[Session 020 - The Road Beneath the World|S20]])*
 - [[Glastonbury]] — Marshland “thin place” tied to Christian + pagan legend. *([[Session 010 - The Silent Town of Wells and the Ogre of the Marsh|S10]], [[Session 011 - The Hag of the Passage and the Lady of the Well|S11]])*
+- [[Taunton]] — Waypoint on the hidden route to [[Merlin]] at Exmoor. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
+- [[River Exe]] — River route toward [[Exmoor]] and Merlin’s standing stones. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
+- [[Exmoor]] — Region where Merlin can be found at the [[Standing Stones of Exmoor]]. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
+- [[Standing Stones of Exmoor]] — Merlin’s hidden location; he must not be awakened unless the realm depends on it. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
 - [[Tor of Glastonbury (Ynys Wydrin)]] — Pagan shadow-gate / Christian evil-gate framing. *([[Session 010 - The Silent Town of Wells and the Ogre of the Marsh|S10]])*
 - [[Flooded Shrine of the Well]] — Deep shrine with the Lady-of-the-Well bargain. *([[Session 011 - The Hag of the Passage and the Lady of the Well|S11]])*
 - [[Frome Stones]] — Thin place / cave-spring route into the [[Otherworld]] (entered in 487 with [[Guido (The Guide)]]). *([[Session 020 - The Road Beneath the World|S20]])*
@@ -121,7 +126,8 @@
 - [[Brownies of Appleby Forest]] — Fey household spirits who ask the questers to stop the cow eating their bee-clover. *([[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]])*
 - [[Auroch of Appleby]] — Giant cow slain by the questers; its meat feeds Appleby. *([[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]])*
 - [[Unicorn of Appleby]] — Strawberry-eating unicorn offered by [[Sir Vardilain]] as a possible horn source. *([[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]])*
-
+- [[Love-Sun Water]] — Shining water from the [[Loch Lomond Fountain]] that cleanses the altar and is used in Geraint’s baptism. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
+- [[Black Glass Dagger]] — Dagger appearing on the Loch Lomond altar; function unknown. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
 
 ---
 
@@ -145,9 +151,13 @@
 - [[Household of Duke Ulfius of Silchester]] — Silchester’s ruling household; levy depletion. *([[Session 003 - The Empty Castle and the Forest Ambush|S3]], [[Session 005 - The Fairy Dragon and the Ogre’s Return|S5]])*
 - [[Winchbank Household]] — Winchbank court/household. *([[Session 004 - The Lady’s Secret and the Feast at Winchbank|S4]], [[Session 005 - The Fairy Dragon and the Ogre’s Return|S5]])*
 - [[High King’s Household]] — Direct household knights of the High King. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
-- [[Gore]] — Northern land/faction associated with Bagdemagus; raiders from Gore killed [[Lady Appleby]]’s husband. *([[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]])*
+- [[Gore]] — Northern land/faction associated with Bagdemagus; raiders from Gore killed [[Lady Appleby]]’s husband; [[Gaiholm]] is its seat. *([[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]], [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
+- [[Gaiholm]] — Seat of [[Gore|Gorre]], where [[Prince Urion]] grants hospitality. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
+- [[Alclud]] — Hill town passed by the questers en route to [[Loch Lomond]]. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
 - [[Malahaut]] — Northern kingdom; appeals to Uther; chivalric knights; raiders from Malahaut killed [[Lady Appleby]]’s sons. *([[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]], [[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead|S16]], [[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]])*
 - [[Lothian]] — northern kingdom of [[King Lot of Lothian]], now fighting Saxons alongside Malahaut. *([[Session 028 - The Easter Feast at the White Tower|S28]])*
+- [[Caledonia]] — Northern land Uther failed to conquer. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
+- [[Edinburgh]] — Northern power hostile to [[Gore|Gorre]]. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
 - [[Saxon Shore (duchy)]] — Frontier duchy assigned to child duke Lucius. *([[Session 014 - Easter Court at Sarum and the Duel of Sir Marius|S14]])*
 
 ### Supernatural / covert
@@ -225,5 +235,3 @@
 
 ## Offices / Titles (referenced in sessions)
 - [[Castellan of Vagon]] — Receives the “wolves are about” warning; puts Vagon on alert. *([[Session 001 - Wolves Are About|S1]])*
-
-

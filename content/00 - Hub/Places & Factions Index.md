@@ -116,6 +116,7 @@
 ---
 
 ## Notable items / relics / symbols
+- [[Knarr Kamelåså]] — Danish knarr / party boat that carries Geraint and Asterius south, rescues Liam and Drustin from whale expulsion, and has a table note to appear in every episode. *([[Session 037 - The Seven Tests, the Whale, and the City of Legions|S37]])*
 - [[Shrine of Hecate]] — Mountain cave-shrine of the Triple Goddess; offers a dangerous ritual enforced by the [[Hounds of Hecate]]. *([[Session 034 - Erge, Exeter, and the Hounds of Hecate|S34]])*
 - [[Hounds of Hecate]] — Soul-devouring supernatural hounds bound to the shrine’s failed trials. *([[Session 034 - Erge, Exeter, and the Hounds of Hecate|S34]])*
 - [[Shield of St. Crispin]] — Angel-guarded holy shield recovered at Downton and reclaimed by [[Sir Gerry]] in Session 023. *([[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern|S6]], [[Session 023 - The Dragon Beneath the Mine|S23]])*

@@ -4,7 +4,10 @@ kind: NPC (knight)
 first_seen_session: 7
 first_seen_year: 481
 relations:
-  - "Brother of: [[Lady Rachel of Carbonog]]"
+  - type: sibling
+    target: "Lady Rachel of Carbonog"
+    certainty: fact
+    note: "Sister."
 tags:
   - character
   - npc

@@ -43,7 +43,7 @@ tags:
 With Lady Ellen returned to Sarum and her marriage to Count Roderick approaching, Uther holds a grand Easter court. Powerful figures attend, including Uther, [[Archbishop Dubricus]], [[Sir Madoc]], and [[Baroness Pomponia]].
 
 ### The knighthood of a child
-Pomponia presents her son [[Lucius (Duke of Saxon Shore)]], barely four years old. Uther knights the child and proclaims him **Duke of the Saxon Shore**, appointing the boy’s aunt as regent—an overt political play to secure the frontier.
+Pomponia presents four-year-old [[Lucius (Duke of Saxon Shore)]]. Uther knights the child and proclaims him **Duke of the Saxon Shore**, with Pomponia serving as regent—an overt political play to secure the frontier. Lucius is not Pomponia’s child.
 
 ### Rivalries and courtly games
 Millicent displays her new gold tooth and continues bold flirtation with Madoc, drawing icy attention from [[Lady Rhianneth]] (wife of [[Sir Marius of Caerwent]], a much older knight commander). Liam attempts to court Lady Dilwen (rebuffed). Geraint exchanges stories with Rachel of Carbonog. Drustin gives alms and speaks carefully of Ellen when Roderick asks about passions.

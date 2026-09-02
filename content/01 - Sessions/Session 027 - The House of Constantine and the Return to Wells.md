@@ -60,11 +60,11 @@ When the trial ends, Liam uncovers the [[Holy Grail]] beneath the chapel altar. 
 - [[Liam]] - solves the riddle of chivalry, chooses the Cup, discovers the [[Holy Grail]], and is freed from the burden of his cursed rubies.
 - [[Drustin]] - nearly fails the trial through lust, vengeance, and weakness of devotion, but continues after Millicent's sacrifice; chooses the Child.
 - [[Sir Geraint]] - surrenders his name and coat of arms during the trial, becoming the Nameless Knight.
-- [[Assterius]] - identifies the [[House of Constantine]], becomes the Homeless Knight during the trial, and learns that [[Baroness Pomponia]] is carrying his bastard child.
+- [[Assterius]] - identifies the [[House of Constantine]] and becomes the Homeless Knight during the trial. [[Baroness Pomponia]] is carrying his bastard child, but Asterius does not know this yet.
 - [[Sir Madoc]] - appears under the title of "King" beside [[Clovis]], claims to carry a reforged Excalibur, and reports a suspicious accord with the [[Franks]].
 - [[Lady Wells]] - receives Madoc’s runed blade and casts it into the forest pool.
 - [[Clovis]] - appears publicly aligned with Madoc after the Wildenburg affair.
-- [[Baroness Pomponia]] - is revealed to be carrying [[Assterius]]'s bastard child.
+- [[Baroness Pomponia]] - is carrying [[Assterius]]'s bastard child; Asterius does not know this yet.
 
 ## Loot / Rewards / Glory / Notable Rolls
 - The companions recover the [[Holy Grail]] from beneath the altar of the chapel in the [[House of Constantine]].
@@ -78,7 +78,7 @@ When the trial ends, Liam uncovers the [[Holy Grail]] beneath the chapel altar. 
 - [[Sir Madoc]] has entered a suspicious political arrangement with [[Clovis]] and the [[Franks]], and falsely/improperly allowed himself to be treated as a king.
 - The runed blade demanded by [[Lady Wells]] and the [[Ladies of the Lake]] has been returned to her, potentially averting the immediate forest threat; whether it is truly home-world Excalibur remains uncertain.
 - The true identity of the returned blade, Madoc's actions, and the larger timeline/reality implications remain unresolved.
-- [[Baroness Pomponia]] is carrying [[Assterius]]'s bastard child.
+- [[Baroness Pomponia]] is carrying [[Assterius]]'s bastard child, but Asterius does not know this yet.
 
 ## Timeline entries to add
 - **(488)** — At the [[House of Constantine]] in the [[Wildenwald]], the companions undergo an angelic trial of faith and chivalry; [[Millicent]] sacrifices her place so [[Drustin]] can continue, [[Sir Geraint]] becomes the Nameless Knight, and [[Assterius]] becomes the Homeless Knight. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]])*

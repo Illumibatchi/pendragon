@@ -5,7 +5,10 @@ first_seen_session: 4
 first_seen_year: 480
 role: "Lady-in-waiting; healer"
 relations:
-  - "Sister of: [[Unknown name - Rachel's hedge knight brother]]"
+  - type: sibling
+    target: "Sir Ector"
+    certainty: fact
+    note: "Brother; formerly tracked as 'Unknown name - Rachel’s hedge knight brother'."
 tags:
   - character
   - npc

@@ -67,7 +67,7 @@
 
 - **(488 / S26) Wildenburg shrine and ancient script:** the [[Wildenburg Pagan Shrine]] has a bloodied stone table and ancient writing that is neither Latin nor Greek. *(Source: [[Session 026 - The Wolves of Wildenburg]]).*
 
-- **(488 / S27) Pomponia's child:** [[Baroness Pomponia]] is carrying [[Assterius]]'s bastard child; political and dynastic consequences are unknown. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]]).*
+- **(488 / S27) Pomponia's child:** [[Baroness Pomponia]] is carrying [[Assterius]]'s bastard child, but Asterius does not know this; political and dynastic consequences are unknown. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]]).*
 
 - **(488 / S28) Sword-swap fallout / White Tower departures:** [[Drustin]] tells [[Merlin]] that Madoc has [[Party’s Magical Sword (not Excalibur)|the false blade]] and that the runed blade was returned to the lake; Merlin warns Britain has no sword and no king, then leaves the feast before [[Ygraine]], [[Uther Pendragon]], and [[Sir Madoc]]. *(Source: [[Session 028 - The Easter Feast at the White Tower]]).*
 - **(488 / S28) Drustin and Ellen:** [[Drustin]] nearly approaches [[Lady Ellen of Winchbank]] again, but [[Sir Geraint]] and [[Assterius]] intercept him and lock him in an outhouse before disaster repeats. *(Source: [[Session 028 - The Easter Feast at the White Tower]]).*
@@ -107,4 +107,7 @@
 - **(490 / S36) Duchess at Glastonbury:** Liam sees the Duchess watching from shadows as he and Drustin leave cagey [[Glastonbury]]; her purpose is unknown. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]]).*
 
 - **(490 / S37) Cushion Cave / whale ordeal:** [[Liam]] and [[Drustin]] survive mermaid magic, a bleeding cushion-lined living chamber, and being spat from a whale; [[Assterius]] firmly believes they hooked up there, but that remains his suspicion rather than confirmed fact. *(Source: [[Session 037 - The Seven Tests, the Whale, and the City of Legions]])*
+- **(490 / S37) Knarr Kamelåså:** the Danish knarr that rescued the whale-expelled Liam and Drustin has an explicit table note to appear in every episode. *(Source: [[Session 037 - The Seven Tests, the Whale, and the City of Legions]])*
 - **(490 / S37) City of Legions hooks:** the party arrives near [[City of the Legions|Deva/Chester]], with local hooks including the Cathedral of the Headless Martyr, a ghostly centurion, a huge amphitheater, and the Cheshire Cycle plays. *(Source: [[Session 037 - The Seven Tests, the Whale, and the City of Legions]])*
+
+- **(490–491 / S37) Manor check-in:** Winter Phase leaves Millicent’s Father/Steward sickly; the table noted the manors should be checked next session. *(Source: [[Session 037 - The Seven Tests, the Whale, and the City of Legions]])*

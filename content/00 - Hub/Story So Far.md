@@ -47,7 +47,7 @@
 - Escort Ellen from [[White Tower]]: ambushes in Purdue Forest show **false-flag raiders** (Deiran shields freshly overpainted; Silchestrian accent). An ogre attack is beaten with Ellen fighting alongside the knights. *(See: [[Session 013 - The Assassin’s Winter and the Escort of Lady Ellen]] + [[Session 013 — Player Synopsis — Assassin Winter and Ellen Escort]])*
 
 ## Year 483 - Easter court and the duel (Session 014)
-- At Sarum's Easter court: [[Lucius (Duke of Saxon Shore)]] (age 4) is knighted and made duke; court intrigue intensifies.
+- At Sarum's Easter court: [[Lucius (Duke of Saxon Shore)]] (age 4) is knighted and made duke, with [[Baroness Pomponia]] as regent; court intrigue intensifies.
 - [[Lady Rhianneth]] forces a kiss on Madoc; [[Sir Marius of Caerwent]] duels Assterius and is beheaded in one stroke. *(See: [[Session 014 - Easter Court at Sarum and the Duel of Sir Marius]] + [[Session 014 — Player Synopsis — Easter Court and Sir Marius Duel]])*
 
 ## Year 484 - York campaign begins (Session 015)
@@ -184,4 +184,4 @@
 ## Year 490–491 - The Seven Tests, the Whale, and the City of Legions (Session 037)
 - [[Sir Geraint|Geraint]] and [[Assterius|Asterius]] continue through the Loch Lomond vision-road, passing the lord’s-water, Wroth, and Gluttony tests; the Envy test remains uncertain after a vision of Uther, Rachel, and Ygraine. When they choose toil over comfort, a burning heart wreathed in thorns leaves them feeling they have lost something priceless, even though they later find **£200 in gold** at [[Loch Lomond]].
 - [[Liam]] and [[Drustin]] let the [[Duke Erof of Cornwall|Duke of Cornwall]] and his castellan pass, then encounter a Cornish force across the River Taw. After mermaid magic at a moonlit pool, they wake naked in a bleeding Cushion Cave inside a living creature and are eventually spat from a whale into the Irish Sea.
-- Geraint and Asterius winter with Danes, receive impressive helmets, sail south, and recover Liam and Drustin from the sea before all four arrive near the [[City of the Legions]]. [[Millicent]] remains absent/lost from the active events. *(See: [[Session 037 - The Seven Tests, the Whale, and the City of Legions]])*
+- Geraint and Asterius winter with Danes, receive impressive helmets, sail south aboard the [[Knarr Kamelåså]], and recover Liam and Drustin from the sea before all four arrive near the [[City of the Legions]]. [[Millicent]] remains absent/lost from the active events. *(See: [[Session 037 - The Seven Tests, the Whale, and the City of Legions]])*

@@ -25,7 +25,7 @@
 - [[Aurelius]] - slain High King (Bedegraine betrayal); unity figure whose death fractures the realm.
 - [[Sir Madoc]] - legitimized bastard son of Uther; married to [[Millicent]]; father of [[Meredith (daughter of Madoc and Millicent)|Meredith]]; died from Lincoln wounds and was buried at [[Stonehenge]].
 - [[Ygraine]] — Duchess of Cornwall; her arrival at the White Tower triggers Uther's dangerous obsession, now driving his assault on Exeter.
-- [[Lucius (Duke of Saxon Shore)]] - 4-year-old knighted; made Duke of Saxon Shore with regent aunt.
+- [[Lucius (Duke of Saxon Shore)]] - 4-year-old knighted; made Duke of Saxon Shore with [[Baroness Pomponia]] as regent, though she is not his mother.
 - [[Syagrius]] — Gallo-Roman ruler in [[Gaul]] who appeals to Uther for aid against the [[Franks]].
 
 ## Salisbury / Logres lords and power-brokers
@@ -64,7 +64,7 @@
 - [[Lady Llylla (Shisha)]] - wealthy and beautiful; infamous cruelty to servants.
 - [[Lady Triamors]] - heiress of Lickeyend; introduced by Dubricus.
 - [[Lady Rhianneth]] - Sir Marius' wife; manipulative; corrected source of Madoc's prior scandal and possible child.
-- [[Baroness Pomponia]] - Frankish Saxon Shore ruler; political maneuverer; carrying [[Assterius]]'s bastard child.
+- [[Baroness Pomponia]] - Frankish Saxon Shore ruler and regent of [[Lucius (Duke of Saxon Shore)]]; carrying [[Assterius]]'s bastard child, though Asterius does not know this.
 - [[Clotilde]] — young visionary of [[Wildenburg]] nearly burned for murders actually caused by werewolves; warned of the [[Lord of Wildenburg]] and Michael's silver prophecy.
 - [[Lady Appleby]] — widowed Appleby lady whose family was devastated by Gore and Malahaut raids.
 - [[Jacqueline of Appleby]] — Lady Appleby’s hidden daughter, eager to leave Appleby.
@@ -120,7 +120,6 @@
 - [[Sir Marius of Caerwent]]
 - [[Squire Aspara]]
 - [[Squire Leo]]
-- [[Unknown name - Rachel's hedge knight brother]]
 - [[Unnamed Messenger (Wells)]]
 - [[Lord of Wildenburg]] — revealed after death as one of the werewolves haunting [[Wildenburg]].
 

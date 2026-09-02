@@ -1,19 +1,21 @@
-## Where we left off (end of [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|Session 036]])
-The conroi remains split across two supernatural crises. At [[Loch Lomond]], [[Sir Geraint|Geraint]] has been baptized in the [[Loch Lomond Fountain]] and vanished; [[Millicent]] and [[Assterius|Asterius]] followed him in. They are now in dream/death-visions: Millicent has met [[Aurelius]] at [[Stonehenge]] and [[Sir Madoc]] on a night beach, while Geraint and Asterius face a road of Duty and Pleasure and a hilltop well guarded by the [[Black Knight at the Well]].
+## Where we left off (end of [[Session 037 - The Seven Tests, the Whale, and the City of Legions|Session 037]])
+The active party members have reunited near the [[City of the Legions]] after the Loch Lomond vision-road and whale ordeal. [[Sir Geraint|Geraint]] and [[Assterius|Asterius]] passed several moral tests, found **£200 in gold** at [[Loch Lomond]], but feel they lost something priceless after choosing toil and passing the burning-heart altar. [[Liam]] and [[Drustin]] survived the mermaid/Cushion Cave/whale incident and were spat naked into the Irish Sea before being hauled aboard the Danish vessel.
 
-In the south, [[Liam]] and [[Drustin]] found [[Exeter]] empty, saw no army at [[Glastonbury]], and were barred from [[Wells]] by maidens of the lake because of their allegiance to [[Uther Pendragon|Uther]]. Drustin’s Merlin-devotions earned a hidden clue: [[Merlin]] can be found by going to [[Taunton]], taking the [[River Exe]] to [[Exmoor]], and seeking the [[Standing Stones of Exmoor]], but he must not be awakened unless the realm depends on it.
+[[Millicent]] did not participate in the active events and remains absent/lost after the Loch Lomond vision sequence. Winter Phase mechanics still occurred for her household, including conception of a female child.
 
 ## Immediate fallout
-- **Fountain visions:** Geraint, Millicent, and Asterius are not safely back from the Loch Lomond fountain.
-- **Geraint’s restoration path:** his vision points toward Bravery, Valor, Honesty, and Devotion to Duty.
-- **Merlin located:** Drustin has a route to Merlin, but waking him is forbidden unless the need is realm-level.
-- **Wells closed:** the Ladies/Lake maidens are blocking Liam and Drustin due to Uther allegiance.
-- **Tintagel still unresolved:** Exeter is empty and signs suggest forces circled back toward Tintagel.
+- **Party location:** Geraint, Asterius, Liam, and Drustin are near the [[City of the Legions]] / Deva / Chester.
+- **Millicent absent:** Millicent remains gone/lost; her fate is unresolved.
+- **Geraint and Rachel:** Geraint heads off to marry [[Lady Rachel of Carbonog|Rachel]].
+- **Cornwall consequence:** Liam and Drustin let the [[Duke Erof of Cornwall|Duke of Cornwall]] and his castellan pass instead of stopping them.
+- **Merlin option:** [[Drustin]] still knows the route to [[Merlin]] at the [[Standing Stones of Exmoor]], but waking him remains forbidden/dangerous unless the realm depends on it.
+- **Loch Lomond cost:** Geraint and Asterius gained gold but feel spiritually poorer after the burning-heart/toil choice.
+- **Cushion Cave rumor:** [[Assterius|Asterius]] firmly believes Liam and Drustin hooked up in the Cushion Cave; this is his suspicion, not confirmed fact.
 
 ## Next session questions
-- How do Millicent, Geraint, and Asterius escape the fountain visions?
-- What does the wolf in France mean for Millicent and Geraint?
-- Is the crown in Loch Lomond also Grail-like, and what role does the [[Black Glass Dagger]] play?
-- Should Liam and Drustin seek Merlin at Exmoor — and what would make the realm’s need dire enough to wake him?
+- Where exactly is Millicent, and can the others recover her from the Loch Lomond vision/death space?
+- What did Geraint and Asterius lose at the burning heart wreathed in thorns?
+- What consequences follow Liam and Drustin letting the Duke of Cornwall pass?
+- Is the City of the Legions a resting point, a new hook, or the next stage of the crown/Grail quest?
 
 See: [[Open Threads & Mysteries]]

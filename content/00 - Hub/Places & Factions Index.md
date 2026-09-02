@@ -86,6 +86,7 @@
 - [[River Exe]] — River route toward [[Exmoor]] and Merlin’s standing stones. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
 - [[Exmoor]] — Region where Merlin can be found at the [[Standing Stones of Exmoor]]. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
 - [[Standing Stones of Exmoor]] — Merlin’s hidden location; he must not be awakened unless the realm depends on it. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
+- [[River Taw]] — river where [[Liam]] and [[Drustin]] find about 2,000 Cornishmen blocking the far bank during the Cornwall crisis. *([[Session 037 - The Seven Tests, the Whale, and the City of Legions|S37]])*
 - [[Tor of Glastonbury (Ynys Wydrin)]] — Pagan shadow-gate / Christian evil-gate framing. *([[Session 010 - The Silent Town of Wells and the Ogre of the Marsh|S10]])*
 - [[Flooded Shrine of the Well]] — Deep shrine with the Lady-of-the-Well bargain. *([[Session 011 - The Hag of the Passage and the Lady of the Well|S11]])*
 - [[Frome Stones]] — Thin place / cave-spring route into the [[Otherworld]] (entered in 487 with [[Guido (The Guide)]]). *([[Session 020 - The Road Beneath the World|S20]])*
@@ -110,7 +111,7 @@
 - [[Serpent Lodge]] — Wilderspool healers’ guild revealed as serpent-things; destroyed in Session 18. *([[Session 018 - The Serpent Lodge and the Fall of Ælflaed|S18]])*
 - [[Wilderspool - True Well (Qui non dat quod habet)]] — the ancient inscriptioned well / bargain site; offerings made in Session 19. *([[Session 019 - The Well of Bargains and the Demon Princess|S19]])*
 - [[Wyrd Pool]] — Taboo-ridden sacred pool in the hills northwest of Wilderspool; serpent rite site; taboo kills horses. *([[Session 017 - The Wyrd Pool of Wilderspool|S17]])*
-- [[City of the Legions]] — southern city with chirurgeons; wintering after the Serpent Lodge battle; Madoc saved here. *([[Session 018 - The Serpent Lodge and the Fall of Ælflaed|S18]])*
+- [[City of the Legions]] — southern city with chirurgeons; wintering after the Serpent Lodge battle; Madoc saved here; later reached again after the Loch Lomond/whale ordeal. Also called Deva/Chester; known for tanneries, Daven cheese, Roman walls, the former Legio XX Valeria Victrix fortress, a bishopric, a great amphitheater, a ghost centurion, and the Cheshire Cycle plays. *([[Session 018 - The Serpent Lodge and the Fall of Ælflaed|S18]], [[Session 037 - The Seven Tests, the Whale, and the City of Legions|S37]])*
 
 ---
 

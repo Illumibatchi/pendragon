@@ -1,4 +1,4 @@
-> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 036**.
+> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 037**.
 
 ## Year 480 - The early days: squires of Salisbury (Sessions 000-002)
 - The campaign opens in the **Uther Period** with a group of squires serving the household knights of **[[Count Roderick of Salisbury]]**. *(See: [[Session 000 - The Young Squires of Salisbury]])*
@@ -179,3 +179,9 @@
 - The northern questers pass through [[Gore|Gorre]] and win hospitality at [[Gaiholm]] from [[Prince Urion]] by returning the shield found on the slain Gorre knights. They learn the fighting men are away under [[Prince Bademagu|Bademagu]], then continue by boat past [[Alclud]] to [[Loch Lomond]], where silver scales and a [[Silver-Haired Woman of Loch Lomond|silver-haired woman]] lead them to the [[Loch Lomond Fountain]].
 - At the fountain, [[Sir Geraint|Geraint]] and [[Millicent]] see wolf-linked visions of their lives ending in France, while [[Assterius|Asterius]] discovers [[Love-Sun Water]] and uses it to cleanse the altar. Geraint is baptized and vanishes into the fountain; Millicent and Asterius follow into visions involving [[Aurelius]], Geraint’s mother, Duty and Pleasure, a hilltop well, and [[Sir Madoc]].
 - In the south, [[Liam]] and [[Drustin]] find [[Exeter]] empty, are rushed through cagey [[Glastonbury]], and are barred from [[Wells]]. Drustin’s Merlin passions earn a hidden route to [[Merlin]] at the [[Standing Stones of Exmoor]], with the warning not to wake him unless the realm depends on it. *(See: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*
+
+
+## Year 490–491 - The Seven Tests, the Whale, and the City of Legions (Session 037)
+- [[Sir Geraint|Geraint]] and [[Assterius|Asterius]] continue through the Loch Lomond vision-road, passing the lord’s-water, Wroth, and Gluttony tests; the Envy test remains uncertain after a vision of Uther, Rachel, and Ygraine. When they choose toil over comfort, a burning heart wreathed in thorns leaves them feeling they have lost something priceless, even though they later find **£200 in gold** at [[Loch Lomond]].
+- [[Liam]] and [[Drustin]] let the [[Duke Erof of Cornwall|Duke of Cornwall]] and his castellan pass, then encounter a Cornish force across the River Taw. After mermaid magic at a moonlit pool, they wake naked in a bleeding Cushion Cave inside a living creature and are eventually spat from a whale into the Irish Sea.
+- Geraint and Asterius winter with Danes, receive impressive helmets, sail south, and recover Liam and Drustin from the sea before all four arrive near the [[City of the Legions]]. [[Millicent]] remains absent/lost from the active events. *(See: [[Session 037 - The Seven Tests, the Whale, and the City of Legions]])*

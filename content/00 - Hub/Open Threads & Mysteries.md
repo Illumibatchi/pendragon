@@ -1,13 +1,12 @@
 > Rolling list of unresolved mysteries and active campaign threads. Keep this page broad; use **Current Status** for “where we are right now.”
 
-## Active / high-priority as of end of [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|Session 036]]
+## Active / high-priority as of end of [[Session 037 - The Seven Tests, the Whale, and the City of Legions|Session 037]]
 
-- **Loch Lomond fountain visions:** [[Sir Geraint|Geraint]], [[Millicent]], and [[Assterius|Asterius]] entered the [[Loch Lomond Fountain]] and are now separated in dream/death spaces. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*
-- **Crown/Grail at Loch Lomond:** the questers reached the lake from [[Archbishop Dubricus|Dubricus]]’ vision, found a supernatural fountain and altar, and suspect the crown may be Grail-like. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*
-- **Merlin at Exmoor:** [[Drustin]] learned [[Merlin]] can be found at the [[Standing Stones of Exmoor]], but must not be awakened unless the realm depends upon it. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*
-- **Tintagel siege:** [[Uther Pendragon|Uther]] remains entangled at [[Tintagel]], while [[Exeter]] is empty and movements suggest forces circled back toward Tintagel. *(Sources: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]], [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*
-- **Wells closed to Uther’s men:** maidens of the lake bar [[Liam]] and [[Drustin]] from [[Wells]] because of Uther allegiance. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*
-- **Geraint and Asterius need restoration:** [[Sir Geraint|Geraint]] remains the Nameless Knight and [[Assterius|Asterius]] remains the Homeless Knight; the Loch Lomond fountain may be part of that restoration. *(Sources: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]], [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*
+- **Millicent missing:** [[Millicent]] remains absent/lost after entering the [[Loch Lomond Fountain]] visions and did not participate in the active events of Session 037. *(Sources: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]], [[Session 037 - The Seven Tests, the Whale, and the City of Legions]])*
+- **Crown/Grail quest compromised:** [[Sir Geraint|Geraint]] and [[Assterius|Asterius]] pass several moral tests but choose toil, see a burning heart wreathed in thorns, gain Loch Lomond gold, and feel they lost something priceless. *(Source: [[Session 037 - The Seven Tests, the Whale, and the City of Legions]])*
+- **Merlin at Exmoor:** [[Drustin]] knows [[Merlin]] can be found at the [[Standing Stones of Exmoor]], but must not be awakened unless the realm depends upon it. *(Sources: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]], [[Session 037 - The Seven Tests, the Whale, and the City of Legions]])*
+- **Cornwall/Tintagel crisis:** [[Liam]] and [[Drustin]] let the [[Duke Erof of Cornwall|Duke of Cornwall]] and his castellan pass, while a Cornish force of about 2,000 men is positioned across the [[River Taw]]. *(Source: [[Session 037 - The Seven Tests, the Whale, and the City of Legions]])*
+- **Geraint and Asterius need restoration:** [[Sir Geraint|Geraint]] remains the Nameless Knight and [[Assterius|Asterius]] remains the Homeless Knight; the Loch Lomond trials may be part of that restoration, but the outcome is uncertain. *(Sources: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]], [[Session 037 - The Seven Tests, the Whale, and the City of Legions]])*
 
 ## Open threads / mysteries (in session order)
 
@@ -106,3 +105,6 @@
 - **(490 / S36) Wolf in France:** both [[Millicent]] and [[Sir Geraint|Geraint]] see life-visions ending in France with a wolf making eye contact. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]]).*
 - **(490 / S36) Merlin sleeping at Exmoor:** [[Merlin]] can be found at the [[Standing Stones of Exmoor]], but the maidens warn not to wake him unless the realm depends upon it. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]]).*
 - **(490 / S36) Duchess at Glastonbury:** Liam sees the Duchess watching from shadows as he and Drustin leave cagey [[Glastonbury]]; her purpose is unknown. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]]).*
+
+- **(490 / S37) Cushion Cave / whale ordeal:** [[Liam]] and [[Drustin]] survive mermaid magic, a bleeding cushion-lined living chamber, and being spat from a whale; [[Assterius]] firmly believes they hooked up there, but that remains his suspicion rather than confirmed fact. *(Source: [[Session 037 - The Seven Tests, the Whale, and the City of Legions]])*
+- **(490 / S37) City of Legions hooks:** the party arrives near [[City of the Legions|Deva/Chester]], with local hooks including the Cathedral of the Headless Martyr, a ghostly centurion, a huge amphitheater, and the Cheshire Cycle plays. *(Source: [[Session 037 - The Seven Tests, the Whale, and the City of Legions]])*

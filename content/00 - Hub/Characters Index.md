@@ -95,6 +95,7 @@
 - [[Silver-Haired Woman of Loch Lomond]] — mysterious naked silver-haired woman who leads the questers toward the Loch Lomond fountain.
 - [[Fox-girl of the Forest of Gloom]] — reported fox-fae driven off with cold iron near the Forest of Gloom.
 - [[Black Knight at the Well]] — vision figure blocking passage to a hilltop well.
+- [[Xorle]] — red-haired mermaid/water-woman who pulls [[Liam]] beneath a moonlit pool during the Loch Lomond vision-road.
 
 ## Saxons / northern war figures
 - [[Eosa “the Giant” Horsason]] - King of the Deira Saxons; ransom/torque; York parley.

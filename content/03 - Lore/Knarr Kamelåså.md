@@ -18,3 +18,5 @@ A Danish knarr / party boat that carries [[Sir Geraint|Geraint]] and [[Assterius
 
 ## Timeline
 - **(490–491 / Winter)** — Carries Geraint and Asterius south, recovers Liam and Drustin from the whale incident, and drops the reunited party near the [[City of the Legions]]. *(Source: [[Session 037 - The Seven Tests, the Whale, and the City of Legions]])*
+
+- **491:** [[Cnute of Kobn]] brings [[Millicent]] aboard the Kamelåså from [[Alclud]] and returns her to the [[City of the Legions]]. *(Source: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*

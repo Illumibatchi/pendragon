@@ -59,6 +59,7 @@
 - [[Damsel Diana]] — messenger from [[Lady Wells]] warning that Excalibur must return to the [[Ladies of the Lake]]; Liam has Roderick’s leave to court her, pending proper permission and possible royal objection.
 - [[Lady Ellen of Winchbank]] - unconventional heiress; ward of the crown; promised to Roderick.
 - [[Lady Rachel of Carbonog]] - healer; pagan-leaning methods; repeatedly saves PCs.
+- [[Damsel Ella of Caer Ergyng]] — Rachel’s lady-in-waiting; seventh daughter of the Lord of [[Glevum]]; wooed by [[Liam]] at Geraint and Rachel’s wedding feast.
 - [[Duchess of Silchester]] - host at Silchester during levy absence.
 - [[Lady Rosalyn]] - Duke of the March's daughter; generous and merciful; interested in [[Drustin]], but her father requires him to become a banneret before considering marriage.
 - [[Lady Llylla (Shisha)]] - wealthy and beautiful; infamous cruelty to servants.
@@ -98,12 +99,16 @@
 - [[Xorle]] — red-haired mermaid/water-woman who pulls [[Liam]] beneath a moonlit pool during the Loch Lomond vision-road.
 
 ## Saxons / northern war figures
+- [[King Ælle of Sussex]] — South Saxon king who takes [[Pevensey]] while Uther is occupied in Cornwall.
+- [[Cissa]] — Ælle’s son, bringing continental German reinforcements.
 - [[Eosa “the Giant” Horsason]] - King of the Deira Saxons; ransom/torque; York parley.
 - [[King Wihtlaeg of the Angles]] — child King of the Angles captured alive at [[Peterborough]] after [[Sir Madoc]] chose mercy.
 - [[Ælflaed]] - Eosa's daughter; magical slippers; Wilderspool mission.
 - [[Rori of Newark]] — castellan; allies against Eosa's warband.
 
 ## Other NPCs / stubs (auto-listed)
+- [[Cnute of Kobn]] — Saxon-accented boatman at [[Alclud]] who returns [[Millicent]] south aboard the [[Knarr Kamelåså]].
+- [[Friar Jonas]] — Grey friar who interprets the whale as a test of faith and devotion.
 - [[Earl of Jagent]] — lord of [[Jagent]] whose daughter is locked away due to a dragon-abduction prophecy.
 - [[Daughter of the Earl of Jagent]] — tower-bound daughter of the Earl of Jagent; an oracle foretold she would be abducted by a dragon.
 - [[Knight Commander Caradoc]] — burns Dunkerton; conroi slaughtered by a giant.

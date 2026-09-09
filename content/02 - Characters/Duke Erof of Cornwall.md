@@ -21,3 +21,5 @@ Attends Easter court at Sarum during preparations for Ellen's marriage and Uther
 - **(490)** — At [[Sir Madoc]]’s funeral feast, finally notices Uther’s improper desire for [[Ygraine]] after a misunderstanding involving [[Liam]]; leaves hastily with Ygraine, straining the recent reconciliation. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*
 - **490:** Becomes the target of Uther’s siege at [[Exeter]], though the emptied town and evasive parley suggest he may have already slipped away. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
 - **490:** Remains Uther’s target at [[Tintagel]]; Uther’s council focuses on cutting off any escape by sea or secret route. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
+
+- **(491)** — Surrounded at [[Castle Jagent]] by Uther’s army, with Uther threatening to reduce the castle if Cornwall does not surrender. *(Source: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*

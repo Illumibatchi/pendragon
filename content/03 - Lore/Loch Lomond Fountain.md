@@ -13,3 +13,5 @@ Supernatural fountain-and-altar clearing near [[Loch Lomond]], reached after the
 
 ## Timeline
 - **490:** [[Sir Geraint]] and [[Millicent]] see wolf-linked life visions in the fountain; [[Assterius|Asterius]] drinks from it, collects Love-Sun Water, cleanses the altar, and later follows Geraint and Millicent into the fountain. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*
+
+- **491:** Millicent’s part of the vision-road resolves through an impossible life with [[Sir Madoc]], the white whale, [[Xorle]], faerie food, a bacchanal, and the gilded tempter before she returns to the real world. *(Source: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*

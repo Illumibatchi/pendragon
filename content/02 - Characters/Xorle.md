@@ -15,3 +15,5 @@ Red-haired mermaid or water-woman encountered at a moonlit pool during the Loch 
 
 ## Timeline
 - **(490 / Winter)** — Pulls [[Liam]] into the water after he fails to resist her, leading into the Cushion Cave / whale ordeal with [[Drustin]]. *(Source: [[Session 037 - The Seven Tests, the Whale, and the City of Legions]])*
+
+- **(491)** — Appears to [[Millicent]] as a siren/devourer of men after the white whale spits her into the sea; Millicent wounds her with a dagger while inspired by Love of Family. *(Source: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*

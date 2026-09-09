@@ -23,3 +23,5 @@ A lady-in-waiting at Winchbank known for her healing skill. Uses partly pagan me
 - **(481)** — Welcomed knights to Caer Bannog for winter lodging with her brother Sir Ector. *(Source: [[Session 008 - The Giant King of Deira and the Fairy Road]])*
 - **(483)** — At Easter court, exchanged stories with Sir Geraint; formerly served as lady-in-waiting for Lady Ellen. *(Source: [[Session 014 - Easter Court at Sarum and the Duel of Sir Marius]])*
 - **(487)** — Her courtship with [[Sir Geraint]] advances at the [[Sarum]] feast; she tells him he has become twice the hero since last they met. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
+
+- **(491)** — Marries [[Sir Geraint]] at the [[House of Ector]]; her lady-in-waiting [[Damsel Ella of Caer Ergyng]] is wooed by [[Liam]]. *(Source: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*

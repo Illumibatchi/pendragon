@@ -16,3 +16,5 @@ Western duchy ruled by [[Duke Erof of Cornwall]] and associated with [[Ygraine]]
 
 - **(490 / Spring)** — Through [[Merlin]]’s urging, [[Duke Erof of Cornwall]] reconciles with [[Uther Pendragon|Uther]] and marches north with a combined army against the Saxons. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
 - **490:** Cornish forces sally from [[Tintagel]] against Uther’s army but are pushed back into the fortress, leaving the siege established. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
+
+- **491:** [[Duke Erof of Cornwall|Gorlois]] is surrounded at [[Castle Jagent]], with Uther threatening destruction if Cornwall does not surrender. *(Source: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*

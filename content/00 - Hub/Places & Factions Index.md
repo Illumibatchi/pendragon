@@ -57,6 +57,7 @@
 
 ## Jagent / Exeter / northern crown quest
 - [[Jagent]] — Pictish-dominated border county where Uther musters before marching on Exeter. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
+- [[Castle Jagent]] — Castle where [[Duke Erof of Cornwall|Gorlois]] is surrounded by Uther’s siege engines. *([[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent|S38]])*
 - [[Lindinis]] — Also called Ilchester; county seat of Jagent and site of the tower holding the [[Daughter of the Earl of Jagent]]. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
 - [[Exeter]] — Cornish stronghold besieged by Uther; the surrounding town was deliberately emptied before his army arrived. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
 - [[Galvoie]] — Minor Cambrian kingdom in the Severn Valley, increasingly isolated by expanding enchanted forests. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
@@ -116,7 +117,7 @@
 ---
 
 ## Notable items / relics / symbols
-- [[Knarr Kamelåså]] — Danish knarr / party boat that carries Geraint and Asterius south, rescues Liam and Drustin from whale expulsion, and has a table note to appear in every episode. *([[Session 037 - The Seven Tests, the Whale, and the City of Legions|S37]])*
+- [[Knarr Kamelåså]] — Danish knarr / party boat that carries Geraint and Asterius south, rescues Liam and Drustin from whale expulsion, returns Millicent from Alclud, and has a table note to appear in every episode. *([[Session 037 - The Seven Tests, the Whale, and the City of Legions|S37]], [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent|S38]])*
 - [[Shrine of Hecate]] — Mountain cave-shrine of the Triple Goddess; offers a dangerous ritual enforced by the [[Hounds of Hecate]]. *([[Session 034 - Erge, Exeter, and the Hounds of Hecate|S34]])*
 - [[Hounds of Hecate]] — Soul-devouring supernatural hounds bound to the shrine’s failed trials. *([[Session 034 - Erge, Exeter, and the Hounds of Hecate|S34]])*
 - [[Shield of St. Crispin]] — Angel-guarded holy shield recovered at Downton and reclaimed by [[Sir Gerry]] in Session 023. *([[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern|S6]], [[Session 023 - The Dragon Beneath the Mine|S23]])*
@@ -143,6 +144,7 @@
 - [[Irish Invaders]] — Irish host under Pascent (Vortigern’s son). *([[Session 002 - Wolves, Hillmen, and the Ogre’s Trail|S2]], [[Session 005 - The Fairy Dragon and the Ogre’s Return|S5]], [[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern|S6]], [[Session 007 - The Vigil and the Knights of the High King|S7]])*
 
 ### Saxons / north
+- [[Pevensey]] — Sussex city starved and massacred by [[King Ælle of Sussex|Ælle]] and [[Cissa]] while Uther is occupied with Cornwall. *([[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent|S38]])*
 - [[Deira Saxons]] — Eosa’s faction; York/Sherwood/Wilderspool thread. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]], [[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead|S16]])*
 - [[Angles of Anglia]] — Angles/Angles-in-Anglia pressure; siege of Lincoln; their child king [[King Wihtlaeg of the Angles]] is captured alive at Peterborough. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]], [[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 030 - The Angel’s Command and the Child King|S30]])*
 - [[Saxon Warriors (Purdue Forest)]] — Saxon attackers in Purdue ambush. *([[Session 003 - The Empty Castle and the Forest Ambush|S3]])*
@@ -155,7 +157,7 @@
 - [[High King’s Household]] — Direct household knights of the High King. *([[Session 008 - The Giant King of Deira and the Fairy Road|S8]])*
 - [[Gore]] — Northern land/faction associated with Bagdemagus; raiders from Gore killed [[Lady Appleby]]’s husband; [[Gaiholm]] is its seat. *([[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]], [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
 - [[Gaiholm]] — Seat of [[Gore|Gorre]], where [[Prince Urion]] grants hospitality. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
-- [[Alclud]] — Hill town passed by the questers en route to [[Loch Lomond]]. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
+- [[Alclud]] — Hill town passed en route to [[Loch Lomond]]; later where [[Millicent]] emerges naked/muddy from the vision-road and meets [[Cnute of Kobn]]. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]], [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent|S38]])*
 - [[Malahaut]] — Northern kingdom; appeals to Uther; chivalric knights; raiders from Malahaut killed [[Lady Appleby]]’s sons. *([[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]], [[Session 015 - The Road to York and the Ambush in Sherwood|S15]], [[Session 016 - The Centurion-King, the Well of Wilderspool, and the Hag of the Dead|S16]], [[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]])*
 - [[Lothian]] — northern kingdom of [[King Lot of Lothian]], now fighting Saxons alongside Malahaut. *([[Session 028 - The Easter Feast at the White Tower|S28]])*
 - [[Caledonia]] — Northern land Uther failed to conquer. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
@@ -193,6 +195,7 @@
 - [[Werewolves of Wildenburg]] — wolf-headed supernatural threat tied to the [[Lord of Wildenburg]]. *([[Session 026 - The Wolves of Wildenburg|S26]])*
 
 ## Background / wider-world lore backfill
+- [[Glevum]] — origin of [[Damsel Ella of Caer Ergyng]]’s father, the Lord of Glevum.
 - [[Abbey of Glastonbury]] — religious site tied to the Glastonbury/Wells mythic geography.
 - [[Bourton]] — referenced campaign location; keep indexed for travel/political continuity.
 - [[Holy Grail]] — major Christian relic discovered by [[Liam]] beneath the altar in the [[House of Constantine]].
@@ -205,6 +208,7 @@
 ## Additional indexed lore / creatures / items backfill
 - [[Black Dog of the Moors]] — ominous creature/omen warned of by [[Drimant]].
 - [[Caer Bannog]] — winter refuge / Rachel and Ector connection.
+- [[House of Ector]] — Geraint and Rachel’s wedding-feast location, watched by a dwarf agent of the [[King under the Mountain]].
 - [[Cambrian Archers]] — hostile/armed group tied to early Salisbury threats.
 - [[Cambrian Hillmen]] — hillmen encountered in the [[Forest of Gloom]].
 - [[Carbonog]] — region associated with [[Lady Rachel of Carbonog]].

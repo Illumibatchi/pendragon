@@ -1,22 +1,23 @@
-## Where we left off (end of [[Session 037 - The Seven Tests, the Whale, and the City of Legions|Session 037]])
-The active party members have reunited near the [[City of the Legions]] after the Loch Lomond vision-road and whale ordeal. [[Sir Geraint|Geraint]] and [[Assterius|Asterius]] passed several moral tests, found **£200 in gold** at [[Loch Lomond]], but feel they lost something priceless after choosing toil and passing the burning-heart altar. [[Liam]] and [[Drustin]] survived the mermaid/Cushion Cave/whale incident and were spat naked into the Irish Sea before being hauled aboard the [[Knarr Kamelåså]].
+## Where we left off (end of [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent|Session 038]])
+The reunited company has reached [[Castle Jagent]], where [[Uther Pendragon|Uther]] has surrounded [[Duke Erof of Cornwall|Duke Erof/Gorlois]] and ordered siege engines to reduce the castle if Cornwall does not surrender. The siege lines are stale and demoralized: soldiers, knights, and lords are bored, exhausted, and ready to go home, while Uther appears sleepless, obsessive, and mentally unstable.
 
-[[Millicent]] did not participate in the active events and remains absent/lost after the Loch Lomond vision sequence. Winter Phase mechanics still occurred for her household, including conception of a female child; her Father/Steward remains in service but is now sickly.
+[[Millicent]] has returned from the [[Loch Lomond Fountain]] vision-road. She rejected an impossible life with [[Sir Madoc]], survived the white whale/Cushion Room and [[Xorle]] the siren, refused faerie food and other temptations, cast away the gilded tempter’s gold before a thorn-sheathed heart, emerged at [[Loch Lomond]], and came south through [[Alclud]] with [[Cnute of Kobn]] aboard the [[Knarr Kamelåså]]. She rejoined the party at [[Sir Geraint|Geraint]] and [[Lady Rachel of Carbonog|Rachel]]’s wedding feast.
+
+Far away, while Uther is occupied with Cornwall, [[King Ælle of Sussex|Ælle]] and [[Cissa]] have taken [[Pevensey]] after starvation and slaughtered its inhabitants as sacrifices to Wotan.
 
 ## Immediate fallout
-- **Party location:** Geraint, Asterius, Liam, and Drustin are near the [[City of the Legions]] / Deva / Chester after being dropped by the [[Knarr Kamelåså]].
-- **Millicent absent:** Millicent remains gone/lost; her fate is unresolved. Her Father/Steward is sickly after winter.
-- **Geraint and Rachel:** Geraint heads off to marry [[Lady Rachel of Carbonog|Rachel]].
-- **Cornwall consequence:** Liam and Drustin let the [[Duke Erof of Cornwall|Duke of Cornwall]] and his castellan pass instead of stopping them.
-- **Merlin option:** [[Drustin]] still knows the route to [[Merlin]] at the [[Standing Stones of Exmoor]], but waking him remains forbidden/dangerous unless the realm depends on it.
-- **Loch Lomond cost:** Geraint and Asterius gained gold but feel spiritually poorer after the burning-heart/toil choice.
-- **Cushion Cave rumor:** [[Assterius|Asterius]] firmly believes Liam and Drustin hooked up in the Cushion Cave; this is his suspicion, not confirmed fact.
+- **Party location:** At the siege lines around [[Castle Jagent]].
+- **Uther crisis:** Uther’s judgment is in question; he appears consumed by Cornwall/Ygraine and willing to destroy the castle.
+- **Roderick:** [[Count Roderick of Salisbury|Earl Roderick]]’s Loyalty to Uther has waned. He is thinking about the [[House of Constantine|Bloodline of Constantine]], not Uther personally.
+- **Meredith:** Roderick does not appear to know, or is not considering, [[Meredith (daughter of Madoc and Millicent)|Meredith]]’s possible succession significance.
+- **Saxon threat:** [[Pevensey]] has fallen in a massacre while British strength is tied up at Jagent.
+- **Feast aftermath:** Geraint and Rachel are married; [[Liam]] has developed **Adoration (Ella of Caer Ergyng) 16** for [[Damsel Ella of Caer Ergyng]].
 
 ## Next session questions
-- Where exactly is Millicent, and can the others recover her from the Loch Lomond vision/death space?
-- What did Geraint and Asterius lose at the burning heart wreathed in thorns?
-- What consequences follow Liam and Drustin letting the Duke of Cornwall pass?
-- Is the City of the Legions a resting point, a new hook, or the next stage of the crown/Grail quest?
-- Check on the manors next session, especially Millicent’s sickly Father/Steward and wider winter fallout.
+- Can Uther be counseled, checked, replaced, or killed — and what would that do to Britain?
+- Should the party tell Roderick more about Meredith’s blessed/battleborn significance?
+- Is [[Merlin]] at the [[Standing Stones of Exmoor]] now necessary enough to wake?
+- What exactly did Millicent lose or gain at the thorn-sheathed heart?
+- How urgent is the Saxon disaster at Pevensey compared to ending the Jagent siege?
 
 See: [[Open Threads & Mysteries]]

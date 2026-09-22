@@ -68,3 +68,4 @@ flowchart TB
 - **(490–491 / Winter)** — Passes through the Loch Lomond moral tests with [[Sir Geraint|Geraint]], helps recover **£200 in gold**, winters with Danes aboard the [[Knarr Kamelåså]], and firmly believes Liam and Drustin hooked up in the Cushion Cave, though this remains his suspicion rather than confirmed fact. *(Source: [[Session 037 - The Seven Tests, the Whale, and the City of Legions]])*
 
 - **(491)** — Performs well at Geraint and Rachel’s wedding feast, gains glory for modestly telling of his deeds, and toasts the dwarves and [[King under the Mountain]] successfully. *(Source: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*
+- **(491)** — Helps test the Exmoor stones with heat and blood, remains behind while the entry team crosses [[The Veil]], and briefs [[Merlin]] on Uther’s obsession with Ygraine and the danger at [[Castle Jagent]]. *(Source: [[Session 039 - The Veil, the Siren, and Merlin’s Release]])*

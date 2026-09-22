@@ -97,6 +97,7 @@
 - [[Fox-girl of the Forest of Gloom]] — reported fox-fae driven off with cold iron near the Forest of Gloom.
 - [[Black Knight at the Well]] — vision figure blocking passage to a hilltop well.
 - [[Xorle]] — red-haired mermaid/water-woman who pulls [[Liam]] beneath a moonlit pool during the Loch Lomond vision-road.
+- [[The Siren at the Exmoor Pool]] — fey water-woman at the northern Exmoor pool; bargains in Beauty and Life and releases Merlin after the party’s offering.
 
 ## Saxons / northern war figures
 - [[King Ælle of Sussex]] — South Saxon king who takes [[Pevensey]] while Uther is occupied in Cornwall.

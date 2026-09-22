@@ -38,6 +38,7 @@
 |  35 | 2026-08-19 |          490 | The Battle of Tintagel and the Brownies of Appleby                   | [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]]                   |
 |  36 | 2026-08-26 |          490 | The Sun-Water of Loch Lomond and the Road to Merlin                  | [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]]                  |
 |  37 | 2026-09-02 |      490–491 | The Seven Tests, the Whale, and the City of Legions                  | [[Session 037 - The Seven Tests, the Whale, and the City of Legions]]                  |
-  38 | 2026-09-09 |          491 | The Wedding Feast, the Whale Road, and the Siege of Jagent | [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]] |
+|  38 | 2026-09-09 |          491 | The Wedding Feast, the Whale Road, and the Siege of Jagent | [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]] |
+|  39 | 2026-09-16 |          491 | The Veil, the Siren, and Merlin’s Release | [[Session 039 - The Veil, the Siren, and Merlin’s Release]] |
 
 > I’ll maintain this table as we add sessions.

@@ -64,3 +64,4 @@ flowchart TB
 - **(490 / Winter)** — Lets the [[Duke Erof of Cornwall|Duke of Cornwall]] and castellan pass, then is taken underwater by [[Xorle]], wakes naked with [[Drustin]] in the Cushion Cave, and is later spat from a whale into the Irish Sea. *(Source: [[Session 037 - The Seven Tests, the Whale, and the City of Legions]])*
 
 - **(491)** — Woos [[Damsel Ella of Caer Ergyng]] at Geraint and Rachel’s wedding feast and gains **Adoration (Ella of Caer Ergyng) 16**; also asks [[Friar Jonas]] about the whale/Cushion Room ordeal. *(Source: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*
+- **(491)** — Finds the northern pool and thirteen-stone circle, helps deal with [[The Siren at the Exmoor Pool]], crosses [[The Veil]], orates as part of the beauty-offering that frees [[Merlin]], and brews Merlin’s tea for Drustin. *(Source: [[Session 039 - The Veil, the Siren, and Merlin’s Release]])*

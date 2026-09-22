@@ -86,7 +86,7 @@
 - [[Taunton]] — Waypoint on the hidden route to [[Merlin]] at Exmoor. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
 - [[River Exe]] — River route toward [[Exmoor]] and Merlin’s standing stones. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
 - [[Exmoor]] — Region where Merlin can be found at the [[Standing Stones of Exmoor]]. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
-- [[Standing Stones of Exmoor]] — Merlin’s hidden location; he must not be awakened unless the realm depends on it. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]])*
+- [[Standing Stones of Exmoor]] — Merlin’s hidden location and blood-activated crossing through [[The Veil]] to the [[Plains of Ascalon]]. *([[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin|S36]], [[Session 039 - The Veil, the Siren, and Merlin’s Release|S39]])*
 - [[River Taw]] — river where [[Liam]] and [[Drustin]] find about 2,000 Cornishmen blocking the far bank during the Cornwall crisis. *([[Session 037 - The Seven Tests, the Whale, and the City of Legions|S37]])*
 - [[Tor of Glastonbury (Ynys Wydrin)]] — Pagan shadow-gate / Christian evil-gate framing. *([[Session 010 - The Silent Town of Wells and the Ogre of the Marsh|S10]])*
 - [[Flooded Shrine of the Well]] — Deep shrine with the Lady-of-the-Well bargain. *([[Session 011 - The Hag of the Passage and the Lady of the Well|S11]])*

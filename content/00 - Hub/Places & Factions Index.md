@@ -57,7 +57,7 @@
 
 ## Jagent / Exeter / northern crown quest
 - [[Jagent]] — Pictish-dominated border county where Uther musters before marching on Exeter. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
-- [[Castle Jagent]] — Castle where [[Duke Erof of Cornwall|Gorlois]] is surrounded by Uther’s siege engines. *([[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent|S38]])*
+- [[Castle Jagent]] — Castle where [[Duke Erof of Cornwall|Erof]] is surrounded by Uther’s siege engines. *([[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent|S38]])*
 - [[Lindinis]] — Also called Ilchester; county seat of Jagent and site of the tower holding the [[Daughter of the Earl of Jagent]]. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
 - [[Exeter]] — Cornish stronghold besieged by Uther; the surrounding town was deliberately emptied before his army arrived. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
 - [[Galvoie]] — Minor Cambrian kingdom in the Severn Valley, increasingly isolated by expanding enchanted forests. *([[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*

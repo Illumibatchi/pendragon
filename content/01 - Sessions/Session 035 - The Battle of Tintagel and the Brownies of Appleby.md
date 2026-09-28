@@ -43,8 +43,8 @@ Far north, [[Millicent]], [[Sir Geraint|Geraint]], and [[Assterius|Asterius]] re
 - **Return to battle:** After a brief rest, Liam insists that if he is fit to ride, he must fight. He and Drustin return to the field.
 - **Peasant levy:** The pair charge peasants defending themselves with farming implements. Drustin falls melancholy and does not kill them; Liam kills one, is critically struck by another, and is knocked from his horse before Squire Gwinas retrieves him.
 - **Strategic result:** The battle is inconclusive, but the Cornish army is forced back into the near-impregnable fortress of Tintagel.
-- **Uther’s council:** Uther calls a furious war council. Liam recommends siege, reasoning that Logres controls the main route and sea resupply looks doubtful. Drustin warns Gorlois and Ygraine might escape by sea or a secret route and suggests cutting off the duke rather than focusing only on the walls. Poisoning the wells is floated but not acted on.
-- **Siege begins:** Uther leans toward focusing on Gorlois himself. Drustin asks for rest; Uther grants it and says he will find greater knights. Liam and Drustin spend the rest of the fall at siege.
+- **Uther’s council:** Uther calls a furious war council. Liam recommends siege, reasoning that Logres controls the main route and sea resupply looks doubtful. Drustin warns Erof and Ygraine might escape by sea or a secret route and suggests cutting off the duke rather than focusing only on the walls. Poisoning the wells is floated but not acted on.
+- **Siege begins:** Uther leans toward focusing on Erof himself. Drustin asks for rest; Uther grants it and says he will find greater knights. Liam and Drustin spend the rest of the fall at siege.
 - **Arrival at Appleby:** The northern trio reaches Appleby. Sir Vardilain asks why they have come; they explain the quest is personal and connected to the Archbishop.
 - **Unicorn bargain:** Vardilain offers them a unicorn that eats all the strawberries: if they kill it, he keeps the meat and they may take the horn.
 - **Lady Appleby’s fear:** Lady Appleby asks whether the knights are from Gore/Gorre or Malahaut and fears they have come to take her chickens. She explains Gore killed her husband and Malahaut killed her sons, and that no knights remain to defend her.
@@ -63,7 +63,7 @@ Far north, [[Millicent]], [[Sir Geraint|Geraint]], and [[Assterius|Asterius]] re
 ## Characters (appeared / impacted)
 - [[Liam]] — Fights at Tintagel, is wounded, kills a peasant defender, is critically struck, and is rescued by Squire Gwinas.
 - [[Drustin]] — Wounded by Cornish champions, falls melancholy during the peasant encounter, and receives leave to rest during the siege.
-- [[Uther Pendragon|Uther]] — Begins the siege of Tintagel in fury and focuses on preventing Gorlois and Ygraine from escaping.
+- [[Uther Pendragon|Uther]] — Begins the siege of Tintagel in fury and focuses on preventing Erof and Ygraine from escaping.
 - [[Millicent]] — Separates from the party, meets an elvish damsel, finds hanged knights and a Gore shield, leaps onto the auroch, and is thrown.
 - [[Sir Geraint]] — Treats with brownies, requests protection for Lady Appleby, recognizes the Gore shield, and kills the giant auroch.
 - [[Assterius|Asterius]] — Investigates Appleby manor, helps win over the brownies through music, resists fairy food, and breaks his family silver spear against the auroch.
@@ -81,7 +81,7 @@ Far north, [[Millicent]], [[Sir Geraint|Geraint]], and [[Assterius|Asterius]] re
 - Horse survival / winter notes recorded in FVTT: Millicent’s charger dies; Drustin’s Clover of Wells Fields dies; Liam’s Clover of Wells Fields dies; Liam’s hobby Rabbit survives. No separate horse pages created for this session.
 
 ## Consequences & New Facts
-- Uther’s siege of Tintagel is now established, but the fortress remains formidable and Gorlois/Ygraine’s escape routes remain a concern.
+- Uther’s siege of Tintagel is now established, but the fortress remains formidable and Erof/Ygraine’s escape routes remain a concern.
 - Liam and Drustin are both wounded and no longer pressing the front line.
 - Appleby has suffered raids from Gore and Malahaut, leaving Lady Appleby without husband, sons, or reliable knightly protection.
 - The local brownies can be bargained with through courtesy, music, restraint, and practical aid.
@@ -91,6 +91,6 @@ Far north, [[Millicent]], [[Sir Geraint|Geraint]], and [[Assterius|Asterius]] re
 
 ## Timeline entries to add
 - **(490 / Autumn)** — Cornish forces sally from [[Tintagel]] to disrupt [[Uther Pendragon|Uther]]’s siege works; [[Liam]] and [[Drustin]] survive hard fighting against foot soldiers, spear-armed knights, mounted champions, and peasant levy. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
-- **(490 / Autumn)** — The field battle at Tintagel is inconclusive, but Cornwall is forced back into the fortress; Uther’s siege begins while he seeks a way to prevent [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] from escaping. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
+- **(490 / Autumn)** — The field battle at Tintagel is inconclusive, but Cornwall is forced back into the fortress; Uther’s siege begins while he seeks a way to prevent [[Duke Erof of Cornwall|Erof]] and [[Ygraine]] from escaping. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
 - **(490 / Autumn)** — [[Millicent]], [[Sir Geraint|Geraint]], and [[Assterius|Asterius]] reach [[Appleby]], learn of raids from Gore and [[Malahaut]], and receive [[Sir Vardilain]]’s offer of a unicorn horn if they kill the strawberry-eating [[Unicorn of Appleby]]. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
 - **(490 / Autumn)** — The questers aid the [[Brownies of Appleby Forest]] by killing the [[Auroch of Appleby|giant auroch]] eating the clover, feeding Appleby and revealing [[Jacqueline of Appleby]]. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*

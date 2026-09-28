@@ -31,7 +31,7 @@ Referenced during the victory feast: known for lecherous ways and lacking truebo
 - **(485–486)** — Suffers major reversals in the north: wounded in the York campaign; Excalibur is shattered against Eosa without harming him. *(Source: [[Session 019 - The Well of Bargains and the Demon Princess]])*
 
 ---
-- **490:** Marches on [[Exeter]] to kill [[Duke Erof of Cornwall|Gorlois]] and take [[Ygraine]]; after [[Drustin]] reports the castle may be lightly held, orders an immediate assault. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
+- **490:** Marches on [[Exeter]] to kill [[Duke Erof of Cornwall|Erof]] and take [[Ygraine]]; after [[Drustin]] reports the castle may be lightly held, orders an immediate assault. *(Source: [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge]])*
 
 ## Lineage
 
@@ -62,8 +62,9 @@ flowchart TB
 - **(490 / Spring)** — Reconciled with [[Duke Erof of Cornwall]] through [[Merlin]]’s urging and arrives with a combined army to march north against the Saxons. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
 
 - **(490 / Spring)** — Wins the Battle of [[Lincoln]] with [[Duke Erof of Cornwall]] and calls a feast to celebrate both the victory and the battlefield birth of his granddaughter [[Meredith (daughter of Madoc and Millicent)|Meredith]]. *(Source: [[Session 031 - The Battle of Lincoln and the Birth of Meredith]])*
-- **(490)** — After [[Sir Madoc]] dies from his wounds, Uther is disturbed but quickly focuses on producing another heir; at Madoc’s funeral feast, his desire for [[Ygraine]] becomes openly dangerous and strains the peace with [[Duke Erof of Cornwall|Gorlois]]. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*
-- **490:** Begins the siege of [[Tintagel]] after Cornish forces are driven back into the fortress; furious at the council, he focuses on preventing [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] from escaping. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
+- **(490)** — After [[Sir Madoc]] dies from his wounds, Uther is disturbed but quickly focuses on producing another heir; at Madoc’s funeral feast, his desire for [[Ygraine]] becomes openly dangerous and strains the peace with [[Duke Erof of Cornwall|Erof]]. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*
+- **490:** Begins the siege of [[Tintagel]] after Cornish forces are driven back into the fortress; furious at the council, he focuses on preventing [[Duke Erof of Cornwall|Erof]] and [[Ygraine]] from escaping. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
 - **490:** Recalled in the Gorre context as having failed to conquer Summerland and Caledonia and as having fought [[Gore|Gorre]] only to be sent back south. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*
 
-- **(491)** — Surrounds [[Duke Erof of Cornwall|Gorlois]] at [[Castle Jagent]], orders siege engines built, and appears sleepless, obsessive, and dangerously unstable while the army’s morale decays. *(Source: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*
+- **(491)** — Surrounds [[Duke Erof of Cornwall|Erof]] at [[Castle Jagent]], orders siege engines built, and appears sleepless, obsessive, and dangerously unstable while the army’s morale decays. *(Source: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*
+- **(491)** — Leaves his pavilion secretly with [[Merlin]], sleeps through an unexplained forest ritual, vanishes in magical darkness, then emerges from [[Castle Jagent]] with [[Ygraine]] after [[Duke Erof of Cornwall|Erof]]’s death and proclaims a new imperial peace. *(Source: [[Session 040 - The Breach at Jagent]])*

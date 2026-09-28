@@ -37,6 +37,7 @@
 - [[Sir Gerry]] — passes the angelic test and bears the [[Shield of St. Crispin]] against the [[Dragon of the Roman Mine]].
 
 ## Knights / commanders (non-player)
+- [[Sir Rolf]] — knight at the Jagent siege; helped Millicent at the bridge and Liam near the drain.
 - [[Sir Corton]] — knight present at the Sarum feast; amused by Blaine’s lack of progress.
 - [[Sir Jerem]] - castellan of Duplain; early mission leader.
 - [[Sir Blaine]] - steward of Levcomagus; implicated in the fairy dragon "gift."
@@ -50,6 +51,7 @@
 - [[Sir Vardilain]] — Appleby knight/lord who offers the questers a unicorn-horn bargain.
 
 ## Squires / retainers
+- [[Squire Daniel]] — Uther’s squire at Jagent; reported Uther left with Merlin.
 - [[Lilwen]] — sixteen-year-old Yarnbrook local entrusted by [[Drustin]] with relief money during the 489 famine.
 - [[Iorath]] — Drustin-hired squire for Sir Geraint (son of a rich nobleman).
 
@@ -61,7 +63,7 @@
 - [[Lady Rachel of Carbonog]] - healer; pagan-leaning methods; repeatedly saves PCs.
 - [[Damsel Ella of Caer Ergyng]] — Rachel’s lady-in-waiting; seventh daughter of the Lord of [[Glevum]]; wooed by [[Liam]] at Geraint and Rachel’s wedding feast.
 - [[Duchess of Silchester]] - host at Silchester during levy absence.
-- [[Lady Rosalyn]] - Duke of the March's daughter; generous and merciful; interested in [[Drustin]], but her father requires him to become a banneret before considering marriage.
+- [[Lady Rosalyn]] - Duke of the March's daughter; generous and merciful; interested in [[Drustin]], but her father requires him to improve his rank/status before considering marriage.
 - [[Lady Llylla (Shisha)]] - wealthy and beautiful; infamous cruelty to servants.
 - [[Lady Triamors]] - heiress of Lickeyend; introduced by Dubricus.
 - [[Lady Rhianneth]] - Sir Marius' wife; manipulative; corrected source of Madoc's prior scandal and possible child.
@@ -119,7 +121,7 @@
 - [[Baron of Winchbank]]
 - [[Castellan of Vagon]]
 - [[Duke Edaris of the March]]
-- [[Duke Erof of Cornwall]] — husband of [[Ygraine]]; reconciled with Uther for the spring 490 northern march, but Uther’s renewed desire for Ygraine strains the peace and leads to the siege of Exeter.
+- [[Duke Erof of Cornwall]] — husband of [[Ygraine]]; reconciled with Uther for the spring 490 northern march, later besieged at Jagent and killed by [[Drustin]] at the breach.
 - [[Duke Ulfius of Silchester]]
 - [[King Cadwy of Summerland]]
 - [[Sir Leo]]

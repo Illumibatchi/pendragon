@@ -69,3 +69,4 @@ flowchart TB
 
 - **(491)** — Performs well at Geraint and Rachel’s wedding feast, gains glory for modestly telling of his deeds, and toasts the dwarves and [[King under the Mountain]] successfully. *(Source: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*
 - **(491)** — Helps test the Exmoor stones with heat and blood, remains behind while the entry team crosses [[The Veil]], and briefs [[Merlin]] on Uther’s obsession with Ygraine and the danger at [[Castle Jagent]]. *(Source: [[Session 039 - The Veil, the Siren, and Merlin’s Release]])*
+- **(491)** — Helps [[Millicent]] stop a retaliatory attack on Jagent’s Pictish civilians, tracks the forest trail, and fights in the breach assault after Liam opens the wall. *(Source: [[Session 040 - The Breach at Jagent]])*

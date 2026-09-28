@@ -1,4 +1,4 @@
-> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 038**.
+> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 040**.
 
 ## Year 480 - The early days: squires of Salisbury (Sessions 000-002)
 - The campaign opens in the **Uther Period** with a group of squires serving the household knights of **[[Count Roderick of Salisbury]]**. *(See: [[Session 000 - The Young Squires of Salisbury]])*
@@ -156,8 +156,8 @@
 
 ## Year 490 - Madoc’s funeral and Britain’s crown (Session 032)
 - After Lincoln, [[Sir Madoc]]’s wounds worsen during the southward journey: he loses his left leg at Kineton, his left arm at Corinium, and dies at [[Bath]]. He is buried at [[Stonehenge]] beside his uncle, likely [[Aurelius]].
-- At Madoc’s funeral feast in [[Sarum]], [[Millicent]] publicly grieves convincingly, while courtships sharpen: [[Drustin]] must become a banneret to pursue [[Lady Rosalyn]], and [[Liam]] mishandles the early steps of courting [[Damsel Diana]].
-- [[Uther Pendragon|Uther]]’s grief gives way to renewed heir pressure and obvious desire for [[Ygraine]], nearly causing a breach with [[Duke Erof of Cornwall|Gorlois]] at the funeral feast.
+- At Madoc’s funeral feast in [[Sarum]], [[Millicent]] publicly grieves convincingly, while courtships sharpen: [[Drustin]] must improve his rank/status to pursue [[Lady Rosalyn]], and [[Liam]] mishandles the early steps of courting [[Damsel Diana]].
+- [[Uther Pendragon|Uther]]’s grief gives way to renewed heir pressure and obvious desire for [[Ygraine]], nearly causing a breach with [[Duke Erof of Cornwall|Erof]] at the funeral feast.
 - [[Archbishop Dubricus]] says [[Sir Geraint|Geraint]] and [[Assterius|Asterius]] need a quest to remove the consequences of the [[House of Constantine]]. The conroi must choose between Uther’s path toward [[Cornwall]] and the quest for the [[Crown that could unite Britain]]. *(See: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*
 
 ## Year 490 - The Crown Quest, Exeter, and Giant Erge (Session 033)
@@ -168,7 +168,7 @@
 
 ## Year 490 - Erge, Exeter, and the Hounds of Hecate (Session 034)
 - At [[Exeter]], [[Liam]] and [[Drustin]] survive [[Uther Pendragon|Uther]]’s assault. Drustin is first onto the wall, fights through the defenders, and opens the gate; Liam spares a child soldier but is badly wounded.
-- Exeter falls, but [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] are absent. Uther drives the army onward toward [[Tintagel]], after Liam briefly delays the march and Drustin takes the blame.
+- Exeter falls, but [[Duke Erof of Cornwall|Erof]] and [[Ygraine]] are absent. Uther drives the army onward toward [[Tintagel]], after Liam briefly delays the march and Drustin takes the blame.
 - In the north, [[Millicent]], [[Sir Geraint|Geraint]], and [[Assterius|Asterius]] trick [[Giant Erge]] into chasing a supposed rival giant’s trail, then discover the [[Shrine of Hecate]]. Millicent attempts the maiden’s trial; the party defeats one of the [[Hounds of Hecate]] but leaves the ritual unfinished. *(See: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
 
 ## Year 490 - Tintagel and Appleby (Session 035)
@@ -189,9 +189,15 @@
 ## Year 491 - The Wedding Feast, the Whale Road, and the Siege of Jagent (Session 038)
 - [[Millicent]] completes her [[Loch Lomond Fountain]] ordeal: she rejects a false peaceful life with [[Sir Madoc]] and seven children, chooses her companions, survives the white whale/Cushion Room and [[Xorle]] the siren, refuses faerie food and other temptations, and casts away the gilded tempter’s gold before a thorn-sheathed heart.
 - Carried south from [[Alclud]] by [[Cnute of Kobn]] aboard the [[Knarr Kamelåså]], Millicent rejoins the companions at [[Sir Geraint|Geraint]] and [[Lady Rachel of Carbonog|Rachel]]’s wedding feast in the [[House of Ector]]. The feast brings new threads: [[Liam]] woos [[Damsel Ella of Caer Ergyng]], and a dwarf agent of the [[King under the Mountain]] watches the marriage’s political implications.
-- Celebration gives way to crisis at [[Castle Jagent]]. [[Uther Pendragon|Uther]] threatens to ruin the castle around [[Duke Erof of Cornwall|Gorlois]], while [[King Ælle of Sussex|Ælle]] and [[Cissa]] massacre [[Pevensey]]. At the siege lines, Uther appears dangerously unbalanced and [[Count Roderick of Salisbury|Roderick]]’s loyalty has waned as he worries about the [[House of Constantine|Bloodline of Constantine]]. *(See: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*
+- Celebration gives way to crisis at [[Castle Jagent]]. [[Uther Pendragon|Uther]] threatens to ruin the castle around [[Duke Erof of Cornwall|Erof]], while [[King Ælle of Sussex|Ælle]] and [[Cissa]] massacre [[Pevensey]]. At the siege lines, Uther appears dangerously unbalanced and [[Count Roderick of Salisbury|Roderick]]’s loyalty has waned as he worries about the [[House of Constantine|Bloodline of Constantine]]. *(See: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*
 
 ## Year 491 - The Veil, the Siren, and Merlin’s Release (Session 039)
 - With Uther’s siege of [[Castle Jagent]] threatening to wreck Britain from within, the company leaves Jagent to wake [[Merlin]] at the [[Standing Stones of Exmoor]]. Drustin’s Merlin-devotion reveals Merlin as a sleeping ghostly figure, but the party must cross [[The Veil]] to reach him.
 - Blood on the three Exmoor stones opens the way to the blue-sunned [[Plains of Ascalon]], where [[Drustin]], [[Millicent]], and [[Liam]] find Merlin asleep and chained beside [[The Siren at the Exmoor Pool]]. The siren demands Beauty or Life; the party wins Merlin’s release through Drustin’s composition, Millicent’s song, and Liam’s oratory.
 - Drustin’s bargain-madness leaves him permanently diminished (**-2 APP**) before Merlin’s improvised tea calms him. Briefed on Uther, Ygraine, and Jagent, Merlin says “fuck,” takes a horse, and rides toward the siege. *(See: [[Session 039 - The Veil, the Siren, and Merlin’s Release]])*
+
+
+## Year 491 - The Breach at Jagent (Session 040)
+- Back at [[Castle Jagent]], the company finds Uther absent, the bombardment continuing, and the army ready to turn on local Pictish civilians. [[Millicent]] restrains reprisals, seeks local intelligence, and receives a sealed black vial marked with two yellow dragons.
+- In the forest north of the siege, [[Merlin]] performs an unexplained ritual over a sleeping [[Uther Pendragon|Uther]] inside a stone circle. Fog and magical darkness follow; neither Merlin nor Uther remains at the ritual site afterward.
+- [[Liam]] turns Bruce and the monks’ barrel scheme into a real breach at the castle drain. The company charges the breach, where [[Duke Erof of Cornwall]] personally leads the defense. [[Drustin]] kills Erof in single combat after a jealousy-fueled clash over [[Ygraine]]. The defenders surrender, and Uther emerges from Jagent with Ygraine proclaiming imperial peace and security. *(See: [[Session 040 - The Breach at Jagent]])*

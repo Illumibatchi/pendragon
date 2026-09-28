@@ -4,6 +4,11 @@ kind: NPC (duke)
 first_seen_session: 14
 first_seen_year: 483
 role: "Duke of Cornwall"
+aliases:
+  - Gorlois
+  - Duke Gorlois
+  - Goloris
+  - Golores
 tags:
   - character
   - npc
@@ -23,3 +28,4 @@ Attends Easter court at Sarum during preparations for Ellen's marriage and Uther
 - **490:** Remains Uther’s target at [[Tintagel]]; Uther’s council focuses on cutting off any escape by sea or secret route. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
 
 - **(491)** — Surrounded at [[Castle Jagent]] by Uther’s army, with Uther threatening to reduce the castle if Cornwall does not surrender. *(Source: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*
+- **(491)** — Defends the breach at [[Castle Jagent]] after Liam’s barrel blast opens the wall; fights [[Drustin]] in single combat and is killed, causing the defenders to surrender. *(Source: [[Session 040 - The Breach at Jagent]])*

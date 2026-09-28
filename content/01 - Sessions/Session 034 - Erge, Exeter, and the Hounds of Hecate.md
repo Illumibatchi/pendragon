@@ -34,7 +34,7 @@ tags:
 ## Summary
 The conroi remained split between two dangerous roads. In the north, [[Millicent]], [[Sir Geraint|Geraint]], [[Assterius|Asterius]], and [[Brother Nerovens]] followed the trail of [[Giant Erge]] near [[Stafford]], first hiding from him and then tricking him through his own vanity. They convinced Erge that a rival giant had dared leave larger tracks in his lands and steal meals from his shadow; enraged, Erge stormed away after the other trail.
 
-In the west, [[Liam]] and [[Drustin]] survived [[Uther Pendragon|Uther]]’s assault on [[Exeter]]. The castle was lightly defended and likely never held [[Duke Erof of Cornwall|Gorlois]] or [[Ygraine]] in force. Drustin was first onto the wall, fought from the ground, shattered the elite resistance, and opened the gates. Liam spared a child soldier but was badly wounded. Exeter fell, but Uther found no duke and ordered the army onward toward [[Tintagel]]. Far north, the questers discovered the [[Shrine of Hecate]], attempted the maiden’s trial, and survived an attack by one of the [[Hounds of Hecate]] before choosing not to continue the ritual for now.
+In the west, [[Liam]] and [[Drustin]] survived [[Uther Pendragon|Uther]]’s assault on [[Exeter]]. The castle was lightly defended and likely never held [[Duke Erof of Cornwall|Erof]] or [[Ygraine]] in force. Drustin was first onto the wall, fought from the ground, shattered the elite resistance, and opened the gates. Liam spared a child soldier but was badly wounded. Exeter fell, but Uther found no duke and ordered the army onward toward [[Tintagel]]. Far north, the questers discovered the [[Shrine of Hecate]], attempted the maiden’s trial, and survived an attack by one of the [[Hounds of Hecate]] before choosing not to continue the ritual for now.
 
 ## Scene/Beat Log
 - **Erge sighted:** The northern questers spot Giant Erge above the treeline and hide among the trees. He does not notice them and moves south.
@@ -50,7 +50,7 @@ In the west, [[Liam]] and [[Drustin]] survived [[Uther Pendragon|Uther]]’s ass
 - **Elite resistance:** Liam and Drustin encounter three elite dismounted knights near the route to the gate. The knights fight honorably one-on-one, but Liam is struck down by accumulating wounds.
 - **Drustin’s rage:** Seeing Liam fall, Drustin gives himself over to reckless fury. He knocks down or out each knight who steps into the gap and smashes the last resistance aside.
 - **Exeter falls:** Drustin opens the gates. Uther’s army storms into Exeter. Liam is badly hurt but alive.
-- **Uther’s fury:** The victory does not satisfy Uther. Gorlois is not there, most of his men are absent, and Uther demands answers.
+- **Uther’s fury:** The victory does not satisfy Uther. Erof is not there, most of his men are absent, and Uther demands answers.
 - **Toward Tintagel:** Drustin humbles himself and suggests following the tracks from the emptied village. Liam adds that the Cornish likely evacuated as Uther’s army approached. Tintagel is identified as the likely refuge, and Uther orders the army onward.
 - **Liam slows the march:** Liam quietly tries to delay the march and succeeds too well. The army is misdirected to the wrong castle, but Drustin takes the blame. Uther is furious, and Liam does not risk more sabotage.
 - **Mountain shrine:** Following Erge by night, the northern questers reach a mountaintop cave and shrine beneath the full moon. Three statues — maiden, mother, and crone — bear moon pendants.
@@ -68,8 +68,8 @@ In the west, [[Liam]] and [[Drustin]] survived [[Uther Pendragon|Uther]]’s ass
 - [[Giant Erge]] — Proves vain and cannibalistic; is tricked into chasing the second giant’s trail rather than fighting the questers.
 - [[Drustin]] — First onto Exeter’s wall, fights from prone, breaks the elite defenders, opens the gate, and is later blamed for Liam’s misdirection of Uther’s march.
 - [[Liam]] — Spares a child soldier at Exeter, is badly wounded in the assault, and quietly delays/misdirects Uther’s march toward Tintagel.
-- [[Uther Pendragon|Uther]] — Takes Exeter but finds Gorlois absent; redirects the army toward Tintagel in fury.
-- [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] — Not found at Exeter; believed to have withdrawn to Tintagel.
+- [[Uther Pendragon|Uther]] — Takes Exeter but finds Erof absent; redirects the army toward Tintagel in fury.
+- [[Duke Erof of Cornwall|Erof]] and [[Ygraine]] — Not found at Exeter; believed to have withdrawn to Tintagel.
 
 ## Loot / Rewards / Glory / Notable Rolls
 - Drustin earns the distinction/glory of being first onto Exeter’s wall and opening the gate.
@@ -78,7 +78,7 @@ In the west, [[Liam]] and [[Drustin]] survived [[Uther Pendragon|Uther]]’s ass
 - The party defeats one Hound of Hecate; the ritual’s deeper reward remains unclaimed.
 
 ## Consequences & New Facts
-- Exeter has fallen to Uther, but the victory is hollow because Gorlois and Ygraine are absent.
+- Exeter has fallen to Uther, but the victory is hollow because Erof and Ygraine are absent.
 - Tintagel is now the likely Cornish refuge and Uther’s next target.
 - Liam successfully delays Uther’s march once, but Drustin is blamed and Uther’s anger rises.
 - Giant Erge has been diverted after a supposed rival, leaving the northern questers free to continue — for now.
@@ -88,6 +88,6 @@ In the west, [[Liam]] and [[Drustin]] survived [[Uther Pendragon|Uther]]’s ass
 
 ## Timeline entries to add
 - **(490)** — [[Liam]] and [[Drustin]] survive [[Uther Pendragon|Uther]]’s assault on [[Exeter]]; Drustin is first onto the wall and opens the gates, while Liam is badly wounded after sparing a child soldier. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
-- **(490)** — Exeter falls, but [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] are absent; Uther redirects the army toward [[Tintagel]]. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
+- **(490)** — Exeter falls, but [[Duke Erof of Cornwall|Erof]] and [[Ygraine]] are absent; Uther redirects the army toward [[Tintagel]]. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
 - **(490)** — [[Millicent]], [[Sir Geraint|Geraint]], and [[Assterius|Asterius]] trick [[Giant Erge]] into chasing the trail of a supposed rival giant. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*
 - **(490)** — The northern questers discover the [[Shrine of Hecate]]; after Millicent fails one part of the maiden’s trial, the company defeats one of the [[Hounds of Hecate]] and chooses not to continue the ritual yet. *(Source: [[Session 034 - Erge, Exeter, and the Hounds of Hecate]])*

@@ -198,6 +198,7 @@
 - [[Werewolves of Wildenburg]] — wolf-headed supernatural threat tied to the [[Lord of Wildenburg]]. *([[Session 026 - The Wolves of Wildenburg|S26]])*
 
 ## Background / wider-world lore backfill
+- [[Uther Period Customs and Equipment]] — table reference for current-period customs, chivalry/romance limits, available armor/weapons/horses, and castle norms.
 - [[Glevum]] — origin of [[Damsel Ella of Caer Ergyng]]’s father, the Lord of Glevum.
 - [[Abbey of Glastonbury]] — religious site tied to the Glastonbury/Wells mythic geography.
 - [[Bourton]] — referenced campaign location; keep indexed for travel/political continuity.

@@ -113,18 +113,25 @@ Legitimized bastard son of Uther Pendragon; husband of [[Millicent]] and father 
 ```mermaid
 %% AUTO-LINEAGE: sir_madoc
 flowchart TB
-  a["Aurelius Ambrosius"]
-  u["Uther Pendragon"]
-  m["Sir Madoc"]
-
-  a ---|brother| u
-  u -->|parent| m
+  p["Sir Madoc (d. 490)"]
+  f["Uther Pendragon"]
+  f --- p
+  m["(Mother unknown)"]
+  m --- p
+  sp1["Millicent"]
+  p --- sp1
+  c1["Meredith (b. 490)"]
+  p --- c1
+  s1["Arthur (b. 492)"]
+  f --- s1
 ```
 
 **Lineage links:**
-- Uther Pendragon
-- Aurelius Ambrosius
-- Sir Madoc
+- [[Uther Pendragon]]
+- [[Sir Madoc]]
+- [[Millicent]]
+- [[Meredith (daughter of Madoc and Millicent)]]
+- [[Arthur]]
 
 **Uncle:** Aurelius Ambrosius
 - **(487)** — Present intoxicated at the [[Sarum]] feast; [[Lady Dilwen]] pursues him; named to lead Uther’s spring 488 campaign against the [[Franks]] in [[Calais]]. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*

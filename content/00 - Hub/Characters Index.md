@@ -25,6 +25,7 @@
 - [[Aurelius]] - slain High King (Bedegraine betrayal); unity figure whose death fractures the realm.
 - [[Sir Madoc]] - legitimized bastard son of Uther; married to [[Millicent]]; father of [[Meredith (daughter of Madoc and Millicent)|Meredith]]; died from Lincoln wounds and was buried at [[Stonehenge]].
 - [[Ygraine]] — Duchess of Cornwall; her arrival at the White Tower triggers Uther's dangerous obsession, now driving his assault on Exeter.
+- [[Arthur]] — newborn son/heir of [[Uther Pendragon|Uther]] and [[Ygraine]], taken by [[Merlin]] under a claimed bargain.
 - [[Lucius (Duke of Saxon Shore)]] - 4-year-old knighted; made Duke of Saxon Shore with [[Baroness Pomponia]] as regent, though she is not his mother.
 - [[Syagrius]] — Gallo-Roman ruler in [[Gaul]] who appeals to Uther for aid against the [[Franks]].
 
@@ -32,19 +33,22 @@
 - [[Count Roderick of Salisbury]] - liege of early campaign; pursuing marriage alliances.
 - [[War Baron Ulfius]] - major war figure present at Bedegraine; involved in placing [[Ygraine]]’s daughters away from Uther’s household.
 - [[Bruce]] - Roderick's unsettling agent/analyst; interrogates Drustin about witch-deals and is also named as a lead tied to Sir Madoc’s February kidnapping-by-boat (policed moustache; spiky leather armor).
+- [[Sir Brastias]] — Uther’s chief bodyguard and trusted advisor; accuses the Merlin-affiliated knights of treason over [[Arthur]].
 
 ## Player knights / conroi
 - [[Sir Gerry]] — passes the angelic test and bears the [[Shield of St. Crispin]] against the [[Dragon of the Roman Mine]].
 
 ## Knights / commanders (non-player)
 - [[Sir Rolf]] — knight at the Jagent siege; helped Millicent at the bridge and Liam near the drain.
+- [[Sir Elad]] — marshal sent by [[Count Roderick of Salisbury|Roderick]] to advise the accused knights at Tintagel.
 - [[Sir Corton]] — knight present at the Sarum feast; amused by Blaine’s lack of progress.
 - [[Sir Jerem]] - castellan of Duplain; early mission leader.
 - [[Sir Blaine]] - steward of Levcomagus; implicated in the fairy dragon "gift."
 - [[Sir Ector]] - Rachel's brother; Caer Bannog host.
 - [[Sir Beefy]] - notorious rival/foe; strength legend grows.
 - [[King Brodin of Malahaut]] - "Centurion-King"; Roman legatus armor; political pressure point.
-- [[King Lot of Lothian]] — young king fighting Saxons alongside [[King Brodin of Malahaut]].
+- [[King Lot of Lothian]] — young king fighting Saxons alongside [[King Brodin of Malahaut]]; married [[Morgawse]] at Tintagel.
+- [[King Nentres of Garloth]] — northern king and ally/right-hand man of Lot; married [[Elaine]] at Tintagel.
 - [[Prince Urion]] — young Gorre prince who grants hospitality at [[Gaiholm]].
 - [[Prince Bademagu]] — elder prince of Gorre, away campaigning against Saxons.
 - [[Leodegrance]] — young lord at [[Carohaig]] who aids refugees brought by [[Sir Geraint]].
@@ -52,6 +56,7 @@
 
 ## Squires / retainers
 - [[Squire Daniel]] — Uther’s squire at Jagent; reported Uther left with Merlin.
+- [[Roger du Plain]] — youngest son of [[Jarran|Sir Jarran of Du Plain]], assigned as [[Drustin]]’s squire.
 - [[Lilwen]] — sixteen-year-old Yarnbrook local entrusted by [[Drustin]] with relief money during the 489 famine.
 - [[Iorath]] — Drustin-hired squire for Sir Geraint (son of a rich nobleman).
 
@@ -79,12 +84,17 @@
 ## Clergy / holy figures
 - [[Meredith]] — nun at [[St. Mary Bethlehem]] and mother of [[Sir Madoc]].
 - [[Meredith (daughter of Madoc and Millicent)]] — battleborn daughter of [[Millicent]] and [[Sir Madoc]], born at [[Lincoln]] and named after Madoc’s mother.
+- [[Mabel (daughter of Millicent)]] and [[Mildred (daughter of Millicent)]] — twin daughters conceived by [[Millicent]] during the Session 042 winter/family phase.
+- [[Bruce (son of Geraint and Rachel)]] — son of [[Sir Geraint]] and [[Lady Rachel of Carbonog]].
+- [[Tessa (child of Drustin)]] and [[William Whim (child of Drustin)]] — children recorded for [[Drustin]] during the Session 042 winter/family phase.
 - [[Archbishop Dubricus]] - senior church authority; directs Geraint/Asterius toward a restorative quest and gives the fisherman/crown vision pointing from Glastonbury toward Loch Lomond.
 - [[Abbot of Wells]] - humiliated victim of Wells incident.
 - [[Bishop of Caen]] — clergy in [[Caen]] who officiates the rushed marriage of [[Millicent]] and [[Sir Madoc]].
 - [[Brother Maynard]] - monk involved in the sorceress swap.
 - [[Brother Llewelyn]] - Bath abbey monk; points to York plans.
 - [[Bishop Bertrand of Bristol]] — politically ambitious Bishop of Bristol; lends [[Saint Brigid’s Flying Cauldron]] for a costly deposit.
+- [[Bishop Roger]] — sent by [[Count Roderick of Salisbury|Roderick]] to advise the accused knights before the Tintagel trial.
+- [[Dewi]] — monk who questions the accused knights during the Tintagel depositions.
 - [[Joseph of Arimathea]] (lore) - Grail tradition linked to Glastonbury.
 - [[Brother Nerovens]] — holy man from the [[Castle of Salt]] with chirurgery; joins the crown/Grail quest north.
 

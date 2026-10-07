@@ -39,10 +39,17 @@ Only survivor of Knight Commander Caradoc's conroi after the burning of [[Dunker
 %% AUTO-LINEAGE: sir_geraint
 flowchart TB
   p["Sir Geraint"]
+  sp1["Lady Rachel of Carbonog"]
+  p --- sp1
+  c1["Bruce (b. 492)"]
+  p --- c1
 ```
 
 **Lineage links:**
 - [[Sir Geraint]]
+- [[Lady Rachel of Carbonog]]
+- [[Bruce (son of Geraint and Rachel)]]
+
 - **(487)** — Advances his courtship of [[Lady Rachel of Carbonog]], volunteers enthusiastically for the spring 488 Gaul campaign, and becomes strongly loyal to the [[Ladies of the Lake]] cause. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
 - **(488)** — Commands "The Normans" at Calais; rallies his men with homage in the battle that lifts the siege. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
 - **(488)** — Kills a werewolf at the [[Wildenburg Pagan Shrine]] and recalls folklore that lycanthropy is a Saxon affliction and not every bite turns the victim. *(Source: [[Session 026 - The Wolves of Wildenburg]])*
@@ -62,3 +69,4 @@ flowchart TB
 - **(491)** — Tracks Uther and Merlin north from [[Castle Jagent]], helps mislead Bruce’s inquisitors away from the ritual site, and fights in the breach assault after Liam’s barrel opens the wall. *(Source: [[Session 040 - The Breach at Jagent]])*
 
 - **(491)** — Helps wingman [[Drustin]] at the [[Caer Lloyw]] feast, then spends the rest of the year in domestic married life with [[Lady Rachel of Carbonog|Rachel]]; no clear heir result is recorded. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
+- **(492)** — Gains a son, [[Bruce (son of Geraint and Rachel)|Bruce]], and learns from a serving girl that [[Merlin]] claimed [[Arthur]] from Uther and Ygraine under a prior agreement. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*

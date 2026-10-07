@@ -37,9 +37,10 @@ A giant Saxon king (size compared to a horse) encountered in the Lincoln Forest 
 flowchart TB
   p["Eosa 'the Giant'"]
   c1["Ælflaed"]
-  p -->|parent| c1
+  p --- c1
 ```
 
 **Lineage links:**
+- [[Eosa “the Giant” Horsason]]
 - [[Ælflaed]]
 

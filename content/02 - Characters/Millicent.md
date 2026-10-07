@@ -35,15 +35,24 @@ tags:
 ```mermaid
 %% AUTO-LINEAGE: sir_millicent
 flowchart TB
-  f["A courtly father"]
-  m["a badass knightly mother"]
-  p["Sir Millicent"]
-  f -->|parent| p
-  m -->|parent| p
+  p["Millicent"]
+  sp1["Sir Madoc (d. 490)"]
+  p --- sp1
+  c1["Meredith (b. 490)"]
+  p --- c1
+  c2["Mabel (b. 492)"]
+  p --- c2
+  c3["Mildred (b. 492)"]
+  p --- c3
 ```
 
 **Lineage links:**
-- (none)
+- [[Millicent]]
+- [[Sir Madoc]]
+- [[Meredith (daughter of Madoc and Millicent)]]
+- [[Mabel (daughter of Millicent)]]
+- [[Mildred (daughter of Millicent)]]
+
 - **(487)** — Scouts the dragon chamber first and is badly wounded in the battle against the [[Dragon of the Roman Mine]]. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
 - **(488)** — Marries [[Sir Madoc]] in [[Caen]] and commands in the battle to lift the siege of [[Calais]]. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
 - **(488)** — Leads 500 men in five units to clear the countryside around [[Calais]], helping drive the remaining [[Franks]] south into [[Gaul]]. *(Source: [[Session 026 - The Wolves of Wildenburg]])*
@@ -64,3 +73,4 @@ flowchart TB
 - **(491)** — At [[Castle Jagent]], tries to stop the bombardment, prevents a retaliatory attack on local Pictish civilians, receives and keeps the sealed black vial marked with Uther/Logres dragons, redirects Bruce and Maynard, and calls the charge at the breach. *(Source: [[Session 040 - The Breach at Jagent]])*
 
 - **(491)** — At the [[Caer Lloyw]] feast, helps wingman [[Drustin]] for [[Lady Rosalyn]], then takes [[Morgana]] into her household as lady-in-waiting and spends the rest of the year training her as a steward for [[Heywood]]. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
+- **(491–492 / Winter)** — Conceives twin daughters, [[Mabel (daughter of Millicent)|Mabel]] and [[Mildred (daughter of Millicent)|Mildred]], spends 1 prestige to keep them healthy, and later goes to [[Tintagel]] though she is not formally accused in [[Sir Brastias]]’s treason case. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*

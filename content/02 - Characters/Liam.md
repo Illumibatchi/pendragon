@@ -44,16 +44,24 @@ tags:
 %% AUTO-LINEAGE: liam
 flowchart TB
   p["Liam"]
+  sp1["Damsel Diana"]
+  p --- sp1
+  c1["Unnamed son of Liam and Diana (b. 492)"]
+  p --- c1
 ```
 
 **Lineage links:**
 - [[Liam]]
+- [[Damsel Diana]]
+- [[Unnamed son of Liam and Diana]]
+
 - **(487)** — Presents the party’s sword in the dragon chamber, where it glows blue; badly wounded in the fight; his cursed rubies are used as collateral for [[Saint Brigid’s Flying Cauldron]] and later recovered. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
 - **(487)** — Receives [[Damsel Diana]]’s warning from [[Lady Wells]], tells [[Count Roderick of Salisbury]] the party’s sword is not [[Excalibur]], and consults Lady Wells about the encroaching forest. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
 - **(488)** — Leads "Team White" at Calais; befriends quartermaster [[Marius Gallus]] at [[Caen]] for javelins. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
 - **(488)** — Helps clear the countryside around [[Calais]], deduces the [[Wildenburg]] threat is werewolves, suggests silvered spears, and kills a wolf and a werewolf in the [[Wildenwald]]. *(Source: [[Session 026 - The Wolves of Wildenburg]])*
 - **(488)** — Solves the riddle of chivalry in the [[House of Constantine]], chooses the Cup, uncovers the [[Holy Grail]] beneath the altar, and is cleansed of his cursed rubies after drinking from it. *(Source: [[Session 027 - The House of Constantine and the Return to Wells]])*
 - **(488)** — At the [[White Tower]] feast, learns [[Duke Edaris of the March]] needs aid against Saxon devastation and secures [[Count Roderick of Salisbury|Roderick]]'s permission to assemble a relief force. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
+- **(490)** — Prematurely pushes toward marriage with [[Damsel Diana]], receives [[Count Roderick of Salisbury|Roderick]]’s leave to court her, and accidentally worsens the Ygraine/Gorlois tension during Uther’s impropriety at Madoc’s funeral feast. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*
 
 - **(489)** — Pursues [[Sir Madoc]] to [[Folkingham]] and [[Peterborough]], is injured fighting Saxon guards, helps capture [[King Wihtlaeg of the Angles]] alive, and declines [[Duke Edaris of the March|Duke Edaris]]’s banneret offer while crediting the whole company. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
 
@@ -68,3 +76,5 @@ flowchart TB
 - **(491)** — At [[Castle Jagent]], turns the monks’ barrel scheme into the decisive breach, places and lights the explosive barrel at the wall drain, and opens the way for the assault. *(Source: [[Session 040 - The Breach at Jagent]])*
 
 - **(491)** — Travels to [[Summerland]] / the [[Mendip Hills]] to seek [[Damsel Diana]]’s father; the druid father blesses the union only if Liam accepts a black poison vial meant for [[Uther Pendragon|Uther]]. Diana agrees, and Liam accepts the boon, but the marriage is not yet recorded as complete. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
+- **(492)** — Questioned at [[Tintagel]] about Merlin, the siege, Jagent, boats, and possible dealings with Cornwall; his false denial of Cornwall-household contact goes poorly. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*
+- **(491–492 / Winter)** — Conceives an unnamed male child with [[Damsel Diana]]. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*

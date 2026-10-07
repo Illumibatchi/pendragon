@@ -27,12 +27,9 @@ Knight Commander from Caerwent. Provoked into dueling Asterius at Sarum; beheade
 ```mermaid
 %% AUTO-LINEAGE: sir_marius_of_caerwent
 flowchart TB
-  m["Sir Marius of Caerwent"]
-  r["Lady Rhianneth"]
-
-  marriage_mr(( ))
-  m ---|spouse| marriage_mr
-  r ---|spouse| marriage_mr
+  p["Sir Marius of Caerwent (d. 483)"]
+  sp1["Lady Rhianneth"]
+  p --- sp1
 ```
 
 **Lineage links:**

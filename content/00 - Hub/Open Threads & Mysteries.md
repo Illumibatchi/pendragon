@@ -1,12 +1,12 @@
 > Rolling list of unresolved mysteries and active campaign threads. Keep this page broad; use **Current Status** for “where we are right now.”
 
-## Active / high-priority as of end of [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon|Session 041]]
+## Active / high-priority as of end of [[Session 042 - The Treason Summons at Tintagel and the Missing Heir|Session 042]]
 
-- **Liam’s poison bargain:** [[Liam]] has accepted a black poison vial/liquid from [[Damsel Diana]]’s druid father as the price of blessing their union; the target is [[Uther Pendragon|Uther]]. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
+- **Arthur taken / Merlin fugitive:** [[Arthur]], newborn son of [[Uther Pendragon|Uther]] and [[Ygraine]], has been taken by [[Merlin]] under a claimed prior agreement; the court calls Merlin a fugitive traitor. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*
+- **Treason trial at Tintagel:** [[Sir Brastias]] accuses the player knights of treason, kidnapping Arthur, and aiding fugitive Merlin; [[Drustin]] is named ringleader, and trial begins next session. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*
+- **Ygraine’s intercession / Millicent’s exposure:** [[Ygraine]]’s intercession keeps [[Millicent]] off the formal charge list, but Brastias says she would otherwise be on trial too. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*
+- **Liam’s poison bargain:** [[Liam]] has accepted a black poison vial/liquid from [[Damsel Diana]]’s druid father as the price of blessing their union; the target is Uther. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
 - **Diana honeypot / “case red”:** Diana is tied to a four-year honeypot operation around Liam and an anti-Uther poison plot. Whether she truly loves Liam, is acting under orders, or both remains unresolved. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
-- **Morgana in Millicent’s household:** [[Morgana]], one of [[Ygraine]]’s daughters, is now with [[Millicent]] as lady-in-waiting and steward-in-training; she is intelligent, disciplined, and interested in Merlin. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
-- **Ygraine’s daughters:** [[War Baron Ulfius|Ulfius]] and a Glastonbury churchman are trying to keep Morgana, [[Morgawse]], and [[Elaine]] out of Uther’s household and place them safely. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
-- **Millicent’s sealed black vial:** [[Millicent]] holds a wax-sealed black vial tagged with two yellow dragons of Uther/Logres; its relationship, if any, to Liam’s new poison vial is unknown. *(Sources: [[Session 040 - The Breach at Jagent]], [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
 - **Pevensey massacre:** [[King Ælle of Sussex|Ælle]] and [[Cissa]] have taken [[Pevensey]] and sacrificed its people to Wotan while British forces were tied up in Cornwall. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
 
 ## Open threads / mysteries (in session order)
@@ -130,3 +130,7 @@
 - **(491 / S41) Liam’s poison bargain:** [[Liam]] accepted a black poison vial from [[Damsel Diana]]’s druid father as the price of blessing their union; Uther is the intended victim. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
 - **(491 / S41) Diana honeypot:** Diana’s courtship is tied to a four-year honeypot / “case red” operation; her true loyalty, feelings, and handlers remain unclear. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
 - **(491 / S41) Morgana under Millicent’s care:** [[Morgana]] enters [[Millicent]]’s household and begins steward training at [[Heywood]]; her Merlin interest and future role remain volatile. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
+
+- **(492 / S42) Arthur taken:** [[Merlin]] reportedly claimed [[Arthur]] from [[Uther Pendragon|Uther]] and [[Ygraine]] under a prior agreement; servant rumor says Uther relented after Merlin warned of a curse. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*
+- **(492 / S42) Brastias’s treason case:** [[Sir Brastias]] accuses the Merlin-affiliated knights of treason and aid/comfort to fugitive Merlin; the political/legal case remains unresolved. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*
+- **(492 / S42) Forest Sauvage son of Madoc rumor:** Court gossip claims a woman in the [[Forest Sauvage]] has a young son of [[Sir Madoc]], recognizable by bushy brows. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*

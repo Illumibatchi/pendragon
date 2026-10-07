@@ -42,5 +42,6 @@
 |  39 | 2026-09-16 |          491 | The Veil, the Siren, and Merlin’s Release | [[Session 039 - The Veil, the Siren, and Merlin’s Release]] |
 |  40 | 2026-09-23 |          491 | The Breach at Jagent | [[Session 040 - The Breach at Jagent]] |
 |  41 | 2026-09-30 |          491 | The Feast at Caer Lloyw and the Poisoned Boon | [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]] |
+|  42 | 2026-10-07 |      491–492 | The Treason Summons at Tintagel and the Missing Heir | [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]] |
 
 > I’ll maintain this table as we add sessions.

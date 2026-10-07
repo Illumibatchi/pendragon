@@ -36,21 +36,14 @@ A stunningly beautiful Saxon warrior (described as a Saxon princess) encountered
 ```mermaid
 %% AUTO-LINEAGE: aelflaed
 flowchart TB
-  e["Eosa “the Giant” Horsason"]
-  mu["(Mother unknown)"]
-  a["Ælflaed"]
-  k["King of Sussex (unknown)"]
-  marriage(( ))
-
-  e -->|parent| a
-  mu -->|parent| a
-
-  a ---|spouse| marriage
-  k ---|spouse| marriage
+  p["Ælflaed"]
+  f["Eosa 'the Giant'"]
+  f --- p
+  m["(Mother unknown)"]
+  m --- p
 ```
 
 **Lineage links:**
-- [[Ælflaed]]
-- [[King of Sussex (unknown)]]
 - [[Eosa “the Giant” Horsason]]
+- [[Ælflaed]]
 

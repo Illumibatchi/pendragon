@@ -38,26 +38,25 @@ Referenced during the victory feast: known for lecherous ways and lacking truebo
 ```mermaid
 %% AUTO-LINEAGE: uther_pendragon
 flowchart TB
-  a["Aurelius Ambrosius"]
-  u["Uther Pendragon"]
-  m["Sir Madoc"]
-  sp["(Spouse unknown)"]
-  marriage(( ))
-
-  a ---|brother| u
-
-  u ---|spouse| marriage
-  sp ---|spouse| marriage
-
-  marriage -->|parent| m
+  p["Uther Pendragon"]
+  sp1["Ygraine"]
+  p --- sp1
+  c1["Sir Madoc (d. 490)"]
+  p --- c1
+  c2["Arthur (b. 492)"]
+  p --- c2
 ```
 
 **Lineage links:**
-- Uther Pendragon
-- Aurelius Ambrosius
-- Sir Madoc
+- [[Uther Pendragon]]
+- [[Ygraine]]
+- [[Sir Madoc]]
+- [[Arthur]]
+
 - **(487)** — Calls for volunteers for a spring 488 campaign into Gaul/France to drive the [[Franks]] from [[Calais]], with [[Sir Madoc]] leading. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
 - **(488)** — At the [[White Tower]] Easter feast, becomes openly obsessed with [[Ygraine]] and leaves upset; his tracks lead toward [[Llud’s Castle]]. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
+- **(490)** — After [[Sir Madoc]] dies from his wounds, Uther is disturbed but quickly focuses on producing another heir; at Madoc’s funeral feast, his desire for [[Ygraine]] becomes openly dangerous and strains the peace with [[Duke Erof of Cornwall|Gorlois]]. *(Source: [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown]])*
+- **490:** Begins the siege of [[Tintagel]] after Cornish forces are driven back into the fortress; furious at the council, he focuses on preventing [[Duke Erof of Cornwall|Gorlois]] and [[Ygraine]] from escaping. *(Source: [[Session 035 - The Battle of Tintagel and the Brownies of Appleby]])*
 
 - **(490 / Spring)** — Reconciled with [[Duke Erof of Cornwall]] through [[Merlin]]’s urging and arrives with a combined army to march north against the Saxons. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
 
@@ -68,3 +67,4 @@ flowchart TB
 
 - **(491)** — Surrounds [[Duke Erof of Cornwall|Erof]] at [[Castle Jagent]], orders siege engines built, and appears sleepless, obsessive, and dangerously unstable while the army’s morale decays. *(Source: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*
 - **(491)** — Leaves his pavilion secretly with [[Merlin]], sleeps through an unexplained forest ritual, vanishes in magical darkness, then emerges from [[Castle Jagent]] with [[Ygraine]] after [[Duke Erof of Cornwall|Erof]]’s death and proclaims a new imperial peace. *(Source: [[Session 040 - The Breach at Jagent]])*
+- **(492)** — Marries [[Ygraine]], has a newborn son [[Arthur]], and presides over the treason trial after Arthur is taken by [[Merlin]] under a claimed prior bargain. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*

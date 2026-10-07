@@ -27,6 +27,31 @@ Daughter of [[Millicent]] and [[Sir Madoc]], conceived by the end of 489 and bor
 - **Battleborn:** +2 STR, Alert.
 - **Birth glory:** Millicent earned **150 glory**; witnesses earned **10 glory** each.
 
+## Lineage
+
+```mermaid
+%% AUTO-LINEAGE: meredith_daughter_madoc_millicent
+flowchart TB
+  p["Meredith (b. 490)"]
+  f["Sir Madoc (d. 490)"]
+  f --- p
+  m["Millicent"]
+  m --- p
+  s1["Mabel (b. 492)"]
+  f --- s1
+  m --- s1
+  s2["Mildred (b. 492)"]
+  f --- s2
+  m --- s2
+```
+
+**Lineage links:**
+- [[Sir Madoc]]
+- [[Millicent]]
+- [[Meredith (daughter of Madoc and Millicent)]]
+- [[Mabel (daughter of Millicent)]]
+- [[Mildred (daughter of Millicent)]]
+
 ## Timeline
 - **(489)** — Conceived by [[Millicent]] and [[Sir Madoc]] by year’s end; named after Madoc’s mother. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
 

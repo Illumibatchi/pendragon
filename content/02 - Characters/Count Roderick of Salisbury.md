@@ -53,17 +53,15 @@ Count of Salisbury; liege lord whose household knights the PCs serve as squires.
 ```mermaid
 %% AUTO-LINEAGE: count_roderick_of_salisbury
 flowchart TB
-  r["Count Roderick of Salisbury"]
-  e["Lady Ellen of Winchbank"]
-
-  marriage_re(( ))
-  r ---|spouse| marriage_re
-  e ---|spouse| marriage_re
+  p["Count Roderick of Salisbury"]
+  sp1["Lady Ellen of Winchbank"]
+  p --- sp1
 ```
 
 **Lineage links:**
 - [[Count Roderick of Salisbury]]
 - [[Lady Ellen of Winchbank]]
+
 - **(487)** — Discusses the disputed sword with Liam and [[Merlin]]; says [[Sir Geraint]] should volunteer for the Gaul campaign to advance the Rachel courtship. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
 
 - **(491)** — Receives the party at [[Castle Jagent]], hears that their spiritual quest was thwarted by Satan, fails a heavily penalized Loyalty (Uther), and frames his concern around preserving the [[House of Constantine|Bloodline of Constantine]]. *(Source: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*

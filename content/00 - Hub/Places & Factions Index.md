@@ -69,7 +69,7 @@
 - [[Appleby]] — Northern waypoint on the crown/Grail quest; raided by Gore and Malahaut, then fed after the questers kill the [[Auroch of Appleby]]. *([[Session 034 - Erge, Exeter, and the Hounds of Hecate|S34]], [[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]])*
 
 ## Cornwall crisis
-- [[Tintagel]] — Cornish sea-cliff stronghold now under Uther’s siege after the Cornish sally is forced back. *([[Session 034 - Erge, Exeter, and the Hounds of Hecate|S34]], [[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]])*
+- [[Tintagel]] — Cornish sea-cliff stronghold: first besieged by Uther, later royal birthplace/crisis site for [[Arthur]] and the treason trial. *([[Session 034 - Erge, Exeter, and the Hounds of Hecate|S34]], [[Session 035 - The Battle of Tintagel and the Brownies of Appleby|S35]], [[Session 042 - The Treason Summons at Tintagel and the Missing Heir|S42]])*
 - [[Cornwall]] — Western duchy of [[Duke Erof of Cornwall]] and [[Ygraine]]; target of Uther's 489 invasion call after the White Tower scandal, reconciled by spring 490, then invaded again as Uther besieges [[Exeter]] for Ygraine. *([[Session 028 - The Easter Feast at the White Tower|S28]], [[Session 029 - Madoc’s Penance, New Manors, and the March|S29]], [[Session 030 - The Angel’s Command and the Child King|S30]], [[Session 032 - Madoc’s Funeral and the Question of Britain’s Crown|S32]], [[Session 033 - The Crown Quest, the Siege of Exeter, and the Giant Erge|S33]])*
 
 ## Bedegraine crisis / succession fracture
@@ -79,6 +79,9 @@
 - [[Bedegraine]] — Petty kingdom punished for treason; destroyed. *([[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]])*
 - [[Bedegraine Castle]] — Siege lines; battle and collapse. *([[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]])*
 - [[Warwick]] — Detour to investigate Lady Llylla (“Shisha”). *([[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]])*
+
+## Rumored / offscreen places
+- [[Forest Sauvage]] — rumored location of a woman with a young son of [[Sir Madoc]]. *([[Session 042 - The Treason Summons at Tintagel and the Missing Heir|S42]])*
 
 ## Wells → Glastonbury underworld corridor
 - [[Wells]] — Deserted town; faerie offerings; forced-muster incident; later revisited to consult [[Lady Wells]] about Excalibur and the encroaching forest. *([[Session 010 - The Silent Town of Wells and the Ogre of the Marsh|S10]], [[Session 020 - The Road Beneath the World|S20]])*

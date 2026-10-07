@@ -1,4 +1,4 @@
-> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 041**.
+> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 042**.
 
 ## Year 480 - The early days: squires of Salisbury (Sessions 000-002)
 - The campaign opens in the **Uther Period** with a group of squires serving the household knights of **[[Count Roderick of Salisbury]]**. *(See: [[Session 000 - The Young Squires of Salisbury]])*
@@ -207,3 +207,8 @@
 - At [[Caer Lloyw]], [[Drustin]] converts his Jagent glory into social victory: with the company wingmanning him through [[Duke Edaris of the March|Duke Edaris]]’s feast, he reaches the required Geniality and marries [[Lady Rosalyn]].
 - [[Morgana]], one of [[Ygraine]]’s daughters, comes under [[Millicent]]’s protection as lady-in-waiting and steward-in-training at [[Heywood]], while [[Morgawse]] and [[Elaine]] remain part of the wider effort to keep Ygraine’s daughters out of Uther’s household.
 - [[Assterius]] marries [[Squire Aspara|Aspara]] with [[Count Roderick of Salisbury|Roderick]] sponsoring the wedding, while [[Liam]] accepts a treasonous bargain from [[Damsel Diana]]’s druid father: a black poison vial meant for [[Uther Pendragon|Uther]]. *(See: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
+
+## Years 491–492 - The Treason Summons at Tintagel and the Missing Heir (Session 042)
+- Winter phase brings manor construction rolls, skill improvements, household checks, new squires, horse survival/personality notes, and family updates. [[Millicent]] conceives twin daughters, [[Mabel (daughter of Millicent)|Mabel]] and [[Mildred (daughter of Millicent)|Mildred]].
+- Court news: [[Ygraine]] is now queen and pregnant at [[Tintagel]]; Uther marries her daughters into northern alliances, with [[Morgawse]] marrying [[King Lot of Lothian]] and [[Elaine]] marrying King Nentres of Garloth.
+- The crisis breaks open when [[Sir Brastias]] accuses the player knights of treason. At [[Tintagel]], depositions reveal the real charge: [[Arthur]], Uther and Ygraine’s newborn heir, has been taken by [[Merlin]], and the knights are accused of kidnapping the heir and aiding fugitive Merlin. Trial begins next session. *(See: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*

@@ -48,10 +48,17 @@ relations:
 %% AUTO-LINEAGE: assterius
 flowchart TB
   p["Assterius"]
+  sp1["Aspara"]
+  p --- sp1
+  c1["Leo (b. 492)"]
+  p --- c1
 ```
 
 **Lineage links:**
 - [[Assterius]]
+- [[Squire Aspara]]
+- [[Leo (son of Assterius and Aspara)]]
+
 - **(487)** — At the [[Sarum]] feast, botches a drunken toast/rescue attempt for [[Sir Madoc]] and later researches the [[Franks]] at [[Bath Scriptorium]]. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
 - **(488)** — Infiltrates besieged [[Calais]], coordinates a horns-and-bells trap with [[Baroness Pomponia]], and leads a wedge charge in the victory. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
 - **(488)** — Sleeps with [[Baroness Pomponia]] after the victory at [[Calais]]. *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
@@ -72,3 +79,5 @@ flowchart TB
 - **(491)** — Helps [[Millicent]] stop a retaliatory attack on Jagent’s Pictish civilians, tracks the forest trail, and fights in the breach assault after Liam opens the wall. *(Source: [[Session 040 - The Breach at Jagent]])*
 
 - **(491)** — Courts and marries [[Squire Aspara|Aspara]] at/after the [[Caer Lloyw]] feast; [[Count Roderick of Salisbury|Roderick]] approves and offers major wedding patronage. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
+- **(492)** — Accused with the others in [[Sir Brastias]]’s treason case and takes advice from [[Sir Elad]] and [[Bishop Roger]]. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*
+- **(491–492 / Winter)** — Conceives a son, [[Leo (son of Assterius and Aspara)|Leo]], with [[Squire Aspara|Aspara]]. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*

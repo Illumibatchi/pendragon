@@ -27,9 +27,11 @@ Commander associated with the Irish host besieging Sarum; described as the son o
 ```mermaid
 %% AUTO-LINEAGE: pascent
 flowchart TB
-  v["Vortigern"]
   p["Pascent"]
-  v -->|parent| p
+  f["Vortigern"]
+  f --- p
+  m["(Mother unknown)"]
+  m --- p
 ```
 
 **Lineage links:**

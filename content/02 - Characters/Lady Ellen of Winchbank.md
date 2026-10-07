@@ -34,18 +34,16 @@ Sole daughter and heir of the Baron of Winchbank. Considered as a politically ad
 ```mermaid
 %% AUTO-LINEAGE: lady_ellen_of_winchbank
 flowchart TB
-  b["Baron of Winchbank (name unknown)"]
-  e["Lady Ellen of Winchbank"]
-  r["Count Roderick of Salisbury"]
-
-  b -->|parent| e
-
-  marriage_er(( ))
-  e ---|spouse| marriage_er
-  r ---|spouse| marriage_er
+  p["Lady Ellen of Winchbank"]
+  f["Baron of Winchbank (d. 481)"]
+  f --- p
+  m["(Mother unknown)"]
+  m --- p
+  sp1["Count Roderick of Salisbury"]
+  p --- sp1
 ```
 
 **Lineage links:**
+- [[Baron of Winchbank]]
 - [[Lady Ellen of Winchbank]]
 - [[Count Roderick of Salisbury]]
-- **(487)** — At the [[Sarum]] feast, introduces [[Drustin]] to her baby daughter, triggering his misery. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*

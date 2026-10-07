@@ -38,15 +38,21 @@ tags:
 ```mermaid
 %% AUTO-LINEAGE: drustin
 flowchart TB
-  f["A really good healer"]
-  m["A really renown healer"]
   p["Drustin"]
-  f -->|parent| p
-  m -->|parent| p
+  sp1["Lady Rosalyn"]
+  p --- sp1
+  c1["Tessa (b. 492)"]
+  p --- c1
+  c2["William / Whim (b. 492)"]
+  p --- c2
 ```
 
 **Lineage links:**
 - [[Drustin]]
+- [[Lady Rosalyn]]
+- [[Tessa (child of Drustin)]]
+- [[William Whim (child of Drustin)]]
+
 - **(487)** — Pushes the Merlin rescue and emerges strangely invigorated from the seven-day atonement before reclaiming the [[Shield of St. Crispin]]. *(Source: [[Session 023 - The Dragon Beneath the Mine]])*
 - **(487)** — At the [[Sarum]] feast, meets [[Lady Ellen of Winchbank|Ellen]]’s baby daughter and falls into misery: **100 Glory**, **-2 to all rolls for a year**. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
 - **(488)** — Commands "Les Misérables" at Calais; his Lady Ellen rant inspires a decisive charge (+2 Hero Points). *(Source: [[Session 025 - The Feast at Caen and the Battle of Calais]])*
@@ -66,3 +72,4 @@ flowchart TB
 - **(491)** — At the breach of [[Castle Jagent]], answers [[Duke Erof of Cornwall|Erof]]’s Love (Ygraine) with his own Jealous (Ygraine), attacks recklessly, and kills the Duke of Cornwall in single combat; afterward seeks to leverage the glory toward higher status and [[Lady Rosalyn]]. *(Source: [[Session 040 - The Breach at Jagent]])*
 
 - **(491)** — At the [[Caer Lloyw]] feast, reaches the required **14 Geniality** with the company’s help, wins [[Duke Edaris of the March|Duke Edaris]]’s approval, and marries [[Lady Rosalyn]]. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
+- **(492)** — Named by [[Sir Brastias]] as ringleader of the alleged Merlinist treason; receives an all-white martlet/halm omen after praying through Devotion (Merlin) in confinement. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*

@@ -24,9 +24,9 @@ Deposed High King referenced in the campaign: [[Pascent]] is described as his so
 ```mermaid
 %% AUTO-LINEAGE: vortigern
 flowchart TB
-  v["Vortigern"]
-  p["Pascent"]
-  v -->|parent| p
+  p["Vortigern"]
+  c1["Pascent"]
+  p --- c1
 ```
 
 **Lineage links:**

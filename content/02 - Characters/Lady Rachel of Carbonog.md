@@ -17,6 +17,23 @@ tags:
 ## Notes
 A lady-in-waiting at Winchbank known for her healing skill. Uses partly pagan methods (chants, mistletoe, boiled ox urine preparation) but successfully stabilizes [[Assterius]] after the Purdue Forest ambush.
 
+## Lineage
+
+```mermaid
+%% AUTO-LINEAGE: lady_rachel_of_carbonog
+flowchart TB
+  p["Lady Rachel of Carbonog"]
+  sp1["Sir Geraint"]
+  p --- sp1
+  c1["Bruce (b. 492)"]
+  p --- c1
+```
+
+**Lineage links:**
+- [[Lady Rachel of Carbonog]]
+- [[Sir Geraint]]
+- [[Bruce (son of Geraint and Rachel)]]
+
 ## Timeline
 - **(480)** — Saves Assterius from death and stabilizes his wounds. *(Source: [[Session 004 - The Lady’s Secret and the Feast at Winchbank]])*
 - **(480)** — Advised squires on appeasing the fair folk after fairy dragon slaying; ritual burial with offerings performed. *(Source: [[Session 005 - The Fairy Dragon and the Ogre’s Return]])*

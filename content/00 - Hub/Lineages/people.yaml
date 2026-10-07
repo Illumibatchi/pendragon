@@ -248,3 +248,433 @@ people:
     children: []
     house: null
     notes: "Freed from captivity at Glastonbury Tor (482)"
+
+# ============================================
+# SESSION 042 FAMILY UPDATES / CURRENT TREES
+# Appended entries with IDs matching AUTO-LINEAGE markers.
+# Later duplicate IDs intentionally override earlier source entries.
+# ============================================
+  - id: uther_pendragon
+    name: "Uther Pendragon"
+    sex: m
+    born: null
+    died: null
+    father: null
+    mother: null
+    spouses: [ygraine]
+    children: [sir_madoc, arthur]
+    house: "Pendragon"
+    notes: "High King; father of Madoc and Arthur."
+
+  - id: ygraine
+    name: "Ygraine"
+    sex: f
+    born: null
+    died: null
+    father: null
+    mother: null
+    spouses: [duke_erof_of_cornwall, uther_pendragon]
+    children: [morgana, morgawse, elaine, arthur]
+    house: "Cornwall / Pendragon"
+    notes: "Former Duchess of Cornwall, now queen."
+
+  - id: duke_erof_of_cornwall
+    name: "Duke Erof of Cornwall"
+    sex: m
+    born: null
+    died: 491
+    father: null
+    mother: null
+    spouses: [ygraine]
+    children: [morgana, morgawse, elaine]
+    house: "Cornwall"
+    notes: "Former husband of Ygraine; killed at Jagent."
+
+  - id: arthur
+    name: "Arthur"
+    sex: m
+    born: 492
+    died: null
+    father: uther_pendragon
+    mother: ygraine
+    spouses: []
+    children: []
+    house: "Pendragon"
+    notes: "Newborn heir taken by Merlin."
+
+  - id: morgana
+    name: "Morgana"
+    sex: f
+    born: null
+    died: null
+    father: duke_erof_of_cornwall
+    mother: ygraine
+    spouses: []
+    children: []
+    house: "Cornwall"
+    notes: "Ygraine's daughter, in Millicent's household."
+
+  - id: morgawse
+    name: "Morgawse"
+    sex: f
+    born: null
+    died: null
+    father: duke_erof_of_cornwall
+    mother: ygraine
+    spouses: [king_lot_of_lothian]
+    children: []
+    house: "Cornwall / Lothian"
+    notes: "Ygraine's daughter; married King Lot."
+
+  - id: elaine
+    name: "Elaine"
+    sex: f
+    born: null
+    died: null
+    father: duke_erof_of_cornwall
+    mother: ygraine
+    spouses: [king_nentres_of_garloth]
+    children: []
+    house: "Cornwall / Garloth"
+    notes: "Ygraine's daughter; married King Nentres."
+
+  - id: king_lot_of_lothian
+    name: "King Lot of Lothian"
+    sex: m
+    born: null
+    died: null
+    father: null
+    mother: null
+    spouses: [morgawse]
+    children: []
+    house: "Lothian"
+    notes: "Northern king married to Morgawse."
+
+  - id: king_nentres_of_garloth
+    name: "King Nentres of Garloth"
+    sex: m
+    born: null
+    died: null
+    father: null
+    mother: null
+    spouses: [elaine]
+    children: []
+    house: "Garloth"
+    notes: "Northern king married to Elaine."
+
+  - id: sir_madoc
+    name: "Sir Madoc"
+    sex: m
+    born: null
+    died: 490
+    father: uther_pendragon
+    mother: null
+    spouses: [sir_millicent]
+    children: [meredith_daughter_madoc_millicent]
+    house: "Pendragon"
+    notes: "Legitimized son of Uther; deceased husband of Millicent."
+
+  - id: sir_millicent
+    name: "Millicent"
+    sex: f
+    born: null
+    died: null
+    father: null
+    mother: null
+    spouses: [sir_madoc]
+    children: [meredith_daughter_madoc_millicent, mabel_daughter_of_millicent, mildred_daughter_of_millicent]
+    house: "Salisbury / Pendragon by marriage"
+    notes: "PC; widow of Madoc."
+
+  - id: meredith_daughter_madoc_millicent
+    name: "Meredith"
+    sex: f
+    born: 490
+    died: null
+    father: sir_madoc
+    mother: sir_millicent
+    spouses: []
+    children: []
+    house: "Pendragon"
+    notes: "Battleborn daughter of Madoc and Millicent."
+
+  - id: mabel_daughter_of_millicent
+    name: "Mabel"
+    sex: f
+    born: 492
+    died: null
+    father: null
+    mother: sir_millicent
+    spouses: []
+    children: []
+    house: "Salisbury"
+    notes: "Twin daughter of Millicent."
+
+  - id: mildred_daughter_of_millicent
+    name: "Mildred"
+    sex: f
+    born: 492
+    died: null
+    father: null
+    mother: sir_millicent
+    spouses: []
+    children: []
+    house: "Salisbury"
+    notes: "Twin daughter of Millicent."
+
+  - id: drustin
+    name: "Drustin"
+    sex: m
+    born: null
+    died: null
+    father: null
+    mother: null
+    spouses: [lady_rosalyn]
+    children: [tessa_child_of_drustin, william_whim_child_of_drustin]
+    house: "Tisbury / Yarnbrook"
+    notes: "PC; married Lady Rosalyn."
+
+  - id: lady_rosalyn
+    name: "Lady Rosalyn"
+    sex: f
+    born: null
+    died: null
+    father: duke_edaris_of_the_march
+    mother: null
+    spouses: [drustin]
+    children: [tessa_child_of_drustin, william_whim_child_of_drustin]
+    house: "The March / Yarnbrook"
+    notes: "Daughter of Duke Edaris; wife of Drustin."
+
+  - id: tessa_child_of_drustin
+    name: "Tessa"
+    sex: f
+    born: 492
+    died: null
+    father: drustin
+    mother: lady_rosalyn
+    spouses: []
+    children: []
+    house: "Yarnbrook"
+    notes: "Child of Drustin."
+
+  - id: william_whim_child_of_drustin
+    name: "William / Whim"
+    sex: m
+    born: 492
+    died: null
+    father: drustin
+    mother: null
+    spouses: []
+    children: []
+    house: "Yarnbrook / fey?"
+    notes: "Strange/fey-adjacent child born from Drustin's body."
+
+  - id: sir_geraint
+    name: "Sir Geraint"
+    sex: m
+    born: null
+    died: null
+    father: null
+    mother: null
+    spouses: [lady_rachel_of_carbonog]
+    children: [bruce_son_of_geraint_and_rachel]
+    house: "Salisbury / Coulston"
+    notes: "PC; married Rachel."
+
+  - id: lady_rachel_of_carbonog
+    name: "Lady Rachel of Carbonog"
+    sex: f
+    born: null
+    died: null
+    father: null
+    mother: null
+    spouses: [sir_geraint]
+    children: [bruce_son_of_geraint_and_rachel]
+    house: "Carbonog / Coulston"
+    notes: "Healer; wife of Geraint."
+
+  - id: bruce_son_of_geraint_and_rachel
+    name: "Bruce"
+    sex: m
+    born: 492
+    died: null
+    father: sir_geraint
+    mother: lady_rachel_of_carbonog
+    spouses: []
+    children: []
+    house: "Coulston"
+    notes: "Son of Geraint and Rachel."
+
+  - id: assterius
+    name: "Assterius"
+    sex: m
+    born: null
+    died: null
+    father: null
+    mother: null
+    spouses: [squire_aspara]
+    children: [leo_son_of_assterius_and_aspara]
+    house: "Bratton"
+    notes: "PC; married Aspara."
+
+  - id: squire_aspara
+    name: "Aspara"
+    sex: f
+    born: null
+    died: null
+    father: null
+    mother: null
+    spouses: [assterius]
+    children: [leo_son_of_assterius_and_aspara]
+    house: "Alanic / Bratton"
+    notes: "Wife of Assterius."
+
+  - id: leo_son_of_assterius_and_aspara
+    name: "Leo"
+    sex: m
+    born: 492
+    died: null
+    father: assterius
+    mother: squire_aspara
+    spouses: []
+    children: []
+    house: "Bratton"
+    notes: "Son of Assterius and Aspara."
+
+  - id: liam
+    name: "Liam"
+    sex: m
+    born: null
+    died: null
+    father: null
+    mother: null
+    spouses: [damsel_diana]
+    children: [unnamed_son_of_liam_and_diana]
+    house: "Edington"
+    notes: "PC; Diana union not yet fully married in canon."
+
+  - id: damsel_diana
+    name: "Damsel Diana"
+    sex: f
+    born: null
+    died: null
+    father: null
+    mother: null
+    spouses: [liam]
+    children: [unnamed_son_of_liam_and_diana]
+    house: "Summerland / Edington?"
+    notes: "Conditional union with Liam; not yet fully married in canon."
+
+  - id: unnamed_son_of_liam_and_diana
+    name: "Unnamed son of Liam and Diana"
+    sex: m
+    born: 492
+    died: null
+    father: liam
+    mother: damsel_diana
+    spouses: []
+    children: []
+    house: "Edington / Summerland"
+    notes: "Male child conceived; name not yet recorded."
+
+# ============================================
+# MARKER-ID COMPATIBILITY ENTRIES
+# Keep existing AUTO-LINEAGE markers from degrading to raw IDs.
+# ============================================
+  - id: aurelius_ambrosius
+    name: "Aurelius Ambrosius"
+    sex: m
+    born: null
+    died: 481
+    father: null
+    mother: null
+    spouses: []
+    children: []
+    house: "Pendragon"
+    notes: "Former High King; brother of Uther."
+
+  - id: count_roderick_of_salisbury
+    name: "Count Roderick of Salisbury"
+    sex: m
+    born: null
+    died: null
+    father: null
+    mother: null
+    spouses: [lady_ellen_of_winchbank]
+    children: []
+    house: "Salisbury"
+    notes: "Liege lord of Salisbury."
+
+  - id: baron_of_winchbank
+    name: "Baron of Winchbank"
+    sex: m
+    born: null
+    died: 481
+    father: null
+    mother: null
+    spouses: []
+    children: [lady_ellen_of_winchbank]
+    house: "Winchbank"
+    notes: "Father of Lady Ellen."
+
+  - id: lady_ellen_of_winchbank
+    name: "Lady Ellen of Winchbank"
+    sex: f
+    born: null
+    died: null
+    father: baron_of_winchbank
+    mother: null
+    spouses: [count_roderick_of_salisbury]
+    children: []
+    house: "Winchbank / Salisbury"
+    notes: "Ward of the crown, promised to Roderick."
+
+  - id: duke_edaris_of_the_march
+    name: "Duke Edaris of the March"
+    sex: m
+    born: null
+    died: null
+    father: null
+    mother: null
+    spouses: []
+    children: [lady_rosalyn]
+    house: "The March"
+    notes: "Father of Lady Rosalyn."
+
+  - id: sir_marius_of_caerwent
+    name: "Sir Marius of Caerwent"
+    sex: m
+    born: null
+    died: 483
+    father: null
+    mother: null
+    spouses: [lady_rhianneth]
+    children: []
+    house: "Caerwent"
+    notes: "Killed in duel by Assterius."
+
+  - id: pascent
+    name: "Pascent"
+    sex: m
+    born: null
+    died: null
+    father: vortigern
+    mother: null
+    spouses: []
+    children: []
+    house: "Irish / Vortigern"
+    notes: "Son of Vortigern."
+
+  - id: vortigern
+    name: "Vortigern"
+    sex: m
+    born: null
+    died: null
+    father: null
+    mother: null
+    spouses: []
+    children: [pascent]
+    house: "Vortigern"
+    notes: "Father of Pascent."
+

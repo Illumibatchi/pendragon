@@ -35,11 +35,8 @@ High King of Britain prior to [[Uther Pendragon]]’s accession.
 ```mermaid
 %% AUTO-LINEAGE: aurelius_ambrosius
 flowchart TB
-  a["Aurelius Ambrosius"]
-  u["Uther Pendragon"]
-  a ---|brother| u
+  p["Aurelius Ambrosius (d. 481)"]
 ```
 
 **Lineage links:**
-- [[Uther Pendragon]]
-- **490:** Appears to [[Millicent]] in a Stonehenge vision or death-space and asks how she remembers his life. *(Source: [[Session 036 - The Sun-Water of Loch Lomond and the Road to Merlin]])*
+- [[Aurelius]]

@@ -28,15 +28,11 @@ Much younger wife of [[Sir Marius of Caerwent]]. Displays possessive/forceful in
 ```mermaid
 %% AUTO-LINEAGE: lady_rhianneth
 flowchart TB
-  r["Lady Rhianneth"]
-  m["Sir Marius of Caerwent"]
-
-  marriage_rm(( ))
-  r ---|spouse| marriage_rm
-  m ---|spouse| marriage_rm
+  p["Lady Rhianneth"]
+  sp1["Sir Marius of Caerwent (d. 483)"]
+  p --- sp1
 ```
 
 **Lineage links:**
 - [[Lady Rhianneth]]
 - [[Sir Marius of Caerwent]]
-- **(488)** — [[Sir Madoc]] admits to [[Millicent]] that Rhianneth, not [[Lady Dilwen]], was the woman in the earlier drunken scandal; whether a child resulted remains unknown. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*

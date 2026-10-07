@@ -26,14 +26,25 @@ Daughter of the Duke of the March; evaluated as a potential marriage candidate f
 ```mermaid
 %% AUTO-LINEAGE: lady_rosalyn
 flowchart TB
-  d["Duke Edaris of the March"]
-  r["Lady Rosalyn"]
-  d -->|parent| r
+  p["Lady Rosalyn"]
+  f["Duke Edaris of the March"]
+  f --- p
+  m["(Mother unknown)"]
+  m --- p
+  sp1["Drustin"]
+  p --- sp1
+  c1["Tessa (b. 492)"]
+  p --- c1
+  c2["William / Whim (b. 492)"]
+  p --- c2
 ```
 
 **Lineage links:**
 - [[Duke Edaris of the March]]
 - [[Lady Rosalyn]]
+- [[Drustin]]
+- [[Tessa (child of Drustin)]]
+- [[William Whim (child of Drustin)]]
 
 
 - **(489)** — Argues to protect peasants outside [[Lambor Castle]], helps [[Drustin]] escort the refugee train safely to [[Salisbury]], and begins a courtship with him. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*

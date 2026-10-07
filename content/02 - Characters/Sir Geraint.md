@@ -60,3 +60,5 @@ flowchart TB
 - **(491)** — Marries [[Lady Rachel of Carbonog]] at the [[House of Ector]], speaks with a dwarf agent of the [[King under the Mountain]], and later reaches the siege lines at [[Castle Jagent]]. *(Source: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*
 - **(491)** — Speaks to ghostly [[Merlin]] at the [[Standing Stones of Exmoor]], summons [[The Siren at the Exmoor Pool]] with a critical song, resists being pulled under, and later remains behind while the entry team crosses the Veil. *(Source: [[Session 039 - The Veil, the Siren, and Merlin’s Release]])*
 - **(491)** — Tracks Uther and Merlin north from [[Castle Jagent]], helps mislead Bruce’s inquisitors away from the ritual site, and fights in the breach assault after Liam’s barrel opens the wall. *(Source: [[Session 040 - The Breach at Jagent]])*
+
+- **(491)** — Helps wingman [[Drustin]] at the [[Caer Lloyw]] feast, then spends the rest of the year in domestic married life with [[Lady Rachel of Carbonog|Rachel]]; no clear heir result is recorded. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*

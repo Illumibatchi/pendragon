@@ -30,7 +30,7 @@
 
 ## Salisbury / Logres lords and power-brokers
 - [[Count Roderick of Salisbury]] - liege of early campaign; pursuing marriage alliances.
-- [[War Baron Ulfius]] - major war figure present at Bedegraine.
+- [[War Baron Ulfius]] - major war figure present at Bedegraine; involved in placing [[Ygraine]]’s daughters away from Uther’s household.
 - [[Bruce]] - Roderick's unsettling agent/analyst; interrogates Drustin about witch-deals and is also named as a lead tied to Sir Madoc’s February kidnapping-by-boat (policed moustache; spiky leather armor).
 
 ## Player knights / conroi
@@ -58,12 +58,12 @@
 ## Ladies / marriage prospects / courts
 - [[Lady Dilwen]] — court lady who pursues an intoxicated [[Sir Madoc]] at the Sarum feast.
 - [[Lady Eadburh of the Vale]] — Saxon lady at the Sarum feast; possible wife of [[War Baron Ulfius]].
-- [[Damsel Diana]] — messenger from [[Lady Wells]] warning that Excalibur must return to the [[Ladies of the Lake]]; Liam has Roderick’s leave to court her, pending proper permission and possible royal objection.
+- [[Damsel Diana]] — messenger from [[Lady Wells]] and Somerset/Summerland courtship target for [[Liam]]; her druid father conditions the union on Liam poisoning [[Uther Pendragon|Uther]], revealing a honeypot / “case red” thread.
 - [[Lady Ellen of Winchbank]] - unconventional heiress; ward of the crown; promised to Roderick.
 - [[Lady Rachel of Carbonog]] - healer; pagan-leaning methods; repeatedly saves PCs.
 - [[Damsel Ella of Caer Ergyng]] — Rachel’s lady-in-waiting; seventh daughter of the Lord of [[Glevum]]; wooed by [[Liam]] at Geraint and Rachel’s wedding feast.
 - [[Duchess of Silchester]] - host at Silchester during levy absence.
-- [[Lady Rosalyn]] - Duke of the March's daughter; generous and merciful; interested in [[Drustin]], but her father requires him to improve his rank/status before considering marriage.
+- [[Lady Rosalyn]] - Duke of the March's daughter; generous and merciful; now married to [[Drustin]] after the Caer Lloyw feast.
 - [[Lady Llylla (Shisha)]] - wealthy and beautiful; infamous cruelty to servants.
 - [[Lady Triamors]] - heiress of Lickeyend; introduced by Dubricus.
 - [[Lady Rhianneth]] - Sir Marius' wife; manipulative; corrected source of Madoc's prior scandal and possible child.
@@ -71,6 +71,10 @@
 - [[Clotilde]] — young visionary of [[Wildenburg]] nearly burned for murders actually caused by werewolves; warned of the [[Lord of Wildenburg]] and Michael's silver prophecy.
 - [[Lady Appleby]] — widowed Appleby lady whose family was devastated by Gore and Malahaut raids.
 - [[Jacqueline of Appleby]] — Lady Appleby’s hidden daughter, eager to leave Appleby.
+
+- [[Morgana]] — one of [[Ygraine]]’s daughters; interested in [[Merlin]], placed with [[Millicent]] as lady-in-waiting / steward-in-training at [[Heywood]].
+- [[Morgawse]] — one of [[Ygraine]]’s daughters, present when Ulfius seeks safer placements/suitors for them.
+- [[Elaine]] — one of [[Ygraine]]’s daughters, present when Ulfius seeks safer placements/suitors for them.
 
 ## Clergy / holy figures
 - [[Meredith]] — nun at [[St. Mary Bethlehem]] and mother of [[Sir Madoc]].
@@ -126,7 +130,7 @@
 - [[King Cadwy of Summerland]]
 - [[Sir Leo]]
 - [[Sir Marius of Caerwent]]
-- [[Squire Aspara]]
+- [[Squire Aspara]] — Alanic/Sarmatian-connected court figure; marries [[Assterius]] with [[Count Roderick of Salisbury|Roderick]] sponsoring the wedding.
 - [[Squire Leo]]
 - [[Unnamed Messenger (Wells)]]
 - [[Lord of Wildenburg]] — revealed after death as one of the werewolves haunting [[Wildenburg]].

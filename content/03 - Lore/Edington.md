@@ -19,3 +19,5 @@ Salisbury manor granted to [[Liam]]. It has extra peasants, an abbey, a leprosar
 
 ## Timeline
 - **(488 / Winter)** — Granted to [[Liam]] as part of the company's elevation to landed vassal knights of Salisbury. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
+
+- **(491 / Rest of year)** — Liam buys a palisade, sheep herd, and iron mine. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*

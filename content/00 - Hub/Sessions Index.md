@@ -40,6 +40,7 @@
 |  37 | 2026-09-02 |      490–491 | The Seven Tests, the Whale, and the City of Legions                  | [[Session 037 - The Seven Tests, the Whale, and the City of Legions]]                  |
 |  38 | 2026-09-09 |          491 | The Wedding Feast, the Whale Road, and the Siege of Jagent | [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]] |
 |  39 | 2026-09-16 |          491 | The Veil, the Siren, and Merlin’s Release | [[Session 039 - The Veil, the Siren, and Merlin’s Release]] |
-  40 | 2026-09-23 |          491 | The Breach at Jagent | [[Session 040 - The Breach at Jagent]] |
+|  40 | 2026-09-23 |          491 | The Breach at Jagent | [[Session 040 - The Breach at Jagent]] |
+|  41 | 2026-09-30 |          491 | The Feast at Caer Lloyw and the Poisoned Boon | [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]] |
 
 > I’ll maintain this table as we add sessions.

@@ -18,3 +18,5 @@ Salisbury manor granted to [[Millicent]]. It has a horse herd and lush forest, b
 
 ## Timeline
 - **(488 / Winter)** — Granted to [[Millicent]] as part of the company's elevation to landed vassal knights of Salisbury. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
+
+- **(491 / Rest of year)** — Millicent buys a hospital and rock wall, and trains [[Morgana]] as a steward for the manor. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*

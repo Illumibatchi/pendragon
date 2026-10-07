@@ -1,4 +1,4 @@
-> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 040**.
+> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 041**.
 
 ## Year 480 - The early days: squires of Salisbury (Sessions 000-002)
 - The campaign opens in the **Uther Period** with a group of squires serving the household knights of **[[Count Roderick of Salisbury]]**. *(See: [[Session 000 - The Young Squires of Salisbury]])*
@@ -201,3 +201,9 @@
 - Back at [[Castle Jagent]], the company finds Uther absent, the bombardment continuing, and the army ready to turn on local Pictish civilians. [[Millicent]] restrains reprisals, seeks local intelligence, and receives a sealed black vial marked with two yellow dragons.
 - In the forest north of the siege, [[Merlin]] performs an unexplained ritual over a sleeping [[Uther Pendragon|Uther]] inside a stone circle. Fog and magical darkness follow; neither Merlin nor Uther remains at the ritual site afterward.
 - [[Liam]] turns Bruce and the monks’ barrel scheme into a real breach at the castle drain. The company charges the breach, where [[Duke Erof of Cornwall]] personally leads the defense. [[Drustin]] kills Erof in single combat after a jealousy-fueled clash over [[Ygraine]]. The defenders surrender, and Uther emerges from Jagent with Ygraine proclaiming imperial peace and security. *(See: [[Session 040 - The Breach at Jagent]])*
+
+
+## Year 491 - The Feast at Caer Lloyw and the Poisoned Boon (Session 041)
+- At [[Caer Lloyw]], [[Drustin]] converts his Jagent glory into social victory: with the company wingmanning him through [[Duke Edaris of the March|Duke Edaris]]’s feast, he reaches the required Geniality and marries [[Lady Rosalyn]].
+- [[Morgana]], one of [[Ygraine]]’s daughters, comes under [[Millicent]]’s protection as lady-in-waiting and steward-in-training at [[Heywood]], while [[Morgawse]] and [[Elaine]] remain part of the wider effort to keep Ygraine’s daughters out of Uther’s household.
+- [[Assterius]] marries [[Squire Aspara|Aspara]] with [[Count Roderick of Salisbury|Roderick]] sponsoring the wedding, while [[Liam]] accepts a treasonous bargain from [[Damsel Diana]]’s druid father: a black poison vial meant for [[Uther Pendragon|Uther]]. *(See: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*

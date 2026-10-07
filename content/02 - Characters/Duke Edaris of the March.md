@@ -41,3 +41,5 @@ flowchart TB
 - **(488)** — Tells [[Liam]] that repeated Saxon raids have devastated his lands and left his daughter difficult to marry; Liam later gains Roderick's permission to assemble aid. *(Source: [[Session 028 - The Easter Feast at the White Tower]])*
 
 - **(489)** — With only about twenty knights and five hundred ragged footmen left, cannot shelter all peasants at [[Lambor Castle]] but provides silver and wagons for their evacuation; later offers [[Liam]] a banneret position for the capture of [[King Wihtlaeg of the Angles]]. *(Source: [[Session 030 - The Angel’s Command and the Child King]])*
+
+- **(491)** — At the [[Caer Lloyw]] feast, judges [[Drustin]]’s suit for [[Lady Rosalyn]]; Drustin reaches the required Geniality with the company’s help and wins permission to marry her. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*

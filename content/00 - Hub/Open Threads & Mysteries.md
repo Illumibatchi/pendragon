@@ -1,13 +1,13 @@
 > Rolling list of unresolved mysteries and active campaign threads. Keep this page broad; use **Current Status** for “where we are right now.”
 
-## Active / high-priority as of end of [[Session 040 - The Breach at Jagent|Session 040]]
+## Active / high-priority as of end of [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon|Session 041]]
 
-- **Uther and Ygraine after Jagent:** [[Uther Pendragon|Uther]] has emerged from [[Castle Jagent]] with [[Ygraine]] after [[Duke Erof of Cornwall|Erof]]’s death and is proclaiming imperial peace, justice, and security. What this means for Britain, Cornwall, and Uther’s soul is now the immediate crisis. *(Source: [[Session 040 - The Breach at Jagent]])*
-- **Merlin’s ritual over Uther:** [[Merlin]] performed an unexplained ritual over sleeping Uther in a forest stone circle, then vanished with him amid magical fog and lightless darkness. What Merlin did, intended, or enabled remains unknown. *(Source: [[Session 040 - The Breach at Jagent]])*
-- **Millicent’s sealed black vial:** [[Millicent]] holds a wax-sealed black vial tagged with two yellow dragons of Uther/Logres; she was told not to break it until the time came, but its purpose is unknown. *(Source: [[Session 040 - The Breach at Jagent]])*
-- **Drustin and Rosalyn:** [[Drustin]] has killed Duke Erof in single combat and wants to leverage the glory into higher rank/status for [[Lady Rosalyn]]; the next feast challenge requires **7 victory points** with [[Duke Edaris of the March|Duke Edaris]]. *(Source: [[Session 040 - The Breach at Jagent]])*
-- **King or country / Constantine bloodline:** [[Count Roderick of Salisbury|Roderick]]’s loyalty to Uther has waned, but he fears the [[House of Constantine|Bloodline of Constantine]] may be lost if Uther dies. [[Meredith (daughter of Madoc and Millicent)|Meredith]] may change that calculation, but he does not seem to know it. *(Source: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*
-- **Pevensey massacre:** [[King Ælle of Sussex|Ælle]] and [[Cissa]] have taken [[Pevensey]] and sacrificed its people to Wotan while British forces were tied up in Cornwall. *(Source: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*
+- **Liam’s poison bargain:** [[Liam]] has accepted a black poison vial/liquid from [[Damsel Diana]]’s druid father as the price of blessing their union; the target is [[Uther Pendragon|Uther]]. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
+- **Diana honeypot / “case red”:** Diana is tied to a four-year honeypot operation around Liam and an anti-Uther poison plot. Whether she truly loves Liam, is acting under orders, or both remains unresolved. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
+- **Morgana in Millicent’s household:** [[Morgana]], one of [[Ygraine]]’s daughters, is now with [[Millicent]] as lady-in-waiting and steward-in-training; she is intelligent, disciplined, and interested in Merlin. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
+- **Ygraine’s daughters:** [[War Baron Ulfius|Ulfius]] and a Glastonbury churchman are trying to keep Morgana, [[Morgawse]], and [[Elaine]] out of Uther’s household and place them safely. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
+- **Millicent’s sealed black vial:** [[Millicent]] holds a wax-sealed black vial tagged with two yellow dragons of Uther/Logres; its relationship, if any, to Liam’s new poison vial is unknown. *(Sources: [[Session 040 - The Breach at Jagent]], [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
+- **Pevensey massacre:** [[King Ælle of Sussex|Ælle]] and [[Cissa]] have taken [[Pevensey]] and sacrificed its people to Wotan while British forces were tied up in Cornwall. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
 
 ## Open threads / mysteries (in session order)
 
@@ -126,3 +126,7 @@
 - **(491 / S40) The sealed black vial:** [[Millicent]] still carries the wax-sealed black vial marked with Uther/Logres dragon imagery; its contents and intended moment remain unknown. *(Source: [[Session 040 - The Breach at Jagent]])*
 - **(491 / S40) Drustin’s feast challenge:** [[Drustin]] seeks to convert his victory over [[Duke Erof of Cornwall|Erof]] into higher status and a renewed courtship path toward [[Lady Rosalyn]]; the next feast requires **7 victory points** with [[Duke Edaris of the March|Duke Edaris]]. *(Source: [[Session 040 - The Breach at Jagent]])*
 
+
+- **(491 / S41) Liam’s poison bargain:** [[Liam]] accepted a black poison vial from [[Damsel Diana]]’s druid father as the price of blessing their union; Uther is the intended victim. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
+- **(491 / S41) Diana honeypot:** Diana’s courtship is tied to a four-year honeypot / “case red” operation; her true loyalty, feelings, and handlers remain unclear. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
+- **(491 / S41) Morgana under Millicent’s care:** [[Morgana]] enters [[Millicent]]’s household and begins steward training at [[Heywood]]; her Merlin interest and future role remain volatile. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*

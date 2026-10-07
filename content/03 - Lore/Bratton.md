@@ -18,3 +18,5 @@ Salisbury manor granted to [[Assterius]]. It has irrigation ditches and an oak g
 
 ## Timeline
 - **(488 / Winter)** — Granted to [[Assterius]] as part of the company's elevation to landed vassal knights of Salisbury. *(Source: [[Session 029 - Madoc’s Penance, New Manors, and the March]])*
+
+- **(491 / Rest of year)** — Manor rolls are made, but no specific new purchase is clearly recorded in the log. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*

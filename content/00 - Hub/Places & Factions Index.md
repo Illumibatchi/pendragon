@@ -5,11 +5,11 @@
 - [[Salisbury]] — County ruled by [[Count Roderick of Salisbury]] during the Uther Period. *([[Session 000 - The Young Squires of Salisbury|S0]], [[Session 003 - The Empty Castle and the Forest Ambush|S3]], [[Session 005 - The Fairy Dragon and the Ogre’s Return|S5]], [[Session 006 - The Shield of St. Crispin and the Fall of the Wyvern|S6]], [[Session 013 - The Assassin’s Winter and the Escort of Lady Ellen|S13]])*
 - [[Woodhouse]] — A location near the King’s Road in Salisbury; the patrol route mentioned in Session 0. *([[Session 000 - The Young Squires of Salisbury|S0]], [[Session 001 - Wolves Are About|S1]], [[Session 002 - Wolves, Hillmen, and the Ogre’s Trail|S2]], [[Session 012 - The Burning of Dunkerton and the Peace of Summerland|S12]])*
 - [[King's Road]] — A major road in/through Salisbury; the PCs join a patrol along it near Woodhouse. *([[Session 000 - The Young Squires of Salisbury|S0]], [[Session 001 - Wolves Are About|S1]], [[Session 002 - Wolves, Hillmen, and the Ogre’s Trail|S2]])*
-- [[Yarnbrook]] — Drustin's Salisbury manor; lead-roofed hall, deer park, pagan barrow, and severe famine hardship. *([[Session 029 - Madoc’s Penance, New Manors, and the March|S29]])*
-- [[Heywood]] — Millicent's Salisbury manor; horse herd, lush forest, and an inherited torture chamber she wants dismantled. *([[Session 029 - Madoc’s Penance, New Manors, and the March|S29]])*
+- [[Yarnbrook]] — Drustin's Salisbury manor; lead-roofed hall, deer park, pagan barrow, severe famine hardship, later fishery and palisade wall/gate. *([[Session 029 - Madoc’s Penance, New Manors, and the March|S29]], [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon|S41]])*
+- [[Heywood]] — Millicent's Salisbury manor; horse herd, lush forest, inherited torture chamber, later hospital and rock wall; [[Morgana]] is trained there. *([[Session 029 - Madoc’s Penance, New Manors, and the March|S29]], [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon|S41]])*
 - [[Bratton]] — Assterius's Salisbury manor; irrigation ditches and an oak grove known for excellent pigs. *([[Session 029 - Madoc’s Penance, New Manors, and the March|S29]])*
-- [[Edington]] — Liam's Salisbury manor; extra peasants, an abbey, a leprosarium, and an eternal spring. *([[Session 029 - Madoc’s Penance, New Manors, and the March|S29]])*
-- [[Coulston]] — Sir Geraint's Salisbury manor; Greek water-nymph mosaics, honey/beeswax, ornamental gardens, and cleared wastes. *([[Session 029 - Madoc’s Penance, New Manors, and the March|S29]])*
+- [[Edington]] — Liam's Salisbury manor; extra peasants, abbey, leprosarium, eternal spring, later palisade, sheep herd, and iron mine. *([[Session 029 - Madoc’s Penance, New Manors, and the March|S29]], [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon|S41]])*
+- [[Coulston]] — Sir Geraint's Salisbury manor; Greek water-nymph mosaics, honey/beeswax, ornamental gardens, cleared wastes, later mellisarium and defensive earthworks/palisade. *([[Session 029 - Madoc’s Penance, New Manors, and the March|S29]], [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon|S41]])*
 - [[Vagon]] — A settlement with a castellan and manned walls; warned of danger on the roads (“Wolves are about.”). *([[Session 001 - Wolves Are About|S1]], [[Session 002 - Wolves, Hillmen, and the Ogre’s Trail|S2]], [[Session 012 - The Burning of Dunkerton and the Peace of Summerland|S12]])*
 - [[Unknown name - Burning Village]] — Burned village on the road to Vagon; no people found. *([[Session 001 - Wolves Are About|S1]], [[Session 002 - Wolves, Hillmen, and the Ogre’s Trail|S2]])*
 - [[Forest of Gloom]] — Forest with hillmen camp; ogre signs; site of early tragedy. *([[Session 002 - Wolves, Hillmen, and the Ogre’s Trail|S2]])*
@@ -99,6 +99,9 @@
 - [[Roman Mine]] — mine complex near [[Caerwent]] where [[Merlin]] was crystal-imprisoned and the [[Dragon of the Roman Mine]] was slain. *([[Session 022 - The Mine of Blood and the Dragon’s Vigil|S22]], [[Session 023 - The Dragon Beneath the Mine|S23]])*
 - [[Bristol]] — port town where [[Bishop Bertrand of Bristol]] holds [[Saint Brigid’s Flying Cauldron]]. *([[Session 023 - The Dragon Beneath the Mine|S23]])*
 - [[Clearbury Circle]] — uncertain-spelling stone circle near [[Downton]] tied to the [[Shield of St. Crispin]]. *([[Session 023 - The Dragon Beneath the Mine|S23]])*
+
+- [[Caer Lloyw]] — feast site where [[Drustin]] wins [[Duke Edaris of the March|Duke Edaris]]’s approval to marry [[Lady Rosalyn]]. *([[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon|S41]])*
+- [[Mendip Hills]] — Summerland/Somerset region where [[Liam]] seeks [[Damsel Diana]]’s druid father. *([[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon|S41]])*
 
 ## Summerland / treaty arc
 - [[Summerland]] — Targeted by Uther for invasion (later peace treaty episode). *([[Session 009 - The Death of Aurelius and the Fall of Bedegraine|S9]])*

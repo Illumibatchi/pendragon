@@ -1,24 +1,26 @@
-## Where we left off (end of [[Session 042 - The Treason Summons at Tintagel and the Missing Heir|Session 042]])
-After winter business, royal gossip hardens into crisis. [[Ygraine]] is now queen, [[Arthur]] has been born as the royal heir, and [[Merlin]] has taken the child under a claimed prior agreement with [[Uther Pendragon|Uther]].
+## Where we are now (end of [[Session 043 - The Trial at Tintagel and Merlin’s Flight|Session 043]])
+The player knights were acquitted at [[Tintagel]] after [[Uther Pendragon|Uther]] dismissed [[Sir Brastias]]’s treason charges. Brastias and [[Bruce]] remain convinced that the knights are aligned with [[Merlin]], however, and the immediate confrontation at the end of the pursuit was stopped by [[Sir Geraint|Geraint]]’s Orate rather than resolved politically.
 
-[[Sir Brastias]], Uther’s chief bodyguard and most trusted advisor, has accused the player knights of **treason, kidnapping the heir, and aiding fugitive Merlin**. [[Drustin]] is named the ringleader. [[Millicent]] is not formally accused only because Ygraine interceded, but she goes to [[Tintagel]] with the others and speaks bluntly with Brastias.
+[[Merlin]] escaped through [[Exmoor]] with [[Arthur]]. [[Drustin]] tracked Merlin to a pool and heard his argument that the good of the realm is the continuation of the Pendragon bloodline; Drustin returned without Arthur and now presents Merlin’s reasoning favorably. [[Millicent]] remains committed to finding and protecting the child, while [[Liam]] remains distrustful of Merlin. The party reunited near [[Glastonbury]].
 
-[[Count Roderick of Salisbury|Roderick]] distrusts Brastias’s justice and sends [[Sir Elad]] and [[Bishop Roger]] to assist. At Tintagel, the accused are stripped of armor and baggage, confined separately but treated decently, and deposed by [[Dewi]]. The trial is about to begin before Uther, with [[War Baron Ulfius|Ulfius]] and [[Archbishop Dubricus]] present and Ygraine in mourning black.
+[[Ygraine]] privately asked Millicent to do for her son what Millicent did for her daughter. Emma, a handmaid who had provided information about Arthur, was found dead after being run down by an unknown rider. Gabriella, Emma’s friend and kitchen matron, reported that Bruce’s men had repeatedly questioned the servants and was escorted toward Exmoor under cover of darkness.
 
 ## Immediate fallout
-- **Party location/status:** [[Tintagel]], awaiting trial.
-- **Formal charge:** Treason against the Crown; kidnapping [[Arthur]]; aid and comfort to fugitive [[Merlin]].
-- **Arthur:** Newborn heir reportedly taken by Merlin after Uther relented under a prior-bargain/curse claim.
-- **Brastias:** Chief accuser, loyal to Uther above all, suspicious of Merlinist affiliations.
-- **Defense aid:** [[Sir Elad]] and [[Bishop Roger]] are present on Roderick’s behalf.
-- **Millicent:** Not accused thanks to Ygraine, but implicated enough that Brastias says she would otherwise be on trial.
+- **Party location/status:** Reunited near [[Glastonbury]] after the Exmoor pursuit; acquitted but politically exposed and divided over Merlin.
+- **Arthur:** Still with or under the protection of [[Merlin]]; current location unknown.
+- **Brastias and Bruce:** Still suspicious, hostile, and convinced the party is part of Merlin’s plot.
+- **Emma:** Dead under suspicious circumstances; the rider and motive are unknown.
+- **Gabriella:** Living witness to Bruce’s servant interrogations; now traveling with or toward the party’s Exmoor route.
+- **Merlin lead:** The siren mentioned a possible abode near the great snowy mountains, perhaps Mount Snowdon; this is unconfirmed.
+- **Party fracture:** Millicent wants Arthur protected, Liam distrusts Merlin, and Drustin accepts Merlin’s bloodline/natural-order argument.
 
 ## Next session questions
-- Can the knights separate their own actions from Merlin’s bargain with Uther?
-- Can the servant account — that Uther gave Arthur to Merlin under pressure — be used without making things worse?
-- What does Brastias actually want: justice, confession, scapegoats, or Arthur recovered?
-- Where is Merlin, and where has he taken Arthur?
-- What role will Ygraine, Dubricus, Ulfius, Sir Elad, and Bishop Roger play at trial?
-- How much will the knights’ Merlinist history hurt them?
+- Where has Merlin taken Arthur, and is Merlin protecting him or manipulating the succession?
+- Who were the four heavily equipped men with twelve horses searching the Exmoor stones?
+- Who killed Emma, and what did she know about Arthur?
+- What did Bruce’s interrogation of the servants uncover?
+- Can Gabriella be kept safe and questioned without exposing the party’s movements?
+- How much authority does Brastias retain after Uther dismissed the charges?
+- Can Millicent and Drustin act together while disagreeing about Merlin’s plan?
 
 See: [[Open Threads & Mysteries]]

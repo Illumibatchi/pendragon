@@ -25,7 +25,7 @@
 - [[Aurelius]] - slain High King (Bedegraine betrayal); unity figure whose death fractures the realm.
 - [[Sir Madoc]] - legitimized bastard son of Uther; married to [[Millicent]]; father of [[Meredith (daughter of Madoc and Millicent)|Meredith]]; died from Lincoln wounds and was buried at [[Stonehenge]].
 - [[Ygraine]] — Duchess of Cornwall; her arrival at the White Tower triggers Uther's dangerous obsession, now driving his assault on Exeter.
-- [[Arthur]] — newborn son/heir of [[Uther Pendragon|Uther]] and [[Ygraine]], taken by [[Merlin]] under a claimed bargain.
+- [[Arthur]] — newborn son/heir of [[Uther Pendragon|Uther]] and [[Ygraine]], taken by [[Merlin]] under a claimed bargain; his whereabouts remain unknown after the Exmoor pursuit in Session 043.
 - [[Lucius (Duke of Saxon Shore)]] - 4-year-old knighted; made Duke of Saxon Shore with [[Baroness Pomponia]] as regent, though she is not his mother.
 - [[Syagrius]] — Gallo-Roman ruler in [[Gaul]] who appeals to Uther for aid against the [[Franks]].
 
@@ -33,7 +33,7 @@
 - [[Count Roderick of Salisbury]] - liege of early campaign; pursuing marriage alliances.
 - [[War Baron Ulfius]] - major war figure present at Bedegraine; involved in placing [[Ygraine]]’s daughters away from Uther’s household.
 - [[Bruce]] - Roderick's unsettling agent/analyst; interrogates Drustin about witch-deals and is also named as a lead tied to Sir Madoc’s February kidnapping-by-boat (policed moustache; spiky leather armor).
-- [[Sir Brastias]] — Uther’s chief bodyguard and trusted advisor; accuses the Merlin-affiliated knights of treason over [[Arthur]].
+- [[Sir Brastias]] — Uther’s chief bodyguard and trusted advisor; acquitted the player knights at Uther’s order but remains convinced they are aligned with Merlin after the Exmoor confrontation.
 
 ## Player knights / conroi
 - [[Sir Gerry]] — passes the angelic test and bears the [[Shield of St. Crispin]] against the [[Dragon of the Roman Mine]].

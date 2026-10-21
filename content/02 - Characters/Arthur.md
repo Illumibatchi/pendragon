@@ -54,3 +54,4 @@ flowchart TB
 
 ## Timeline
 - **(492)** — Born to Uther and Ygraine at [[Tintagel]] and named Arthur. Servant rumor says Merlin came to claim him “as per the agreement,” Uther initially refused, and then relented after Merlin warned of a curse if the magic was not paid for. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*
+- **(492)** — Merlin escapes through [[Exmoor]] with Arthur after the player knights are acquitted and Brastias’s pursuit confronts them. Drustin briefly receives Arthur during a private encounter with Merlin but returns without him; Arthur’s location remains unknown. *(Source: [[Session 043 - The Trial at Tintagel and Merlin’s Flight]])*

@@ -16,3 +16,4 @@ King [[Uther Pendragon|Uther]]’s most trusted man and chief of his bodyguard. 
 
 ## Timeline
 - **(492)** — Accuses the player knights of treason tied to [[Merlin]] and the taking of [[Arthur]], naming [[Drustin]] as ringleader. Tells [[Millicent]] she would also be on trial without [[Ygraine]]’s intercession. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*
+- **(492)** — Uther dismisses the charges, but Brastias remains convinced that Merlin and Drustin are behind the plot. He confronts the party near Exmoor with Bruce and bodyguards and orders them killed before Geraint’s Orate ends the immediate hostilities. *(Source: [[Session 043 - The Trial at Tintagel and Merlin’s Flight]])*

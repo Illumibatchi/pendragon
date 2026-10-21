@@ -73,3 +73,4 @@ flowchart TB
 
 - **(491)** — At the [[Caer Lloyw]] feast, reaches the required **14 Geniality** with the company’s help, wins [[Duke Edaris of the March|Duke Edaris]]’s approval, and marries [[Lady Rosalyn]]. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
 - **(492)** — Named by [[Sir Brastias]] as ringleader of the alleged Merlinist treason; receives an all-white martlet/halm omen after praying through Devotion (Merlin) in confinement. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*
+- **(492)** — Is acquitted at Tintagel, defends Merlin during the confrontation with Brastias and Bruce, tracks Merlin to a pool, and returns with a goose rather than Arthur. He accepts Merlin’s argument that the Pendragon bloodline and natural order matter more than immediately recovering the child, creating a serious break with Millicent and Liam. *(Source: [[Session 043 - The Trial at Tintagel and Merlin’s Flight]])*

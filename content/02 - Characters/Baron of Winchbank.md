@@ -30,7 +30,7 @@ Father of [[Lady Ellen of Winchbank]]. Host at Winchbank Castle during the deleg
 flowchart TB
   p["Baron of Winchbank (d. 481)"]
   c1["Lady Ellen of Winchbank"]
-  p --- c1
+  p -->|parent| c1
 ```
 
 **Lineage links:**

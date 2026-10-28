@@ -30,20 +30,21 @@ One of [[Ygraine]]’s daughters. Name spelling may vary at table; recorded as M
 flowchart TB
   p["Morgawse"]
   f["Duke Erof of Cornwall (d. 491)"]
-  f --- p
   m["Ygraine"]
-  m --- p
+  u_parents(("parents"))
+  f ---|spouse| u_parents
+  m ---|spouse| u_parents
+  u_parents -->|parent| p
   sp1["King Lot of Lothian"]
-  p --- sp1
+  u_spouse1(("union"))
+  p ---|spouse| u_spouse1
+  sp1 ---|spouse| u_spouse1
   s1["Arthur (b. 492)"]
-  f --- s1
-  m --- s1
+  m -->|parent| s1
   s2["Elaine"]
-  f --- s2
-  m --- s2
+  u_parents -->|parent| s2
   s3["Morgana"]
-  f --- s3
-  m --- s3
+  u_parents -->|parent| s3
 ```
 
 **Lineage links:**

@@ -40,11 +40,13 @@ tags:
 flowchart TB
   p["Drustin"]
   sp1["Lady Rosalyn"]
-  p --- sp1
+  u_spouse1(("union"))
+  p ---|spouse| u_spouse1
+  sp1 ---|spouse| u_spouse1
   c1["Tessa (b. 492)"]
-  p --- c1
+  u_spouse1 -->|parent| c1
   c2["William / Whim (b. 492)"]
-  p --- c2
+  p -->|parent| c2
 ```
 
 **Lineage links:**

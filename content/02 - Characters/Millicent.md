@@ -37,13 +37,15 @@ tags:
 flowchart TB
   p["Millicent"]
   sp1["Sir Madoc (d. 490)"]
-  p --- sp1
+  u_spouse1(("union"))
+  p ---|spouse| u_spouse1
+  sp1 ---|spouse| u_spouse1
   c1["Meredith (b. 490)"]
-  p --- c1
+  u_spouse1 -->|parent| c1
   c2["Mabel (b. 492)"]
-  p --- c2
+  p -->|parent| c2
   c3["Mildred (b. 492)"]
-  p --- c3
+  p -->|parent| c3
 ```
 
 **Lineage links:**
@@ -75,3 +77,4 @@ flowchart TB
 - **(491)** — At the [[Caer Lloyw]] feast, helps wingman [[Drustin]] for [[Lady Rosalyn]], then takes [[Morgana]] into her household as lady-in-waiting and spends the rest of the year training her as a steward for [[Heywood]]. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
 - **(491–492 / Winter)** — Conceives twin daughters, [[Mabel (daughter of Millicent)|Mabel]] and [[Mildred (daughter of Millicent)|Mildred]], spends 1 prestige to keep them healthy, and later goes to [[Tintagel]] though she is not formally accused in [[Sir Brastias]]’s treason case. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*
 - **(492)** — Is acquitted at Tintagel, receives Ygraine’s private plea to protect Arthur, helps evacuate Gabriella toward Exmoor, and pursues Merlin after he appears with the child. She remains committed to finding Arthur and suspicious of Merlin. *(Source: [[Session 043 - The Trial at Tintagel and Merlin’s Flight]])*
+- **(493)** — Travels to York with Roderick, detects the Saxon ambush, and uses Brangolet to recover Roderick after he is knocked down and targeted for capture. She hides him, sends word through her squire in case she dies, and returns to the battle. Final injury status is not recorded. *(Source: [[Session 044 - The York Mission and the Saxon Ambush]])*

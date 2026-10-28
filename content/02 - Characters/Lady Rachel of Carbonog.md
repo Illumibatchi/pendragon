@@ -24,9 +24,11 @@ A lady-in-waiting at Winchbank known for her healing skill. Uses partly pagan me
 flowchart TB
   p["Lady Rachel of Carbonog"]
   sp1["Sir Geraint"]
-  p --- sp1
+  u_spouse1(("union"))
+  p ---|spouse| u_spouse1
+  sp1 ---|spouse| u_spouse1
   c1["Bruce (b. 492)"]
-  p --- c1
+  u_spouse1 -->|parent| c1
 ```
 
 **Lineage links:**

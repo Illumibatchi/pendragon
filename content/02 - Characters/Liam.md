@@ -45,9 +45,11 @@ tags:
 flowchart TB
   p["Liam"]
   sp1["Damsel Diana"]
-  p --- sp1
+  u_spouse1(("union"))
+  p ---|spouse| u_spouse1
+  sp1 ---|spouse| u_spouse1
   c1["Unnamed son of Liam and Diana (b. 492)"]
-  p --- c1
+  u_spouse1 -->|parent| c1
 ```
 
 **Lineage links:**

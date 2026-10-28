@@ -19,11 +19,11 @@ Child of [[Drustin]] recorded during the same winter/family phase; table notes m
 flowchart TB
   p["William / Whim (b. 492)"]
   f["Drustin"]
-  f --- p
-  m["(Mother unknown)"]
-  m --- p
+  u_parents(("parents"))
+  f ---|spouse| u_parents
+  u_parents -->|parent| p
   s1["Tessa (b. 492)"]
-  f --- s1
+  f -->|parent| s1
 ```
 
 **Lineage links:**

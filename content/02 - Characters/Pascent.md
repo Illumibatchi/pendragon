@@ -29,9 +29,9 @@ Commander associated with the Irish host besieging Sarum; described as the son o
 flowchart TB
   p["Pascent"]
   f["Vortigern"]
-  f --- p
-  m["(Mother unknown)"]
-  m --- p
+  u_parents(("parents"))
+  f ---|spouse| u_parents
+  u_parents -->|parent| p
 ```
 
 **Lineage links:**

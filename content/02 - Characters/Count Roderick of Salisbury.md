@@ -55,7 +55,9 @@ Count of Salisbury; liege lord whose household knights the PCs serve as squires.
 flowchart TB
   p["Count Roderick of Salisbury"]
   sp1["Lady Ellen of Winchbank"]
-  p --- sp1
+  u_spouse1(("union"))
+  p ---|spouse| u_spouse1
+  sp1 ---|spouse| u_spouse1
 ```
 
 **Lineage links:**
@@ -65,3 +67,4 @@ flowchart TB
 - **(487)** — Discusses the disputed sword with Liam and [[Merlin]]; says [[Sir Geraint]] should volunteer for the Gaul campaign to advance the Rachel courtship. *(Source: [[Session 024 - The Feast at Sarum and the Forest’s Warning]])*
 
 - **(491)** — Receives the party at [[Castle Jagent]], hears that their spiritual quest was thwarted by Satan, fails a heavily penalized Loyalty (Uther), and frames his concern around preserving the [[House of Constantine|Bloodline of Constantine]]. *(Source: [[Session 038 - The Wedding Feast, the Whale Road, and the Siege of Jagent]])*
+- **(493)** — Serves as envoy to [[Eboracum (York)|York]] to negotiate aid for [[King Brodin of Malahaut|Malahaut]]. The restrictive terms remain unresolved, and Roderick is knocked down and targeted for capture in a subsequent Saxon ambush before the party recovers him. *(Source: [[Session 044 - The York Mission and the Saxon Ambush]])*

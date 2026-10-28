@@ -26,9 +26,11 @@ Male child conceived by [[Liam]] and [[Damsel Diana]]; name not yet recorded.
 flowchart TB
   p["Unnamed son of Liam and Diana (b. 492)"]
   f["Liam"]
-  f --- p
   m["Damsel Diana"]
-  m --- p
+  u_parents(("parents"))
+  f ---|spouse| u_parents
+  m ---|spouse| u_parents
+  u_parents -->|parent| p
 ```
 
 **Lineage links:**

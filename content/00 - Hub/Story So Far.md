@@ -1,4 +1,4 @@
-> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 042**.
+> A campaign recap linking the major arcs, mysteries, and political shifts. Updated through **Session 044**.
 
 ## Year 480 - The early days: squires of Salisbury (Sessions 000-002)
 - The campaign opens in the **Uther Period** with a group of squires serving the household knights of **[[Count Roderick of Salisbury]]**. *(See: [[Session 000 - The Young Squires of Salisbury]])*
@@ -218,3 +218,8 @@
 - Emma, the handmaid who supplied information about Arthur, is found dead after an apparent horse-running in the high street. Gabriella reports that Bruce’s men have repeatedly questioned the servants and is escorted away toward Exmoor.
 - At the Exmoor standing and siren stones, the party learns that four heavily equipped men with twelve horses searched the sites before heading toward Tintagel. Merlin then appears with Arthur, escapes through the forest, and evades Brastias and the party.
 - Drustin tracks Merlin to a pool and hears Merlin define the good of the realm as continuation of the Pendragon bloodline. Drustin returns without Arthur and accepts Merlin’s natural-order argument, leaving Millicent, Liam, Geraint, and Drustin divided over Merlin’s motives. *(See: [[Session 043 - The Trial at Tintagel and Merlin’s Flight]])*
+
+## Year 493 - The York Mission and the Saxon Ambush (Session 044)
+- Court at Silchester is unsettled by the missing infant, Uther’s hostility toward Merlin, and the escape of Octa and Eosa. King Pellinore is pursuing the Questing Beast.
+- Earl Roderick travels to York to negotiate Logres aid for Malahaut against the Saxons. The Centurion-King’s restrictive terms are not revised, and the alliance remains unresolved.
+- Saxon delegates appear pleased with the negotiations, then a large Saxon force ambushes Roderick’s party. Millicent detects the attack, rescues Roderick, and the party kills or drives off the attackers. *(See: [[Session 044 - The York Mission and the Saxon Ambush]])*

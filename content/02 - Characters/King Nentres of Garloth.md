@@ -23,7 +23,9 @@ Northern king of Garloth, described as King Lot's right-hand man / ally. Married
 flowchart TB
   p["King Nentres of Garloth"]
   sp1["Elaine"]
-  p --- sp1
+  u_spouse1(("union"))
+  p ---|spouse| u_spouse1
+  sp1 ---|spouse| u_spouse1
 ```
 
 **Lineage links:**

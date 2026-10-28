@@ -30,18 +30,17 @@ One of [[Ygraine]]’s daughters, about fourteen, resembling her mother and inte
 flowchart TB
   p["Morgana"]
   f["Duke Erof of Cornwall (d. 491)"]
-  f --- p
   m["Ygraine"]
-  m --- p
+  u_parents(("parents"))
+  f ---|spouse| u_parents
+  m ---|spouse| u_parents
+  u_parents -->|parent| p
   s1["Arthur (b. 492)"]
-  f --- s1
-  m --- s1
+  m -->|parent| s1
   s2["Elaine"]
-  f --- s2
-  m --- s2
+  u_parents -->|parent| s2
   s3["Morgawse"]
-  f --- s3
-  m --- s3
+  u_parents -->|parent| s3
 ```
 
 **Lineage links:**

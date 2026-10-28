@@ -26,7 +26,7 @@ Deposed High King referenced in the campaign: [[Pascent]] is described as his so
 flowchart TB
   p["Vortigern"]
   c1["Pascent"]
-  p --- c1
+  p -->|parent| c1
 ```
 
 **Lineage links:**

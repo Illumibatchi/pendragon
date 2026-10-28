@@ -19,9 +19,11 @@ Son of [[Sir Geraint]] and [[Lady Rachel of Carbonog]], named Bruce.
 flowchart TB
   p["Bruce (b. 492)"]
   f["Sir Geraint"]
-  f --- p
   m["Lady Rachel of Carbonog"]
-  m --- p
+  u_parents(("parents"))
+  f ---|spouse| u_parents
+  m ---|spouse| u_parents
+  u_parents -->|parent| p
 ```
 
 **Lineage links:**

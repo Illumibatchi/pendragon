@@ -28,15 +28,17 @@ Daughter of the Duke of the March; evaluated as a potential marriage candidate f
 flowchart TB
   p["Lady Rosalyn"]
   f["Duke Edaris of the March"]
-  f --- p
-  m["(Mother unknown)"]
-  m --- p
+  u_parents(("parents"))
+  f ---|spouse| u_parents
+  u_parents -->|parent| p
   sp1["Drustin"]
-  p --- sp1
+  u_spouse1(("union"))
+  p ---|spouse| u_spouse1
+  sp1 ---|spouse| u_spouse1
   c1["Tessa (b. 492)"]
-  p --- c1
+  u_spouse1 -->|parent| c1
   c2["William / Whim (b. 492)"]
-  p --- c2
+  p -->|parent| c2
 ```
 
 **Lineage links:**

@@ -40,9 +40,11 @@ Only survivor of Knight Commander Caradoc's conroi after the burning of [[Dunker
 flowchart TB
   p["Sir Geraint"]
   sp1["Lady Rachel of Carbonog"]
-  p --- sp1
+  u_spouse1(("union"))
+  p ---|spouse| u_spouse1
+  sp1 ---|spouse| u_spouse1
   c1["Bruce (b. 492)"]
-  p --- c1
+  u_spouse1 -->|parent| c1
 ```
 
 **Lineage links:**
@@ -70,3 +72,4 @@ flowchart TB
 
 - **(491)** — Helps wingman [[Drustin]] at the [[Caer Lloyw]] feast, then spends the rest of the year in domestic married life with [[Lady Rachel of Carbonog|Rachel]]; no clear heir result is recorded. *(Source: [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]])*
 - **(492)** — Gains a son, [[Bruce (son of Geraint and Rachel)|Bruce]], and learns from a serving girl that [[Merlin]] claimed [[Arthur]] from Uther and Ygraine under a prior agreement. *(Source: [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]])*
+- **(493)** — Travels with [[Count Roderick of Salisbury|Roderick]] to York, fights in the Saxon ambush, goes down during the battle, and later continues fighting. Receives a new squire, Pip the Third. *(Source: [[Session 044 - The York Mission and the Saxon Ambush]])*

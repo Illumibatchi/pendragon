@@ -44,5 +44,6 @@
 |  41 | 2026-09-30 |          491 | The Feast at Caer Lloyw and the Poisoned Boon | [[Session 041 - The Feast at Caer Lloyw and the Poisoned Boon]] |
 |  42 | 2026-10-07 |      491–492 | The Treason Summons at Tintagel and the Missing Heir | [[Session 042 - The Treason Summons at Tintagel and the Missing Heir]] |
 |  43 | 2026-10-14 |          492 | The Trial at Tintagel and Merlin’s Flight | [[Session 043 - The Trial at Tintagel and Merlin’s Flight]] |
+|  44 | 2026-10-21 |          493 | The York Mission and the Saxon Ambush | [[Session 044 - The York Mission and the Saxon Ambush]] |
 
 > I’ll maintain this table as we add sessions.

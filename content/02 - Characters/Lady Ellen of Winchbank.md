@@ -36,11 +36,13 @@ Sole daughter and heir of the Baron of Winchbank. Considered as a politically ad
 flowchart TB
   p["Lady Ellen of Winchbank"]
   f["Baron of Winchbank (d. 481)"]
-  f --- p
-  m["(Mother unknown)"]
-  m --- p
+  u_parents(("parents"))
+  f ---|spouse| u_parents
+  u_parents -->|parent| p
   sp1["Count Roderick of Salisbury"]
-  p --- sp1
+  u_spouse1(("union"))
+  p ---|spouse| u_spouse1
+  sp1 ---|spouse| u_spouse1
 ```
 
 **Lineage links:**

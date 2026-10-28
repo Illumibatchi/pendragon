@@ -1,26 +1,24 @@
-## Where we are now (end of [[Session 043 - The Trial at Tintagel and Merlin’s Flight|Session 043]])
-The player knights were acquitted at [[Tintagel]] after [[Uther Pendragon|Uther]] dismissed [[Sir Brastias]]’s treason charges. Brastias and [[Bruce]] remain convinced that the knights are aligned with [[Merlin]], however, and the immediate confrontation at the end of the pursuit was stopped by [[Sir Geraint|Geraint]]’s Orate rather than resolved politically.
+## Where we are now (end of [[Session 044 - The York Mission and the Saxon Ambush|Session 044]])
+The party has traveled from [[Silchester]] to [[Eboracum (York)|York]] with [[Count Roderick of Salisbury|Roderick]], who was sent to broker a military alliance between Logres and [[King Brodin of Malahaut|Malahaut]]. The Centurion-King requires Logres to send troops, supply its own food, avoid raiding Malahaut’s farmers, and keep its knights out of York. The party’s proposed revisions were refused, and the final diplomatic status is unresolved.
 
-[[Merlin]] escaped through [[Exmoor]] with [[Arthur]]. [[Drustin]] tracked Merlin to a pool and heard his argument that the good of the realm is the continuation of the Pendragon bloodline; Drustin returned without Arthur and now presents Merlin’s reasoning favorably. [[Millicent]] remains committed to finding and protecting the child, while [[Liam]] remains distrustful of Merlin. The party reunited near [[Glastonbury]].
-
-[[Ygraine]] privately asked Millicent to do for her son what Millicent did for her daughter. Emma, a handmaid who had provided information about Arthur, was found dead after being run down by an unknown rider. Gabriella, Emma’s friend and kitchen matron, reported that Bruce’s men had repeatedly questioned the servants and was escorted toward Exmoor under cover of darkness.
+A large Saxon force ambushed Roderick’s party after the audience. [[Millicent]] detected the ambush, recovered Roderick with Brangolet, and returned to the fight. The attackers were killed or driven off. The log records heavy combat but does not establish final wounds or permanent casualties.
 
 ## Immediate fallout
-- **Party location/status:** Reunited near [[Glastonbury]] after the Exmoor pursuit; acquitted but politically exposed and divided over Merlin.
-- **Arthur:** Still with or under the protection of [[Merlin]]; current location unknown.
-- **Brastias and Bruce:** Still suspicious, hostile, and convinced the party is part of Merlin’s plot.
-- **Emma:** Dead under suspicious circumstances; the rider and motive are unknown.
-- **Gabriella:** Living witness to Bruce’s servant interrogations; now traveling with or toward the party’s Exmoor route.
-- **Merlin lead:** The siren mentioned a possible abode near the great snowy mountains, perhaps Mount Snowdon; this is unconfirmed.
-- **Party fracture:** Millicent wants Arthur protected, Liam distrusts Merlin, and Drustin accepts Merlin’s bloodline/natural-order argument.
+- **Party location/status:** At or near York/Malahaut after surviving the Saxon ambush.
+- **Roderick:** Recovered after being knocked down and targeted for capture.
+- **Malahaut alliance:** Unresolved; the restrictive terms remain on the table.
+- **Saxon coordination:** Delegates from several Saxon regions were present at York, appeared pleased by the terms, and were followed by a coordinated ambush.
+- **Geraint:** Received a new squire, Pip the Third, during the battle.
+- **Arthur:** Still missing and with or under [[Merlin]]’s protection; current location unknown.
+- **Uther and Merlin:** Uther believes Merlin betrayed him and is seeking Merlin’s head.
+- **Drimant:** His identity, witch-captivity claim, and warning that he is chronicling Millicent’s “fall” remain unresolved.
+- **Questing Beast:** Reported between Silchester and Salisbury; King Pellinore is pursuing it.
 
 ## Next session questions
-- Where has Merlin taken Arthur, and is Merlin protecting him or manipulating the succession?
-- Who were the four heavily equipped men with twelve horses searching the Exmoor stones?
-- Who killed Emma, and what did she know about Arthur?
-- What did Bruce’s interrogation of the servants uncover?
-- Can Gabriella be kept safe and questioned without exposing the party’s movements?
-- How much authority does Brastias retain after Uther dismissed the charges?
-- Can Millicent and Drustin act together while disagreeing about Merlin’s plan?
+- Was the Malahaut alliance accepted, rejected, or deliberately left ambiguous?
+- Who coordinated the Saxon delegates and the ambush?
+- What do Octa and Eosa’s escape and mobilization mean for the northern war?
+- Where has Merlin taken Arthur, and what does Uther’s alleged betrayal mean?
+- What does Drimant mean by Millicent’s “fall”?
 
 See: [[Open Threads & Mysteries]]

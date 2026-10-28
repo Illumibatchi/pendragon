@@ -32,7 +32,7 @@ Hosts the knights at Lambor Castle. Father of [[Lady Rosalyn]]. Wants an answer 
 flowchart TB
   p["Duke Edaris of the March"]
   c1["Lady Rosalyn"]
-  p --- c1
+  p -->|parent| c1
 ```
 
 **Lineage links:**

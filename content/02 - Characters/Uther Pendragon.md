@@ -40,11 +40,13 @@ Referenced during the victory feast: known for lecherous ways and lacking truebo
 flowchart TB
   p["Uther Pendragon"]
   sp1["Ygraine"]
-  p --- sp1
+  u_spouse1(("union"))
+  p ---|spouse| u_spouse1
+  sp1 ---|spouse| u_spouse1
   c1["Sir Madoc (d. 490)"]
-  p --- c1
+  p -->|parent| c1
   c2["Arthur (b. 492)"]
-  p --- c2
+  u_spouse1 -->|parent| c2
 ```
 
 **Lineage links:**

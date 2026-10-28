@@ -30,7 +30,9 @@ Much younger wife of [[Sir Marius of Caerwent]]. Displays possessive/forceful in
 flowchart TB
   p["Lady Rhianneth"]
   sp1["Sir Marius of Caerwent (d. 483)"]
-  p --- sp1
+  u_spouse1(("union"))
+  p ---|spouse| u_spouse1
+  sp1 ---|spouse| u_spouse1
 ```
 
 **Lineage links:**

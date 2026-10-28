@@ -18,14 +18,14 @@ Twin daughter of [[Millicent]], conceived after the Caer Lloyw/Jagent year-end. 
 %% AUTO-LINEAGE: mildred_daughter_of_millicent
 flowchart TB
   p["Mildred (b. 492)"]
-  f["(Father unknown)"]
-  f --- p
   m["Millicent"]
-  m --- p
+  u_parents(("parents"))
+  m ---|spouse| u_parents
+  u_parents -->|parent| p
   s1["Mabel (b. 492)"]
-  m --- s1
+  m -->|parent| s1
   s2["Meredith (b. 490)"]
-  m --- s2
+  m -->|parent| s2
 ```
 
 **Lineage links:**

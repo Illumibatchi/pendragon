@@ -26,21 +26,19 @@ Newborn son of [[Uther Pendragon]] and [[Ygraine]], named as heir to the kingdom
 flowchart TB
   p["Arthur (b. 492)"]
   f["Uther Pendragon"]
-  f --- p
   m["Ygraine"]
-  m --- p
+  u_parents(("parents"))
+  f ---|spouse| u_parents
+  m ---|spouse| u_parents
+  u_parents -->|parent| p
   s1["Elaine"]
-  f --- s1
-  m --- s1
+  m -->|parent| s1
   s2["Morgana"]
-  f --- s2
-  m --- s2
+  m -->|parent| s2
   s3["Morgawse"]
-  f --- s3
-  m --- s3
+  m -->|parent| s3
   s4["Sir Madoc (d. 490)"]
-  f --- s4
-  m --- s4
+  f -->|parent| s4
 ```
 
 **Lineage links:**

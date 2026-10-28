@@ -26,9 +26,11 @@ Son of [[Assterius]] and [[Squire Aspara|Aspara]], named Leo after a dead man/fa
 flowchart TB
   p["Leo (b. 492)"]
   f["Assterius"]
-  f --- p
   m["Aspara"]
-  m --- p
+  u_parents(("parents"))
+  f ---|spouse| u_parents
+  m ---|spouse| u_parents
+  u_parents -->|parent| p
 ```
 
 **Lineage links:**

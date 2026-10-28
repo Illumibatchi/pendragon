@@ -38,9 +38,9 @@ A stunningly beautiful Saxon warrior (described as a Saxon princess) encountered
 flowchart TB
   p["Ælflaed"]
   f["Eosa 'the Giant'"]
-  f --- p
-  m["(Mother unknown)"]
-  m --- p
+  u_parents(("parents"))
+  f ---|spouse| u_parents
+  u_parents -->|parent| p
 ```
 
 **Lineage links:**

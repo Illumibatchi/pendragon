@@ -24,17 +24,21 @@ Wife of [[Duke Erof of Cornwall]]. Her arrival at [[Uther Pendragon|Uther]]'s Ea
 flowchart TB
   p["Ygraine"]
   sp1["Duke Erof of Cornwall (d. 491)"]
-  p --- sp1
+  u_spouse1(("union"))
+  p ---|spouse| u_spouse1
+  sp1 ---|spouse| u_spouse1
   sp2["Uther Pendragon"]
-  p --- sp2
+  u_spouse2(("union"))
+  p ---|spouse| u_spouse2
+  sp2 ---|spouse| u_spouse2
   c1["Morgana"]
-  p --- c1
+  u_spouse1 -->|parent| c1
   c2["Morgawse"]
-  p --- c2
+  u_spouse1 -->|parent| c2
   c3["Elaine"]
-  p --- c3
+  u_spouse1 -->|parent| c3
   c4["Arthur (b. 492)"]
-  p --- c4
+  u_spouse2 -->|parent| c4
 ```
 
 **Lineage links:**

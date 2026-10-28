@@ -115,15 +115,17 @@ Legitimized bastard son of Uther Pendragon; husband of [[Millicent]] and father 
 flowchart TB
   p["Sir Madoc (d. 490)"]
   f["Uther Pendragon"]
-  f --- p
-  m["(Mother unknown)"]
-  m --- p
+  u_parents(("parents"))
+  f ---|spouse| u_parents
+  u_parents -->|parent| p
   sp1["Millicent"]
-  p --- sp1
+  u_spouse1(("union"))
+  p ---|spouse| u_spouse1
+  sp1 ---|spouse| u_spouse1
   c1["Meredith (b. 490)"]
-  p --- c1
+  u_spouse1 -->|parent| c1
   s1["Arthur (b. 492)"]
-  f --- s1
+  f -->|parent| s1
 ```
 
 **Lineage links:**

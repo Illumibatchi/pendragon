@@ -34,15 +34,15 @@ Daughter of [[Millicent]] and [[Sir Madoc]], conceived by the end of 489 and bor
 flowchart TB
   p["Meredith (b. 490)"]
   f["Sir Madoc (d. 490)"]
-  f --- p
   m["Millicent"]
-  m --- p
+  u_parents(("parents"))
+  f ---|spouse| u_parents
+  m ---|spouse| u_parents
+  u_parents -->|parent| p
   s1["Mabel (b. 492)"]
-  f --- s1
-  m --- s1
+  m -->|parent| s1
   s2["Mildred (b. 492)"]
-  f --- s2
-  m --- s2
+  m -->|parent| s2
 ```
 
 **Lineage links:**

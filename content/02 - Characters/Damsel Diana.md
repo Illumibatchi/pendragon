@@ -21,9 +21,11 @@ In [[Session 024 - The Feast at Sarum and the Forest’s Warning]], she tells [[
 flowchart TB
   p["Damsel Diana"]
   sp1["Liam"]
-  p --- sp1
+  u_spouse1(("union"))
+  p ---|spouse| u_spouse1
+  sp1 ---|spouse| u_spouse1
   c1["Unnamed son of Liam and Diana (b. 492)"]
-  p --- c1
+  u_spouse1 -->|parent| c1
 ```
 
 **Lineage links:**
